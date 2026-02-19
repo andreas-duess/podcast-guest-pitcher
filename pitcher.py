@@ -51,6 +51,12 @@ def cmd_discover(args):
     print("\nScoring podcasts for relevance...")
     scores = score_podcasts(results, profile)
 
+    # Known targets always get High relevance
+    for record in results:
+        if record.get("known_target"):
+            name = record.get("name", "")
+            scores[name] = {"name": name, "relevance": "High", "reason": "Known target from guest profile", "skip": False}
+
     high = sum(1 for s in scores.values() if s.get("relevance") == "High")
     med = sum(1 for s in scores.values() if s.get("relevance") == "Medium")
     low = sum(1 for s in scores.values() if s.get("relevance") == "Low")

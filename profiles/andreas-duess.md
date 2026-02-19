@@ -26,6 +26,31 @@ current_promotion:
   - Ditto — synthetic market research platform using AI personas
   - Speaking and advisory on AI transformation for traditional industries
 
+known_targets:
+  - The AI Chicks
+  - Epicurean Unicorn
+  - Foodbevy
+  - AnzenOT
+
+search_queries:
+  - food marketing podcast
+  - food and beverage marketing
+  - agribusiness podcast
+  - agriculture podcast
+  - food industry podcast
+  - CPG marketing podcast
+  - agency life podcast
+  - selling a business podcast
+  - entrepreneurship exit podcast
+  - AI business podcast
+  - digital transformation leadership
+  - B2B marketing podcast
+  - marketing strategy podcast
+  - traditional industry innovation
+  - food tech podcast
+  - commodity marketing
+  - trade association podcast
+
 ideal_podcast_types:
   - marketing strategy and agency life
   - food and agriculture industry

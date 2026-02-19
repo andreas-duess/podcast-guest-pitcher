@@ -144,12 +144,17 @@ def _expand_topics_to_keywords(topics):
     return sorted(keywords)
 
 
-def discover_via_podcast_index(topics, max_per_topic=10):
-    """Search Podcast Index for each topic keyword."""
+def discover_via_podcast_index(topics, search_queries=None, max_per_topic=10):
+    """Search Podcast Index using expanded topic keywords + direct search queries."""
     results = []
     seen_ids = set()
 
+    # Combine expanded keywords from topics with direct search queries from profile
     keywords = _expand_topics_to_keywords(topics)
+    if search_queries:
+        for q in search_queries:
+            if q not in keywords:
+                keywords.append(q)
 
     for keyword in keywords:
         print(f"  Podcast Index: searching '{keyword}'...")
@@ -332,15 +337,68 @@ def discover(profile_path, use_exa=False):
     """Run full discovery for a guest profile. Exa is opt-in via --exa flag."""
     profile, _ = load_profile(profile_path)
     topics = profile.get("topics", [])
+    search_queries = profile.get("search_queries", [])
+    known_targets = profile.get("known_targets", [])
     print(f"Discovering podcasts for: {profile['name']}")
-    print(f"Topics: {', '.join(topics)}\n")
+    print(f"Topics: {', '.join(topics)}")
+    if search_queries:
+        print(f"Search queries: {len(search_queries)} direct queries")
+    if known_targets:
+        print(f"Known targets: {', '.join(known_targets)}")
+    print()
 
     all_results = []
 
-    # Podcast Index
+    # Known targets — search by exact name first
+    if known_targets and PODCAST_INDEX_KEY:
+        print("Source 0: Known targets (by name)")
+        seen_ids = set()
+        for target in known_targets:
+            print(f"  Searching '{target}'...")
+            feeds = search_podcast_index(target, max_results=3)
+            for feed in feeds:
+                feed_id = str(feed.get("id", ""))
+                if feed_id in seen_ids:
+                    continue
+                seen_ids.add(feed_id)
+
+                episodes = get_episodes_podcast_index(feed_id, max_results=3)
+                episode_list = []
+                for ep in episodes:
+                    episode_list.append({
+                        "title": ep.get("title", ""),
+                        "date": datetime.fromtimestamp(ep.get("datePublished", 0)).strftime("%Y-%m-%d") if ep.get("datePublished") else "",
+                        "duration": ep.get("duration", 0),
+                        "audio_url": ep.get("enclosureUrl", ""),
+                        "description": (ep.get("description", "") or "")[:500],
+                    })
+
+                last_update = feed.get("newestItemPublishTime", 0)
+                record = {
+                    "source": "podcast_index",
+                    "name": feed.get("title", ""),
+                    "host": feed.get("author", feed.get("ownerName", "")),
+                    "description": (feed.get("description", "") or "")[:500],
+                    "rss_url": feed.get("url", ""),
+                    "website": feed.get("link", ""),
+                    "language": feed.get("language", "en"),
+                    "categories": list((feed.get("categories") or {}).values()),
+                    "feed_id": feed_id,
+                    "last_episode_date": datetime.fromtimestamp(last_update).strftime("%Y-%m-%d") if last_update else "",
+                    "episode_count": feed.get("episodeCount", 0),
+                    "recent_episodes": episode_list,
+                    "known_target": True,
+                }
+                all_results.append(record)
+                print(f"    Found: {feed.get('title', '')}")
+
+            time.sleep(0.3)
+        print(f"  Found {len(all_results)} known targets\n")
+
+    # Podcast Index — keyword discovery
     if PODCAST_INDEX_KEY:
         print("Source 1: Podcast Index API")
-        pi_results = discover_via_podcast_index(topics)
+        pi_results = discover_via_podcast_index(topics, search_queries=search_queries)
         print(f"  Found {len(pi_results)} podcasts\n")
         all_results.extend(pi_results)
     else:
