@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Better Seed, Better Life Podcast",
+  "host": "American Seed Trade Association",
+  "description": "American Seed Trade Association",
+  "rss_url": "https://www.betterseed.org/feed/podcast/",
+  "website": "https://www.betterseed.org/",
+  "language": "en-US",
+  "categories": [
+    "Education",
+    "Science"
+  ],
+  "feed_id": "451455",
+  "last_episode_date": "",
+  "episode_count": 10,
+  "recent_episodes": [
+    {
+      "title": "Episode 25 &#8211; Plant Breeder Amit Dhingra",
+      "date": "2020-08-05",
+      "duration": 31,
+      "audio_url": "https://media.blubrry.com/betterseedbetterlife/content.blubrry.com/betterseedbetterlife/Episode_25_Plant_Breeder_Amit_Dhingra.mp3",
+      "description": "&lt;p&gt;In today\u2019s episode, ASTA sat down with Washington State University plant breeder Amit Dhingra, who has a deep passion for nutritious food. Amit describes how his childhood experiences growing up in India have motivated him to pursue a career focused in developing a healthier and more secure food system. Amit started his PhD working in [\u2026]&lt;/p&gt;\n&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.betterseed.org/episode-25-plant-breeder-amit-dhingra/&quot;&gt;Episo"
+    },
+    {
+      "title": "Episode 24 &#8211; Plant Breeder Natalie Kaiser",
+      "date": "2020-07-17",
+      "duration": 20,
+      "audio_url": "https://media.blubrry.com/betterseedbetterlife/content.blubrry.com/betterseedbetterlife/Episode_24_Plant_Breeder_Natalie_Kaiser.mp3",
+      "description": "&lt;p&gt;In today\u2019s episode I am excited to share with you my interview with Natalie Kaiser a plant breeder and PhD candidate at Michigan State University. She shares some of the exciting work she and her team are doing, food safety and much more. Take a listen! Send us an email at info@betterseed.org with any questions, [\u2026]&lt;/p&gt;\n&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.betterseed.org/episode-24-plant-breeder-natalie-kaiser/&quot;&gt;Episode 24 \u2013 Plant Breeder"
+    },
+    {
+      "title": "Episode 23 &#8211; Hosting Virtual Events in Ag",
+      "date": "2020-07-07",
+      "duration": 58,
+      "audio_url": "https://media.blubrry.com/betterseedbetterlife/content.blubrry.com/betterseedbetterlife/Episode_23_Hosting_Virtual_Events_in_Ag.mp3",
+      "description": "&lt;p&gt;Listen in to hear Chelsey Lenczyk of Bejo Seeds Inc. and Erica Strittmatter of NewLeaf Symbiotics talk about holding virtual events in the seed industry. Chelsey will be talking about how in an effort to support and encourage growers, Bejo Seeds Inc., has decided to create a \u2018Virtual\u2019 Open House for the highly attended Geneva, [\u2026]&lt;/p&gt;\n&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;https://www.betterseed.org/episode-23-hosting-virtual-events-in-ag/&quot;&gt;Episode 23 "
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "better-seed-better-life-podcast",
+  "relevance": "High",
+  "score_reason": "This American Seed Trade Association podcast covers agricultural innovation and interviews industry professionals, making it an excellent fit for Andreas's 6 Seeds agricultural marketing work and AI applications in traditional agriculture.",
+  "contact_email": "info@betterseed.org",
+  "contact_name": "American Seed Trade Association",
+  "contact_source": "rss"
+}

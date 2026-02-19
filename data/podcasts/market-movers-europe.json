@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Market Movers Europe",
+  "host": "Felix Fernandez",
+  "description": "Market Movers Europe",
+  "rss_url": "https://feeds.libsyn.com/461220/rss",
+  "website": "https://sites.libsyn.com/461220",
+  "language": "en-gb",
+  "categories": [
+    "News",
+    "Business"
+  ],
+  "feed_id": "6403179",
+  "last_episode_date": "",
+  "episode_count": 29,
+  "recent_episodes": [
+    {
+      "title": "Bids for green hydrogen and wind underway; quarterly results roll in across commodities",
+      "date": "2024-04-29",
+      "duration": 106,
+      "audio_url": "https://traffic.libsyn.com/secure/9767bab6-8fa8-4a29-83ee-6f7465c6a1e8/042924-european-hydrogen-bank-auction-shell-results-oil-middle-east-germany-wind-power-tender-steel-glencore-arcelormittal.mp4?dest-id=3890550",
+      "description": " First European Hydrogen Bank auction on Tuesday Shell to unveil results, geopolitics still in focus for oil German onshore wind power tender closing\u00a0 Metals giants to share Q1 results  <p>\u00a0</p> <p>----------------------------------</p> <p>Subscribe for more updates: http://plts.co/w7hd30cmrHv\u00a0</p> <p>----------------------------------</p> <p>You can also follow all our latest updates by following us on:</p> <p>Website: https://www.spglobal.com/commodity-insights/en</p> <p>Facebook: https://www."
+    },
+    {
+      "title": "Escalating conflict in the Middle East puts oil markets on high alert",
+      "date": "2024-04-15",
+      "duration": 99,
+      "audio_url": "https://traffic.libsyn.com/secure/9767bab6-8fa8-4a29-83ee-6f7465c6a1e8/041524-iran-israel-drone-attack-oil-market-flood-russia-kazakhstan-gas-ukraine-storage-mining-results-bhp-rio-tinto-antofagasta.mp4?dest-id=3890550",
+      "description": "<p>In this week's Market Movers Europe:</p> <p>Potential supply disruption strengthens oil prices</p> <p>Ukraine gas storage under threat</p> <p>Metals results season kicks off with mining companies</p> <p>#Iran #Israel</p> <p>----------------------------------</p> <p>Subscribe for more updates: http://plts.co/w7hd30cmrHv\u00a0</p> <p>----------------------------------</p> <p>You can also follow all our latest updates by following us on:</p> <p>Website: https://www.spglobal.com/commodity-insights/en<"
+    },
+    {
+      "title": "Russian refinery strikes loom as oil reports await; LNG injections kick off",
+      "date": "2024-04-08",
+      "duration": 99,
+      "audio_url": "https://traffic.libsyn.com/secure/9767bab6-8fa8-4a29-83ee-6f7465c6a1e8/040824-opec-iea-oil-russia-refinery-ukraine-drone-attack-uk-power-national-grid-solar-costs-lng-injection-season.mp4?dest-id=3890550",
+      "description": "<p>In this week's Market Movers Europe:<br /> Oil markets await OPEC, IEA data releases<br /> Russian oil product exports hit by attacks<br /> UK Grid to publish summer outlook<br /> LNG injection season kicks off</p> <p>\u00a0</p> <p>----------------------------------</p> <p>Subscribe for more updates: http://plts.co/w7hd30cmrHv\u00a0</p> <p>----------------------------------</p> <p>You can also follow all our latest updates by following us on:</p> <p>Website: https://www.spglobal.com/commodity-insights/"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "market-movers-europe",
+  "relevance": "Low",
+  "score_reason": "Energy and commodities market news focused on trading and prices, not relevant to Andreas's expertise areas.",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "S&P Global Commodity Insights",
+  "contact_source": "rss"
+}

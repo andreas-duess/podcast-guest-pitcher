@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Crossroads: The Discussion of Decision Making",
+  "host": "Kathryn George",
+  "description": "This is a podcast interviewing people across all professions in order to find out how they made decisions that allowed them to be successful. Each episode is with a new guest, that offers advice and personal anecdotes.",
+  "rss_url": "https://media.rss.com/crossroadpod/feed.xml",
+  "website": "https://rss.com/podcasts/crossroadpod",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Careers"
+  ],
+  "feed_id": "6991698",
+  "last_episode_date": "",
+  "episode_count": 4,
+  "recent_episodes": [
+    {
+      "title": "Conclusion",
+      "date": "2024-08-17",
+      "duration": 273,
+      "audio_url": "https://media.rss.com/crossroadpod/2024_08_17_22_21_44_7c2d4547-de36-4dbb-ab1b-744786715a36.mp3",
+      "description": "<p>This episode is a summary of the whole series and what bits of information I found especially compelling. </p>"
+    },
+    {
+      "title": "Charles Moseley",
+      "date": "2024-08-17",
+      "duration": 1665,
+      "audio_url": "https://media.rss.com/crossroadpod/2024_08_17_05_19_01_b691996f-135a-484a-84f4-3a3ea4c7d94e.mp3",
+      "description": "<p>Charles Moseley is a business man who discusses every opportunity he took that lead him towards success. His impactful dialogue also details his familial relations and the ways in which he has given back to his community.</p>"
+    },
+    {
+      "title": "Mark Jaroszewski",
+      "date": "2024-08-17",
+      "duration": 2045,
+      "audio_url": "https://media.rss.com/crossroadpod/2024_08_17_04_39_18_d726aa4e-1476-4b29-9880-c264c4baaf4c.mp3",
+      "description": "<p>Mr. Jaroszewski displays how there is never one correct path, but rather follow the path that is meant for you. Detailing on his time in the FBI and now at open AI, see how Mark has taken on these tough decisions, that ultimately led to his success. </p>"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "crossroads-the-discussion-of-decision-making",
+  "relevance": "Low",
+  "score_reason": "Only 4 episodes with generic career decision-making focus suggests this is an inactive or student project rather than established professional podcast."
+}

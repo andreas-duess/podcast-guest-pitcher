@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "The Decisive Podcast: Insights and analysis to empower confident decision-making.",
+  "host": "S&P Global Market Intelligence",
+  "description": "Whether you're a business leader, investor, or simply curious about the forces shaping our world, The Decisive podcast is here to provide you with the knowledge you need to stay ahead. Join our team of seasoned Market Intelligence analysts as they explore the ever-changing landscape of maritime, trade and supply chain, economics and country risk.",
+  "rss_url": "https://feeds.libsyn.com/470001/rss",
+  "website": "https://soundcloud.com/user-181651373",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "753221",
+  "last_episode_date": "",
+  "episode_count": 300,
+  "recent_episodes": [
+    {
+      "title": "Mapping Geopolitical Volatility: Global Impacts From Venezuela and Iran",
+      "date": "2026-02-14",
+      "duration": 2144,
+      "audio_url": "https://traffic.libsyn.com/secure/83931ea7-c794-4ba1-a9c9-fff46b1e2cea/The_Decisive-2-12-26_1_Descript_edit.mp3?dest-id=3978900",
+      "description": "<p>In this episode, taken from a Feb. 4 client webinar,\u00a0host Kristen Hallam, along with experts John Raines, Jack Kennedy, and Jeffery McElroy, dive into the complexities of geopolitical volatility around the globe.</p> <p>As tensions rise over Iran's nuclear ambitions and the U.S. military strategy, the discussion explores potential pathways to escalation and their global implications.\u00a0Discover how military and diplomatic maneuvers could impact critical sectors like energy and infrastructure, w"
+    },
+    {
+      "title": "Agentic AI Gives Data a Voice in Supply Chain Management",
+      "date": "2026-02-07",
+      "duration": 1610,
+      "audio_url": "https://traffic.libsyn.com/secure/83931ea7-c794-4ba1-a9c9-fff46b1e2cea/The_Decisive-2-7-26_Decisive_edit.mp3?dest-id=3978900",
+      "description": "<p>Agentic AI can move supply chains from reactive \"triage\" to smarter, faster decision-making. In this episode of The Decisive, S&P Global Market Intelligence's Brendan Neary joins host Kristen Hallam to unpack today's biggest supply-chain pain points\u2014volatility, complexity, and constant disruption driven by forces like weather, policy shifts, and geopolitics\u2014and why risk mitigation has become a daily mandate for procurement and supply-chain leaders.</p> <p>You'll hear how\u00a0agentic AI\u2014autonomous"
+    },
+    {
+      "title": "Stablecoin Adoption: The Next Wave",
+      "date": "2026-01-31",
+      "duration": 579,
+      "audio_url": "https://traffic.libsyn.com/secure/83931ea7-c794-4ba1-a9c9-fff46b1e2cea/The_Decisive-1-31-26.mp3?dest-id=3978900",
+      "description": "<p>Stablecoins are designed to keep a steady value\u2014by pegging to a reserve asset like the US dollar\u2014while delivering the speed and lower cost of blockchain-based payments. In this episode of The Decisive, S&P Global Market Intelligence economist Robert Matthee unpacks how stablecoins work, why their market has surged to an estimated $300 billion, and what's driving forecasts that the space could expand dramatically in the coming years.</p> <p>Robert and host Kristen hallam dig into what's poweri"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "Economics & Country Risk | An S&P Global Podcast",
+  "discovered_date": "2026-02-18",
+  "slug": "the-decisive-podcast-insights-and-analysis-to-empower-confident-decision-making",
+  "relevance": "Medium",
+  "score_reason": "S&P Global's focus on data-driven business intelligence and market analysis aligns with Andreas's intelligence economy message, though may be too finance/maritime specific."
+}

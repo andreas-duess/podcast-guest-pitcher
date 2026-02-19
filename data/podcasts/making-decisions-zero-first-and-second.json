@@ -1,0 +1,40 @@
+{
+  "source": "podcast_index",
+  "name": "Making decisions: zero, first and second",
+  "host": "Santiago Pati\u00f1o",
+  "description": "audio ingles, Making decisions: zero, first and secondconditional, self-direction",
+  "rss_url": "https://www.spreaker.com/show/6779257/episodes/feed",
+  "website": "https://www.spreaker.com/podcast/making-decisions-zero-first-and-second--6779257",
+  "language": "en",
+  "categories": [
+    "Tv",
+    "Film",
+    "Reviews"
+  ],
+  "feed_id": "7560131",
+  "last_episode_date": "",
+  "episode_count": 2,
+  "recent_episodes": [
+    {
+      "title": "WhatsApp Audio 2025-10-29 at 7.15.02 PM",
+      "date": "2025-10-29",
+      "duration": 120,
+      "audio_url": "https://api.spreaker.com/download/episode/68342591/whatsapp_audio_2025_10_29_at_7_15_02_pm.mp3",
+      "description": ""
+    },
+    {
+      "title": "WhatsApp Audio 2025-10-29 at 7.06.55 PM",
+      "date": "2025-10-29",
+      "duration": 169,
+      "audio_url": "https://api.spreaker.com/download/episode/68342553/whatsapp_audio_2025_10_29_at_7_06_55_pm.mp3",
+      "description": ""
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "making-decisions-zero-first-and-second",
+  "relevance": "Low",
+  "score_reason": "This appears to be an English language learning exercise about grammar conditionals, not a business podcast."
+}

@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "What The Farm Podcast - Real life conversations about agriculture and how it affects the consumer's food. From farming to marketing.",
+  "host": "Rob Sharkey & Lesley Kelly",
+  "description": "Weekly conversations between Rob Sharkey and Lesley Kelly about food, agriculture and farming and how it affects the consumer. Topics include public perception, legislature, consumer buying habits, marketing strategies and an explanation of farming techniques.",
+  "rss_url": "https://farmercitygirl.libsyn.com/rss",
+  "website": "http://sharkfarmer.com/",
+  "language": "en",
+  "categories": [
+    "Education",
+    "Health",
+    "Fitness",
+    "Nutrition"
+  ],
+  "feed_id": "1404893",
+  "last_episode_date": "",
+  "episode_count": 100,
+  "recent_episodes": [
+    {
+      "title": "224 Chaz Shelton & Bill Shriver aquaponics",
+      "date": "2022-08-01",
+      "duration": 1741,
+      "audio_url": "https://traffic.libsyn.com/secure/farmercitygirl/224_Chaz_Shelton__Bill_Shriver_aquaponics.mp3?dest-id=472412",
+      "description": ""
+    },
+    {
+      "title": "223 Chyenne Smith watching the world burn",
+      "date": "2022-07-25",
+      "duration": 1792,
+      "audio_url": "https://traffic.libsyn.com/secure/farmercitygirl/223_Chyenne_Smith_watching_the_world_burn.mp3?dest-id=472412",
+      "description": ""
+    },
+    {
+      "title": "222 Amie Peck defending beef",
+      "date": "2022-07-18",
+      "duration": 2341,
+      "audio_url": "https://traffic.libsyn.com/secure/farmercitygirl/222_Amie_Peck_defending_beef.mp3?dest-id=472412",
+      "description": ""
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "thesharkfarmer@gmail.com",
+  "contact_name": "Rob Sharkey & Lesley Kelly",
+  "discovered_date": "2026-02-18",
+  "slug": "what-the-farm-podcast-real-life-conversations-about-agriculture-and-how-it-affec",
+  "relevance": "High",
+  "score_reason": "Perfect alignment with food, agriculture, consumer behavior, and marketing strategies\u2014exactly Andreas's sweet spot."
+}

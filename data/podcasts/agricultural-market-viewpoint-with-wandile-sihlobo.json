@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Agricultural Market Viewpoint with Wandile Sihlobo",
+  "host": "The Xchange Platform",
+  "description": "Agricultural Market Viewpoint with Wandile Sihlobo",
+  "rss_url": "https://iono.fm/rss/chan/7455?codec=mp3&quality=high",
+  "website": "https://www.thexchange.co.za/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing",
+    "Arts",
+    "Food"
+  ],
+  "feed_id": "5620177",
+  "last_episode_date": "",
+  "episode_count": 150,
+  "recent_episodes": [
+    {
+      "title": "South Africa\u2019s agricultural outlook for 2026 remains positive",
+      "date": "2026-01-10",
+      "duration": 642,
+      "audio_url": "https://dl.iono.fm/epi/prov_2517/epi_1633636_high.mp3?p=rss",
+      "description": "We are in another favourable agricultural season in South Africa, with favourable rains that enabled the farmers to plant and supported the grazing veld for the livestock industry. This builds on a better agricultural performance in 2025, a year of La Ni\u00f1a rains that supported the sector. The only significant risk at the moment is foot-and-mouth disease, which continues to weigh on South Africa\u2019s cattle industry. The Department of Agriculture is undertaking a nationwide vaccination campaign agai"
+    },
+    {
+      "title": "SA farmers are upbeat about business conditions in the sector",
+      "date": "2025-12-07",
+      "duration": 671,
+      "audio_url": "https://dl.iono.fm/epi/prov_2517/epi_1626316_high.mp3?p=rss",
+      "description": "After falling for two consecutive quarters, the Agbiz/IDC Agribusiness Confidence Index (ACI) increased by 5 points to 67 in Q4 2025. <br />\n<br />\nFavourable weather conditions, strong exports throughout the year on the back of ample grains, oilseeds, and horticulture harvests, as well as better port efficiencies, are among the key drivers of optimism in the sector. <br />\n<br />\nWe suspect that the announcement of nationwide vaccination of cattle against foot-and-mouth disease also contributed"
+    },
+    {
+      "title": "SA agricultural conditions",
+      "date": "2025-11-30",
+      "duration": 502,
+      "audio_url": "https://dl.iono.fm/epi/prov_2517/epi_1623921_high.mp3?p=rss",
+      "description": "We continue to receive encouraging notes about the prospects of La Ni\u00f1a in the 2025-26 summer season. The La Ni\u00f1a-induced rains will help support field crops, horticulture, and grazing veld for livestock. The farmers are optimistic and plan to increase area plantings, primarily of field crops.<br />\n<br />\nOne aspect of the agricultural sector that has posed a significant challenge is the livestock industry, which struggles with foot-and-mouth disease. But South Africa is embarking on vaccinatio"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "talk@thexchange.co.za",
+  "contact_name": "The Xchange Platform",
+  "discovered_date": "2026-02-18",
+  "slug": "agricultural-market-viewpoint-with-wandile-sihlobo",
+  "relevance": "Low",
+  "score_reason": "Market commentary focused on South African agricultural conditions, not an interview format for diverse guests."
+}

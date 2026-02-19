@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Peppered: A Food and Beverage Marketing Podcast",
+  "host": "Peppered: A Food and Beverage Marketing Podcast",
+  "description": "Podcast by Peppered: A Food and Beverage Marketing Podcast",
+  "rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:475750938/sounds.rss",
+  "website": "https://soundcloud.com/pepperedpodcast",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "997198",
+  "last_episode_date": "",
+  "episode_count": 20,
+  "recent_episodes": [
+    {
+      "title": "#20 How Appetite Appeal Can Help Grow Your Brand with Jamie Allebach",
+      "date": "2019-08-28",
+      "duration": 873,
+      "audio_url": "https://feeds.soundcloud.com/stream/672286877-pepperedpodcast-20-how-appetite-appeal-can-help-grow-your-brand-with-jamie-allebach.mp3",
+      "description": "How Appetite Appeal Can Help Grow Your Brand\n \nOn this episode of the Peppered Podcast, we will be discussing Appetite Appeal. Not only is this one of my favorite topics in food and beverage marketing, but it\u2019s a critical component in growing brands.\n \nThe LOVE of FOOD is one of the strongest human emotions.\n \nFood fantasies\u2014anticipating that special moment. How our imaginations can just run wild.\n \nIt doesn\u2019t just happen.  Appetite appeal has two fundamental driving forces: Science and Art.\n \nT"
+    },
+    {
+      "title": "#19 Pork Inspiration with Tara-Ann Dugan (National Pork Board)",
+      "date": "2019-08-09",
+      "duration": 2531,
+      "audio_url": "https://feeds.soundcloud.com/stream/663565838-pepperedpodcast-19-pork-inspiration-with-tara-ann-dugan-national-pork-board.mp3",
+      "description": "Tara-Ann Dugan is the Director of Consumer and Marketplace Insights for the National Pork Board and has more than 12 years of food marketing and research experience, spanning across McDonald\u2019s Corporation, Nielsen, IRI, and Hammacher Schlemmer. She has some great insight not only in the protein category but eating occasions in general.\n \nOn today\u2019s show we will be taking a deep dive into the wonderful world of pork, meat, and protein.\n \nJoin us as we discuss:\n- Changing consumer needs\n- 9 dinner"
+    },
+    {
+      "title": "#18 Catalina Crunch with Krishna Kaliannan",
+      "date": "2019-08-02",
+      "duration": 3169,
+      "audio_url": "https://feeds.soundcloud.com/stream/660300620-pepperedpodcast-18-catalina-crunch-with-krishna-kaliannan.mp3",
+      "description": "Krishna Kaliannan is the founder of Catalina Crunch, a better-for-you cereal brand that could be equated to \u201chealthy version\u201d Cocoa Puffs.\n \nHailed as a breakthrough in cereal science, Catalina Crunch has that same \u201clight and crunchy\u201d texture and delicious sweet taste that we all grew to love in our favorite childhood cereals\u2014but, with none of the bad ingredients\u2014and it\u2019s low in carbs. In addition to an exciting brand, Krishna also has an incredible story behind his product, including his health"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "peppered-a-food-and-beverage-marketing-podcast",
+  "relevance": "High",
+  "score_reason": "Food and beverage marketing with brand growth focus is ideal for Andreas's Nourish agency story and say-do gap insights.",
+  "contact_email": "jallebach@allebach.com",
+  "contact_name": "Peppered: A Food and Beverage Marketing Podcast",
+  "contact_source": "rss"
+}

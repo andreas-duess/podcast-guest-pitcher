@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Spectrum Commodities Wheat & Cattle Markets Analysis",
+  "host": "Louise Gartner",
+  "description": "In-depth analysis on wheat and cattle markets, including both fundamental and technical reviews.",
+  "rss_url": "https://spectrumcommodities.podbean.com/feed.xml",
+  "website": "https://spectrumcommodities.podbean.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing"
+  ],
+  "feed_id": "61402",
+  "last_episode_date": "",
+  "episode_count": 30,
+  "recent_episodes": [
+    {
+      "title": "No Podcasts for Thursday or Friday.",
+      "date": "2026-02-12",
+      "duration": 0,
+      "audio_url": "https://mcdn.podbean.com/mf/web/z5dny2fha9v82r3y/02122026.mp3",
+      "description": ""
+    },
+    {
+      "title": "February 11, 2026 - Cattle",
+      "date": "2026-02-11",
+      "duration": 278,
+      "audio_url": "https://mcdn.podbean.com/mf/web/zusbj6qq3nr33ucs/02112026cattle.mp3",
+      "description": "<p>Futures stall after higher opening; cash quiet; boxed beef slightly lower; cash feeders lower; USDA raises cash price estimates in Supply/Demand report.</p>\n"
+    },
+    {
+      "title": "February 11, 2026 - Grains",
+      "date": "2026-02-11",
+      "duration": 446,
+      "audio_url": "https://mcdn.podbean.com/mf/web/dqbf4vjfkqbwq9hy/02112026grains.mp3",
+      "description": "<p>Corn and wheat quiet following Supply/Demand report while beans push higher; report summary; weather condition update for North and South America.</p>\n"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "spectrum-commodities-wheat-cattle-markets-analysis",
+  "relevance": "Low",
+  "score_reason": "Technical commodity trading analysis for wheat and cattle, not aligned with Andreas's marketing and strategy expertise."
+}

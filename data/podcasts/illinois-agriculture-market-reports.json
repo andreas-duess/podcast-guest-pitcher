@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Illinois Agriculture Market Reports",
+  "host": "Market News at the Illinois Department of Agriculture",
+  "description": "Weekly reports of livestock, grain, and commodity prices from the Illinois Department of Agriculture.For more information please visit: Market News (illinois.gov)",
+  "rss_url": "https://rss.buzzsprout.com/2143460.rss",
+  "website": "https://agr.illinois.gov/consumers/market-news.html",
+  "language": "en-us",
+  "categories": [
+    "News",
+    "Business"
+  ],
+  "feed_id": "6294727",
+  "last_episode_date": "",
+  "episode_count": 3,
+  "recent_episodes": [
+    {
+      "title": "Weekly Report 2/9",
+      "date": "2026-02-10",
+      "duration": 149,
+      "audio_url": "https://www.buzzsprout.com/2143460/episodes/18656289-weekly-report-2-9.mp3",
+      "description": "<p>Weekly Agriculture Market Report</p>"
+    },
+    {
+      "title": "Weekly Report 2/1",
+      "date": "2026-02-04",
+      "duration": 159,
+      "audio_url": "https://www.buzzsprout.com/2143460/episodes/18624300-weekly-report-2-1.mp3",
+      "description": "<p>Weekly Illinois Department of Agriculture report</p>"
+    },
+    {
+      "title": "Weekly Report 1/26",
+      "date": "2026-01-28",
+      "duration": 163,
+      "audio_url": "https://www.buzzsprout.com/2143460/episodes/18584213-weekly-report-1-26.mp3",
+      "description": "<p>Weekly Agricultural Market Reports</p>"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "illinois-agriculture-market-reports",
+  "relevance": "Low",
+  "score_reason": "Weekly market price reports, not an interview-based podcast."
+}

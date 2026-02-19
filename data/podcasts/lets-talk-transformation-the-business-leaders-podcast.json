@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Let's talk Transformation : The business leaders podcast",
+  "host": "Suzie Lewis",
+  "description": "\"Let's talk Transformation\" is a podcast for busy yet curious people who want to stay connected. Bite sized chunks of thoughts and ideas on transformation and change to inspire and inform you - be it about digital, culture,  innovation, change or leadership... ! Connect with us to listen to dynamic and curious conversations about transformation.",
+  "rss_url": "https://feeds.captivate.fm/lets-talk-transformation/",
+  "website": "https://transformforvalue.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Management",
+    "Entrepreneurship"
+  ],
+  "feed_id": "434946",
+  "last_episode_date": "",
+  "episode_count": 158,
+  "recent_episodes": [
+    {
+      "title": "Beyond the Bias: Expansive Leadership for a New Era with Jodi Vandenberg-Daves",
+      "date": "2026-02-15",
+      "duration": 2292,
+      "audio_url": "https://episodes.captivate.fm/episode/32d87211-0c64-4119-b5d8-9c313149e713.mp3",
+      "description": "<p>Leadership isn\u2019t about a position; it\u2019s a lifelong practice.</p><p>This perspective highlights the strategic use of informal networks and collaboration to drive systemic change. For decades, we have had the narrative focused on \u201cfixing women\u201d to fit leadership moulds rather than addressing systemic biases and looking at how to fix the system.</p><p>In this conversation we explore how the very skills often dismissed as \"soft\"\u2014context awareness, emotional agility, adaptive thinking, collaborati"
+    },
+    {
+      "title": "Simply complex with Simon Copsey",
+      "date": "2026-02-08",
+      "duration": 2485,
+      "audio_url": "https://episodes.captivate.fm/episode/8a84547f-ff86-4526-af28-66be22a1b45d.mp3",
+      "description": "<p>Is complexity really complex of Productivity pretending to be complex ?</p><p>Simon and I discuss why this is often observed in organizations. What appears as insurmountable complexity is often rooted in inefficient processes and workflows. The key is distinguishing between inherent complexity and self-imposed inefficiency. Complexity often feels like the default in organizations, making simplicity seem impossible. Given the blurring of boundaries, the shifting paradigms and the need for cons"
+    },
+    {
+      "title": "The Empathic Leader with Melissa Robinson-Winemiller",
+      "date": "2026-02-01",
+      "duration": 2271,
+      "audio_url": "https://episodes.captivate.fm/episode/7b91eadc-cf92-4a65-b7bf-5eeafb63c7c8.mp3",
+      "description": "<p>Empathy is no longer a \u201csoft skill\u201d; it is a hard skill, a disciplined practice, and a foundational architecture for organizational success</p><p>Research shows that leaders effectively employing empathy boosted productivity by 87%, innovation by 86%, and profit by 84%. These aren\u2019t just \u201csoft skills\u201d; they\u2019re hard metrics that directly impact your bottom line.</p><p>Melissa and I talk about why leaders often underestimate empathy and how to move past that. If you\u2019ve ever felt like you\u2019re hit"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "lets-talk-transformation-the-business-leaders-podcast",
+  "relevance": "High",
+  "score_reason": "Broad business transformation focus with topics on digital, culture, innovation, and leadership aligns perfectly with Andreas's AI adoption and traditional industry transformation expertise."
+}

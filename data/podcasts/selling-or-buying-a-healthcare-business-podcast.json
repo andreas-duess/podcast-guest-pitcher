@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Selling or Buying a Healthcare Business Podcast",
+  "host": "Healthcare Biz Brokers",
+  "description": "The Healthcare Biz Broker's Podcast is meant to become part of the healthcare business community.  We want to share with our listener's the most up to date information with regards to all things healthcare business sales.  Our goal will be to provide key facts about issues related to sellers who would like to sell their healthcare businesses and buyers looking to entering the healthcare marketplace.  We also would like to provide our listener's with professional knowledge brought to you by many ",
+  "rss_url": "https://feed.podbean.com/healthcarebizbrokers/feed.xml",
+  "website": "https://healthcarebizbrokers.podbean.com",
+  "language": "en",
+  "categories": [
+    "Health",
+    "Fitness",
+    "Medicine",
+    "Business",
+    "Management"
+  ],
+  "feed_id": "650539",
+  "last_episode_date": "",
+  "episode_count": 3,
+  "recent_episodes": [
+    {
+      "title": "Ep. 3 - Anna Fabregas & Dylan Hull",
+      "date": "2020-06-27",
+      "duration": 54,
+      "audio_url": "https://mcdn.podbean.com/mf/web/ltx2gb/Anna_Dylan_Final_65obz.m4a",
+      "description": ""
+    },
+    {
+      "title": "Ep. 2 - Social Media Marketing for Healthcare Businesses w/ Edward Kwak",
+      "date": "2020-06-09",
+      "duration": 1,
+      "audio_url": "https://mcdn.podbean.com/mf/web/9zx7v6/Derek_Kwak_Final_-_6_9_20_213_AM_bw767.m4a",
+      "description": "<p>Social Media Marketing for the healthcare business market on the main street level is often overlooked due to a lack of understanding and or a lack of resources.\u00a0 Our podcast today is geared to talking a little bit about the different dynamics that are social media marketing with Edward Kwak talking about his experiences and sharing his insight into this platform.\u00a0 We discuss strategies and the psychological of issues such as analytics, marketing versus branding versus marketing tactics.\u00a0 Thi"
+    },
+    {
+      "title": "Ep.1 - An Introduction to Our Brokerage",
+      "date": "2020-05-23",
+      "duration": 1,
+      "audio_url": "https://mcdn.podbean.com/mf/web/hx2npx/Ep_1_-_Healthcare_Biz_Brokers_8y9zr.m4a",
+      "description": "<p>Healthcare Biz Brokers is a niche healthcare business brokerage that works with both sellers and buyers of healthcare business opportunities. \u00a0Our podcast today was created with the goal of introducing our company along with the goals of our podcast as we move forward.\u00a0</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "selling-or-buying-a-healthcare-business-podcast",
+  "relevance": "Low",
+  "score_reason": "Only 3 episodes and focused specifically on healthcare business sales, outside guest's industry expertise."
+}

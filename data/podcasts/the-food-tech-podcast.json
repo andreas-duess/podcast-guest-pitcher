@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "The Food Tech Podcast",
+  "host": "Au2mate",
+  "description": "Curious about the latest technologies in Food & Beverage processing?\nIn The Food Tech Podcast, we give you the latest trends, technologies, and automation knowledge that will accellerate your production process.\nSee you on the inside.",
+  "rss_url": "https://anchor.fm/s/1080973d4/podcast/rss",
+  "website": "https://au2mate.com",
+  "language": "en",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "7488317",
+  "last_episode_date": "",
+  "episode_count": 7,
+  "recent_episodes": [
+    {
+      "title": "6: When empty belts burn money",
+      "date": "2026-01-27",
+      "duration": 2298,
+      "audio_url": "https://anchor.fm/s/1080973d4/podcast/play/114335625/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-21%2Fc2746751-bb61-105c-9857-7c56f81f2cab.mp3",
+      "description": "<p>We all know the image. Bottles racing through the line at full speed. Conveyors packed. Motors humming. It looks efficient.</p><p>But when you step onto real production floors, the picture is very different. Belts run empty. Pumps throttle instead of slowing down. Motors consume energy even when nothing moves.</p><p>In this episode, Gregors Geilager from Danfoss Drives joins the Food Tech Podcast to explain why energy efficiency is no longer a side project, but a core competitiveness issue fo"
+    },
+    {
+      "title": "5: How to not make a power glitch turn milk into a very expensive problem",
+      "date": "2025-12-16",
+      "duration": 2281,
+      "audio_url": "https://anchor.fm/s/1080973d4/podcast/play/112660028/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-15%2Fb1d80d24-ba54-a668-d19c-bb5faf6b375c.mp3",
+      "description": "<p>What happens to your production when the power flickers, a server reboots at the wrong moment or a firewall rule opens a door you did not know existed?</p><p>In this episode, Erik S\u00f8ndergaard joins The Food Tech Podcast to unpack operational resilience in food and beverage production. From power drops and UPS age to backups, segmentation and NIS2, Erik explains how to think about uptime like an insurance policy: decide what an hour of lost production costs, then secure your systems to match t"
+    },
+    {
+      "title": "4: From gut feeling to guided zero-waist dairy production",
+      "date": "2025-12-02",
+      "duration": 2429,
+      "audio_url": "https://anchor.fm/s/1080973d4/podcast/play/111783455/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-27%2F60d6f2ce-a921-1c79-2e3c-f72c26b1defb.mp3",
+      "description": "<p>AI is everywhere, but turning it into real outcomes in dairy and food processing is where the value is. In this episode, Anna Olsson, co-founder of Intelecy (a no-code platform for industrial AI), cuts through the hype to show what plants can do today: predict failures before they happen, optimize processes in real time, and capture expert know-how so it scales across sites.</p><p>If you run operations, engineering, maintenance, or production IT, you will get practical steps to start fast, pr"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-food-tech-podcast",
+  "relevance": "Medium",
+  "score_reason": "Covers automation and technology in food and beverage processing, relevant to Andreas's AI and food industry work but more technical/operational focus.",
+  "contact_email": "podcast@au2mate.com",
+  "contact_name": "Au2mate",
+  "contact_source": "rss"
+}

@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "The Fitness Marketing Agency Podcast",
+  "host": "Fitness Marketing Agency Limited",
+  "description": "The Fitness Marketing Agency podcast is here to show, Gym Owners, Studio Owners, Group Training Providers and Coaches the best way to market, operate and grow their fitness businesses. We pull back the curtain and show you real-time strategies and insights into what's working right now within the Fitness Industry. If you're looking for growth in your fitness business, you've come to the right place.",
+  "rss_url": "https://rss.libsyn.com/shows/478116/destinations/4062132.xml",
+  "website": "https://fitnessmarketing.agency/podcast",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Entrepreneurship",
+    "Health",
+    "Fitness"
+  ],
+  "feed_id": "6445482",
+  "last_episode_date": "",
+  "episode_count": 108,
+  "recent_episodes": [
+    {
+      "title": "How to build a team, double your revenue and get off the gym floor",
+      "date": "2026-01-21",
+      "duration": 5033,
+      "audio_url": "https://traffic.libsyn.com/secure/fd3ac7fc-27e1-4a1e-9228-b20174392d7b/Audio21Jan2026.mp3?dest-id=4062132",
+      "description": "<p>This week, we're joined by a highly experienced fitness entrepreneur, FMA client, Rory Harcourt, who has built and scaled multiple successful fitness businesses across different markets.</p> <p>\u00a0</p> <p>With years of hands-on experience, our guest shares what actually drives sustainable growth and why most gym owners unknowingly sabotage their own progress.</p> <p>\u00a0</p> <p>In this straight-talking episode, we unpack the uncomfortable truths around leadership, systems, and why scaling without "
+    },
+    {
+      "title": "Increased profit margins and gym owner salary",
+      "date": "2026-01-14",
+      "duration": 3287,
+      "audio_url": "https://traffic.libsyn.com/secure/fd3ac7fc-27e1-4a1e-9228-b20174392d7b/Audio_PODCAST_14jan.mp3?dest-id=4062132",
+      "description": "   <p>This week, we're joined by Duncan, a profit-first accountant who works closely with gym owners and fitness entrepreneurs to help them build profitable, sustainable businesses.</p> <p>\u00a0</p> <p>With years of experience inside the fitness industry, Duncan shares why most gym owners stay stuck financially and how shifting your mindset from coach to CEO changes everything.</p> <p>\u00a0</p> <p>In this episode, we break down pricing mistakes, cash flow chaos, and the financial systems every gym owner"
+    },
+    {
+      "title": "The 2026 AI Voice Systems For Gym Owners",
+      "date": "2026-01-07",
+      "duration": 2291,
+      "audio_url": "https://traffic.libsyn.com/secure/fd3ac7fc-27e1-4a1e-9228-b20174392d7b/Audio_Podcast_7Jan2026.mp3?dest-id=4062132",
+      "description": "<p >This week, we're joined by Ben, founder of FMA, a fitness marketing agency working with 400+ gyms worldwide to help them scale faster with smarter systems.</p> <p > </p> <p >Ben breaks down how AI is already transforming gym sales, handling WhatsApp, Instagram DMs, and even phone calls to convert leads automatically.</p> <p > </p> <p >If your gym delivers amazing coaching but still loses leads through slow follow-up, this episode will change how you think about growth.</p> <p > </p> <p >Key "
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "team@fitnessmarketing.agency",
+  "contact_name": "Fitness Marketing Agency Limited",
+  "discovered_date": "2026-02-18",
+  "slug": "the-fitness-marketing-agency-podcast",
+  "relevance": "Low",
+  "score_reason": "Exclusively focused on fitness business owners and gym operations, no alignment with Andreas's food/agriculture marketing or B2B technology expertise."
+}

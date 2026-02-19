@@ -12,6 +12,7 @@ import os
 import re
 import json
 import time
+import random
 import tempfile
 
 import requests
@@ -26,6 +27,15 @@ os.makedirs(TRANSCRIPTS_DIR, exist_ok=True)
 
 # Max audio duration to transcribe (30 min = save cost on long episodes)
 MAX_AUDIO_SECONDS = 1800
+
+# Rate limiting for YouTube to avoid IP bans
+_youtube_blocked = False
+_USER_AGENTS = [
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15",
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+]
 
 
 def _transcript_path(podcast_slug, episode_title):
@@ -58,12 +68,17 @@ def _save_transcript(podcast_slug, episode_title, text, source="unknown"):
 
 def search_youtube(query, max_results=3):
     """Search YouTube for a video matching the query. Uses scraping approach."""
+    global _youtube_blocked
+    if _youtube_blocked:
+        return []
+
     try:
+        time.sleep(random.uniform(3, 6))  # Rate limit between searches
         search_url = "https://www.youtube.com/results"
         resp = requests.get(
             search_url,
             params={"search_query": query},
-            headers={"User-Agent": "Mozilla/5.0"},
+            headers={"User-Agent": random.choice(_USER_AGENTS)},
             timeout=15,
         )
         resp.raise_for_status()
@@ -88,36 +103,34 @@ def search_youtube(query, max_results=3):
 
 def get_youtube_transcript(video_id):
     """Fetch transcript from YouTube using youtube-transcript-api."""
+    global _youtube_blocked
+    if _youtube_blocked:
+        return None
+
     try:
         from youtube_transcript_api import YouTubeTranscriptApi
 
-        transcript_list = YouTubeTranscriptApi.list_transcripts(video_id)
-
-        # Prefer manual English transcripts, fall back to auto-generated
-        transcript = None
-        try:
-            transcript = transcript_list.find_transcript(['en'])
-        except Exception:
-            try:
-                transcript = transcript_list.find_generated_transcript(['en'])
-            except Exception:
-                pass
-
-        if not transcript:
-            return None
-
-        entries = transcript.fetch()
-        # Combine into text
-        lines = [entry.text for entry in entries]
+        time.sleep(random.uniform(2, 4))  # Rate limit between transcript fetches
+        ytt = YouTubeTranscriptApi()
+        transcript = ytt.fetch(video_id, languages=['en'])
+        lines = [entry.text for entry in transcript]
         return " ".join(lines)
 
     except Exception as e:
-        print(f"    YouTube transcript failed for {video_id}: {e}")
+        err_str = str(e)
+        if "blocking" in err_str.lower() or "IP" in err_str or "RequestBlocked" in err_str:
+            print(f"    YouTube IP blocked — switching to Whisper-only mode")
+            _youtube_blocked = True
+        else:
+            print(f"    YouTube transcript failed for {video_id}: {e}")
         return None
 
 
 def fetch_transcript_youtube(podcast_name, episode_title):
     """Try to find and fetch a YouTube transcript for an episode."""
+    if _youtube_blocked:
+        return None, None
+
     query = f"{podcast_name} {episode_title}"
     video_ids = search_youtube(query)
 
@@ -203,6 +216,22 @@ def fetch_transcript_whisper(audio_url):
 # Get Episodes from RSS
 # ---------------------------------------------------------------------------
 
+def _get_episode_description(entry):
+    """Extract the best available description from an RSS entry."""
+    # Try content:encoded first (usually the richest), then summary
+    if entry.get("content"):
+        desc = entry["content"][0].get("value", "")
+        if desc:
+            # Strip HTML tags for cleaner text
+            desc = re.sub(r'<[^>]+>', ' ', desc)
+            desc = re.sub(r'\s+', ' ', desc).strip()
+            return desc[:2000]
+    summary = entry.get("summary", "") or ""
+    summary = re.sub(r'<[^>]+>', ' ', summary)
+    summary = re.sub(r'\s+', ' ', summary).strip()
+    return summary[:2000]
+
+
 def get_episodes_from_rss(rss_url, max_episodes=3):
     """Parse RSS feed and return recent episodes with audio URLs."""
     try:
@@ -225,7 +254,7 @@ def get_episodes_from_rss(rss_url, max_episodes=3):
                 "title": entry.get("title", "Untitled"),
                 "date": entry.get("published", ""),
                 "audio_url": audio_url,
-                "description": (entry.get("summary", "") or "")[:500],
+                "description": _get_episode_description(entry),
             })
 
         return episodes
@@ -284,6 +313,15 @@ def fetch_transcripts(podcast_record, max_episodes=3):
                 print(f"      -> Whisper transcript ({len(text)} chars)")
                 paths.append(path)
                 continue
+
+        # Strategy 3: Use episode description from RSS as minimal context
+        description = ep.get("description", "")
+        if description and len(description) > 50:
+            text = f"[Episode description — no full transcript available]\n\nTitle: {title}\n\n{description}"
+            path = _save_transcript(slug, title, text, source="rss-description")
+            print(f"      -> RSS description fallback ({len(description)} chars)")
+            paths.append(path)
+            continue
 
         print(f"      -> No transcript available")
         time.sleep(0.5)

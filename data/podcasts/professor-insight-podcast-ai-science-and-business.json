@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Professor Insight Podcast - AI, Science and Business",
+  "host": "Billy Sung",
+  "description": "The Professor Insight Podcast is your TLDR or \u201dtoo long, didn\u2019t read\u201d guide to the frontiers of artificial intelligence, neuroscience, and technology that are reshaping business today. Curated by Professor Billy and fully powered by AI, we unpack the most intriguing news, novel research findings, and real-world applications, keeping you informed and ahead of the curve. Perfect for tech-savvy entrepreneurs, business leaders, and inquisitive minds, each episode equips you with actionable insights ",
+  "rss_url": "https://feed.podbean.com/professorinsight/feed.xml",
+  "website": "https://professorinsight.podbean.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Technology"
+  ],
+  "feed_id": "7288921",
+  "last_episode_date": "",
+  "episode_count": 30,
+  "recent_episodes": [
+    {
+      "title": "EP30 - How Just 250 Files Can Poison a Large Language Model (LLM)",
+      "date": "2025-10-23",
+      "duration": 1467,
+      "audio_url": "https://mcdn.podbean.com/mf/web/2z96g8v9g5hzusaq/EP30.mp3",
+      "description": "<p>In this episode of the Professor Insight Podcast, we examine one of the most striking new studies in AI security, titled Poisoning Attacks on LLMs Require a Near-Constant Number of Poison Samples. Conducted by researchers from the UK AI Security Institute, Anthropic, the Alan Turing Institute, and the University of Oxford, this study challenges a long-standing assumption about how large language models can be compromised. The finding is as unsettling as it is important: a handful of poisoned "
+    },
+    {
+      "title": "EP29 - Why AI Hallucinates: Insights from OpenAI and Georgia Tech",
+      "date": "2025-10-14",
+      "duration": 1296,
+      "audio_url": "https://mcdn.podbean.com/mf/web/wqa3px7azqa45ys4/EP29.mp3",
+      "description": "\n<p>Hallucinations are a daily reality in the AI and LLM tools many of us use. In this episode of the Professor Insight Podcast, we explore new research from OpenAI and Georgia Tech titled\u00a0\u201cWhy Language Models Hallucinate.\u201d\u00a0The findings shed light on why large language models often produce confident but false statements, and why this problem persists even in the most advanced systems.</p>\n<p>Listeners will discover how hallucinations begin during pretraining, why they survive post-training, and "
+    },
+    {
+      "title": "EP28 - Unlocking the Agentic Era: Google\u2019s New AI ROI Report Explained",
+      "date": "2025-10-07",
+      "duration": 1735,
+      "audio_url": "https://mcdn.podbean.com/mf/web/5qsw9agsq2wxta5f/EP28.mp3",
+      "description": "\n<p>Artificial intelligence is no longer just a support tool in business, it is becoming a core driver of growth and efficiency. In this episode, we explore Google\u2019s new report,\u00a0The ROI of AI 2025: How Agents Are Unlocking the Next Wave of AI-Driven Business Value. The findings reveal a major shift from asking whether to use AI to focusing on how to scale it effectively. With companies now moving into the agentic era, AI agents are stepping up to perform real work and deliver measurable impact.<"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "professor-insight-podcast-ai-science-and-business",
+  "relevance": "Low",
+  "score_reason": "AI-curated news summary show without traditional guest interviews."
+}

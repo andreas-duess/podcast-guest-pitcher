@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Taurus Agronomic Bites",
+  "host": "Taurus Agricultural Marketing",
+  "description": "Join our Taurus experts and special guests as we dive into different key agronomic topics and take you deeper into the science behind them.",
+  "rss_url": "https://anchor.fm/s/36e284d0/podcast/rss",
+  "website": "https://anchor.fm/taurusagteam",
+  "language": "en",
+  "categories": [
+    "Science"
+  ],
+  "feed_id": "3030886",
+  "last_episode_date": "",
+  "episode_count": 6,
+  "recent_episodes": [
+    {
+      "title": "Soil Salinity with Les Henry",
+      "date": "2021-03-11",
+      "duration": 4245,
+      "audio_url": "https://anchor.fm/s/36e284d0/podcast/play/28729142/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-2-11%2F164120342-44100-2-c772d6fcdfd58.m4a",
+      "description": "<p>Special guest Les Henry brings to light the facts about soil salinity.&nbsp; Les takes us through what he has seen in the past and what he is seeing now in the prairie soils and he provides education around the causes, how to measure it, how to \u201cfix\u201d the problem and coping if it\u2019s not fixable. &nbsp;A renowned ag speaker with 30+ years of experience in field soil fertility and soil salinity, Les&nbsp;is a Canadian authority on the subject, and has also authored and published 2 books.</p>\n<h3>"
+    },
+    {
+      "title": "100 Bushel Club- Focus on Peas & Faba Beans",
+      "date": "2021-02-25",
+      "duration": 5513,
+      "audio_url": "https://anchor.fm/s/36e284d0/podcast/play/27417879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-1-25%2F159007726-44100-2-46a57a9d1baaa.m4a",
+      "description": "<h3>How can we leverage a deeper understanding of nutrition, biology, plant health and disease management to maximize yield and quality in protein?</h3>\n<p>Craig Davidson and Mike Dolinski bring you another fired up discussion with special guests, Ryan Immerkar, RSI Agri-Coaching/New Era Ag Technologies and Meghan Rose, New Era Ag Research.</p>\n<p>Listen in as we dig into the research perspective examining what we have seen and what we have learned with these two crops. And delve into the consul"
+    },
+    {
+      "title": "What does it take to grow a 100 bushel crop?",
+      "date": "2021-01-14",
+      "duration": 4277,
+      "audio_url": "https://anchor.fm/s/36e284d0/podcast/play/25195457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-0-14%2F145507097-44100-2-48b89c72c3651.m4a",
+      "description": "<p>What does it take to grow a 100 bushel crop?&nbsp;<br>\nJoin us for another great episode of Taurus Agronomic Bites featuring special guest Ken King founder of King Agricultural Consulting in Central Alberta.</p>\n<p>Ken, Craig Davidson and Mike Dolinski will discuss what the key ingredients are to achieve 100 bu success, the limiting factors and barriers to overcome to get there.&nbsp; Many growers already possess what it takes to make the 100 bushel club, they just need to utilize it better.<"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "podcasts60+36e284d0@anchor.fm",
+  "contact_name": "Taurus Agricultural Marketing",
+  "discovered_date": "2026-02-18",
+  "slug": "taurus-agronomic-bites",
+  "relevance": "Low",
+  "score_reason": "Deep agronomic science focus (soil salinity, crop yields), not marketing or business strategy oriented."
+}

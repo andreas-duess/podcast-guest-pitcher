@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Data-Driven Decisions",
+  "host": "Zontee Hou",
+  "description": "Welcome to \"Data-Driven Decisions\", a marketing podcast hosted by Zontee Hou that looks at the lessons that leaders can take from data to inform the best marketing practices and internal culture. As author of Data-Driven Personalization, Zontee discusses some of the key insights from the book and sits down with marketing experts from a variety of industries.",
+  "rss_url": "https://feeds.libsyn.com/528417/rss",
+  "website": "https://sites.libsyn.com/528417",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "6929792",
+  "last_episode_date": "",
+  "episode_count": 9,
+  "recent_episodes": [
+    {
+      "title": "How Marketing Can Lead the Way with Data",
+      "date": "2024-07-30",
+      "duration": 2322,
+      "audio_url": "https://traffic.libsyn.com/secure/74b7bdc8-1295-4071-ac18-5354751de8c9/EP_8_-_Podcast.mp3?dest-id=4544547",
+      "description": "<p>What happens when marketing truly takes the driver's seat with data and insights? In this episode, we hear from Jenn Chase, Chief Marketing Officer and Executive Vice President at SAS, a company that operates with a data-first culture.</p> <p>Translating Data into Meaningful Insights</p> <p>Jenn explains what insights SAS focuses on from a marketing perspective and how that helps her team and other departments work together to drive results. She talks about the different types of surveys and "
+    },
+    {
+      "title": "How to Find a Balance with Data-Driven Insights",
+      "date": "2024-07-23",
+      "duration": 2629,
+      "audio_url": "https://traffic.libsyn.com/secure/74b7bdc8-1295-4071-ac18-5354751de8c9/EP_7_-_Podcast.mp3?dest-id=4544547",
+      "description": "<p>Data is being used more and more to help businesses make the best decisions, in part thanks to the greater selection of tools available to capture it. But what if you struggle to access that first-party data? And what can you do with data once you do have it?\u00a0</p> <p>A Balanced Approach to Data-Driven Decisions</p> <p>In this episode of Data-Driven Decisions, we sit down with Rand Fishkin, Co-Founder and CEO of SparkToro, an audience research tool that helps organizations understand their aud"
+    },
+    {
+      "title": "How Marketers Can Build a Culture of Data and Experimentation",
+      "date": "2024-07-16",
+      "duration": 2181,
+      "audio_url": "https://traffic.libsyn.com/secure/74b7bdc8-1295-4071-ac18-5354751de8c9/EP_6_-_Podcast_V2.mp3?dest-id=4544547",
+      "description": "<p>How did this non-marketing but data-driven leader become a Chief Marketing Officer? Shafqat Islam, the CMO of Optimizely, may have had an unconventional introduction to marketing, but he brought a wealth of insights on the power of data to his role. Hear how he\u2019s leading Optimizely\u2019s marketing team into building a culture of data and experimentation.</p> <p>Let the Data Do the Talking</p> <p>In this episode of Data-Driven Decisions, we dive deep into the world of marketing data, measurable ta"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "data-driven-decisions",
+  "relevance": "High",
+  "score_reason": "Data-driven marketing and personalization aligns directly with Andreas's expertise in the say-do gap, consumer insights, and using data over gut instinct.",
+  "contact_email": "zontee@convinceandconvert.com",
+  "contact_name": "Zontee Hou",
+  "contact_source": "web_search"
+}

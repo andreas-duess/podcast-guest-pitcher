@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Agency Nation Radio",
+  "host": "Agency Nation - Insurance Marketing and Technology Strategists",
+  "description": "Agency Nation is the leading digital publication helping insurance professionals dominate marketing, sales and technology in the modern marketplace.",
+  "rss_url": "https://feeds.resonaterecordings.com/agency-nation-radio",
+  "website": "https://www.agencynation.com",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Marketing"
+  ],
+  "feed_id": "742502",
+  "last_episode_date": "",
+  "episode_count": 705,
+  "recent_episodes": [
+    {
+      "title": "Agency Leadership in the Age of AI: Kicking Off the ACT 2026 Tech Trends Report",
+      "date": "2026-02-18",
+      "duration": 1999,
+      "audio_url": "https://media.resonaterecordings.com/agency-nation-radio/dd648637-37d0-441c-b447-4a927eef5e71.wav",
+      "description": "In this special kickoff episode tied to the release of the \u201c2026 Big \u2018I\u2019 Agents Council for Technology Tech Trends Report,\u201d Kasey Connors, executive director of the Big \u201cI\u201d Agents Council for Technology (ACT), is joined by Andy Siegel, president of Siegel Insurance, and Michael Mellars, President and COO of Legacy Risk Solutions and members of the ACT National Committee.  \n\nTogether, they unpack what made 2025 a turning point for the insurance industry, from the rapid rise of artificial intellig"
+    },
+    {
+      "title": "Captaining an Independent Agency in Alaska With Susan Erickson",
+      "date": "2026-02-10",
+      "duration": 934,
+      "audio_url": "https://media.resonaterecordings.com/agency-nation-radio/85c00cbc-cb24-4cee-97f0-ff11d0598b6c.mp3",
+      "description": "On this episode of Agency Nation Radio, we meet Susan Erickson, owner of P-W Insurance in Petersburg, Alaska. \n\nBefore leading her agency, Susan Erickson spent seven years working as a deckhand on her husband Jeff\u2019s commercial fishing boat, prior to starting a family and purchasing the insurance agency where she worked. Today, she leads her agency and team in serving their rural coastal community, helping clients navigate the unique challenges and opportunities of Alaska\u2019s panhandle. \n\n\u201cThe geog"
+    },
+    {
+      "title": "Why Hire An Intern: Students Share Their Insurance Industry Experiences",
+      "date": "2026-01-28",
+      "duration": 1669,
+      "audio_url": "https://media.resonaterecordings.com/agency-nation-radio/4c331f7c-53d1-4e5c-887d-bb81342c0e42.mp3",
+      "description": "On this episode of Agency Nation Radio, we feature an installment from Invest\u2019s \u201cWhy Hire an Intern\u201d series.  \n\nHost Johanna Holling, volunteer relations program manager at Invest, chats with three insurance industry interns and Invest scholarship winners: Blake Bartos, a finance and risk management student at Florida State University; Ben Graham, a math student at Stanford University; and Rhania Suarez, an accounting student at the University of Central Florida.  \n\nTogether, they share their fi"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "hello@agencynation.com",
+  "contact_name": "Agency Nation - Insurance Marketing and Technology Strategists",
+  "discovered_date": "2026-02-18",
+  "slug": "agency-nation-radio",
+  "relevance": "Low",
+  "score_reason": "Exclusively focused on insurance agency marketing and technology with no overlap with Andreas's food/agriculture or general B2B marketing expertise."
+}

@@ -1,0 +1,45 @@
+{
+  "source": "podcast_index",
+  "name": "AgriBusiness Global Podcasts",
+  "host": "AgriBusiness Global",
+  "description": "The Ag Tech TALK podcast will cover how ag tech developments are affecting the crop protection market. This includes new products, trends, analysis, and other information that those in the crop protection can use to stay up to date.",
+  "rss_url": "https://agtechtalk.podbean.com/feed.xml",
+  "website": "https://agtechtalk.podbean.com",
+  "language": "en",
+  "categories": [
+    "News"
+  ],
+  "feed_id": "6090094",
+  "last_episode_date": "",
+  "episode_count": 51,
+  "recent_episodes": [
+    {
+      "title": "Using Connected Technology to Protect Grain Quality",
+      "date": "2026-02-12",
+      "duration": 1298,
+      "audio_url": "https://mcdn.podbean.com/mf/web/njdatvunqxkg46jc/AgTechTalk-Ep31_mixdown.mp3",
+      "description": "<p>On this episode of Ag Tech Talk, we sit down with Alan Lockwood, Senior Product Manager for Grain Conditioning at GSI, to explore how connected technologies are transforming grain storage and drying. From real-time monitoring and early spoilage detection to remote dryer management during labor-tight harvest seasons, Lockwood breaks down how tools like GrainView and GSI Connect are helping farmers, retailers, and co-ops protect grain quality, reduce losses, and make smarter operational decisio"
+    },
+    {
+      "title": "Helping Growers Succeed With Biologicals: Certis on Training, Adoption, and Integration",
+      "date": "2026-01-22",
+      "duration": 631,
+      "audio_url": "https://mcdn.podbean.com/mf/web/sstfn63y37ux427u/Ep_8_-_GregoryRogers_mixdown-vs2beqx5.mp3",
+      "description": "<p>In this Sustainable Podcast episode by AgriBusiness Global, Gregory Rogers, Director of Technical Marketing and Communication at Certis Biologicals, outlines what the company does to help growers understand, adopt, and optimize biologicals within integrated crop management programs.</p>\n"
+    },
+    {
+      "title": "Rethinking Land Value in the Age of Modern Agronomy",
+      "date": "2026-01-08",
+      "duration": 534,
+      "audio_url": "https://mcdn.podbean.com/mf/web/fja5hsrw6aiv9m5x/AgTechTalk-Ep30_mixdown.mp3",
+      "description": "<p>In this episode of Ag Tech Talk by AgriBusiness Global (ABG), Jim Zimmer, Operating Partner at Granite Creek Capital and Co-Founder of Moraine Farmland Partners, discusses how farmland valuation is changing in the era of advanced agronomy and precision technology.</p>\n"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "agribusiness-global-podcasts",
+  "relevance": "Medium",
+  "score_reason": "Duplicate listing\u2014same ag-tech crop protection focus as earlier entry."
+}

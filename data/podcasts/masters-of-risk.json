@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Masters of Risk",
+  "host": "S&P Global Market Intelligence",
+  "description": "Welcome to Masters of Risk, a podcast by S&P Global Market Intelligence. I am Stewart Webster, and I'll be your host for the next 30 minutes. Risk evolves fast, especially in the current markets, keeping it top of mind for business leaders today.\u202f Join us monthly as we reach across the globe to speak to business leaders about what keeps them up at night. We'll have it here first, whether it's credit, market volatility, energy, or any other pressing risk issue. Be a part of the conversation.",
+  "rss_url": "https://feeds.libsyn.com/461094/rss",
+  "website": "https://sites.libsyn.com/461094",
+  "language": "en-us",
+  "categories": [
+    "News",
+    "Business"
+  ],
+  "feed_id": "6093909",
+  "last_episode_date": "",
+  "episode_count": 25,
+  "recent_episodes": [
+    {
+      "title": "System Shock: AI, Misinformation, and the New Age of Fragility",
+      "date": "2026-01-28",
+      "duration": 1555,
+      "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/Masters_Of_Risk_S4_Ep1.mp3?dest-id=3889365",
+      "description": "<p >Kicking off Season 4 of Masters of Risk, host Stewart Webster sits down with risk expert Michelle Sartain, President, Marsh US and Canada, for a deep dive into the volatile U.S. risk landscape They explore the top threats identified by business leaders, including\u00a0economic uncertainty, declining workforce health, the rapid spread of misinformation, the dual-edged sword of Artificial Intelligence, and systemic supply chain fragility.\u00a0</p> <p >The conversation emphasizes the profound\u00a0interconne"
+    },
+    {
+      "title": "What risks do you face when launching a business?",
+      "date": "2025-12-05",
+      "duration": 1391,
+      "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/Masters_of_Risk_S3._Ep7_mixdown.mp3?dest-id=3889365",
+      "description": "<p>In this episode of Masters of Risk, host Stewart Webster engages with Michael Brawer, the CEO of Transparency Analytics. With a wealth of experience in executive positions within the financial services industry, Michael has leveraged his insights to establish his own firm. Stewart explores the motivations behind Michael's entrepreneurial journey, the risks he has faced, and the challenges of raising funds to realize his vision. Don't miss this insightful conversation.</p> <p>More S&P Global C"
+    },
+    {
+      "title": "AI Data Centers: How Energy Keeps Them Running Part 2",
+      "date": "2025-10-20",
+      "duration": 2500,
+      "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/Masters_of_Risk_S3_E6_Wish_Bakhari_part_2_final_mixdown.mp3?dest-id=3889365",
+      "description": "<p>In this episode of \"Masters of Risk\" host Stewart Webster engages in the second part of a compelling conversation with Wish Bakshi, Founder & AI Systems Engineer of AQ Energy. In this two-part episode they have an in-depth conversation about AI data centers, digital infrastructure, the complex energy systems behind them in a world where the demand is high and the risks are increasing. Wish gives us two episodes to unpack all the intricacies from grid stress and financial risk to supply chain "
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "S&P Global Market Intelligence",
+  "discovered_date": "2026-02-18",
+  "slug": "masters-of-risk",
+  "relevance": "Low",
+  "score_reason": "Focuses on enterprise risk management and business continuity rather than marketing, AI strategy, or industry transformation relevant to Andreas."
+}

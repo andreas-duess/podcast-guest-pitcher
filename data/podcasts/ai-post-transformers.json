@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "AI: post transformers",
+  "host": "mcgrof",
+  "description": "The transformer architecture revolutionized the world of Neural Networks. It was a springboard for what we know today as modern artificial intelligence. This podcast focuses on modern state of the art research paper reviews starting from the transformer and on.",
+  "rss_url": "https://anchor.fm/s/1080af308/podcast/rss",
+  "website": "https://podcasters.spotify.com/pod/show/12146088098",
+  "language": "en",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "7489998",
+  "last_episode_date": "",
+  "episode_count": 402,
+  "recent_episodes": [
+    {
+      "title": "Intelligent AI Delegation",
+      "date": "2026-02-17",
+      "duration": 1008,
+      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115642687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418285902-44100-2-cb7e6caa83f68.m4a",
+      "description": "<p>We review the research paper from Google DeepMind published on February 12, 2026, which proposes an \"Intelligent AI Delegation\" framework designed to manage how autonomous agents distribute tasks among themselves and humans. This framework integrates accountability, trust calibration, and safety protocols to ensure that multi-agent networks remain reliable in high-stakes environments. Together, these sources highlight a transition toward a global digital economy that relies on programmable as"
+    },
+    {
+      "title": "Agentic Plan Caching: Fast and Cost-Efficient LLM Memory",
+      "date": "2026-02-17",
+      "duration": 736,
+      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115639745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418281870-44100-2-fc97ab85eb6a7.m4a",
+      "description": "<p>Agentic Plan Caching (APC), described in the paper published by Stanford researchers on January 26, 2026, lets AI agents reuse structured plan templates from prior executions instead of re-invoking expensive LLMs for every new task. It achieved 76% cost reduction on benchmarks.</p><p><br /></p><p>Using different sources we create projections for growth using a simple growth model:</p><p><br /></p><p>Plans/year = ActiveAgents x PlansPerDay x 365, and Storage = Plans x BytesPerPlan</p><p><br />"
+    },
+    {
+      "title": "Jet-RL: Stable On-Policy Reinforcement Learning with Unified FP8 Flow",
+      "date": "2026-02-17",
+      "duration": 955,
+      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115635101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275644-44100-2-2ade46f9dc271.m4a",
+      "description": "<p>NVIDIA researchers have introduced Jet-RL, a novel framework designed to accelerate the training of large language models through **FP8 reinforcement learning**. Standard methods often use lower precision only for the **rollout phase**, which creates a numerical mismatch that causes **training instability** and accuracy loss during complex tasks. **Jet-RL** solves this by enforcing a **unified precision flow**, ensuring that both the training and generation stages utilize consistent **FP8 qua"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "mcgrof@do-not-panic.com",
+  "contact_name": "mcgrof",
+  "discovered_date": "2026-02-18",
+  "slug": "ai-post-transformers",
+  "relevance": "Low",
+  "score_reason": "Deep technical research paper reviews about neural networks architecture, not business/strategy focused."
+}

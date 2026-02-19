@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Super Powered: Leadership, Strategy, Decision Making & Peak Performance - Stories & Strategies from World-Class Performers for Executive Success",
+  "host": "Rob D. Willis",
+  "description": "Want to know how elite performers really think? Not just in business, but across every high-stakes field imaginable?\nSuper Powered brings you inside the minds of extraordinary achievers who've mastered success in the world's most demanding environments. From the boardroom to the poker table, from crisis zones to Formula 1 pits - these are the people who've cracked the code of peak performance when it matters most.\nEach week, you'll hear from two types of leaders:\n\u2022 Business innovators with unexp",
+  "rss_url": "https://feeds.captivate.fm/superpowered/",
+  "website": "https://robdwillis.com/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Careers",
+    "Education",
+    "Self Improvement",
+    "Management"
+  ],
+  "feed_id": "6423944",
+  "last_episode_date": "",
+  "episode_count": 52,
+  "recent_episodes": [
+    {
+      "title": "How to Navigate Uncertainty with Systems Thinking - Donna Dupont",
+      "date": "2025-07-04",
+      "duration": 1895,
+      "audio_url": "https://episodes.captivate.fm/episode/51e23bb7-f68b-4ba0-ab18-15e956478ecd.mp3",
+      "description": "<p>Ever feel overwhelmed when everything seems to be changing at once? </p><p>Donna Dupont transforms that chaos into clarity using systems thinking. She spots patterns others miss and finds leverage points in complex situations that can transform how leaders make decisions under uncertainty.</p><p>With over 25 years helping organisations navigate complexity\u2014from H1N1 and Ebola responses to NATO climate security projects\u2014Donna brings battle-tested frameworks from the front lines of crisis manage"
+    },
+    {
+      "title": "How to Talk to Anyone Like a Barber - Tom Davies",
+      "date": "2025-06-27",
+      "duration": 1838,
+      "audio_url": "https://episodes.captivate.fm/episode/fb750110-9bc1-4a8d-b279-a33af2dcc78b.mp3",
+      "description": "<p>Ever wondered how barbers get complete strangers to open up within minutes? </p><p>Tom Davies has mastered this art whilst cutting hair across continents. From serving in the military to building a loyal following as \"Yorkshireman Abroad\" on TikTok, he's learned to connect with everyone from closed-off Russians to addiction-struggling regulars.</p><p>Working at an upscale English-speaking barbershop in Berlin\u2014one of Europe's most diverse cities\u2014Tom spends 45 minutes with each client, transfor"
+    },
+    {
+      "title": "How to Unlock The Hidden Power of Conversations - Ian Rowland",
+      "date": "2025-06-20",
+      "duration": 1763,
+      "audio_url": "https://episodes.captivate.fm/episode/c4cb8fb0-7cd9-4fed-a34e-a7971277e02a.mp3",
+      "description": "<p>Ever wonder why some people can walk into any room and instantly connect with strangers? </p><p>Ian Rowland has spent 40 years mastering this exact skill. As a professional explainer who's worked with everyone from the FBI to Google to Coca-Cola, he's discovered that most of us squander 99% of the potential in our conversations.</p><p>From being a member of the Magic Circle to becoming a freelance writer with four decades of experience, Ian understands the power of attention and human connect"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "super-powered-leadership-strategy-decision-making-peak-performance-stories-strat",
+  "relevance": "Medium",
+  "score_reason": "High-level leadership and strategy focus fits Andreas's business leader audience, though less specific to his AI/marketing/traditional industry niche."
+}

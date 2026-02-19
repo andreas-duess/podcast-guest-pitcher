@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "AI Business Podcast",
+  "host": "Daniel Faggella",
+  "description": "The AI Business Podcast features interviews and insights with some of the AI industry's biggest names. Presented by seasoned technology journalists, the podcast includes conversations regarding some of the most cutting-edge applications of artificial intelligence.",
+  "rss_url": "https://anchor.fm/s/226b6724/podcast/rss",
+  "website": "https://aibusiness.com",
+  "language": "en",
+  "categories": [
+    "News"
+  ],
+  "feed_id": "570454",
+  "last_episode_date": "",
+  "episode_count": 85,
+  "recent_episodes": [
+    {
+      "title": "Unlocking Networking Potential With Generative AI",
+      "date": "2024-04-17",
+      "duration": 1745,
+      "audio_url": "https://anchor.fm/s/226b6724/podcast/play/85483591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-16%2F374489172-44100-2-83a26538bbeee.m4a",
+      "description": "<p>Sharon Mandell CIO at Juniper Networks joins the AI Business Podcast to discuss how the networking firm is using generative AI.</p>\n<p><br></p>"
+    },
+    {
+      "title": "Embedding AI in the Enterprise With IBM's Watson X",
+      "date": "2024-04-04",
+      "duration": 1972,
+      "audio_url": "https://anchor.fm/s/226b6724/podcast/play/84560287/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-26%2F372237073-44100-2-64336a8eda0dc.m4a",
+      "description": "<p>Ebru Binboga, director of data AI and automation for United Kingdom and Ireland at IBM technology sales, joins the AI Business Podcast to discuss Watson X, IBM's groundbreaking generative AI enterprise platform.</p>"
+    },
+    {
+      "title": "Schneider Electric CAIO on AI and Sustainability",
+      "date": "2024-03-13",
+      "duration": 1920,
+      "audio_url": "https://anchor.fm/s/226b6724/podcast/play/83758126/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-8%2F370208175-44100-2-538ddcd77fe9c.m4a",
+      "description": "<p>Philippe Rambach joins AI Business Editor Deborah Yao to discuss how Schneider Electric uses AI to meet its sustainability goals and also helps its customers meet theirs. He shares his views on generative AI as well and explains why he believes it is a niche capability for companies, at least for now.</p>\n<p>\n</p>"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "ai-business-podcast",
+  "relevance": "High",
+  "score_reason": "Features interviews with enterprise AI leaders about practical AI applications, perfect match for Andreas's AI-in-traditional-industries expertise.",
+  "contact_email": "daniel@emerj.com",
+  "contact_name": "Daniel Faggella",
+  "contact_source": "web_search"
+}

@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Data Driven - Learn essential data literacy, AI and storytelling skills to future proof your career and fuel data informed decisions",
+  "host": "Dominic Bohan (Story IQ)",
+  "description": "Welcome to the Data Driven Podcast, where we dive deep into getting more value from our business data. Hosted by Dominic Bohan, Co-Founder of StoryIQ, this podcast features engaging interviews with experts in analytics, data literacy, data storytelling, artificial intelligence and data education, as well as stories of real-world professionals who have harnessed the power of data to impact their organizations. Whether you're a data professional, business leader, or just someone curious about deve",
+  "rss_url": "https://rss.art19.com/data-driven",
+  "website": "https://art19.com/shows/data-driven",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "6412294",
+  "last_episode_date": "",
+  "episode_count": 106,
+  "recent_episodes": [
+    {
+      "title": "Personalizing Employee Relationships with AI",
+      "date": "2024-03-28",
+      "duration": 1417,
+      "audio_url": "https://rss.art19.com/episodes/2c37d0b9-fde6-4d1b-bb11-76d035010602.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "description": "<p>Carolyn Clark, Vice President of Employee Experience Strategy at Simpplr, discusses AI in employee engagement. Forward-thinking businesses recognize internal communications as a key strategic asset, acknowledging its role in fostering retention, revenue growth, and heightened productivity. Yet, quantifying the direct influence of communication initiatives on business results poses a challenge. Today, Carolyn shares her insights on measuring the impact of internal comms on employee engagement."
+    },
+    {
+      "title": "AI-Driven Employee Engagement",
+      "date": "2024-03-27",
+      "duration": 1681,
+      "audio_url": "https://rss.art19.com/episodes/42c4f10a-aa6e-4666-b7fe-05f8fb0760e5.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "description": "<p>Carolyn Clark, Vice President of Employee Experience Strategy at Simpplr, discusses AI in employee engagement. Using AI, companies can efficiently analyze vast amounts of data, anticipate employee needs, and deliver tailored experiences. This contrasts with manual engagement efforts that often rely on limited data interpretation, resulting in a less efficient approach to boosting employee morale and satisfaction. Today, Carolyn shares her insights on AI-driven engagement.</p><p>Connect With:\u00a0"
+    },
+    {
+      "title": "Data Driven L&D Evaluation",
+      "date": "2024-03-22",
+      "duration": 1014,
+      "audio_url": "https://rss.art19.com/episodes/d19d9a47-fc70-46c2-ad38-658bf47b79a3.mp3?rss_browser=BAhJIg9BZ2dyaXZhdG9yBjoGRVQ%3D--5373ab09f7e0575889ee994727fc435324328290",
+      "description": "<p>Christina Duarte, Group Manager of Sales Learning Operations at Intuit, delves into data-driven learning and development. When building learning programs, it's pivotal to rely on pre-training data rather than impulsive decisions. Assessing current team performance and identifying skill gaps are crucial steps in gauging the impact of training initiatives through pre and post-training measurements. Today, Christina discusses data-driven L&D evaluation.</p><p>Connect With:\u00a0</p>Christina Duarte:\u00a0"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "podcast@datadrivenpod.com",
+  "contact_name": "I Hear Everything",
+  "discovered_date": "2026-02-18",
+  "slug": "data-driven-learn-essential-data-literacy-ai-and-storytelling-skills-to-future-p",
+  "relevance": "High",
+  "score_reason": "Data literacy, AI, and data-informed decisions align perfectly with Andreas's \"intelligence economy\" message and say-do gap research expertise."
+}

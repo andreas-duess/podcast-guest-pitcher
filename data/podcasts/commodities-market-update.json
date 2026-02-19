@@ -1,0 +1,34 @@
+{
+  "source": "podcast_index",
+  "name": "Commodities Market Update",
+  "host": "Ajay Kedia",
+  "description": "Testing",
+  "rss_url": "https://media.rss.com/kediaadvisory/feed.xml",
+  "website": "https://rss.com/podcasts/kediaadvisory",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing",
+    "Education",
+    "How To"
+  ],
+  "feed_id": "5300200",
+  "last_episode_date": "",
+  "episode_count": 1,
+  "recent_episodes": [
+    {
+      "title": "Kedia Commodity Morning Podcast as on Mar 31, 2022",
+      "date": "2022-03-31",
+      "duration": 667,
+      "audio_url": "https://media.rss.com/kediaadvisory/20220331_040301_4b7e3f886afba22712b50417350b4ac8.mp3",
+      "description": "<p>SEBI REGISTRATION NUMBER - INH000006156 Disclaimer: https://bit.ly/2ziDavw ****************************************************************************************** Download Kedia Advisory app now available on Play Store: https://tinyurl.com/yd8463h4 You can also visit our website:- http://kediaadvisory.com/index.aspx Follow us on Twitter:- https://twitter.com/kediaadvisory Get latest updates on Telegram:- https://t.me/kediaadvisoryalerts Subscribe to our Youtube channel:- https://tinyurl.co"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "commodities-market-update",
+  "relevance": "Low",
+  "score_reason": "This appears to be a daily market update focused on commodity trading prices and technical analysis, not a guest interview show, and doesn't align with Andreas's marketing/AI expertise."
+}

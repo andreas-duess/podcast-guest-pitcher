@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "HOW TO MAKE WISE DECISIONS IN LIFE",
+  "host": "Shiva Aithal",
+  "description": "A series of Lectures for UG and PG Students on aspects of \"Taking Decisons\"",
+  "rss_url": "https://anchor.fm/s/140c33c0/podcast/rss",
+  "website": "https://podcasters.spotify.com/pod/show/shiva-aithal",
+  "language": "en",
+  "categories": [
+    "Education",
+    "Self Improvement"
+  ],
+  "feed_id": "1008383",
+  "last_episode_date": "",
+  "episode_count": 3,
+  "recent_episodes": [
+    {
+      "title": "Episode 03: FOBO Fear of Better Options",
+      "date": "2020-02-21",
+      "duration": 693,
+      "audio_url": "https://anchor.fm/s/140c33c0/podcast/play/10532438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-21%2F51647432-16000-1-2099c8e429ae.mp3",
+      "description": "<p>The Fear of Better Options (FOBO) is The Reason You Can\u2019t Make a Tough Decisions, a phenomenon for fear that you\u2019ll miss out on the \u201cbest\u201d one, leading to indecision, frustration, stress, regret, and unhappiness.<br>\n</p>\n--- \nSupport this podcast: https://podcasters.spotify.com/pod/show/shiva-aithal/support"
+    },
+    {
+      "title": "Episode 02: Role of Solutions, Anger and Being Judmental in decision makimg",
+      "date": "2020-02-18",
+      "duration": 516,
+      "audio_url": "https://anchor.fm/s/140c33c0/podcast/play/10459045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-18%2F50680690-8000-1-3b0965a4abab6.mp3",
+      "description": "<p>Finding Solutions and how Anger and Being Judmental affects decision makimg\u00a0</p>\n--- \nSupport this podcast: https://podcasters.spotify.com/pod/show/shiva-aithal/support"
+    },
+    {
+      "title": "Episode 01: Introduction. The 7 Components of being human.",
+      "date": "2020-02-17",
+      "duration": 569,
+      "audio_url": "https://anchor.fm/s/140c33c0/podcast/play/10433365/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-1-17%2F50307239-8000-1-6ab542e7c0d1f.mp3",
+      "description": "<p>A Value Added Course on \"How to Make Wise Decisions in Life\" by Dr. Shiva C. Aithal, DSM College, Parbhani, Maharashtra, INDIA</p>\n--- \nSupport this podcast: https://podcasters.spotify.com/pod/show/shiva-aithal/support"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "how-to-make-wise-decisions-in-life",
+  "relevance": "Low",
+  "score_reason": "Student-focused life decisions lecture series, not a business podcast with external guest interviews."
+}

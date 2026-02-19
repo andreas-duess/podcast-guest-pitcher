@@ -1,0 +1,45 @@
+{
+  "source": "podcast_index",
+  "name": "LatAm UnBoxed",
+  "host": "Diego Rodr\u00edguez, Logistics Practice Director at Americas Market Intelligence",
+  "description": "LatAm Unboxed is your quick, no-fluff dive into the logistics and industry trends shaping Latin America. In under 10 minutes, we provide authentic insights from regional experts, cutting through the media noise to highlight what\u2019s really happening on the ground. Fast, fresh, and focused\u2014your go-to source for staying ahead in LatAm powered by Americas Market Intelligence.",
+  "rss_url": "https://rss.buzzsprout.com/2468751.rss",
+  "website": "https://latamunboxed.buzzsprout.com",
+  "language": "en-us",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "7490356",
+  "last_episode_date": "",
+  "episode_count": 6,
+  "recent_episodes": [
+    {
+      "title": "What China's Latest Policy Paper Could Mean for the LatAm Logistics Industry",
+      "date": "2026-01-15",
+      "duration": 1074,
+      "audio_url": "https://www.buzzsprout.com/2468751/episodes/18470355-what-china-s-latest-policy-paper-could-mean-for-the-latam-logistics-industry.mp3",
+      "description": "<p>In this episode, we highlight key takeaways from China\u2019s Policy Paper on Latin America and the Caribbean, published in December 2025, and what this could mean LatAm governments and businesses, especially in logistics.</p><p>To help us parse this policy paper, we are joined by R. Evan Ellis, Research Professor of Latin American Studies at the US Army War College.</p><p>Don\u2019t miss the opportunity to understand China\u2019s approach in the region and how this could affect your business.</p>"
+    },
+    {
+      "title": "4 Mega-Trends Impacting LatAm Logistics Beyond Just 2026",
+      "date": "2025-12-09",
+      "duration": 1073,
+      "audio_url": "https://www.buzzsprout.com/2468751/episodes/18328024-4-mega-trends-impacting-latam-logistics-beyond-just-2026.mp3",
+      "description": "<p>In this episode, we break down <b>four massive forces</b> reshaping Latin America\u2019s logistics landscape over the next few years:</p>Global supply chain disruptionDeregulation driven by a rightward political shiftRising Asian business influenceExpanding technology investments<p>But we\u2019re not just explaining what's happening \u2014 <b>we're translating each mega-trend into actionable strategy.</b></p><p>For every force, we spell out what logistics companies should be doing right now and why these mo"
+    },
+    {
+      "title": "El futuro energ\u00e9tico de Colombia sopla desde La Guajira",
+      "date": "2025-11-12",
+      "duration": 888,
+      "audio_url": "https://www.buzzsprout.com/2468751/episodes/18179756-el-futuro-energetico-de-colombia-sopla-desde-la-guajira.mp3",
+      "description": "<p>En este episodio, Diego Rodr\u00edguez Paez \u2014director de la pr\u00e1ctica log\u00edstica de Americas Market Intelligence\u2014 entrevista a Luis Guillermo Baquero, Gerente Mesa ANDI La Guajira. ANDI son las siglas de la Asociaci\u00f3n Nacional de Empresarios de Colombia y La Guajira es uno de los departamentos del pa\u00eds.</p><p>Luis trabaja con empresas del sector minero energ\u00e9tico, articulando esfuerzos para fomentar la viabilidad de proyectos de energ\u00edas renovables en La Guajira.\u00a0</p><p>En la entrevista va explicand"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "latam-unboxed",
+  "relevance": "Low",
+  "score_reason": "Highly specialized in Latin American logistics and supply chain with no overlap with marketing, AI, or Andreas's food/agriculture marketing expertise."
+}

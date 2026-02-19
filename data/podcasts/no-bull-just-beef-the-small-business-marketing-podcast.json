@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "No Bull, Just Beef - The Small Business Marketing Podcast",
+  "host": "Jo and Todd",
+  "description": "Tune into the Spaghetti Agency Podcast for the best in small business marketing. We\u2019re here to tackle social media, content, AI, and ads with a straightforward approach. Join us for episodes filled with practical tips, humour, honest insights, and no fluff. Spaghetti Agency: No Bull, Just Beef. Let\u2019s make marketing exciting and effective, together.",
+  "rss_url": "https://feed.podbean.com/spaghettiagency/feed.xml",
+  "website": "https://spaghettiagency.podbean.com",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "6837361",
+  "last_episode_date": "",
+  "episode_count": 23,
+  "recent_episodes": [
+    {
+      "title": "EP 23: From Shit Show to Systems \u2013 Getting Your Business Organised",
+      "date": "2026-02-05",
+      "duration": 3386,
+      "audio_url": "https://mcdn.podbean.com/mf/web/hih79bbmmii58kiv/NBJBEP23.mp3",
+      "description": "<p>In this episode of\u00a0No Bull, Just Beef, Todd and Jo get brutally honest about what it really looks like to run a small business that\u2019s more chaos than control - and how they dragged Spaghetti Agency out of that mess.</p>\n<p>They unpack the tell-tale signs your business is a total shit show: turning up late to meetings, terrible password management, no CRM, hunting for your own logo, and flying blind on numbers.</p>\n<p>You\u2019ll hear how COVID and a business coach forced them to grow up: putting i"
+    },
+    {
+      "title": "EP 22: The Spagmas Episode \u2013 End of Year Reflections & Ridiculousness",
+      "date": "2025-12-14",
+      "duration": 2434,
+      "audio_url": "https://mcdn.podbean.com/mf/web/jrd9weztpgnc2q49/NBJB_EP22_Podcast69zch.mp3",
+      "description": "<p>'Tis the season to debrief the chaos!</p>\n<p>In this festive end-of-year special, Jo is joined by Hannah, Becky, and Sam for a full-team rundown of what really happened in 2025. From standout marketing wins and Expo antics to AI launches and savage one-liners, no topic (or team member) is safe.</p>\n<p>Expect surprise stats, questionable quotes, behind-the-scenes laughs, and some surprisingly heartfelt moments as the team reflects on what made this year a big one for Spaghetti Agency.</p>\n"
+    },
+    {
+      "title": "EP 21: Beige Is a Choice \u2013 How to Stand Out in the Age of AI",
+      "date": "2025-11-19",
+      "duration": 3055,
+      "audio_url": "https://mcdn.podbean.com/mf/web/z4yu3v8v7ivadjqp/NBJB_EP_21alzrn.mp3",
+      "description": "<p >AI can write your posts, plan your content, and maybe even impersonate your brand voice. But does that mean it should?</p>\n<p >\u00a0</p>\n<p >In this episode of No Bull Just Beef, Todd and Jo dive headfirst into the AI hype - and pull no punches. From lazy marketing shortcuts and microwave analogies to deep discomfort with AI-generated music, they explore the messy space between efficiency and authenticity.</p>\n<p >\u00a0</p>\n<p >Expect hot takes, real talk, and a surprising number of references to On"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "no-bull-just-beef-the-small-business-marketing-podcast",
+  "relevance": "Medium",
+  "score_reason": "Covers AI, content, and marketing for small businesses with practical approach, potentially relevant but audience may be smaller-scale than Andreas's typical clients.",
+  "contact_email": "howdy@spaghettiagency.co.uk",
+  "contact_name": "Jo and Todd",
+  "contact_source": "web_search"
+}

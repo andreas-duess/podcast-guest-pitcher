@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Dentons Agribusiness Podcast Series",
+  "host": "Dentons",
+  "description": "Podcast series looking at a key pillar to the Canada\u2019s economic system, the agriculture and agri-food sector.  From farming to distribution, advancements in ag-tech, food producers and manufacturers, this podcast series will exam the vast ecosystem that encompasses everything agriculture.",
+  "rss_url": "https://feeds.captivate.fm/dentons-agribusiness/",
+  "website": "https://dentons-agribusiness.captivate.fm",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Entrepreneurship",
+    "Investing"
+  ],
+  "feed_id": "3941814",
+  "last_episode_date": "",
+  "episode_count": 19,
+  "recent_episodes": [
+    {
+      "title": "Advancing superfood innovation and unlocking the power of the Haskap Berry",
+      "date": "2025-04-22",
+      "duration": 2572,
+      "audio_url": "https://podcasts.captivate.fm/media/3b3c9088-bcd1-4691-91d1-cdea95cf907d/Brand-164383-Women-in-Leadership-Podcast-Kiren-Singh-1.mp3",
+      "description": "<p>In episode 19,\u00a0Heather Barnhouse\u00a0speaks with\u00a0Kiren Singh, Co-Founder of Haskalife, a Canadian company specializing in developing products from the haskap berry, a superfood native to northern boreal regions. Kiren shares her journey from a 30-year corporate career in the energy sector to founding Haskalife, discussing the challenges of educating consumers about the berry\u2019s health benefits and its potential in the agribusiness market. She highlights the importance of collaboration and the grow"
+    },
+    {
+      "title": "Supporting farm and food businesses through mentorship and strategic growth",
+      "date": "2025-03-26",
+      "duration": 1826,
+      "audio_url": "https://podcasts.captivate.fm/media/589a11c5-d7cd-406e-af76-7221475c1eae/Brand-158659-Women-in-Leadership-Podcast-Katy-Chang-2.mp3",
+      "description": "<p>In episode 18,\u00a0Heather Barnhouse\u00a0speaks with\u00a0Katy Chang, Founder and Executive Chef of EatsPlace, a Community Development Financial Institution (CDFI) that supports farm and food businesses. In this episode, Katy shares her journey from chef to leader, highlighting the critical role of strategic mentorship in empowering agribusinesses to navigate challenges such as financial literacy, access to capital, and overcoming regulatory barriers. Katy also discusses her plans to expand EatsPlace to A"
+    },
+    {
+      "title": "Farming Success: tax strategies, business tools, and risk prevention",
+      "date": "2025-02-26",
+      "duration": 907,
+      "audio_url": "https://podcasts.captivate.fm/media/893bac79-7889-49b9-a98b-92bca56debbf/Brand-156599-AG-Tax-Soundbite-Series-Session-2.mp3",
+      "description": "<p>Heather Barnhouse, KC,\u00a0Keith Hennel\u00a0and\u00a0Adam Kotlowitz\u00a0return to review key considerations that can help set farmers up for success. They will talk about the Canadian Entrepreneurs Incentive, capital gains exemptions, pros and cons of incorporation and joint ventures, what to look for when obtaining tax and legal advice, and how to help prevent risks and disputes along the way.</p>"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "dentons-agribusiness-podcast-series",
+  "relevance": "High",
+  "score_reason": "Canadian agribusiness ecosystem focus with business strategy angle perfectly suits Andreas's 6 Seeds work and agency exit story."
+}

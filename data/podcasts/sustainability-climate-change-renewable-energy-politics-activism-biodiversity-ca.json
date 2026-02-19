@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Sustainability, Climate Change, Renewable Energy, Politics, Activism, Biodiversity, Carbon Footprint, Wildlife, Regenerative Agriculture, Circular Economy, Extinction, Net-Zero \u00b7 One Planet Podcast",
+  "host": "Mia Funk",
+  "description": "The story of our environment may well be the most important story this century. We focus on issues facing people and the planet. Leading environmentalists, organizations, activists, and conservationists discuss meaningful ways to create a better and more sustainable future.\nParticipants include EARTHDAY.ORG, Greenpeace, UNESCO World Heritage Centre, PETA, European Environment Agency, Peter Singer, 350.org, UNESCO Mahatma Gandhi Institute of Education for Peace and Sustainable Development, Citize",
+  "rss_url": "https://media.rss.com/oneplanet/feed.xml",
+  "website": "https://www.creativeprocess.info/pod",
+  "language": "en",
+  "categories": [
+    "Science",
+    "Earth"
+  ],
+  "feed_id": "4488328",
+  "last_episode_date": "",
+  "episode_count": 547,
+  "recent_episodes": [
+    {
+      "title": "Who Are We? What Makes Us Care? Jim Shepard, Neil Patrick Harris, John Patrick Shanley & Artists Share Their Stories",
+      "date": "2026-02-11",
+      "duration": 837,
+      "audio_url": "https://content.rss.com/episodes/301089/2542947/oneplanet/2026_02_11_21_13_12_5d705850-82ba-4fb3-a993-fa1c85dec28a.mp3",
+      "description": "<p>Can curiosity and empathy be taught? How can we expand our sense of solidarity through stories? In this episode, we explore the internal dialogues of artists, actors and writers to ask what it means to step into someone else's shoes.</p><p>(0:00) Novelist  Jim Shepard discusses Literature as a Tool for Emotional Education and Exploring History</p><p>(2:05) Tony Award-winning Actor Neil Patrick Harris on Being Moved by Theater and its Ability to Bridge Worlds</p><p>(3:55) Novelist Katie Kitamu"
+    },
+    {
+      "title": "The Wisdom of Nature: Artists & Scientists on The Beauty & Fragility of Our Planet",
+      "date": "2026-01-09",
+      "duration": 1076,
+      "audio_url": "https://content.rss.com/episodes/301089/2450000/oneplanet/2026_01_09_13_09_04_4b8d2bde-392d-4602-830c-e6a020152e50.mp3",
+      "description": "<p>In this special edition, we hear from our guests from across the arts and sciences. From composers and poets to forest ecologists and climate envoys, they tell the story of our planet. Moving beyond the data of destruction, we explore the intelligence of nature, the ethics of what we eat, and the empathy required to save our future.</p><p>MAX RICHTER, Composer, Sleep, The Blue Notebooks</p><p>CARL SAFINA, Author, Becoming Wild</p><p>ADA LIM\u00d3N, 24th US Poet Laureate</p><p>CYNTHIA DANIELS, Gram"
+    },
+    {
+      "title": "The Musician Who Sings to Animals - PLUMES on Trust & Cross-Species Communication - Highlights",
+      "date": "2025-12-31",
+      "duration": 726,
+      "audio_url": "https://content.rss.com/episodes/301089/2421957/oneplanet/2025_12_31_13_37_16_f552eb31-e5e0-4fae-a5d6-1a9a75ea80fd.mp3",
+      "description": "<p>On Music, Trust and Connection with the Animal World</p><p>\u201cMostly I\u2019ll play in a minor key, something sad, which I think can work for an animal because they can sense the sadness, and they try to reassure me and comfort me. I chose love songs because I'm convinced they are very intuitive and they can sense what I am trying to say to them, and profess my love in a way. I think there's always a way to connect, and if you're being cautious and don't threaten the animals, something beautiful can"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "sustainability-climate-change-renewable-energy-politics-activism-biodiversity-ca",
+  "relevance": "Low",
+  "score_reason": "Focuses on environmental activism and sustainability rather than business strategy, marketing, or AI in traditional industries."
+}

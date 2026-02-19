@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Healthy Competition: Product Marketing | Competitive Intelligence | Strategy",
+  "host": "Andy McCotter-Bicknell",
+  "description": "This show has one simple goal: help you stand out and win in B2B tech. So in each episode, we interview founders, investors, and industry leaders to walk us through their businesses, differentiators, and how they stay on top of their markets + competitors.\n \nwww.healthycompetition.co",
+  "rss_url": "https://anchor.fm/s/8fdd70b8/podcast/rss",
+  "website": "Healthycompetition.co",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "5437651",
+  "last_episode_date": "",
+  "episode_count": 64,
+  "recent_episodes": [
+    {
+      "title": "Special Announcement \ud83d\udc9a",
+      "date": "2025-11-05",
+      "duration": 1288,
+      "audio_url": "https://anchor.fm/s/8fdd70b8/podcast/play/110745100/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-5%2F53509f21-8133-fe4c-ad4f-9bf35ea4057b.mp3",
+      "description": "<p>Hi! It's been a while. Tune in to hear an important update about the future of Healthy Competition :-)</p>"
+    },
+    {
+      "title": "Quick lil announcement",
+      "date": "2024-03-10",
+      "duration": 168,
+      "audio_url": "https://anchor.fm/s/8fdd70b8/podcast/play/83837556/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2024-2-10%2F370419893-44100-1-80546a885f7c5.m4a",
+      "description": "listen :-)"
+    },
+    {
+      "title": "April Dunford: Nailing Competitive Positioning",
+      "date": "2023-12-18",
+      "duration": 2162,
+      "audio_url": "https://anchor.fm/s/8fdd70b8/podcast/play/80184440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-18%2F360444966-44100-2-90df18694b786.m4a",
+      "description": "<p>April Dunford is the world's leading expert on positioning for B2B tech companies and the author of 'Obviously Awesome' as well as the newly released 'Sales Pitch.'</p>\n<p><br></p>\n<p>We focused on how competitive intel and positioning intersect in business:</p>\n<p>- bashing \"approaches,\" not competitors</p>\n<p>- the importance of positioning your competitors</p>\n<p>- when to mention competitors (and when to leave them be)</p>\n<p>- why you shouldn't be scared of talking about competitors</p>\n"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "andy@healthycompetition.co",
+  "contact_name": "Andy McCotter-Bicknell",
+  "discovered_date": "2026-02-18",
+  "slug": "healthy-competition-product-marketing-competitive-intelligence-strategy",
+  "relevance": "High",
+  "score_reason": "Interviews founders and leaders about B2B differentiation and competitive strategy, ideal for Andreas's agency-building story and AI-driven intelligence economy insights."
+}

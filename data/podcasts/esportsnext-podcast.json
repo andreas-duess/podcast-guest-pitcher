@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "EsportsNext Podcast",
+  "host": "Esports Trade Association",
+  "description": "The EsportsNext Podcast showcases prominent industry leaders and professionals from the EsportsNext conference, the annual event hosted by the Esports Trade Association. This conference is a key networking hub for the esports industry. Tune in with hosts John Davidson and Megan Van Petten as they engage with experts who share their insights and experiences in the world of esports.",
+  "rss_url": "https://feeds.captivate.fm/esportsnext-podcast/",
+  "website": "https://esportsta.org/",
+  "language": "en",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "5557883",
+  "last_episode_date": "",
+  "episode_count": 92,
+  "recent_episodes": [
+    {
+      "title": "EsportsNext Podcast Episode 19: Michele Togashi",
+      "date": "2025-03-04",
+      "duration": 501,
+      "audio_url": "https://podcasts.captivate.fm/media/f091e1fa-4434-4fa2-a2c1-1ceaf62d7ed2/Michele-Togashi-EsportsNext-1-MP3.mp3",
+      "description": "<p>Welcome to the EsportsNext Podcast, hosted by Adam Joshua! In this episode, we are thrilled to have Michele Togashi, an Assistant Professor of Business and Esports Gaming at Atlantic Cape Community College. Michele brings a wealth of academic and industry experience, serving on the ACCC Esports Board and as an active member of the Esports Trade Association.</p><p>Join us as Michele discusses her journey in esports education, the opportunities she sees for students in the field, and how busine"
+    },
+    {
+      "title": "EsportsNext Podcast Episode 18: James O'Hagan",
+      "date": "2025-02-18",
+      "duration": 1049,
+      "audio_url": "https://podcasts.captivate.fm/media/4fc74bbf-ff31-4f53-bb54-11b5043ccef1/James-O-Hagan-EsportsNext-1-MP3.mp3",
+      "description": "<p>Welcome to the EsportsNext Podcast, hosted by Adam Joshua, professional entertainer and esports enthusiast! Today, we\u2019re excited to welcome James O'Hagan, Founder of The Academy of Esports. With over 20 years of experience in education, James has been at the forefront of integrating esports as a tool for student engagement and learning.</p><p>In this episode, James takes us through his journey into esports, which began with Rockford Public Schools in 2013. He shares how esports has become a p"
+    },
+    {
+      "title": "EsportsNext Podcast Episode 17: Vijay Koduri",
+      "date": "2025-02-04",
+      "duration": 1100,
+      "audio_url": "https://podcasts.captivate.fm/media/9242105a-7bee-4544-9067-68f95ebe0c20/Vijay-Koduri-EsportsNext-MP3.mp3",
+      "description": "<p>Welcome to the EsportsNext Podcast, hosted by professional entertainer Adam Joshua! Today, we\u2019re excited to feature Vijay Koduri, co-founder of Sizzle.gg, an innovative startup that leverages AI to automate gaming highlights. Vijay, an entrepreneur and ex-Googler, brings extensive experience from his previous roles, including Head of Marketing for Google Wallet and SVP of Marketing at Adyen.</p><p>At Sizzle.gg, Vijay is revolutionizing the way gamers experience content by using AI to automati"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "esportsnext-podcast",
+  "relevance": "Low",
+  "score_reason": "This podcast focuses exclusively on esports industry professionals and has no overlap with Andreas's expertise in food/agriculture marketing, AI strategy, or traditional industries.",
+  "contact_email": "info@esportsta.org",
+  "contact_name": "Esports Trade Association",
+  "contact_source": "website"
+}

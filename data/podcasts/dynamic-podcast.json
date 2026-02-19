@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Dynamic Podcast",
+  "host": "Dynamic Marketing Agency",
+  "description": "Bosen dengerin strategi bisnis? Podcast ini cocok nih buat kamu!\nDisini kamu bisa mendengar orang-orang yang sudah merasakan haru biru kehidupan untuk mewujudkan karyanya agar tidak kebawa mimpi doang! Simak kisah inspiratif yang aplikatif sekarang.",
+  "rss_url": "https://anchor.fm/s/918c5a0/podcast/rss",
+  "website": "https://www.dynamicindonesia.com/",
+  "language": "in",
+  "categories": [
+    "Business",
+    "Marketing"
+  ],
+  "feed_id": "341144",
+  "last_episode_date": "",
+  "episode_count": 83,
+  "recent_episodes": [
+    {
+      "title": "EP. 77 Fong Tajuni (Founder Of Kinsmoms) | Jadi Ibu dan Womanpreneur? Siapa Takut!",
+      "date": "2021-05-05",
+      "duration": 2319,
+      "audio_url": "https://anchor.fm/s/918c5a0/podcast/play/32924441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-4-6%2F59dbf1b3-5bc9-18c8-5954-fc21580344ae.mp3",
+      "description": "<p>Olaaa Dynamic Nation</p>\n<p>MIndy sering banget nih dengerin Womanpreneur yang takut melanjutkan bisnis perkara OTW jadi ibu nih. Well, kalau dibayangin emang bakal sulit sih untuk jadi Ibu sekaligus menjalankan bisnis. Kebayang nih pasti ngurusin anak rewel sambil ngeladenin Client yang gak kalah rewel.\u00a0</p>\n<p>Nah, di Podcast kali ini, Mindy bareng sama Kak Fong Tajuni bakal ngebahas tekait menjadi ibu dan Womanpreneur.\u00a0</p>\n<p>Penasarann?\u00a0</p>\n<p>Gas langsung yuk di Dynamic Podcast! Hanya "
+    },
+    {
+      "title": "EP. 76 Raymond Bonakapvi (Founder of bonakapvi.com) | Jadi Investor Kece Ala Raymond Bonakvi",
+      "date": "2021-04-29",
+      "duration": 3191,
+      "audio_url": "https://anchor.fm/s/918c5a0/podcast/play/32479852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-3-29%2Fd45834d4-4593-3ae3-5980-e89e52c8eb26.mp3",
+      "description": "<p>Halo Dynamic Nation\u00a0</p>\n<p>Welcome Back To Dynamic Podcast. Di Episode kali ini, seperti biasa dengan guest podcast super kece, Mindy ngobrolin hal-hal asik yang tentunya bakal menarik banget buat kamu dengerin sampai habis sambil nemenin aktivitas kamu. <br>\n</p>\n<p>Kali ini bersama dengan Ko Raymond Bonakapvi, Mindy bakal ngomongin gimana sih jadi Investor yang kece. Topik ini tentunya bakal menarik banget nih khususnya buat kamu yang tertarik sama dunia investasi.\u00a0</p>\n<p>Penasaran? Langs"
+    },
+    {
+      "title": "EP 75 Dayang Melati | Social Media & Brand Activation For Your Business",
+      "date": "2021-04-23",
+      "duration": 1497,
+      "audio_url": "https://anchor.fm/s/918c5a0/podcast/play/32034496/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-05-03%2Faacd00d01e4bdf0315890cdf4b6a6f09.m4a",
+      "description": "Haloo Dynamic Nation\u00a0\nBanyak orang yang masih mengira bahwa Social Media dan Brand Activation dalam bisnis ya cuma sekedar menampilkan visual terbaik pada social media akun bisnis. Well Actually it's more than that, kalau berharap panen cuan dari social media, ya Social Media dan Brand Activation kamu harus lebih dari itu.\u00a0\nNah penasaran? Dengerin deh podcast kali ini, di jamin abis ini kamu bakal dapet insight super kece seputar Social Media dan Brand Activation buat bisnis kamu.\u00a0\nHanya di Spot"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "podcast.dynamic@gmail.com",
+  "contact_name": "Dynamic Marketing Agency",
+  "discovered_date": "2026-02-18",
+  "slug": "dynamic-podcast",
+  "relevance": "Low",
+  "score_reason": "Indonesian-language podcast about entrepreneurship with unclear focus and relevance to Andreas's specific expertise in AI and B2B marketing."
+}

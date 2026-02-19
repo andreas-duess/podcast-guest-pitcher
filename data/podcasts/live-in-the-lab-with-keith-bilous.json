@@ -1,0 +1,40 @@
+{
+  "source": "podcast_index",
+  "name": "Live in the Lab with Keith Bilous",
+  "host": "Your gateway to becoming a 'Business Athlete'. Harnessing AI, sports science & business, we deliver concise, empowering insights for a holistic transformation in lifestyle & performance.",
+  "description": "\ud83c\udfa5 Live in the Lab with Keith Bilous: Unleashing the Power of the Business Athlete! \ud83c\udfa5Welcome to \"Live in the Lab,\" an exhilarating livestream series that takes you behind the scenes of the Business Athlete Performance Lab! Hosted by renowned entrepreneur, adventurer, and photographer, Keith Bilous, this show is your gateway to the world of peak performance, innovation, and personal growth!Live in the Lab streams Live Monday to Friday Noon CST on Youtube, X, Linked In and Instagram and is availabl",
+  "rss_url": "https://feeds.buzzsprout.com/2295080.rss",
+  "website": "https://inside.bapl.ai/podcast",
+  "language": "en",
+  "categories": [
+    "Health",
+    "Fitness",
+    "Business"
+  ],
+  "feed_id": "6737059",
+  "last_episode_date": "",
+  "episode_count": 0,
+  "recent_episodes": [
+    {
+      "title": "The Power of the Next Step",
+      "date": "2023-12-30",
+      "duration": 357,
+      "audio_url": "https://www.buzzsprout.com/2295080/14223044-the-power-of-the-next-step.mp3",
+      "description": "<p>People fail because they always forget what comes next.</p><p>The Next Step.</p><p>There is always Next.</p><p>The next thought.</p><p>The next idea.</p><p>The next goal.</p><p>The next step.</p><p>Think about it. What can you achieve without taking the next step?</p><p>There is a next step to everything.</p><p></p><p>No\u2014I\u2019m not about to introduce you to a system. I vowed I wouldn\u2019t do that.</p><p>I am making a recommendation; a suggestion.</p><p>You make the decisi..."
+    },
+    {
+      "title": "1:One with Keith",
+      "date": "2023-12-29",
+      "duration": 2978,
+      "audio_url": "https://www.buzzsprout.com/2295080/14223045-1-one-with-keith.mp3",
+      "description": "<p>Good day Business Athlete Nation,</p><p>I went live today with no guest. Offered up some conversational thoughts and topics from the news and from my head lol</p><p>I invite you to give it a listen.</p><p>We talked</p><p>* Dad\u2019s 80th Birthday</p><p>* The importance of crawling</p><p>* Open AI being sued by NYTimes</p><p>* </p><p></p><p>As we work on different cadence flows dropping from the lab. We are dropping this one today at 6pm ONLY in the Podcast player.</p><p>Cheers</p><p>Keith</p>..."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "live-in-the-lab-with-keith-bilous",
+  "relevance": "Low",
+  "score_reason": "Focus on sports science, fitness, and 'business athlete' concept doesn't align with Andreas's AI/marketing/agriculture expertise."
+}

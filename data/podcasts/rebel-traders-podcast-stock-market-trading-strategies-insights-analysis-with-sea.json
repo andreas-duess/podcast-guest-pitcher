@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Rebel Traders\u2122 Podcast - Stock Market Trading Strategies, Insights & Analysis with Sean Donahoe & Phil Newton",
+  "host": "Trade Canyon, Inc. - Smarter Traders Live Here\u00ae",
+  "description": "Rebel Traders\u2122 takes you inside the world of two underground master traders who take an entertaining, unique, and often contrarian look at the markets and business. Cutting through the noise of Wall Street shenanigans and hijinks and the clutter and confusion of mainstream news, they are here to help you navigate the trading minefield so you can finally take control of your financial future.\n\nTogether, Sean Donahoe and Phil Newton are on a mission to give you the unfair advantage of a Rebel Trad",
+  "rss_url": "https://tradecanyon.libsyn.com/rss",
+  "website": "https://tradecanyon.com/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing"
+  ],
+  "feed_id": "653454",
+  "last_episode_date": "",
+  "episode_count": 330,
+  "recent_episodes": [
+    {
+      "title": "RT288 - Beyond Solo Trading",
+      "date": "2024-05-10",
+      "duration": 2980,
+      "audio_url": "https://traffic.libsyn.com/clean/secure/tradecanyon/RT288-2.mp3?dest-id=546584",
+      "description": "<p>In this week's episode of Rebel Traders, Sean Donahoe and Phil Newton dive into the pivotal role of collaboration and networking in the trading world, smashing the myth of the lone-wolf trader.</p> <p>\u00a0They share why embracing a community can fend off the psychological pitfalls of isolation and amplify success. From early 2000s message boards to modern-day forums, discover how communication evolution has transformed trading strategies and success rates.</p> <p>Plus, Phil spills the beans on h"
+    },
+    {
+      "title": "RT287 - The Trader's Journal: Essential Habits for Long-term Success",
+      "date": "2024-05-10",
+      "duration": 2915,
+      "audio_url": "https://traffic.libsyn.com/clean/secure/tradecanyon/RT287.mp3?dest-id=546584",
+      "description": "<p >As the markets unfold their mysteries with charts topping the dance and traders swiping left or right on bullish bets, RT287 dives deep into the trading pool! Join us as Phil and Sean decode the enigma of Meta's bullish future, projected to skyrocket to $600. We're not just chart talkers; we're chart stalkers, mastering the art of making data-driven decisions without the guesswork.</p> <p>Don\u2019t just trade, excel with habits formed from our gritty grind in the trenches. This talk isn't just a"
+    },
+    {
+      "title": "RT285 - The Trader's Emotional Playbook: From Stress to Success",
+      "date": "2024-04-18",
+      "duration": 2728,
+      "audio_url": "https://traffic.libsyn.com/clean/secure/tradecanyon/RT285.mp3?dest-id=546584",
+      "description": "<p >In the kaleidoscope of market moves and trading grooves, Sean Donahoe and Phil Newton dive deep into the psychological core of trading in this week\u2019s Rebel Traders Podcast. But it's not about charts and part; this time, they\u2019re dealing you the ultimate hand with insights on the business mindset and the steel nerves you need as a trader.</p> <p>Discover the pivotal role personal fortitude plays when the waves of market tumult crash against your trades, and learn how emotional regulation can b"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "rebel-traders-podcast-stock-market-trading-strategies-insights-analysis-with-sea",
+  "relevance": "Low",
+  "score_reason": "Focused on stock trading tactics, not marketing, AI, or business strategy in traditional industries.",
+  "contact_email": "podcast@tradecanyon.com",
+  "contact_name": "Trade Canyon, Inc.",
+  "contact_source": "rss"
+}

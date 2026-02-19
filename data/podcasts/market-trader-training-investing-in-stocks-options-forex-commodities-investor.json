@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Market Trader Training | Investing in Stocks | Options | FOREX | Commodities| Investor",
+  "host": "Jim Short and Scott Paton",
+  "description": "The objective of the Market Trader Training program is to teach students to trade safely and profitably. The instructors are not brokers, will not conduct trades, recommend stocks or futures for you, hold your money and don\u2019t receive commissions. Jim only wants to teach you how to trade successfully.",
+  "rss_url": "https://markettradertraining.podomatic.com/rss2.xml",
+  "website": "https://www.podomatic.com/podcasts/markettradertraining",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Investing"
+  ],
+  "feed_id": "640301",
+  "last_episode_date": "",
+  "episode_count": 6,
+  "recent_episodes": [
+    {
+      "title": "Peter's comments on Options | Video Podcast #6",
+      "date": "2010-01-24",
+      "duration": 69,
+      "audio_url": "https://markettradertraining.podomatic.com/enclosure/2010-01-24T14_22_31-08_00.mp4",
+      "description": "<br />Comments from Peter after attending Jim Short's class."
+    },
+    {
+      "title": "Happy Student Postscript Podcast #5",
+      "date": "2010-01-23",
+      "duration": 9,
+      "audio_url": "https://markettradertraining.podOmatic.com/enclosure/2010-01-23T15_36_00-08_00.mp4",
+      "description": "<br />Judith had one more thought..."
+    },
+    {
+      "title": "Happy Student Podcast #4",
+      "date": "2010-01-23",
+      "duration": 153,
+      "audio_url": "https://markettradertraining.podOmatic.com/enclosure/2010-01-23T15_33_42-08_00.mp4",
+      "description": "<br />Listen to Judith talk about her amazing year of trading."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "market-trader-training-investing-in-stocks-options-forex-commodities-investor",
+  "relevance": "Low",
+  "score_reason": "Trading education program for retail investors, completely unrelated to Andreas's business and marketing expertise."
+}

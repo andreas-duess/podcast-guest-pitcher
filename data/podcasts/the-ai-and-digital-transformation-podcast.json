@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "The AI and Digital Transformation Podcast",
+  "host": "G.M.S.C. Consulting",
+  "description": "Stop feeling left behind as we show how artificial intelligence can be a useful and practical tool to implement digital transformation solutions for your company be it of any size and scope.\nWelcome to the AI & Digital Transformation Podcast by G.M.S.C. Consulting. \nEvery month we talk to AI professionals from around the globe and unpack with them successful AI use cases they worked on in all sorts of sectors. With our podcast, we'll help you prepare for your business's AI and digital transforma",
+  "rss_url": "https://anchor.fm/s/daef0774/podcast/rss",
+  "website": "https://www.gmscconsulting.com/",
+  "language": "en-us",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "6061108",
+  "last_episode_date": "",
+  "episode_count": 14,
+  "recent_episodes": [
+    {
+      "title": "Can you build an optimized MLOps for your next AI project like a tasty layered cake? | Marek Tatara",
+      "date": "2024-09-12",
+      "duration": 2074,
+      "audio_url": "https://anchor.fm/s/daef0774/podcast/play/91610932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-12%2F386221311-44100-2-ae7529e7de91a.mp3",
+      "description": "<p>We\u2019ve covered episodes about AI in logistics in the past. Let\u2019s now focus our attention to manufacturing. Some AI applications in this sector include predictive maintenance, quality assurance using computer vision, anomaly detection, and digital twins.\u00a0</p>\n<p>Building these solutions takes time and requires accuracy. If developed and operated manually 100%, this approach risks making more errors in your ML models and datasets. Rather than relying on grit, we can automate the entire process a"
+    },
+    {
+      "title": "Increase your computer vision project\u2019s reliability using an AI copilot | Alexander Berkovich",
+      "date": "2024-05-30",
+      "duration": 2915,
+      "audio_url": "https://anchor.fm/s/daef0774/podcast/play/87366938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-29%2F379143441-44100-2-20b74020a4a39.mp3",
+      "description": "<p>Does your business need an AI computer vision co-pilot?</p>\n<p>You might need it, especially if you\u2019re working on a high-stake AI project that requires precision or accuracy.</p>\n<p>In this episode, Akridata\u2019s AI engineer Alexander Berkovich tells us more about it as he covers the different use cases that have used Akridata\u2019s computer vision co-pilot. To name a few are corrosion detection, autonomous vehicles, railroad inspection, and industrial maintenance.</p>\n<p>You can learn more about go"
+    },
+    {
+      "title": "Building an all-purpose AI search engine for your business: Will it end up being a horrible Frankenstein or a perfectly running Swiss knife? | Duarte Carmo",
+      "date": "2024-02-27",
+      "duration": 2536,
+      "audio_url": "https://anchor.fm/s/daef0774/podcast/play/83252015/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-27%2F368932207-44100-2-d24c6dec26cbf.mp3",
+      "description": "<p>Do you want to build the ultimate search engine that works perfectly for your business?</p>\n<p>A multimodal system processes all types of information like images, videos, audio, and text. It can end up either as a Frankenstein or a Swiss knife depending on how clunky or how smoothly these models communicate with one another.</p>\n<p>In this episode of the AI and Digital Transformation Podcast by G.M.S.C. Consulting, we had a chat with Duarte Carmo about building a customized multimodal search "
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "angelique.lusuan@gmscconsulting.com",
+  "contact_name": "G.M.S.C. Consulting",
+  "discovered_date": "2026-02-18",
+  "slug": "the-ai-and-digital-transformation-podcast",
+  "relevance": "Medium",
+  "score_reason": "AI and digital transformation focus aligns well, but seems very technical/engineering-focused rather than business strategy for traditional industries."
+}

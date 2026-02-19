@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Regenerative Agriculture Podcast",
+  "host": "John Kempf",
+  "description": "This is a show for professional growers and agronomists who want to learn about the science and principles of regenerative agriculture systems to increase quality, yield, and profitability.",
+  "rss_url": "https://regenerativeagriculture.libsyn.com/rss",
+  "website": "https://www.regenerativeagriculturepodcast.com",
+  "language": "en",
+  "categories": [
+    "Science",
+    "Earth",
+    "Natural"
+  ],
+  "feed_id": "541250",
+  "last_episode_date": "",
+  "episode_count": 203,
+  "recent_episodes": [
+    {
+      "title": "Podcast Extra: Electrolyte Nutrition vs. Biological Nutrition | ACRES USA Webinar with John Kempf",
+      "date": "2026-02-12",
+      "duration": 4206,
+      "audio_url": "https://traffic.libsyn.com/secure/regenerativeagriculture/podcast_extra_-_acres.mp3?dest-id=4976130",
+      "description": "<p>In this Podcast Extra, John Kempf compares Electrolyte Nutrition vs. Biological Nutrition in a webinar with ACRES USA and explains why conventional nitrogen strategies often lead to loss, inefficiency, and disrupted soil biology. Drawing from real-world agronomy, John outlines a biology-centric approach to nitrogen management that improves profitability, reduces synthetic inputs, and strengthens plant resilience. Topics include nitrogen timing, loss prevention, biological on-ramps and off-ram"
+    },
+    {
+      "title": "Podcast Extra: John Kempf & BASS Hybrids on the Future of Corn",
+      "date": "2026-02-05",
+      "duration": 5918,
+      "audio_url": "https://traffic.libsyn.com/secure/regenerativeagriculture/BassCast_with_john_Kempf.mp3?dest-id=4976130",
+      "description": "<p >In this podcast extra, John Kempf joins Ed Baumgartner, Founder, and Andrew Dixon, Business Development Manager, of BASS Hybrids on a BASSCAST to discuss regenerative corn production. They explore transitioning from chemical-heavy practices to biological systems using microbial inoculants like Biocoat Gold to improve soil health and plant resilience.</p> <p >They also discuss:</p>   <p >Using Biocoat Gold as a biological seed treatment to set plants up for better long-term success.</p>   <p "
+    },
+    {
+      "title": "Podcast Extra: Market Differentiation Through Regenerative Agriculture - John Kempf Keynote",
+      "date": "2026-01-29",
+      "duration": 4669,
+      "audio_url": "https://traffic.libsyn.com/secure/regenerativeagriculture/Ivo_Updated.mp3?dest-id=4976130",
+      "description": "<p >In this Podcast Extra episode, John Kempf delivers his keynote address from \"The Quality Edge: Market Differentiation Through Regenerative Wine Growing,\" an event hosted by Grgich Hills Estate in Rutherford, California. Speaking to an audience of professional wine growers, John explores how regenerative agriculture is becoming the ultimate differentiator in a crowded global market. He details how focusing on soil biology and plant physiology not only restores ecosystems but drives the produc"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "marketing@advancingecoag.com",
+  "contact_name": "AEA Marketing",
+  "discovered_date": "2026-02-18",
+  "slug": "regenerative-agriculture-podcast",
+  "relevance": "Medium",
+  "score_reason": "Strong agriculture focus with professional grower audience, but more agronomy/science than marketing/business strategy."
+}

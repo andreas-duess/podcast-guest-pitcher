@@ -1,0 +1,29 @@
+{
+  "source": "podcast_index",
+  "name": "Agroclime Agribusiness uganda 's Podcast",
+  "host": "Agroclime Agribusiness uganda",
+  "description": "Agroclime uganda is a private Agribusiness consultancy company offering all agriculture solutions across different value chain.",
+  "rss_url": "https://feeds.buzzsprout.com/2172496.rss",
+  "website": "https://www.buzzsprout.com/2172496",
+  "language": "en-us",
+  "categories": [],
+  "feed_id": "6311457",
+  "last_episode_date": "",
+  "episode_count": 0,
+  "recent_episodes": [
+    {
+      "title": "Vanilla pollinating",
+      "date": "2023-04-17",
+      "duration": 72,
+      "audio_url": "https://www.buzzsprout.com/2172496/12664478-vanilla-pollinating.mp3",
+      "description": "<p>Many people see vanilla growing as an agriculture enterprise that is quite hectic because of its nature of fruiting. Vanilla requires manual assistance by the farmer. Like you can see in the video above. Contact Agroclime uganda for all consultations about Vanilla growing.\u00a0<br/>Email: info.agroclime@gmail.com<br/>WhatsApp: 0786111204</p><p>The lacrative vanilla growing project</p>"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "agroclime-agribusiness-uganda-s-podcast",
+  "relevance": "Low",
+  "score_reason": "Zero episodes and consultancy promotional content suggests this isn't an active interview podcast."
+}

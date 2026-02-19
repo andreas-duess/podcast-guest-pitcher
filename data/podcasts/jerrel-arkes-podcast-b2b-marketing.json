@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Jerrel Arkes Podcast - B2B Marketing",
+  "host": "Jerrel Arkes",
+  "description": "De Jerrel Arkes Podcast (voorheen Inbound4Cast) is een podcast over organisch groeien voor B2B bedrijven. In de podcast komen ontwikkelingen op het gebied van content marketing, demand generation, inbound marketing, AI voor marketing en SEO voorbij.Connect op LinkedIn: https://www.linkedin.com/in/jerrelarkes/Volg mij op YouTube: https://www.youtube.com/channel/UC304aF2dO9J0TCt37auxKpgBekijk mijn website: https://jerrelarkes.nl/",
+  "rss_url": "https://rss.buzzsprout.com/2322949.rss",
+  "website": "https://inbound4cast.com/",
+  "language": "nl",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Entrepreneurship"
+  ],
+  "feed_id": "5492851",
+  "last_episode_date": "",
+  "episode_count": 187,
+  "recent_episodes": [
+    {
+      "title": "#184 - Stellingen over de inzet van AI Agents - Joop Snijder",
+      "date": "2025-12-07",
+      "duration": 2565,
+      "audio_url": "https://www.buzzsprout.com/2322949/episodes/18291931-184-stellingen-over-de-inzet-van-ai-agents-joop-snijder.mp3",
+      "description": "<p>In deze aflevering bespreekt Jerrel Arkes met AI-strateeg Joop Snijder zijn nieuwe boek Doeltreffend met AI agents, waarbij ze aan de hand van diverse stellingen de daadwerkelijke waarde en toekomst van deze technologie verkennen. Snijder nuanceert de heersende hype door te stellen dat AI-agents voornamelijk taken overnemen in plaats van volledige banen en pleit voor een hybride samenwerking waarbij de mens en agent elkaar versterken, in plaats van dat technologie het werk volledig autonoom o"
+    },
+    {
+      "title": "#183 - De volgende fase in AI gebruik voor B2B bedrijven - Calvin Bleekman",
+      "date": "2025-11-03",
+      "duration": 4198,
+      "audio_url": "https://www.buzzsprout.com/2322949/episodes/18110544-183-de-volgende-fase-in-ai-gebruik-voor-b2b-bedrijven-calvin-bleekman.mp3",
+      "description": "<p>In deze aflevering bespreekt Calvin Bleekman van Booosters een AI-platform dat speciaal is ontwikkeld voor B2B marketeers en een cruciaal probleem oplost: marketingkennis die verdwijnt wanneer collega's vertrekken. Het platform gaat veel verder dan ChatGPT door alle marketingkennis centraal op te slaan in vector databases, toegankelijk via diverse taalmodellen en ge\u00efntegreerd met tools zoals Asana. Hierdoor blijven doelgroeponderzoeken, campagne-inzichten en strategie\u00ebn permanent beschikbaar "
+    },
+    {
+      "title": "#182 Jan Willem Bobbink - SEO en GEO, wat moeten we met AI zoekmachines?",
+      "date": "2025-10-21",
+      "duration": 2477,
+      "audio_url": "https://www.buzzsprout.com/2322949/episodes/18015662-182-jan-willem-bobbink-seo-en-geo-wat-moeten-we-met-ai-zoekmachines.mp3",
+      "description": "<p>Tijdens het SEO Benelux event in Antwerpen ging ik in gesprek met Jan Willem Bobbink over de opkomst van GEO. Wat betekent dit, wat moet je ermee en waar staat de techniek op dit moment.\u00a0</p>"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "jerrel-arkes-podcast-b2b-marketing",
+  "relevance": "Medium",
+  "score_reason": "Dutch-language B2B marketing podcast covering AI and content marketing, relevant topics but language barrier and regional focus may limit fit.",
+  "contact_email": "mail@jerrelarkes.nl",
+  "contact_name": "Jerrel Arkes",
+  "contact_source": "rss"
+}

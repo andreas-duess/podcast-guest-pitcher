@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Peaks and Valleys",
+  "host": "Market Maker Agriculture",
+  "description": "The Peaks & Valleys podcast is a series that looks at the unique challenges of running a seasonal business. Although interview guests run agribusinesses, the discussions are applicable to any seasonal business. Each episode ends with tips and best practices related to the given topic.",
+  "rss_url": "https://feeds.castos.com/8ww5r",
+  "website": "https://marketmakerag.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Management",
+    "Investing"
+  ],
+  "feed_id": "4097654",
+  "last_episode_date": "",
+  "episode_count": 5,
+  "recent_episodes": [
+    {
+      "title": "Jan Kaminski",
+      "date": "2022-11-14",
+      "duration": 553,
+      "audio_url": "https://episodes.castos.com/60f1d5d6660093-98626877/29283/c4871e65-d05f-4879-8788-4deba3f658e6/Peaks-Valleys-Episode-5-audio-only-.mp3",
+      "description": "<p>In this episode, Jan Kaminski discusses leadership and why he feels leadership is not a position, but a process with the objective of using one's influence to effect positive change.</p>"
+    },
+    {
+      "title": "Peaks & Valleys - Greg Skotnicki",
+      "date": "2022-04-18",
+      "duration": 772,
+      "audio_url": "https://episodes.castos.com/60f1d5d6660093-98626877/1/db8ba46d-65ea-490a-98db-1bfacb7806f7/Peaks-Valleys-Episode-4-Audio-Only-.mp3",
+      "description": "<p>In this episode, Market Maker President Greg Skotnicki talks about Traction and its entrepreneurial operating system (EOS). Greg discusses how a set of simple concepts and practical tools help teams to stay aligned, focus on high impact activities and advance the business towards a shared vision.\u00a0</p>"
+    },
+    {
+      "title": "Greg Skotnicki",
+      "date": "2022-04-18",
+      "duration": 772,
+      "audio_url": "https://episodes.castos.com/60f1d5d6660093-98626877/1/db8ba46d-65ea-490a-98db-1bfacb7806f7/Peaks-Valleys-Episode-4-Audio-Only-.mp3",
+      "description": "<p>In this episode, Market Maker President Greg Skotnicki talks about Traction and its entrepreneurial operating system (EOS). Greg discusses how a set of simple concepts and practical tools help teams to stay aligned, focus on high impact activities and advance the business towards a shared vision.\u00a0</p>"
+    }
+  ],
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "info@marketmakerag.com",
+  "contact_name": "Market Maker Agriculture",
+  "discovered_date": "2026-02-18",
+  "slug": "peaks-and-valleys",
+  "relevance": "Medium",
+  "score_reason": "Focuses on seasonal agribusiness challenges with business leader interviews, aligns with Andreas's agriculture marketing experience."
+}

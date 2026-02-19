@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Podketeers Network - Disney-inspired podcasts about art, music, food, tech, and more!",
+  "host": "Podketeers - A Disney-inspired podcast about art, music, food, tech, and more!",
+  "description": "A podcast with a group of friends that talk about Disney, art, food, technology, and more! Find out more about us at www.podketeers.com!",
+  "rss_url": "https://feed.podbean.com/podketeers/feed.xml",
+  "website": "https://podketeers.podbean.com",
+  "language": "en-us",
+  "categories": [
+    "Society",
+    "Culture",
+    "Places",
+    "Travel"
+  ],
+  "feed_id": "881043",
+  "last_episode_date": "",
+  "episode_count": 719,
+  "recent_episodes": [
+    {
+      "title": "Quizneyland Ep112: Requiem (but not really)",
+      "date": "2026-02-17",
+      "duration": 688,
+      "audio_url": "https://mcdn.podbean.com/mf/web/zwmc6n4xrwk3abkd/Quizneyland_Episode112.mp3",
+      "description": "<p>In this episode we will learn about Walt Disney and Imagineering\u2019s connections to the Winter Olympics. Plus, questions on Characters in Disney animated films, Famous TV Theme Songs, and Walt Disney World items found on a college campus!\u00a0 </p>\n<p>Subscribe using your favorite podcast app or listen using the link below:</p>\n<p>Podketeers.com/Quizneyland</p>\n"
+    },
+    {
+      "title": "Ep608: Spider Noir - Now in True-Hue Full Color!",
+      "date": "2026-02-16",
+      "duration": 5259,
+      "audio_url": "https://mcdn.podbean.com/mf/web/cet8m3tawk2e588b/podketeers_ep608.mp3",
+      "description": "<p >This week, entire dinners garnishing mixed drinks, there was a football game at a concert, ESPN gets game rights for next year, Dinoland is officially closed, the Anaheim Resort Transportation bus system (aka ART) is shutting down services, people showed up for the Muppets, an awesome new way to listen to Rainbow Connection, plus we get our first look at Sony's Spider Noir!</p>\n<p>Listen now at:</p>\n<p>https://www.podketeers.com/608</p>\n<p>or watch this episode at:</p>\n<p>YouTube.com/Podkete"
+    },
+    {
+      "title": "Ep607: D'Amaro-land!",
+      "date": "2026-02-08",
+      "duration": 5973,
+      "audio_url": "https://mcdn.podbean.com/mf/web/bca4fh45in27jfsz/podketeers_ep607.mp3",
+      "description": "<p >This week, La Reina tells a different origin story, Topps releases trading cards to celebrate Disneyland's 70th Anniversary, Kermit takes a lie detector test, and we give our thoughts on the Muppets Show special, plus Disney has a new CEO!</p>\n<p>Listen now at:</p>\n<p>https://www.podketeers.com/607</p>\n<p>or watch this episode at:</p>\n<p>YouTube.com/Podketeers</p>\n<p>\u00a0</p>\n<p>Our most frequently requested links can be found at:<br>\nhttps://www.podketeers.com/links/</p>\n<p>\u00a0</p>\n<p>Help us ma"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "podketeers-network-disney-inspired-podcasts-about-art-music-food-tech-and-more",
+  "relevance": "Low",
+  "score_reason": "Disney entertainment podcast with no business or marketing focus relevant to Andreas's expertise."
+}

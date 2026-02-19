@@ -1,0 +1,51 @@
+{
+  "source": "podcast_index",
+  "name": "AHAA: The Voice of Hispanic Marketing",
+  "host": "Association of Hispanic Advertising Agencies AHAA",
+  "description": "The Association of Hispanic Advertising Agencies (AHAA) is the first trade organization of its kind to be established specifically for agencies working within the United States Hispanic advertising industry. These podcasts are recordings of speakers that presented at an AHAA Conference. Please visit our website www.ahaa.org for more information.",
+  "rss_url": "http://feeds2.feedburner.com/AssociationOfHispanicAdvertisingAgenciesAhaa",
+  "website": "http://blogahaa.blogspot.com/",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Management",
+    "Marketing",
+    "Government",
+    "Non-profit"
+  ],
+  "feed_id": "311271",
+  "last_episode_date": "",
+  "episode_count": 25,
+  "recent_episodes": [
+    {
+      "title": "Podcast #47 - AHAA 2013 Conference - Laurence Boschetto",
+      "date": "2013-08-02",
+      "duration": null,
+      "audio_url": "http://ahaa.org/downloads/podcasts/2013_AHAA_Laurence_Boschetto.mp3",
+      "description": "&lt;div style=\"color: #545454; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; margin-bottom: 0.75em;\"&gt;&lt;b&gt;&lt;span style=\"font-size: x-small;\"&gt;&lt;img align=\"left\" height=\"100\" hspace=\"2\" src=\"http://ahaa.org/img/conf2013/speakers/speakerpg/LaurenceBoschetto.jpg\" style=\"height: 100px; max-width: 100%; width: 87px;\" width=\"87\" /&gt;Laurence Boschetto, CEO &amp;amp; President, Draftfcb&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=\"color: #545454; font-"
+    },
+    {
+      "title": "Podcast #45 - AHAA 2013 Conference - Entertainment Panel",
+      "date": "2013-08-02",
+      "duration": null,
+      "audio_url": "http://ahaa.org/downloads/podcasts/2013_AHAA_Entertainment_Panel.mp3",
+      "description": "&lt;div style=\"color: #545454; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; margin-bottom: 0.75em;\"&gt;&lt;b&gt;&lt;span style=\"font-size: x-small;\"&gt;Identity &amp;amp; Influence in Music, Entertainment &amp;amp; Fashion&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=\"color: #545454; font-family: Arial, Helvetica, sans-serif; font-size: 12px; line-height: 18px; margin-bottom: 0.75em;\"&gt;&lt;span style=\"color: black;\"&gt;Nothing reflects America\u2019s interconnec"
+    },
+    {
+      "title": "Podcast #44 - AHAA 2013 Conference - AHAA-AARP Generational Study",
+      "date": "2013-08-02",
+      "duration": null,
+      "audio_url": "http://ahaa.org/downloads/podcasts/2013_AHAA_AARP_Gen_Study.mp3",
+      "description": "&lt;b&gt;Research: The Not So Hidden Value In Generational Trends&lt;/b&gt;&lt;br /&gt;Targeting the Best Hispanic Customer - An AHAA-AARP Generatonal-Cultural Study&lt;br /&gt;&lt;br /&gt;Where are tomorrow\u2019s true growth opportunities? A presentation and panel discussion serves up a first look at groundbreaking research commissioned and directed by AHAA and funded in part by AARP. This first-ever in-depth study of all Latino Generational Segments \u2013 a multi-sourced, integrated analysis conducted"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "info@ahaa.org",
+  "contact_name": "Association of Hispanic Advertising Agencies AHAA",
+  "discovered_date": "2026-02-18",
+  "slug": "ahaa-the-voice-of-hispanic-marketing",
+  "relevance": "Low",
+  "score_reason": "Conference recordings from 2013 focused on Hispanic advertising with no recent episodes or relevance to Andreas's AI and traditional industry expertise."
+}

@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Digital Transformation & Leadership with Danny Levy",
+  "host": "Danny Levy",
+  "description": "Behind the scenes with today's top business leaders to understand how they are digitally transforming their company: Which technology tools they're using, where they're seeing success, biggest challenges, how they run their team, dealing with changing customer behaviour, top leadership and life/career lessons and more. Hosted by Danny Levy",
+  "rss_url": "https://anchor.fm/s/1c04ad78/podcast/rss",
+  "website": "https://podcasters.spotify.com/pod/show/danny-levy",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Management"
+  ],
+  "feed_id": "30588",
+  "last_episode_date": "",
+  "episode_count": 115,
+  "recent_episodes": [
+    {
+      "title": "AI in Action: Building Transparent, Scalable Impact w/ Meta\u2019s Rafael Frankel",
+      "date": "2025-11-09",
+      "duration": 3784,
+      "audio_url": "https://anchor.fm/s/1c04ad78/podcast/play/110939196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2F6fe16212-f836-0451-fb35-b1b17ccd31ce.mp3",
+      "description": "<p>What does it take to make AI truly work for people \u2014 not just profits?</p><p>In this episode, Rafael Frankel, Director of Public Policy for Asia-Pacific at Meta, joins Danny Levy to share how one of the world\u2019s most influential technology companies is driving responsible, transparent, and scalable AI adoption across the region.</p><p>A former journalist turned policy leader, Rafael brings a rare blend of storytelling, diplomacy, and innovation insight from over a decade shaping tech policy an"
+    },
+    {
+      "title": "Noise vs. Leadership, Quantum-Safe Cryptography, and Why the Right Conversation Changes Everything w/ Camilla Bullock",
+      "date": "2025-09-25",
+      "duration": 2818,
+      "audio_url": "https://anchor.fm/s/1c04ad78/podcast/play/108829441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F096f83e4-f491-1b7e-2c2a-5b4c5d9c20fd.mp3",
+      "description": "<p>This week, Camilla Bullock, CEO of the Emerging Payments Association Asia (EPAA), joins Danny for a wide-ranging, no-BS conversation that cuts through the noise.</p><p>The Emerging Payments Association Asia (EPAA) is the peak industry body representing and supporting the APAC payments ecosystem.</p><p>Danny and Camilla get into:</p>Why true leadership isn\u2019t about being a \u201cthought leader\u201d (and why Camilla refuses the label).The hidden superpower that drives change: spotting the right people an"
+    },
+    {
+      "title": "Harnessing AI: from Fear to Fortune and Why Simple is Smart w/ Philip Davies",
+      "date": "2025-08-22",
+      "duration": 3783,
+      "audio_url": "https://anchor.fm/s/1c04ad78/podcast/play/107198068/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-22%2F7dfcf2ad-8f3d-dcc3-9af5-56a8d462a70d.mp3",
+      "description": "<p>Danny sits down with Philip Davies\u2014brand builder, simplicity evangelist, and President EMEA at Siegel+Gale - for a powerful conversation on how simplicity can be a strategic superpower in the age of AI.</p><p>Philip brings over two decades of experience leading global brand transformations across industries\u2014from financial services and aviation to luxury and tech. His career spans journalism, advertising, and strategic consulting, with clients including Barclays, British Airways, Faberg\u00e9, Saud"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "LinkedIn only: linkedin.com/in/danny-levy",
+  "discovered_date": "2026-02-18",
+  "slug": "digital-transformation-leadership-with-danny-levy",
+  "relevance": "High",
+  "score_reason": "Interviews business leaders about digital transformation, technology adoption, and leadership\u2014perfect for Andreas's traditional-industries-meet-AI narrative.",
+  "contact_email": "podcasts33+1c04ad78@anchor.fm",
+  "contact_name": "Danny Levy",
+  "contact_source": "rss"
+}

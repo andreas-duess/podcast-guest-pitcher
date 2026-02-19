@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "The Business of Agriculture Podcast",
+  "host": "Damian Mason",
+  "description": "Damian travels all over the globe talking to audiences about trends in the business of food, fuel, and fiber. With his clever wit and down-to-earth delivery, he has turned these topics into an interesting (and sometimes controversial) podcast.",
+  "rss_url": "https://feeds.libsyn.com/504653/rss",
+  "website": "http://www.damianmason.com",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "1125510",
+  "last_episode_date": "",
+  "episode_count": 437,
+  "recent_episodes": [
+    {
+      "title": "437 - Are Large Consolidated Farms the Cure for Low Commodity Prices? | Damian Mason Podcast",
+      "date": "2026-02-16",
+      "duration": 3897,
+      "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/ConsolidatedFarms.mp3?dest-id=4358633",
+      "description": "<p >Low commodity prices continue to pressure farm profitability and reshape the structure of modern agriculture. As consolidation accelerates across the industry, a critical question emerges: are large consolidated farms part of the solution?</p> <p >In this episode, Damian Mason is joined by Illinois farmer, business owner, and consultant Marc Severson to examine whether large-scale farming operations create economic efficiencies that improve margins, strengthen market signals, and stabilize a"
+    },
+    {
+      "title": "AgAmerica's Outlook: 2026 Farm Income, Risk & Resilience | Damian Mason",
+      "date": "2026-02-09",
+      "duration": 3908,
+      "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/AgEconomyOutlook.mp3?dest-id=4358633",
+      "description": "<p >In this essential episode, Damian Mason speaks with Shelby Bass and Curt Covington of AgAmerica to analyze the 2026 Agricultural Economy Outlook. Although U.S. net farm income rose $40 billion in 2025, only 52% of farms were profitable\u2014and nearly a quarter of farm income came from government payments. Looking ahead to 2026, rising input costs, elevated interest rates, and policy uncertainty will continue to challenge profitability.</p> <p >The conversation covers:</p>   <p >Projections for f"
+    },
+    {
+      "title": "Will the Next Generation of Farmers Be Saved from a Collapse? | Damian Mason Podcast",
+      "date": "2026-02-02",
+      "duration": 4501,
+      "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/FarmPolicy.mp3?dest-id=4358633",
+      "description": "<p >A generational collapse in Agriculture is no longer hypothetical\u2014it is a growing reality. With land values surging, profit margins tightening, and federal policy favoring legacy operations, new and aspiring farmers face enormous barriers to entry. In this hard-hitting episode, Damian Mason is joined by Iowa farmer Elliott Henderson and Minnesota farmer Lance Petersen to discuss the policy shifts needed to revitalize rural America and secure the future of farming.</p> <p >In this episode:</p>"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-business-of-agriculture-podcast",
+  "relevance": "High",
+  "score_reason": "Perfect fit - focuses on business of agriculture with a host who interviews guests about trends, consolidation, and business strategy in farming.",
+  "contact_email": "damian@damianmason.com",
+  "contact_name": "The Business of Agriculture Podcast",
+  "contact_source": "rss"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Stacking Growth | The B2B Marketing Podcast",
+  "host": "Refine Labs",
+  "description": "Hosted by Refine Labs, this podcasts is for marketers, by marketers. \nWhether you're new or seasoned , we want to help you refine your strategies, find meaningful takeaways, and hear real, honest stories of marketers who've been able to make waves for the industry. Combining purposeful tactics and strategies across multiple areas is what it means to Stack Growth - let's help build each other up.",
+  "rss_url": "https://anchor.fm/s/79a37aa4/podcast/rss",
+  "website": "https://refinelabs.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing"
+  ],
+  "feed_id": "4732928",
+  "last_episode_date": "",
+  "episode_count": 261,
+  "recent_episodes": [
+    {
+      "title": "How B2B Influencer Marketing Actually Works in 2026",
+      "date": "2026-01-27",
+      "duration": 3561,
+      "audio_url": "https://anchor.fm/s/79a37aa4/podcast/play/114597702/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-26%2Fd5ab996f-c6d7-c7df-7373-216d6119c8e2.mp3",
+      "description": "<p>Topics Covered </p><p>Influencer marketing as a modern demand lever in a \u201cfeeds are flooded\u201d environment (credibility + distribution vs polish)</p><p>Building an influencer program as a repeatable system (not one-off posts)</p><p>Aligning influencer strategy to GTM motion: PLG + sales-led dual motion, fast sales cycle, and audience behavior on LinkedIn</p><p>Talent sourcing: internal creators, power users, frontline thought leaders, executive narrative voices, and \u201centertainer/evangelism\u201d cre"
+    },
+    {
+      "title": "Embracing AI As A Designer",
+      "date": "2025-12-23",
+      "duration": 1958,
+      "audio_url": "https://anchor.fm/s/79a37aa4/podcast/play/112880801/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-19%2F0cfa2fe9-d019-ad40-20b8-abb3053bff9c.mp3",
+      "description": "<p>SummaryChris Ford, Lead Designer at Refine Labs, shares how creative professionals can harness AI without compromising artistic integrity. Speaking to an audience navigating the rapid shift toward automation in design and marketing, Ford clarifies that tools like Midjourney and Runway are accelerators\u2014not replacements\u2014for real strategic thinking. His journey from teen coder to strategic designer reveals the mindset shift creatives must adopt to thrive in a performance-driven, AI-infused lands"
+    },
+    {
+      "title": "Integrating AI into your workflow - without the hype!!",
+      "date": "2025-12-16",
+      "duration": 3730,
+      "audio_url": "https://anchor.fm/s/79a37aa4/podcast/play/112695300/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-11-16%2Fd89fc41a-ab3b-893a-f6c0-ec2274b6e18c.mp3",
+      "description": "<p>Topics Covered</p><p>AI efficiency vs. AI opportunity in modern B2B orgs</p><p>Use cases across Claude, Gemini, Copilot, and ChatGPT</p><p>Claude for Excel outperforming native plugins</p><p>AI-powered brand visibility audits (AIO, GEO)</p><p>Building MVPs from product demos using Gemini</p><p>Automating reporting and funnel analysis with ChatGPT & Gemini</p><p>Custom GPTs for keyword analysis and lead quality reviewsAI system design in regulated or high-security environments</p><p>Framework-"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "stacking-growth-the-b2b-marketing-podcast",
+  "relevance": "Medium",
+  "score_reason": "Recent episodes show AI integration focus for marketers, relevant to Andreas's marketing and AI expertise, though more tactical than strategic.",
+  "contact_email": "teamtools@refinelabs.com",
+  "contact_name": "Refine Labs",
+  "contact_source": "rss"
+}

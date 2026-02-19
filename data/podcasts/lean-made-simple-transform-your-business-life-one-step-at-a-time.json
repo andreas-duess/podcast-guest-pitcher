@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Lean Made Simple: Transform Your Business & Life One Step At A Time!",
+  "host": "Lean Made Simple",
+  "description": "Welcome to Lean Made Simple: a podcast for people who want to change their business and their lives one step at a time. I\u2019m Ryan Tierney from Seating Matters, a manufacturing company from Limavady, Northern Ireland. Eight years ago I came across this thing called lean and it transformed my life and now I want to share this message with as many people as possible.",
+  "rss_url": "https://anchor.fm/s/e48cd3c4/podcast/rss",
+  "website": "https://www.leanmadesimple.com/",
+  "language": "en-ie",
+  "categories": [
+    "Business",
+    "Management"
+  ],
+  "feed_id": "6436956",
+  "last_episode_date": "",
+  "episode_count": 50,
+  "recent_episodes": [
+    {
+      "title": "Transforming Sperrin Metal | Live from Gemba Summit 2025",
+      "date": "2025-11-24",
+      "duration": 1483,
+      "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/111596993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-23%2F413021616-44100-2-9a85926405193.mp3",
+      "description": "<p>Only a few weeks into taking over Sperrin Metal, Ryan Tierney is revealing the first real progress inside one of the most chaotic factories he has ever stepped into in this podcast recorded live at the Gemba Summit.This is the story of what he found on day one, what has changed already, and how Lean Thinking is beginning to transform a 63-year-old manufacturing company from the inside out.In this first-phase update, Ryan shares the breakthroughs, the challenges, and the mindset shifts that ac"
+    },
+    {
+      "title": "The Lean Summit to Change your LIFE & BUSINESS",
+      "date": "2025-08-25",
+      "duration": 1266,
+      "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/107243767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-23%2F406149926-44100-2-f901e166cbf7.mp3",
+      "description": "<p>Ryan Tierney (Lean Made Simple) delves deep into Ireland's BIGGEST ever Lean summit, Gemba Summit at Titanic Belfast, Northern Ireland on 20th-21st October 2025.Find out more about Gemba Summit and:- Whit can be your next lean TURNING POINT- Why people are travelling from all over the world to EXPERIENCE lean- HOW you can join some of the world top lean leaders\u27a1\ufe0f Book your GEMBA SUMMIT tickets today: https://gembasummit.com\u27a1\ufe0f Order the book, LEAN MADE SIMPLE: 12 PROVEN STEPS FOR CREATING A VI"
+    },
+    {
+      "title": "My HIGH STAKES Lean challenge",
+      "date": "2025-07-21",
+      "duration": 1735,
+      "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/105685334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F404150775-44100-2-0cf013ff69946.mp3",
+      "description": "<p>Ryan Tierney (Lean Made Simple) sits down with podcast host Matthew Thompson to get deep into why he has made the boldest move of his life and made a high stake move that will be the ultimate test of lean.\ud83d\udfe2 Ryan Tierney leaves his successful business to take on his biggest Lean challenge yet.\ud83d\udfe2 Why Sperrin Metal needs more than just tools \u2014 it needed a complete culture reset.\ud83d\udfe2 Discover the real-world pressures behind buying a struggling factory and leading from the front.\ud83d\udfe2 This episode explore"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "matthew@skool.com",
+  "contact_name": "Lean Made Simple",
+  "discovered_date": "2026-02-18",
+  "slug": "lean-made-simple-transform-your-business-life-one-step-at-a-time",
+  "relevance": "Low",
+  "score_reason": "Focused specifically on lean manufacturing methodology rather than AI, marketing, or the intelligence economy topics Andreas specializes in."
+}

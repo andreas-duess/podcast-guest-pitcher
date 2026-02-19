@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Next in Tech",
+  "host": "S&P Global Market Intelligence",
+  "description": "Define your digital roadmap. Weekly podcasts featuring specialists from across the S&P Global Market Intelligence research team offer deep insights into what's new and what's next in technology, industries and companies as they design and implement digital infrastructure. To learn more, visit: https://www.spglobal.com/marketintelligence/en/topics/tmt-news-insights",
+  "rss_url": "https://nextintech451.libsyn.com/rss",
+  "website": "https://www.spglobal.com/marketintelligence/en/news-insights/podcasts/next-in-tech",
+  "language": "en",
+  "categories": [
+    "Technology",
+    "News"
+  ],
+  "feed_id": "2298053",
+  "last_episode_date": "",
+  "episode_count": 100,
+  "recent_episodes": [
+    {
+      "title": "AI Data",
+      "date": "2026-02-10",
+      "duration": 1329,
+      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.254.mp3?dest-id=2589314",
+      "description": "<p>There are such significant changes going on in how data is managed and in how AI manages data, that it's not always clear which requirements are driving which trends. Jim Curtis returns to look data highlights from AWS re:Invent and to identify important changes that are taking place. FinOps and broader cloud cost management efforts are leading providers to offer tools and programs to corral spending. AWS has introduced database savings plans to provide discounts in much the same way they've "
+    },
+    {
+      "title": "The NRF Conference",
+      "date": "2026-02-03",
+      "duration": 1464,
+      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.253.mp3?dest-id=2589314",
+      "description": "<p>The National Retail Federation's annual NRF conference has become a showplace for the latest technology, as well its core retail foundations. Sheryl Kingstone returns to discuss what was on display and how it will impact retail and the larger tech landscape with host Eric Hanselman. While we may be a ways off from having robot dogs retrieving shoes at your local mall store, automation and agentic applications are delivering significant value in customer interactions - $22 billion in the recen"
+    },
+    {
+      "title": "Agentic AI Use Cases",
+      "date": "2026-01-28",
+      "duration": 1638,
+      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.252.mp3?dest-id=2589314",
+      "description": "<p>The choice of use cases in AI has a significant impact on achieving on project outcomes. The latest results of the 451 Research Voice of the Enterprise AI use cases study are out and Alex Johnston joins host Eric Hanselman to explore the data and its implications. The study highlights a widespread, yet often unstructured and fragmented, adoption of AI within organizations, indicating a stall in overall maturity despite significant growth in usage. Key challenges include a clogged project pipe"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "S&P Global Market Intelligence",
+  "discovered_date": "2026-02-18",
+  "slug": "next-in-tech",
+  "relevance": "Medium",
+  "score_reason": "Covers AI and digital infrastructure with specialist interviews, relevant to Andreas's AI expertise but potentially too broad/enterprise-focused rather than marketing-specific."
+}

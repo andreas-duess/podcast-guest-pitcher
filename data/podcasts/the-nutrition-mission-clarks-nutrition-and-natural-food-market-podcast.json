@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "The Nutrition Mission - Clark's Nutrition and Natural Food Market Podcast",
+  "host": "Clark\u2019s Nutrition & Natural Foods Market",
+  "description": "Welcome to The Nutrition Mission Podcast. Where we discuss healthy living principles, nutrition, as well as share insights on various products and brands that you need to know about. This is Clark\u2019s Nutrition & Natural Foods market official podcast, and we\u2019ve been helping people live better since 1972. We\u2019re on a nutrition mission! Join us!",
+  "rss_url": "https://www.spreaker.com/show/5307724/episodes/feed",
+  "website": "https://www.spreaker.com/show/the-nutrition-mission",
+  "language": "en",
+  "categories": [
+    "Health",
+    "Fitness",
+    "Nutrition"
+  ],
+  "feed_id": "4908063",
+  "last_episode_date": "",
+  "episode_count": 48,
+  "recent_episodes": [
+    {
+      "title": "Green Cleaning",
+      "date": "2022-12-14",
+      "duration": 1049,
+      "audio_url": "https://api.spreaker.com/download/episode/51864810/clarks_05_grean_clean_moment_final.mp3",
+      "description": "None of us like doing it, but at least with Starkie\u2019s advice, we will be able to figure out what we need and why.  Starkie breaks down the world of Green Cleaning and why we should all think about it more."
+    },
+    {
+      "title": "Bio Sustainable Vitamins & Glandular\u2019s",
+      "date": "2022-12-07",
+      "duration": 1117,
+      "audio_url": "https://api.spreaker.com/download/episode/51864807/clarks_04_biosustainable_vitamins_final.mp3",
+      "description": "Starkie is back with a breakdown of the best vitamins and Glandular for you to use."
+    },
+    {
+      "title": "Teas For Winter",
+      "date": "2022-11-30",
+      "duration": 705,
+      "audio_url": "https://api.spreaker.com/download/episode/51864798/clarks_03_teas_for_winter_final.mp3",
+      "description": "It\u2019s that time of the year.  It\u2019s chilly out, your shopping and you want to stay warm.  Starkie has what you need with Teas.  Which teas are the best for a cold or which is best for a sore throat.  Starkie has all of your information here and now."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-nutrition-mission-clarks-nutrition-and-natural-food-market-podcast",
+  "relevance": "Low",
+  "score_reason": "Consumer health and product-focused content doesn't match Andreas's B2B marketing and business strategy expertise.",
+  "contact_email": "Chris@ThisIsFunner.com",
+  "contact_name": "Jessica Q.",
+  "contact_source": "rss"
+}

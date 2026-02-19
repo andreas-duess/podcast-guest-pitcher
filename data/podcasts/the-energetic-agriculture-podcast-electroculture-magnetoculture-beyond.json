@@ -1,0 +1,52 @@
+{
+  "source": "podcast_index",
+  "name": "The Energetic Agriculture Podcast - Electroculture, Magnetoculture & Beyond!",
+  "host": "Electroculture Growers - David Wechsler & Ray-Lee Bacon",
+  "description": "The focus of our show is to teach and discuss the various aspects of growing plants with electricity, magnetism, and subtle energies, etc. We\u2019ve experimenting and writing about electroculture since 2010 and we're eager to share our discoveries with you! electroculture.substack.com",
+  "rss_url": "https://api.substack.com/feed/podcast/2333247.rss",
+  "website": "https://electroculture.substack.com/podcast",
+  "language": "en",
+  "categories": [
+    "Science",
+    "Natural",
+    "Leisure",
+    "Home",
+    "Garden"
+  ],
+  "feed_id": "5647158",
+  "last_episode_date": "",
+  "episode_count": 17,
+  "recent_episodes": [
+    {
+      "title": "garden symmetry as fractalized light",
+      "date": "2025-05-18",
+      "duration": 393,
+      "audio_url": "https://api.substack.com/feed/podcast/163838446/460ebe1c2af27eb28a2c98d0466465a1.mp3",
+      "description": "<br/><br/>This is a public episode. If you'd like to discuss this with other subscribers or get access to bonus episodes, visit electroculture.substack.com/subscribe"
+    },
+    {
+      "title": "The Potato Prophet who Sat on a Cactus",
+      "date": "2025-04-14",
+      "duration": 1091,
+      "audio_url": "https://api.substack.com/feed/podcast/161213749/487ff1866737283051b6b473b055c920.mp3",
+      "description": "<p>The Man Who Spoke to Plants \u2014 And They Actually Listened</p><p>What would you say about a man who could sit\u2026on a cactus\u2026in front of a live audience...</p><p>\u2026and not move. Not flinch. Not bleed.</p><p>Because the cactus had no spines.</p><p>Not because he found it.But because he made it that way.</p><p>Meet Luther Burbank</p><p>A botanist who didn\u2019t just grow plants.He talked to them.</p><p>And in ways science still can\u2019t explain\u2026they talked back.</p><p>Sounds Impossible? Too Mystical?</p><.."
+    },
+    {
+      "title": "Steel Kills. Copper Brings Life.",
+      "date": "2025-04-09",
+      "duration": 524,
+      "audio_url": "https://api.substack.com/feed/podcast/160946061/08cb563d35149c34b487589b31c508e5.mp3",
+      "description": "<p></p><p>If you\u2019ve been in our community for a while, you\u2019ve probably seen the name Viktor Schauberger pop up.Whenever we post about him\u2014engagement spikes\u2014comments flood in.It\u2019s no wonder.</p><p>He\u2019s a legend in electroculture circles.</p><p>Dubbed the Water Wizard, Schauberger spent his life studying the hidden intelligence of nature.He built spiral flumes that floated timber uphill. Machines that mimicked trout swimming upstream.His belief? That life flows in spirals, not straight lines\u2014and t"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-energetic-agriculture-podcast-electroculture-magnetoculture-beyond",
+  "relevance": "Low",
+  "score_reason": "Focuses on pseudoscientific alternative agriculture methods (electroculture, magnetism) rather than business, marketing, or practical AI applications in agriculture.",
+  "contact_email": "support@energeticgrowers.com",
+  "contact_name": "Electroculture Growers - David Wechsler & Ray-Lee Bacon",
+  "contact_source": "rss"
+}

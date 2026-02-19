@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Transforming Tomorrow",
+  "host": "The Pentland Centre for Sustainability in Business",
+  "description": "Sustainability is a key consideration for any contemporary business, from biodiversity to modern slavery, seabeds to factory floors. Transforming Tomorrow guides you through the complex, ever-changing and often exciting (yes, really!!) world of sustainability in business.\nAlongside members of the Pentland Centre, international research experts, and business leaders, we cover the theory and practice of mainstreaming sustainability into purposeful business strategy and performance.\nWhether you are",
+  "rss_url": "https://feed.pod.co/transforming-tomorrow",
+  "website": "https://pod.co/transforming-tomorrow",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Science",
+    "Earth",
+    "Education"
+  ],
+  "feed_id": "6712522",
+  "last_episode_date": "",
+  "episode_count": 107,
+  "recent_episodes": [
+    {
+      "title": "How We Care for the Elderly",
+      "date": "2026-02-16",
+      "duration": 2680,
+      "audio_url": "https://downloads.pod.co/bc739b0b-b0e5-4971-802b-67b1ff38a2d4/241953be-0cce-402c-9301-ecf28c30d436.mp3",
+      "description": "<p>How much will it cost to look after old people in the future? What can we do to help plan for this expense? And what will happen if we don\u2019t prepare?</p>\n<p>More than 1.1 billion people on Earth are aged 60 and over \u2013 this is how old people are defined (whether you may like it or not), and at 65 you are seen as elderly. That number is only set to grow and grow. So, how do we manage social care and protection?</p>\n<p>Dr Qisha Quarina, from Universitas\u00a0Gadjah Mada\u00a0in\u00a0Yogyakarta,\u00a0Indonesia, is w"
+    },
+    {
+      "title": "Building Greener Buildings",
+      "date": "2026-02-09",
+      "duration": 2814,
+      "audio_url": "https://downloads.pod.co/bc739b0b-b0e5-4971-802b-67b1ff38a2d4/abdb7e08-55f3-4984-bc3b-0e39db80e33a.mp3",
+      "description": "<p>What can be done to make your building greener? How can centuries old castles and churches be sensitively adapted to the modern age \u2013 becoming more sustainable while retaining their historic character?</p>\n<p>Alfie Stephenson-Boyles is an architect with Donald Insall Associates, who specialise in conservation and heritage architecture. He brings his experience across working on ancient buildings and new builds to the show, and of working with clients to show them the impact sustainable action"
+    },
+    {
+      "title": "Keeping Sustainability in the Family",
+      "date": "2026-02-02",
+      "duration": 2155,
+      "audio_url": "https://downloads.pod.co/bc739b0b-b0e5-4971-802b-67b1ff38a2d4/87d2638c-329b-47b0-9d5b-d8cdf73ac6c3.mp3",
+      "description": "<p>It\u2019s time to rethink how family businesses think about and act on sustainability issues. It\u2019s not always about being willing to act \u2013 but being capable.</p>\n<p>Professor Alfredo De Massis, of Lancaster University Management School; the University of Chieti-Pescara, Italy; and IMD, in Switzerland, has worked on family businesses and entrepreneurship for decades \u2013 striving to produce knowledge that these firms can use to their advantage.</p>\n<p>He joins us to look at why family business decisio"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "transformingtomorrow@lancaster.ac.uk",
+  "contact_name": "The Pentland Centre for Sustainability in Business",
+  "discovered_date": "2026-02-18",
+  "slug": "transforming-tomorrow",
+  "relevance": "Medium",
+  "score_reason": "Sustainability-focused business podcast could be relevant given Andreas's agriculture work, though the environmental sustainability angle differs from his AI/marketing/transformation expertise."
+}

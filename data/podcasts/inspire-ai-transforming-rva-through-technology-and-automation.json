@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Inspire AI: Transforming RVA Through Technology and Automation",
+  "host": "AI Ready RVA",
+  "description": "Our mission is to cultivate AI literacy in the Greater Richmond Region through awareness, community engagement, education, and advocacy. In this podcast, we spotlight companies and individuals in the region who are pioneering the development and use of AI.\u00a0",
+  "rss_url": "https://rss.buzzsprout.com/2433144.rss",
+  "website": "http://aireadyrva.com",
+  "language": "en-us",
+  "categories": [
+    "Technology",
+    "Education",
+    "Business"
+  ],
+  "feed_id": "7136983",
+  "last_episode_date": "",
+  "episode_count": 68,
+  "recent_episodes": [
+    {
+      "title": "Ep 66 - From Prompts To Process: Building Trustworthy AI Workflows w/ Tianzhen Lin",
+      "date": "2026-02-16",
+      "duration": 1972,
+      "audio_url": "https://www.buzzsprout.com/2433144/episodes/18660589-ep-66-from-prompts-to-process-building-trustworthy-ai-workflows-w-tianzhen-lin.mp3",
+      "description": "<p>Send a text</p><p>When intelligence is everywhere but correctness is scarce, how do we lead without cutting corners? We sit down with Tianzhen (Tangent) Lin\u2014veteran engineer and systems thinker\u2014to unpack a practical, durable approach to building AI\u2011assisted products that hold up under pressure. No hype, no shortcuts: just the patterns that make teams faster and safer at the same time.<br/><br/>We start by reframing large language models as \u201ceager interns\u201d: fast, helpful, and prone to saying y"
+    },
+    {
+      "title": "Ep 65 - LLM-as-a-Judge: Evaluations That Scale",
+      "date": "2026-02-09",
+      "duration": 903,
+      "audio_url": "https://www.buzzsprout.com/2433144/episodes/18583734-ep-65-llm-as-a-judge-evaluations-that-scale.mp3",
+      "description": "<p>Send a text</p><p>What if your AI had a never-tired reviewer that caught quiet errors before they reached customers? We dive into LLM-as-judge\u2014the simple but powerful pattern where one model generates and another evaluates\u2014to show how leaders can scale quality without surrendering standards. From summaries that must capture the one sentence that matters to support answers that need to be grounded, safe, and on-brand, we break down where this approach shines and where it can fail you.<br/><br/"
+    },
+    {
+      "title": "Ep 64 - Intelligence, Accountability, And You: From AI Slop to Sound Judgement",
+      "date": "2026-02-02",
+      "duration": 820,
+      "audio_url": "https://www.buzzsprout.com/2433144/episodes/18581241-ep-64-intelligence-accountability-and-you-from-ai-slop-to-sound-judgement.mp3",
+      "description": "<p>Send us a text</p><p>The pace of AI can feel exhilarating until a polished report collapses under scrutiny and your team spends hours repairing \u201cwork slop.\u201d We\u2019re seeing a quiet shift across organizations: as intelligence becomes ambient, leadership\u2019s edge moves from gathering information to evaluating it. That shift changes how we make calls, how we manage risk, and how we design trust into everyday workflows.<br/><br/>We unpack practical decision hygiene that keeps speed from steamrolling s"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "wmelton@xponent21.com",
+  "contact_name": "AI Ready RVA",
+  "discovered_date": "2026-02-18",
+  "slug": "inspire-ai-transforming-rva-through-technology-and-automation",
+  "relevance": "Medium",
+  "score_reason": "Regional focus (Richmond) but covers AI literacy and business applications, could work for his speaking/education angle."
+}

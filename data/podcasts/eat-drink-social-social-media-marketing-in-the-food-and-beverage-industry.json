@@ -1,0 +1,38 @@
+{
+  "source": "podcast_index",
+  "name": "Eat. Drink. Social: Social Media Marketing in the Food and Beverage Industry",
+  "host": "GoSocial",
+  "description": "Eat. Drink. Social. is a podcast about social media marketing in the food and beverage industry and the people behind the posts. ",
+  "rss_url": "https://feeds.buzzsprout.com/2422434.rss",
+  "website": "http://www.goforthbesocial.com",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "7088121",
+  "last_episode_date": "",
+  "episode_count": 0,
+  "recent_episodes": [
+    {
+      "title": ":89 @cocktailsbyc",
+      "date": "2024-09-09",
+      "duration": 1647,
+      "audio_url": "https://www.buzzsprout.com/2422434/episodes/16070989-89-cocktailsbyc.mp3",
+      "description": "<p>From Craig\u2019s List to Bar Rescue and his own spirits brand, Carlos Ruiz of @cocktailsbyc has had a wild journey in the hospitality world. We talk cocktails, social media tips and how he created a totally unique liqueur based on his Peruvian heritage.</p>"
+    },
+    {
+      "title": "88: @DrinkwithWayne",
+      "date": "2024-08-12",
+      "duration": 2330,
+      "audio_url": "https://www.buzzsprout.com/2422434/episodes/16070990-88-drinkwithwayne.mp3",
+      "description": "<p>From a musician to a chef to a coffee roaster and whiskey enthusiast, Wayne Cafariella (@drinkwithwayne) has many passions. Hear how he tapped into twitch streamers to launch his online coffee business and find out his favorite bourbon brand in this latest episode of Eat. Drink. Social. </p>"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "eat-drink-social-social-media-marketing-in-the-food-and-beverage-industry",
+  "relevance": "Medium",
+  "score_reason": "Duplicate listing with 0 episodes suggests inactive feed\u2014same tactical social focus as above entry."
+}

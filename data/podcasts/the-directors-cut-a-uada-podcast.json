@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "The Director's Cut - A UADA Podcast",
+  "host": "Division-of-Agriculture",
+  "description": "The Director\u2019s Cut - A UADA Podcast contains updates from Arkansas Extension Director Dr. John Anderson.",
+  "rss_url": "https://rss.buzzsprout.com/2390481.rss",
+  "website": "https://www.buzzsprout.com/2390481",
+  "language": "en-us",
+  "categories": [
+    "Arts"
+  ],
+  "feed_id": "6977679",
+  "last_episode_date": "",
+  "episode_count": 11,
+  "recent_episodes": [
+    {
+      "title": "Policy Followup (Ep. 111)",
+      "date": "2025-06-06",
+      "duration": 3388,
+      "audio_url": "https://www.buzzsprout.com/2390481/episodes/17294042-policy-followup-ep-111.mp3",
+      "description": "<p>In this episode we dig deeper into some policy efforts and legislative actions that affect the Division of Agriculture. Jeff Weaver, UADA Director of Government Affairs and Stakeholder Development, continues the conversation from the recent The Director's Cut webinar from Boone County.</p>"
+    },
+    {
+      "title": "Flooding Impacts (Ep. 110)",
+      "date": "2025-06-02",
+      "duration": 1062,
+      "audio_url": "https://www.buzzsprout.com/2390481/episodes/17269761-flooding-impacts-ep-110.mp3",
+      "description": "<p>Join us as we talk to Drs. Jason Davis and Hunter Biram about their work to provide information and cost estimates from the recent flooding. Jason and Hunter used satellite technology to provide timely information to farmers and support organizations. \u00a0</p>"
+    },
+    {
+      "title": "Happy New Year! 2025 (Ep. 109)",
+      "date": "2025-01-23",
+      "duration": 1765,
+      "audio_url": "https://www.buzzsprout.com/2390481/episodes/16492418-happy-new-year-2025-ep-109.mp3",
+      "description": "<p>As we roll into a new year, Dr. Anderson talks about goals for 2025. We'll discuss the legislative session and promotion process changes, plus more. \u00a0</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-directors-cut-a-uada-podcast",
+  "relevance": "Low",
+  "score_reason": "Internal updates podcast from University of Arkansas Division of Agriculture, not a guest interview format.",
+  "contact_email": "krodtnick@uada.edu",
+  "contact_name": "Division-of-Agriculture",
+  "contact_source": "rss"
+}

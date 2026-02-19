@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Epicurean Unicorn",
+  "host": "Braden and The Unicorn Collective",
+  "description": "A podcast from food industry professionals all about the food industry, food trends, and anything else we find delicious!\u00a0",
+  "rss_url": "https://feeds.buzzsprout.com/1218455.rss",
+  "website": "https://www.puratos.us/en/digital-services1/epicurean-unicorn--puratos--technical-advisor-podcast",
+  "language": "en-us",
+  "categories": [
+    "Arts",
+    "Food"
+  ],
+  "feed_id": "415246",
+  "last_episode_date": "",
+  "episode_count": 122,
+  "recent_episodes": [
+    {
+      "title": "Top 3 Passover Foods of the Host's Family",
+      "date": "2025-04-15",
+      "duration": 802,
+      "audio_url": "https://www.buzzsprout.com/1218455/episodes/16984509-top-3-passover-foods-of-the-host-s-family.mp3",
+      "description": "<p>Send us a text</p><p>Our episode was invaded by two small family members sharing their favorite Passover foods.\u00a0</p><p><br/></p><p>Find our previous bonus episode on Passover here: https://podcasts.apple.com/us/podcast/bonus-episode-passover/id1523500120?i=1000556376509</p><p>Find Puratos at:<br/><br/>@PuratosUSA- Twitter<br/>@PuratosUS- Instagram<br/>puratos.us</p>"
+    },
+    {
+      "title": "A Star Trek Restaurant in NYC with Matthew Kaplowitz. Can this be for real?",
+      "date": "2025-04-01",
+      "duration": 1411,
+      "audio_url": "https://www.buzzsprout.com/1218455/episodes/16890504-a-star-trek-restaurant-in-nyc-with-matthew-kaplowitz-can-this-be-for-real.mp3",
+      "description": "<p>Send us a text</p><p>Returning guest Matthew Kaplowitz joins us for a special announcement about a new project he is working on.\u00a0</p><p>You can find information about Matthew and his projects as well as information related to his new endeavor here: \u00a0</p><p><br/></p><p>Trek Untold</p><p>https://www.trekuntold.com/</p><p>Press Record Studios\u00a0</p><p>https://pressrecordstudios.com/</p><p>Trek Long Island</p><p>https://treklongisland.com/</p><p>Star Trek Cookbook</p><p>https://www.simonandschuster"
+    },
+    {
+      "title": "Bad@$$ Women in Baking Part 3",
+      "date": "2025-03-28",
+      "duration": 1182,
+      "audio_url": "https://www.buzzsprout.com/1218455/episodes/16807462-bad-women-in-baking-part-3.mp3",
+      "description": "<p>Send us a text</p><p>Sloan is back for more and we learn about how a well known national brand got their start.\u00a0</p><p><br/></p><p>References and further reading:\u00a0</p>https://americanbakers.org/news/women-baking-pioneers-did-it-their-wayhttps://www.foodandwine.com/cooking-techniques/baking/bread-bakers-around-the-worldhttps://en.wikipedia.org/wiki/Nancy_Silverton#:~:text=Nancy%20Silverton%20(born%20June%2020,breads%20in%20the%20United%20States.<p>Find Puratos at:<br/><br/>@PuratosUSA- Twitter"
+    }
+  ],
+  "known_target": true,
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "epicurean-unicorn",
+  "contact_email": "infous@puratos.com",
+  "contact_name": "Braden and The Unicorn Collective",
+  "contact_source": "website"
+}

@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Transforming: Tales of Business Evolution",
+  "host": "AICPA & CIMA",
+  "description": "The Small Firms Philosophy podcast has become \"Transforming: tales of Business Evolution\", a monthly show designed for firms of any size and scale, exploring innovative operating methods that help organizations adapt to a changing landscape. Hear from industry leaders sharing their experiences of reshaping their business models, delving into the dynamic world of business transformation, and inspiring you to explore new ways to evolve your own organization.  \"Transforming\" started in November 202",
+  "rss_url": "https://aicpasmallfirm.libsyn.com/rss",
+  "website": "https://aicpasmallfirm.libsyn.com/sfp",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Management",
+    "News"
+  ],
+  "feed_id": "335636",
+  "last_episode_date": "",
+  "episode_count": 123,
+  "recent_episodes": [
+    {
+      "title": "TfP 018. Burnout Prevention in Action",
+      "date": "2026-01-23",
+      "duration": 2685,
+      "audio_url": "https://traffic.libsyn.com/secure/aicpasmallfirm/TFP_podcast_ep_018_ver_3_podmix.mp3?dest-id=769109",
+      "description": "<p>Lauren Baptiste, founder of Acheloa Wellness, explores how burnout is more than just exhaustion; it's a systemic challenge affecting professionals at every level.</p> <p>Lauren highlights the new PCPS Burnout Prevention Toolkit, a practical resource designed to help individuals, firms, organizations, and the profession combat burnout before it starts. Lauren shares her personal journey, actionable strategies for creating healthier work cultures, and quick wins you can implement today.</p> <p>"
+    },
+    {
+      "title": "TfP 017. Getting Ready for 'Busy Season', Part II",
+      "date": "2025-12-18",
+      "duration": 2876,
+      "audio_url": "https://traffic.libsyn.com/secure/aicpasmallfirm/TFP_podcast_017_ver_2_podmix.mp3?dest-id=769109",
+      "description": "<p>We're back with another special compilation of conversations offering insights relevant for preparing for busy season. Jaimie Boyd from the AICPA\u00ae Firm Services team shares highlights from conversations we've had over the past year with practitioners who are applying the fundamental concepts of the Transforming Your Business Model initiative to their day-to-day operations.</p> <p>From scheduling systems that help tame tax season to the power of virtual teams and intentional client selection, "
+    },
+    {
+      "title": "TfP 016. Beyond the Numbers: Real-World Insights from the MAP Survey",
+      "date": "2025-12-04",
+      "duration": 2583,
+      "audio_url": "https://traffic.libsyn.com/secure/aicpasmallfirm/TFP_podcast_ep_016_ver_2_full_podmix.mp3?dest-id=769109",
+      "description": "<p>Ready to turn data into your firm's competitive edge? This episode reveals how firm leaders are leveraging the National Management of an Accounting Practice (MAP) Survey, from the AICPA Private Companies Practice Section (PCPS) and CPA.com, to drive smarter decision-making and stay ahead in a rapidly evolving profession.</p> <p>Shayna Chapman, CPA.CITP, CGMA, CEO, Founder of Shaynaco LLC, and Brent Forbush, Managing Partner of Forbush & Associates, share practical insights on how to best use "
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "podcast.admin@aicpa-cima.com",
+  "contact_name": "AICPA & CIMA",
+  "discovered_date": "2026-02-18",
+  "slug": "transforming-tales-of-business-evolution",
+  "relevance": "Medium",
+  "score_reason": "Business transformation focus aligns with Andreas's AI and traditional industry expertise, but the accounting/AICPA angle and recent episode topics suggest narrower professional services focus than his broad industry experience."
+}

@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "The Docent Daily Brief, Business Edition",
+  "host": "docent, the ai podcast network",
+  "description": "Catch up on the latest in business, markets, and the economy \u2014 with a daily, no-nonsense update that keeps you informed and ahead.",
+  "rss_url": "https://feeds.transistor.fm/the-docent-daily-brief-business-edition",
+  "website": "https://docentai.app/",
+  "language": "en",
+  "categories": [
+    "News",
+    "Business"
+  ],
+  "feed_id": "7331306",
+  "last_episode_date": "",
+  "episode_count": 96,
+  "recent_episodes": [
+    {
+      "title": "Business, 2/18/26",
+      "date": "2026-02-18",
+      "duration": 1635,
+      "audio_url": "https://media.transistor.fm/a0cfa26c/44cd73b3.mp3",
+      "description": "A roundup of the days top business headlines"
+    },
+    {
+      "title": "Business, 2/17/26",
+      "date": "2026-02-17",
+      "duration": 1628,
+      "audio_url": "https://media.transistor.fm/de982fff/b78e9019.mp3",
+      "description": "A roundup of the days top business headlines"
+    },
+    {
+      "title": "Business, 2/16/26",
+      "date": "2026-02-16",
+      "duration": 1673,
+      "audio_url": "https://media.transistor.fm/0946f324/95a1748e.mp3",
+      "description": "A roundup of the days top business headlines"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-docent-daily-brief-business-edition",
+  "relevance": "Low",
+  "score_reason": "Daily news brief format without guest interviews."
+}

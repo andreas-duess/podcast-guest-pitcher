@@ -1,18 +1,50 @@
 {
-  "source": "exa",
+  "source": "podcast_index",
   "name": "The AI in Business Podcast",
-  "host": "",
-  "description": "The AI in Business Podcast\n**Preview Mode**Links will not work in preview mode\nThe AI in Business Podcast is for non-technical business leaders who need to find AI opportunities, align AI capabilities with strategy, and deliver ROI. Each week, Emerj Artificial Intelligence Research CEO Daniel Faggella interviews top AI executives from Fortune 500 firms and unicorn startups - to uncover trends, use-cases, and best practices for practical AI adoption. Subscribe to Emerj's weekly AI newsletter by d",
-  "rss_url": "",
-  "website": "https://podcast.emerj.com/2025",
+  "host": "Daniel Faggella",
+  "description": "The AI in Business Podcast is for non-technical business leaders who need to find AI opportunities, align AI capabilities with strategy, and deliver ROI.\nEach week, Emerj research staff and journalists interview top AI executives from Fortune 2000 firms and unicorn startups - uncovering trends, use-cases, and best practices for practical AI adoption.\nVisit our advertising page to learn more about reaching our executive audience of Fortune 2000 AI adopters: https://emerj.com/advertise",
+  "rss_url": "https://techemergence.libsyn.com/rss",
+  "website": "http://emerj.com",
   "language": "en",
-  "categories": [],
+  "categories": [
+    "Technology",
+    "Business",
+    "Management"
+  ],
+  "feed_id": "168928",
   "last_episode_date": "",
-  "episode_count": 0,
-  "recent_episodes": [],
-  "status": "discovered",
-  "pursue": false,
+  "episode_count": 1000,
+  "recent_episodes": [
+    {
+      "title": "Enterprise AI Adoption at a Moment of Maximum Skepticism - with Nishtha Jain",
+      "date": "2026-02-17",
+      "duration": 1827,
+      "audio_url": "https://traffic.libsyn.com/secure/techemergence/Business_-_02.17.25_-_Nishtha_Jain.mp3?dest-id=151434",
+      "description": "<p >Today's guest is Nishtha Jain, AI Innovation Leader. Nishtha leads enterprise data and AI strategy in the biopharma sector, focusing on aligning advanced analytics and AI systems with real-world clinical, regulatory, and operational workflows.</p> <p >Nishtha joins Emerj Client Narrative & Content Strategy Lead Nick Gertsch to examine why most enterprise AI pilots fail to scale, how unrealistic expectations and poorly defined use cases undermine ROI, and what it takes to design human-centere"
+    },
+    {
+      "title": "In a Sea of Complexity, Does a \"Successor\" Exist? - with Stephen Wolfram of Wolfram Research",
+      "date": "2026-02-14",
+      "duration": 7497,
+      "audio_url": "https://traffic.libsyn.com/secure/techemergence/Stephen_Wolfram_-_AIB_02.14.26.mp3?dest-id=151434",
+      "description": "Today's guest is Stephen Wolfram, Founder and CEO of Wolfram Research. Wolfram is a pioneering computer scientist and physicist, best known for creating Mathematica and Wolfram|Alpha, and for decades of work on complexity, computation, and the foundations of how systems evolve. Stephen joins Emerj CEO and Head of Research Daniel Faggella to explore how simple computational rules can give rise to complex, unpredictable systems, and what that means for the future of intelligence beyond biological "
+    },
+    {
+      "title": "From Demos to Defensible in Financial Services Copyright & Compliance for Enterprise AI - Naveen Kumar of TD Bank",
+      "date": "2026-02-10",
+      "duration": 1169,
+      "audio_url": "https://traffic.libsyn.com/secure/techemergence/Business_-_2.10.26_-_Naveen_Kumar.mp3?dest-id=151434",
+      "description": "<p>Today's guest is Naveen Kumar, Head of AI Governance at TD Bank. With extensive experience in AI risk management and governance, he provides actionable strategies for secure AI scaling in regulated environments. Naveen joins Emerj Editorial Director Matthew DeMello to discuss foundational challenges blocking AI adoption in banking, including data leakage, prompt injection, shadow AI, and hallucinations. Naveen also shares practical takeaways, such as role-based AI guardrails for data access, "
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
   "notes": "",
   "discovered_date": "2026-02-18",
-  "slug": "the-ai-in-business-podcast"
+  "slug": "the-ai-in-business-podcast",
+  "relevance": "High",
+  "score_reason": "Perfect fit - interviews executives about AI adoption, strategy, and ROI in enterprises, aligns with guest's AI expertise and traditional industry focus.",
+  "contact_email": "chronis@emerj.com",
+  "contact_name": "Daniel Faggella",
+  "contact_source": "rss"
 }

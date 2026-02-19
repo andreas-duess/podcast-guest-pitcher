@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "The Intelligent Marketer",
+  "host": "Mike Duboe and Rishabh Jain",
+  "description": "What\u2019s happening at the intersection of AI, marketing, and commerce? Will ChatGPT replace Google Ads? Will LLMs revolutionize the customer journey? Find out on The Intelligent Marketer, a podcast from Greylock Partners.In every episode, Greylock investor Mike Duboe & FERMAT CEO Rishabh Jain talk with an expert guest about the future of artificial intelligence in marketing, and how marketers can stay ahead of the curve.Produced by Eric Johnson from LightningPod.fm",
+  "rss_url": "https://feeds.megaphone.fm/intelligentmarketer",
+  "website": "https://intelligentmarketerpod.com/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Technology"
+  ],
+  "feed_id": "7380316",
+  "last_episode_date": "",
+  "episode_count": 14,
+  "recent_episodes": [
+    {
+      "title": "AI Will Create the \"Me Store,\" with Ridge's Sean Frank",
+      "date": "2025-10-09",
+      "duration": 2747,
+      "audio_url": "https://traffic.megaphone.fm/GRL3157941449.mp3",
+      "description": "<p>Where are we in the agentic commerce revolution? \"We're not even in the parking lot to the game yet. We're still on the freeway driving to the game,\" says Sean Frank, CEO of Ridge. Today on The Intelligent Marketer, he talks with Mike & Rishabh about why adding a product to your digital shopping cart might become as obsolete as buying from a print catalog; how ChatGPT is already driving product recommendations and purchases; and why being famous matters more than ever. They also discuss how A"
+    },
+    {
+      "title": "Product-Led SEO Still Works For AI Search, with Eli Schwartz",
+      "date": "2025-09-30",
+      "duration": 3029,
+      "audio_url": "https://traffic.megaphone.fm/GRL8285230591.mp3",
+      "description": "<p>\"I think the entire concept of AEO was invented by people looking to sell something additional to SEO,\" says Eli Schwartz, author of Product-Led SEO. Today on The Intelligent Marketer, he talks with Mike & Rishabh about how search-engine optimization is bigger and more relevant than ever, how AI is reshaping the funnel, and why brands should focus on product and reputation over hacks and deliverables. They also talk about why it's dangerous to try and game Reddit, why NPS scores matter, and d"
+    },
+    {
+      "title": "The Future of Payments in an Agentic Commerce World, with Visa's Rubail Birwadker",
+      "date": "2025-09-23",
+      "duration": 2762,
+      "audio_url": "https://traffic.megaphone.fm/GRL1754985132.mp3",
+      "description": "<p>\"How do you make a network with 10\u201315,000 banks, near 150 to 200 million merchants, four and a half billion credentials around the world, and how do you make it compatible with things like agentic commerce, with things like stablecoins, with things like wherever the next technology is headed?\" Rubail Birwadker, who leads growth products and strategic partnerships at Visa, talks about all of that and more with Mike & Rishabh on today's Intelligent Marketer. They also discuss why trust and safe"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "contact@lightningpod.fm",
+  "contact_name": "Mike Duboe and Rishabh Jain",
+  "discovered_date": "2026-02-18",
+  "slug": "the-intelligent-marketer",
+  "relevance": "High",
+  "score_reason": "Directly addresses AI's impact on marketing and commerce with expert guests, perfectly aligned with Andreas's AI marketing expertise and practitioner perspective."
+}

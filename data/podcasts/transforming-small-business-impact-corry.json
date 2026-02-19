@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Transforming Small Business (Impact Corry)",
+  "host": "Impact Corry",
+  "description": "A show that spotlights small, rural businesses in Erie County Pennsylvania, Northwest Pennsylvania, and beyond. Hear about success stories and unique challenges that these businesses and their leaders face.\nPresented by Impact Corry, the non-profit community, economic, and civic development hub based in Corry, Pennsylvania. Funding is provided by the Erie County Gaming Revenue Authority.",
+  "rss_url": "https://anchor.fm/s/e682d570/podcast/rss",
+  "website": "https://www.impactcorry.org/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Entrepreneurship"
+  ],
+  "feed_id": "6618788",
+  "last_episode_date": "",
+  "episode_count": 17,
+  "recent_episodes": [
+    {
+      "title": "Manufacturing Enterprise program (Corry High School)",
+      "date": "2026-02-12",
+      "duration": 1456,
+      "audio_url": "https://anchor.fm/s/e682d570/podcast/play/115414053/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-12%2Fc8a696f2-3d7d-a92c-9a45-fa9390605d91.mp3",
+      "description": "<p>In our newest episode, we're speaking with the team behind Corry High School's Manufacturing Enterprise program. Guests include teacher Travis Carey, along with students Sylas Bryan, Charlie Amburgy and Alex Schmidt. </p><p>They discuss the program's launch, how they built Beaver Precision Works, and which local businesses are collaborating with them.</p><p>We hope you enjoy the conversation.</p><p>Music: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060Slim and Red\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060</p><p>Sponsor: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060ECGRA\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 / \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060Im"
+    },
+    {
+      "title": "Chris Groner (City of Erie)",
+      "date": "2026-01-02",
+      "duration": 1640,
+      "audio_url": "https://anchor.fm/s/e682d570/podcast/play/113409382/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-2%2F82fdc513-5054-1d18-0d30-2ac08f80617c.mp3",
+      "description": "<p>In our newest episode, we're speaking with Chris Groner, the Director for the Office of Development Services with the City of Erie. We discuss his long history with the City of Erie, how municipal finance and lending can benefit small business owners, and his most fulfilling projects over the years.</p><p>We hope you enjoy the conversation.</p><p>Episode note: On December 3rd, Groner was named the Director of Administration for Erie County, as part of Christina Vogel's new team. He will assum"
+    },
+    {
+      "title": "Julie Zajac (3 Pillarz Farm)",
+      "date": "2025-11-28",
+      "duration": 2324,
+      "audio_url": "https://anchor.fm/s/e682d570/podcast/play/111856442/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-28%2Fbf8a5439-5f4a-3bb9-f7cb-526440d01133.mp3",
+      "description": "<p>In our newest episode, we're speaking with Julie Zajac, the founder of 3 Pillarz Farm in Northwest Pennsylvania. We discuss the family history of the farm, talk the many educational offerings offered through 3 Pillarz, and then discover the great products they sell. </p><p>We hope you enjoy the conversation.</p><p>Music: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060Slim and Red\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060</p><p>Sponsor: \u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060ECGRA\u2060\u2060\u2060\u2060\u2060\u2060\u2060\u2060 / \u2060\u2060\u2060\u2060\u2060\u2060\u2060Impact Corry\u2060\u2060\u2060\u2060\u2060\u2060\u2060</p><p>Production: Edinboro Campus Media</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "director@impactcorry.com",
+  "contact_name": "Impact Corry",
+  "discovered_date": "2026-02-18",
+  "slug": "transforming-small-business-impact-corry",
+  "relevance": "Low",
+  "score_reason": "Hyper-local focus on small rural Pennsylvania businesses, audience too small and regional for Andreas's profile."
+}

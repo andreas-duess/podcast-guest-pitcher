@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "B2B Marketing Podcast",
+  "host": "Joel Harrison",
+  "description": "The essential resource for B2B marketers.",
+  "rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:262152817/sounds.rss",
+  "website": "https://www.b2bmarketing.net/en-gb/b2b-marketing-podcast",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "554444",
+  "last_episode_date": "",
+  "episode_count": 208,
+  "recent_episodes": [
+    {
+      "title": "Episode 207: Inside award-winning B2B campaigns and what they mean for marketing in 2026",
+      "date": "2025-12-15",
+      "duration": 2317,
+      "audio_url": "https://chrt.fm/track/93761F/http://feeds.soundcloud.com/stream/2229903875-b2bmarketingpod-episode-207-inside-award-winning-b2b-campaigns-and-what-they-mean-for-marketing-in-2026.mp3",
+      "description": "In this week\u2019s episode of the B2B Marketing Podcast, David Rowlands spoke with Paul Collier, CMO, FunnelFuel; Chris Omotosho, Managing Director, UK, Gravity Global; Nick Watmough, Executive Creative Director, The Croc; and Jon Buckthorp, Commercial Director, Differentiated. \nAs we close out 2025, it only felt right to end with a conversation inspired by the year\u2019s standout work. Drawing on insights from across agency, brand and creative leadership, the panel discusses what made this year\u2019s award"
+    },
+    {
+      "title": "Episode 206: How to create high-performing teams and resource networks, with HelloKindred",
+      "date": "2025-11-20",
+      "duration": 2779,
+      "audio_url": "https://chrt.fm/track/93761F/http://feeds.soundcloud.com/stream/2215315862-b2bmarketingpod-episode-206-how-to-create-high-performing-teams-and-resource-networks-with-hellokindred.mp3",
+      "description": "In this week\u2019s episode of the B2B Marketing Podcast in association with HelloKindred, Kavita Singh is joined by Roland Glass, Chief Commercial Officer, HelloKindred as well as Sarah Thomas, the Group Chief Marketing Officer, EVP, over at Capgemini.\nOff the back of the Propolis Leader\u2019s Forum, they dig into what truly drives high-performing marketing teams, from adaptability and intellectual curiosity to data fluency and modern leadership behaviors. Roland also breaks down how a resource network "
+    },
+    {
+      "title": "Episode 205: Vanessa Schotes, CMO, Enfuce, shares her philosophy for being a commercial marketer",
+      "date": "2025-11-14",
+      "duration": 1793,
+      "audio_url": "https://chrt.fm/track/93761F/http://feeds.soundcloud.com/stream/2211990341-b2bmarketingpod-episode-205-vanessa-schotes-cmo-enfuce-shares-her-philosophy-for-being-a-commercial-marketer.mp3",
+      "description": "In this episode of The B2B Marketing Podcast, David Rowlands, Head of Product, B2B Marketing caught up with Vanessa Schotes, CMO, Enfuce. \nShortlisted for B2B Marketer of the Year at the 2025 B2B Marketing Awards, Vanessa explains how marketing helped drive 450% growth in new territories and achieve a marketing ROI of 5:1. If you want to attend the B2B Marketing Awards ceremony in London this year, you can find out more information here: https://events.b2bmarketing.net/b2bawards"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "b2b-marketing-podcast",
+  "relevance": "Medium",
+  "score_reason": "B2B marketing focus is relevant to Andreas's agency background, but may not emphasize AI or traditional industry transformation enough.",
+  "contact_email": "joel.harrison@b2bmarketing.net",
+  "contact_name": "Joel Harrison",
+  "contact_source": "web_search"
+}

@@ -1,0 +1,29 @@
+{
+  "source": "podcast_index",
+  "name": "Decisions to Make",
+  "host": "James Costello",
+  "description": "Instrumental piano\u2026. big decisions seem to swirl around four posts for me. This improvisation is based around four chords. Hope you enjoy it. #Value4Value #instrumentalmusic #solopiano",
+  "rss_url": "https://feeds.fountain.fm/B5qgnnd2WkFcnMZvZtIe",
+  "website": "",
+  "language": "en",
+  "categories": [],
+  "feed_id": "7463385",
+  "last_episode_date": "",
+  "episode_count": 1,
+  "recent_episodes": [
+    {
+      "title": "Decisions To Make",
+      "date": "2025-08-26",
+      "duration": 213,
+      "audio_url": "https://feeds.fountain.fm/B5qgnnd2WkFcnMZvZtIe/items/spI5VXkk9h2D3rYOsprT/files/AUDIO---DEFAULT---d0fe924b-8cbf-4978-8420-2f0fef7fc30f.mp3",
+      "description": ""
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "decisions-to-make",
+  "relevance": "Low",
+  "score_reason": "This is instrumental piano music, not a business podcast."
+}

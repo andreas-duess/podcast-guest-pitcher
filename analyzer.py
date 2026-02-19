@@ -124,7 +124,7 @@ def analyze_podcast(podcast_record, profile_path):
 
     client = Anthropic(api_key=ANTHROPIC_API_KEY)
     response = client.messages.create(
-        model="claude-sonnet-4-5-20250929",
+        model="claude-sonnet-4-20250514",
         max_tokens=2000,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -192,7 +192,7 @@ def write_pitch(podcast_record, profile_path, analysis):
 
     # Generate pitch body
     response = client.messages.create(
-        model="claude-sonnet-4-5-20250929",
+        model="claude-sonnet-4-20250514",
         max_tokens=1000,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -208,7 +208,7 @@ def write_pitch(podcast_record, profile_path, analysis):
     )
 
     response = client.messages.create(
-        model="claude-sonnet-4-5-20250929",
+        model="claude-sonnet-4-20250514",
         max_tokens=200,
         messages=[{"role": "user", "content": subject_prompt}],
     )

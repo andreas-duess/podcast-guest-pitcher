@@ -1,0 +1,43 @@
+{
+  "source": "podcast_index",
+  "name": "Agriculture Commodity Market Updates -- Podcast at Mississippi State University",
+  "host": "",
+  "description": "Commentary from the MSU Department of Agricultural Economics",
+  "rss_url": "http://mymedia.msstate.edu/rssout.php?id=4853",
+  "website": "http://mymedia.msstate.edu/",
+  "language": "en-us",
+  "categories": [],
+  "feed_id": "717805",
+  "last_episode_date": "",
+  "episode_count": 28,
+  "recent_episodes": [
+    {
+      "title": "Ag Market Update: Jan 12, 2015",
+      "date": "2015-01-12",
+      "duration": null,
+      "audio_url": "http://mymedia.msstate.edu/download/53569.mp3",
+      "description": "After a lengthy hiatus, we breakdown multiple ag reports from today (Jan 12) and market reactions."
+    },
+    {
+      "title": "Ag Market Update: Oct 27, 2014",
+      "date": "2014-10-27",
+      "duration": null,
+      "audio_url": "http://mymedia.msstate.edu/download/52591.mp3",
+      "description": "After a lengthy period away, we revisit the October supply and demand report, discuss other crop market news, and recap the recent Cattle on Feed report."
+    },
+    {
+      "title": "Ag Market Update: Sept 19, 2014",
+      "date": "2014-09-19",
+      "duration": null,
+      "audio_url": "http://mymedia.msstate.edu/download/52176.mp3",
+      "description": "We discuss the events of the past two weeks and the September Cattle on Feed report."
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "agriculture-commodity-market-updates-podcast-at-mississippi-state-university",
+  "relevance": "Low",
+  "score_reason": "Market commentary format with outdated episodes (2014-2015), not an active interview podcast."
+}

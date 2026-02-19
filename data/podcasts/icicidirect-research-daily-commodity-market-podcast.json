@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "ICICIdirect Research Daily Commodity Market Podcast",
+  "host": "..",
+  "description": "Daily Commodity Market update with respect to commodities traded on MCX. Covering Bullion, Energy and Base Metals.",
+  "rss_url": "https://anchor.fm/s/6141a864/podcast/rss",
+  "website": "https://anchor.fm/ramesh-varakhedkar",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing"
+  ],
+  "feed_id": "5039005",
+  "last_episode_date": "",
+  "episode_count": 71,
+  "recent_episodes": [
+    {
+      "title": "Swapna Kitchen Brinjal",
+      "date": "2021-11-28",
+      "duration": 794,
+      "audio_url": "https://anchor.fm/s/6141a864/podcast/play/44030176/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-28%2F233993261-44100-2-3f7917c2c25e.m4a",
+      "description": "<p>Swapna Kitchen Brinjal</p>\n\n--- \n\nSend in a voice message: https://anchor.fm/ramesh-varakhedkar/message"
+    },
+    {
+      "title": "Swapna Kitchen",
+      "date": "2021-11-28",
+      "duration": 790,
+      "audio_url": "https://anchor.fm/s/6141a864/podcast/play/44030044/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-10-28%2F233992461-44100-2-6540bec4591bc.m4a",
+      "description": "<p>Swapna Kitchen</p>\n\n--- \n\nSend in a voice message: https://anchor.fm/ramesh-varakhedkar/message"
+    },
+    {
+      "title": "ICICIdirect Daily Commodity Market Podcast",
+      "date": "2021-09-30",
+      "duration": 267,
+      "audio_url": "https://anchor.fm/s/6141a864/podcast/play/41112796/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2021-9-1%2F221690302-44100-2-33a2bc228248.m4a",
+      "description": "<p>Commodity Market Podcast: 1st Oct\u20192021</p><p>Gold rallies amid risk aversion and disappointing US job data, Oil steady on raising demand, Metals subdued on account of Chinese holiday today.</p><p>To know more listen to ICICIdirect Commodity Market Podcast\u2026\u2026</p>--- Send in a voice message: https://anchor.fm/ramesh-varakhedkar/message"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "icicidirect-research-daily-commodity-market-podcast",
+  "relevance": "Low",
+  "score_reason": "This is a daily financial market update covering commodity trading on MCX, not a guest interview format, and the recent episode titles suggest it may not even be a legitimate commodity podcast."
+}

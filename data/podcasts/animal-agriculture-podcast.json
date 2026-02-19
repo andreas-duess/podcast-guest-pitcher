@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Animal Agriculture Podcast",
+  "host": "Nutra Blend",
+  "description": "Animal agriculture is an ever changing industry.\u00a0Science is driving rapid changes in how we feed and care for our animals. In order to keep up on the changing landscape, nutritionists and veterinarians are turning to new formats to get timely research in a quick and efficient manner. Nutra Blend\u2019s Animal Agriculture podcasts offers this informative platform to keep you up to date on the latest research.\u00a0",
+  "rss_url": "https://feeds.buzzsprout.com/582508.rss",
+  "website": "https://nbagpodcast.buzzsprout.com",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Science",
+    "Education"
+  ],
+  "feed_id": "1020361",
+  "last_episode_date": "",
+  "episode_count": 92,
+  "recent_episodes": [
+    {
+      "title": "Managing Molds and Mycotoxins: Critical for Livestock and Poultry Performance",
+      "date": "2021-12-21",
+      "duration": 788,
+      "audio_url": "https://www.buzzsprout.com/582508/episodes/9637397-managing-molds-and-mycotoxins-critical-for-livestock-and-poultry-performance.mp3",
+      "description": "<p>On today's episode, John Ratzenberger sits down with Kemin's Dr. Vanessa Iseri to disucss how livestock and poultry producers are continuously faced with challenges to feed quality. Molds and mycotoxins are two such feed quality profit robbers that can have significant negative impacts on animal health and performance. Join us for this week's episode of Nutra Blend's Animal Agriculture podcast!\u00a0</p>"
+    },
+    {
+      "title": "Evaluating Sustainability in Cattle Production",
+      "date": "2021-12-14",
+      "duration": 949,
+      "audio_url": "https://www.buzzsprout.com/582508/episodes/9637368-evaluating-sustainability-in-cattle-production.mp3",
+      "description": "<p>On today's episode, John Ratzenberger sits down with Elanco's Dr. Sara Place to discuss how climate change is a hot topic today. Today we will take a deep dive into cattle's role in helping to nurture the earth. Join us for this week's episode of Nutra Blend's Animal Agriculture podcast!\u00a0</p>"
+    },
+    {
+      "title": "Organic Acids to Maximize Pig Performance",
+      "date": "2021-12-07",
+      "duration": 1279,
+      "audio_url": "https://www.buzzsprout.com/582508/episodes/9637317-organic-acids-to-maximize-pig-performance.mp3",
+      "description": "<p>On today's episode, John Ratzenberger sits down with Novus' Dr. Brad Lawrence to discuss how when pigs don\u2019t eat, bad bacteria can take over the gut. When these bad bugs outnumber the good ones, producers may see diarrhea or loss of productivity. Join us for this week's episode of Nutra Blend's Animal Agriculture podcast!\u00a0</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "animal-agriculture-podcast",
+  "relevance": "Low",
+  "score_reason": "Highly technical focus on animal nutrition and veterinary science rather than marketing, business strategy, or AI applications."
+}

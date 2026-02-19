@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Oil Markets",
+  "host": "S&P Global Commodity Insights",
+  "description": "S&P Global Commodity Insights analysis of key oil price movements across the globe.",
+  "rss_url": "https://globaloil.libsyn.com/rss",
+  "website": "https://www.spglobal.com/commodity-insights",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Investing",
+    "News"
+  ],
+  "feed_id": "856107",
+  "last_episode_date": "",
+  "episode_count": 503,
+  "recent_episodes": [
+    {
+      "title": "Upstream Ambitions, Refining Resilience: What Earnings Season Signals for 2026",
+      "date": "2026-02-12",
+      "duration": 1385,
+      "audio_url": "https://traffic.libsyn.com/secure/globaloil/021226_Oil_Markets.mp3?dest-id=1681175",
+      "description": "<p>In this episode of the Oil Markets Podcast by S&P Global Energy, host Jeff Mower, Director of Americas Oil News, is joined by Senior Refining Editor Janet McGurty and Senior Upstream Editor Ashok Dutta to break down the biggest takeaways from fourth-quarter oil earnings so far.</p> <p>How are Gulf Coast refiners positioning for a potential return of Venezuelan heavy crude \u2014 and what does it mean for heavy crude differentials? On the upstream side, are shale producers truly delivering \"more wi"
+    },
+    {
+      "title": "EU sanctions reshape Europe's refined product flows",
+      "date": "2026-02-05",
+      "duration": 1017,
+      "audio_url": "https://traffic.libsyn.com/secure/globaloil/050226-EU_sanctions_reshape_Europes_refined_product_flows.mp3?dest-id=1681175",
+      "description": "<p>Europe's dependence on imported middle distillates is in sharper focus after the EU's 18th sanctions package halted imports of refined products processed from Russian crude from Jan. 21. Europe is leaning more heavily on replacement supply from the Middle East and the US\u2014driving fresh volatility in diesel and jet fuel differentials even as underlying fundamentals remain mixed.</p> <p>Join Gary Clark, Aruni Sunil, Jan Kedzior, and Rebeka Foley as they unpack how trade flows are being reshuffle"
+    },
+    {
+      "title": "Forced flows: How new European sanctions are reshaping Asian gasoil and jet fuel markets",
+      "date": "2026-01-29",
+      "duration": 690,
+      "audio_url": "https://traffic.libsyn.com/secure/globaloil/012925-Forced_flows_How_new_European_sanctions_are_reshaping_Asian_gasoil_and_jet_fuel_markets.mp3?dest-id=1681175",
+      "description": "<p>Tighter European sanctions targeting refined products made from Russian crude are accelerating shifts in global middle distillate trade flows, with Asia increasingly at the center of the impact. By closing loopholes that previously allowed barrels processed outside Russia to re\u2011enter Europe, the latest measures are forcing market participants to reassess compliance risk, arbitrage economics, and regional supply balances.</p> <p>In this episode, Jonathan Nonis, associate editorial director at "
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "oil-markets",
+  "relevance": "Low",
+  "score_reason": "Focused exclusively on oil and energy commodities with no connection to Andreas's food/agriculture/marketing expertise.",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "S&P Global Commodity Insights",
+  "contact_source": "rss"
+}

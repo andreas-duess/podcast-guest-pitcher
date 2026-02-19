@@ -1,0 +1,45 @@
+{
+  "source": "podcast_index",
+  "name": "An S 312 Lifestock Production of Niche Markets",
+  "host": "Mark Honeyman",
+  "description": "An S 312 Lifestock Production of Niche Markets",
+  "rss_url": "http://delivery1.brenton.iastate.edu/relayPodcast/getPodcast.php?id=49",
+  "website": "http://www.agde.iastate.edu/",
+  "language": "en-us",
+  "categories": [
+    "Education"
+  ],
+  "feed_id": "315623",
+  "last_episode_date": "",
+  "episode_count": 29,
+  "recent_episodes": [
+    {
+      "title": "week9-2",
+      "date": "2014-03-17",
+      "duration": 0,
+      "audio_url": "http://delivery1.brenton.iastate.edu/relay/courses/AnS312/week9-2%20-%20iPod%20-%2020121017%2004.12.30PM.mp4",
+      "description": "Recorded Mon, 17 Mar 2014 14:24:11 -0500"
+    },
+    {
+      "title": "week4-3",
+      "date": "2014-03-17",
+      "duration": 0,
+      "audio_url": "http://delivery1.brenton.iastate.edu/relay/courses/AnS312/week4-3%20-%20iPod%20-%2020120914%2001.16.30PM.mp4",
+      "description": "Recorded Mon, 17 Mar 2014 14:24:11 -0500"
+    },
+    {
+      "title": "week7-3",
+      "date": "2014-03-17",
+      "duration": 0,
+      "audio_url": "http://delivery1.brenton.iastate.edu/relay/courses/AnS312/week7-3%20-%20iPod%20-%2020121005%2003.31.30PM.mp4",
+      "description": "Recorded Mon, 17 Mar 2014 14:24:10 -0500"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "an-s-312-lifestock-production-of-niche-markets",
+  "relevance": "Low",
+  "score_reason": "Appears to be course content/lectures, not an interview podcast."
+}

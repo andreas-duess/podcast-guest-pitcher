@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Digital Marketing Intelligence for Shopify: Ask the Experts",
+  "host": "NGAGGE",
+  "description": "Produced and published bi-weekly by NGAGGE, the world's easiest to use, full-featured, completely automated SMS  list building, sales and support tools for Shopify, complete with bots. \nThis podcast interviews experts who answer questions from e-commerce store owners and Shopify Partners like you in real time providing actionable insights, strategies, news and trends in the complex and ever changing world of e-commerce digital marketing.",
+  "rss_url": "https://media.rss.com/digital-marketing-intelligence/feed.xml",
+  "website": "https://rss.com/podcasts/digital-marketing-intelligence",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing",
+    "News"
+  ],
+  "feed_id": "2367373",
+  "last_episode_date": "",
+  "episode_count": 99,
+  "recent_episodes": [
+    {
+      "title": "Episode 99: Ryan Riggin (E-commerce Strategies)",
+      "date": "2022-12-05",
+      "duration": 2565,
+      "audio_url": "https://media.rss.com/digital-marketing-intelligence/2022_12_05_19_36_51_ad90c2cc-4335-4d48-8c81-110884ce04a1.mp3",
+      "description": "<p>How to maximize revenue through omni-channel marketing. </p><p>The head of growth for a successful agency and serial e-commerce entrepreneur explains!</p>"
+    },
+    {
+      "title": "Episode 98: KELLIS LANDRUM (Digital Strategies)",
+      "date": "2022-11-15",
+      "duration": 3222,
+      "audio_url": "https://media.rss.com/digital-marketing-intelligence/2022_11_15_08_00_58_2b394f5c-8965-4823-8f48-95321477da6c.mp3",
+      "description": "<p>Grow store revenue faster with the latest SEO strategies for 2023! </p><p>An SEO expert and well-known e-commerce agency founder explains.</p>"
+    },
+    {
+      "title": "Episode 97: Rich Rudzinski (Shopify E-commerce Strategies)",
+      "date": "2022-11-07",
+      "duration": 2166,
+      "audio_url": "https://media.rss.com/digital-marketing-intelligence/2022_11_07_16_27_53_506afbae-8c6a-44a0-b542-2dcc73ec2309.mp3",
+      "description": "<p>SMS with it 98% open rate is the most powerful tool available for growing your brand in 2023. </p><p>A successful entrepreneur and e-commerce expert explains.</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "digital-marketing-intelligence-for-shopify-ask-the-experts",
+  "relevance": "Low",
+  "score_reason": "Narrowly focused on Shopify e-commerce tactics and SMS tools, not relevant to Andreas's B2B, food marketing, or traditional industry expertise."
+}

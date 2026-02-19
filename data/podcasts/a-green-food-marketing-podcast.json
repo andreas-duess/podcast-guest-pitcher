@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "A Green Food Marketing Podcast",
+  "host": "Antonio Nenna",
+  "description": "Per 23 anni ho sempre osservato i cambiamenti negativi nel mondo senza riuscire a comprendere come poter dare il mio contributo positivo su questo pianeta.Poi, durante il lavoro che stavo svolgendo con lo chef Luca Zara (molto attento ai temi della sostenibilit\u00e0 ambientale), \u00e8 successo qualcosa che ha letteralmente capovolto la mia mente.Dopo qualche mese di consulenza la sua mole di clienti era aumentata cos\u00ec tanto che abbiamo dovuto interrompere i rapporti poich\u00e9 non riusciva a \u201cstarmi dietro\u201d",
+  "rss_url": "https://www.spreaker.com/show/3592379/episodes/feed",
+  "website": "https://www.spreaker.com/podcast/a-green-food-marketing-podcast--3592379",
+  "language": "it",
+  "categories": [
+    "Business",
+    "Entrepreneurship"
+  ],
+  "feed_id": "1178545",
+  "last_episode_date": "",
+  "episode_count": 16,
+  "recent_episodes": [
+    {
+      "title": "Imprenditore o Padrone - Tu Cosa Sei",
+      "date": "2020-06-15",
+      "duration": 1441,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/20161357/imprenditore_o_padrone_tu_cosa_sei.mp3",
+      "description": ""
+    },
+    {
+      "title": "Passi da Compiere per Stringere Partnership Commerciali Strategiche",
+      "date": "2020-05-30",
+      "duration": 1978,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/20043886/passi_da_compiere_x_partnership_strategica.mp3",
+      "description": "Quali sono i primi  passi da compiere per individuare, ottenere e stipulare una partnership commerciale strategica in questo settore?<br /><br />Lo scoprirai in questo episodio, dove ti verranno forniti anche diversi spunti per non sbagliare!<br /><br />Per continuare a rimanere in contatto con A Green Food Marketing connettiti con me!<br /><br />Community Facebook --> https://www.facebook.com/groups/agreenfoodmarketing/<br />Blog (Provvisorio) --> https://medium.com/@antonionenna<br />Profilo L"
+    },
+    {
+      "title": "Le Partnership Commerciali Strategiche",
+      "date": "2020-05-15",
+      "duration": 1962,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/19352941/i_tipi_di_partnership.mp3",
+      "description": "Quali sono le principali tipologie di partnership strategiche che possono essere portate avanti in questo settore per aumentare il numero dei clienti, il loro livello di fidelizzazione o anche incrementare la propria autorit\u00e0?<br /><br />Ne parlo in questo episodio, dove scoprirai come puoi sfruttare al massimo il tuo network di conoscenze in ambito lavorativo per sviluppare delle alleanze strategiche che ti permetteranno di abbattere i costi e di potenziare le tue strategie di marketing portate"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "a-green-food-marketing-podcast",
+  "relevance": "Low",
+  "score_reason": "Italian-language podcast about sustainability doesn't match Andreas's English-speaking, AI-focused positioning.",
+  "contact_email": "antonio.nenna94@gmail.com",
+  "contact_name": "Antonio Nenna",
+  "contact_source": "rss"
+}

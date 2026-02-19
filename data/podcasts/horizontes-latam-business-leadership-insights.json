@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Horizontes: LatAm Business Leadership Insights",
+  "host": "Americas Market Intelligence",
+  "description": "Horizontes helps Latin American business leaders understand key issues affecting their companies/industries and further develop their leadership skills via in-depth talks with a wide range of expert guests.",
+  "rss_url": "https://feeds.buzzsprout.com/2172288.rss",
+  "website": "https://americasmi.com/",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Management"
+  ],
+  "feed_id": "6462933",
+  "last_episode_date": "",
+  "episode_count": 31,
+  "recent_episodes": [
+    {
+      "title": "The Shifting Commercial and Industrial Real Estate Markets in Latin America",
+      "date": "2025-06-19",
+      "duration": 3081,
+      "audio_url": "https://www.buzzsprout.com/2172288/episodes/17364586-the-shifting-commercial-and-industrial-real-estate-markets-in-latin-america.mp3",
+      "description": "<p>Send us a text</p><p>COVID proved to be a pivotal moment in Latin America's real-estate market.\u00a0 A region once characterized as having a healthy commercial real-estate market and a fledging industrial real-estate market was completely upended by the pandemic.\u00a0 Now it seams that a new normal is taking shape.</p><p>We spoke with Juan Gallardo, EVP, Latin America, for the real estate giant Colliers, to learn more about this new normal and what's next.</p><p><br/><br/></p>"
+    },
+    {
+      "title": "US responds to Chinese engagement in Latin America",
+      "date": "2025-05-23",
+      "duration": 3660,
+      "audio_url": "https://www.buzzsprout.com/2172288/episodes/17217040-us-responds-to-chinese-engagement-in-latin-america.mp3",
+      "description": "<p>Send us a text</p><p>Dr. Robert-Evan Ellis returns to the Horizontes podcast to update us on the status of US-China competition in Latin America.\u00a0 The Trump administration is far more explicit than previous US administrations at identifying the threat of Chinese commercial, diplomatic and military engagement in Latin America.\u00a0 But are US tactics the right formula to countering the China threat?\u00a0 And how will Latin American leaders navigate their futures under the shadow of a growing US-China "
+    },
+    {
+      "title": "US-Latin America foreign policy braces for disruption: A conversation with Eduardo Gamarra of Florida International University",
+      "date": "2024-11-25",
+      "duration": 4441,
+      "audio_url": "https://www.buzzsprout.com/2172288/episodes/16174686-us-latin-america-foreign-policy-braces-for-disruption-a-conversation-with-eduardo-gamarra-of-florida-international-university.mp3",
+      "description": "<p>Send us a text</p>The world awaits with bated breath to learn how Donald Trump and Marco Rubio plan to reshape US foreign relations. No region will be as profoundly impacted as Latin America, as the US reconsiders long-standing positions on trade, migration, aid and military cooperation. To help predict some of those policy changes as well as the far reaching influence of Trump's unique brand of politics, we turned to Dr. Eduardo Gamarra of Florida International University (FIU). With close t"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "adelgado@americasmi.com",
+  "contact_name": "Americas Market Intelligence",
+  "discovered_date": "2026-02-18",
+  "slug": "horizontes-latam-business-leadership-insights",
+  "relevance": "Medium",
+  "score_reason": "Targets business leaders with management insights, but focuses on Latin American markets and geopolitical issues rather than AI, marketing, or technology transformation."
+}

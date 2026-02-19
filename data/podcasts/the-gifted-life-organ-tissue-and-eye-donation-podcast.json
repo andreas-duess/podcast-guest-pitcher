@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "The Gifted Life: Organ, Tissue and Eye Donation Podcast",
+  "host": "The Louisiana Organ Procurement Agency",
+  "description": "Improve your knowledge about organ, tissue and eye donation as your hosts Lori Steele, Nila Schwab, and Joey Boudreaux have entertaining and informative conversations about donation. We address donation in the news, myths about donation, what's new in the community, new technologies, special guest interviews and much more.",
+  "rss_url": "https://f001.backblazeb2.com/file/TheGiftedLife/tgl_feed.xml",
+  "website": "https://www.thegiftedlife.org/",
+  "language": "en-us",
+  "categories": [
+    "Health",
+    "Fitness",
+    "Medicine"
+  ],
+  "feed_id": "1096863",
+  "last_episode_date": "",
+  "episode_count": 262,
+  "recent_episodes": [
+    {
+      "title": "Two Lives, One Kidney: A Living Kidney Donor and Her Recipient",
+      "date": "2026-02-06",
+      "duration": 2165,
+      "audio_url": "https://media.blubrry.com/tgl/f001.backblazeb2.com/file/TheGiftedLife/ep260.mp3",
+      "description": "Show Notes: In this episode, we celebrate generosity and the impact of stepping forward to give the gift of life to a stranger. Andrea Childers, a living kidney donor, and Jennifer Davis, her transplant recipient, join us to reflect on the journey that saved Jennifer's life. Andrea's confidence in giving the gift of life set in motion a life-changing path for both of them. Together, they open up about the emotions and hope that has carried them through. In our Mental Health Moment, we focus to d"
+    },
+    {
+      "title": "Donation Advocate Shares his Story",
+      "date": "2026-01-02",
+      "duration": 1899,
+      "audio_url": "https://media.blubrry.com/tgl/f001.backblazeb2.com/file/TheGiftedLife/ep259.mp3",
+      "description": "Show Notes: On this episode of The Gifted Life Podcast, we share a 30-year journey rooted in service as we highlight the extraordinary impact of longtime donation advocate and LOPA Board Member David Puckett. David reflects on his family\u2019s transplant journey with his daughter, Lauren, a journey that led him to become her living kidney donor for her first lifesaving transplant. That selfless gift, followed by a second kidney transplant, made countless milestones possible including the unforgettab"
+    },
+    {
+      "title": "Clayton Sparks' Legacy",
+      "date": "2025-12-05",
+      "duration": 1952,
+      "audio_url": "https://media.blubrry.com/tgl/f001.backblazeb2.com/file/TheGiftedLife/ep258.mp3",
+      "description": "Show Notes: We welcome Beth Sparks, mother of donor hero Clayton Sparks, to share more about her son whose legacy continues to touch so many lives. Clayton, became an organ donor at the age of 24, and was the inspiration for the children\u2019s book Clayton Sparks Leaves His Mark, written by Abby Gray, the wife of Clayton\u2019s liver recipient. Beth reflects on Clayton\u2019s vibrant personality, his compassion, and the impact he made in his short life. Hear how telling his story continues to bring comfort an"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-gifted-life-organ-tissue-and-eye-donation-podcast",
+  "relevance": "Low",
+  "score_reason": "Focused on organ donation and medical topics, completely unrelated to guest's expertise."
+}

@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Artificially Intelligent Marketing",
+  "host": "Paul Avery & Martin Broadhurst",
+  "description": "Welcome to Artificially Intelligent Marketing, the weekly podcast that explores the intersection of artificial intelligence and marketing. Join your hosts, Paul Avery and Martin Broadhurst, as they dive deep into the latest stories, tools, and applications in AI for marketing and chat with thought leaders in the field to uncover insights about the future of AI in marketing.In each episode, Paul and Martin will bring you fascinating stories about how AI is transforming marketing, from chatbots an",
+  "rss_url": "https://media.rss.com/artificiallyintelligentmarketing/feed.xml",
+  "website": "https://artificiallyintelligentmarketing.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Technology"
+  ],
+  "feed_id": "6092296",
+  "last_episode_date": "",
+  "episode_count": 52,
+  "recent_episodes": [
+    {
+      "title": "AI Predictions for 2026 \u2014 Agentic Browsers, In-Chat Purchases, and What Marketers Should Actually Prepare For",
+      "date": "2026-01-14",
+      "duration": 5351,
+      "audio_url": "https://content.rss.com/episodes/192102/2460526/artificiallyintelligentmarketing/2026_01_14_18_08_35_c7080fff-ec33-4984-873c-8963fce5fde5.mp3",
+      "description": "<p>What will AI actually change for marketers this year? Paul and Martin share their predictions for 2026 \u2014 from agentic Chrome to buying products without ever seeing them.</p><p>Welcome to the first episode of 2026. Paul and Martin deliver their annual predictions, covering everything from Google's inevitable agentic browser launch to the rise of in-chat purchasing, advertising inside AI conversations, and whether agency headcount will survive the year. This episode cuts through the hype to foc"
+    },
+    {
+      "title": "OpenAI's 'Code Red' and the AIO Best-Of Listicle Hack",
+      "date": "2025-12-16",
+      "duration": 3108,
+      "audio_url": "https://content.rss.com/episodes/192102/2391779/artificiallyintelligentmarketing/2025_12_15_17_33_50_77283688-b48a-4af0-9bd8-55e91b24259a.mp3",
+      "description": "<p>The AI model race intensifies as OpenAI rushes GPT 5.2 to market, whilst marketers discover a surprisingly effective shortcut to AI search visibility.</p><p>This week, we analyse OpenAI's scramble to compete after Google's Gemini 3 Pro and Anthropic's Claude Opus 4.5 threatened their dominance. We examine GPT 5.2's contested benchmark scores and whether the rushed release has created more problems than it solved. We also explore the resurgence of 2009-era SEO tactics for AI visibility, reveal"
+    },
+    {
+      "title": "Model Wars, AI Ads, and Adobe's $2 Billion Bet on Search",
+      "date": "2025-12-01",
+      "duration": 4689,
+      "audio_url": "https://content.rss.com/episodes/192102/2360477/artificiallyintelligentmarketing/2025_12_01_16_13_59_8517104d-2780-4c41-8251-4b229c21d5e5.mp3",
+      "description": "<p>Three major model releases in a single week, ads arriving in AI search results, and a landmark acquisition that signals where SEO is heading. Paul and Martin cut through the noise.</p><p>This week saw an unprecedented flurry of model releases: Google's Gemini 3 Pro stormed the benchmarks, only for Anthropic's Opus 4.5 to arrive days later with superior coding performance. We unpack what these advances mean for marketers, from Nano Banana Pro's near-production-ready image generation to Opus's "
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "artificially-intelligent-marketing",
+  "relevance": "High",
+  "score_reason": "Perfect fit covering AI applications in marketing with thought leader interviews, directly aligned with Andreas's expertise in AI-powered marketing and traditional industry transformation.",
+  "contact_email": "hello@artificiallyintelligentmarketing.com",
+  "contact_name": "Paul Avery & Martin Broadhurst",
+  "contact_source": "web_search"
+}

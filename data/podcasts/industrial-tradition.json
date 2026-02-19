@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Industrial Tradition",
+  "host": "Kayla Ross",
+  "description": "Industrial Tradition Podcast is for pipeline families, farmers, ranchers, makers, mothers, mechanics, truckers, welders and alike.  You are welcome to pull up a seat and join the conversation where we talk about hard work and everyday life.  Always feeling like you want more out of your life?  Kayla, creator of Industrial Tradition and your host will do a deep dive with her guests into topics ranging from personal development to owning and running a small business to big lifestyle changes that a",
+  "rss_url": "https://feeds.simplecast.com/VQVg7u9c",
+  "website": "https://industrialtradition.com/",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Kids",
+    "Family"
+  ],
+  "feed_id": "12292",
+  "last_episode_date": "",
+  "episode_count": 12,
+  "recent_episodes": [
+    {
+      "title": "SMALL FAMILY BUSINESSES WITH MATT MORRIS",
+      "date": "2018-10-11",
+      "duration": 0,
+      "audio_url": "https://audio.simplecast.com/535c08bc.mp3",
+      "description": "Not only is Matt a business owner but he is also the pastor of a church, a husband and a dad. On today\u2019s show we mostly talk about small business, small family businesses in particular. Matt shares his experience with us and we hear how he keeps his family business thriving while simultaneously taking care of everything and everyone else in his life.  We also dive into talking about staffing problems, making money with a service-based business, deciding whether being a business owner is right fo"
+    },
+    {
+      "title": "FULL TIME MOTHERHOOD AND BEING A BUSINESS OWNERS WIFE WITH AMANDA",
+      "date": "2018-10-04",
+      "duration": 1,
+      "audio_url": "https://audio.simplecast.com/e6668167.mp3",
+      "description": "Today on the podcast we welcome our good friend, Amanda Grey to chat about her life and how she balances motherhood, marriage, business, and personal goals. Our guest has tons of great wisdom and life lessons to share that are both unique and also relatable."
+    },
+    {
+      "title": "HOW TO START SOMETHING NEW",
+      "date": "2018-09-26",
+      "duration": 0,
+      "audio_url": "https://audio.simplecast.com/d49f95cd.mp3",
+      "description": "Today on the podcast we are going to talk about how to start, with the intention to ultimately share your journey. I wanted to bring this message to you because I have recently rebranded my YouTube channel and in the last four years I have launched four different brands, both personal and business. So I have learned a lot about starting from the ground up."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "industrialtradition@gmail.com",
+  "contact_name": "Industrial Tradition",
+  "discovered_date": "2026-02-18",
+  "slug": "industrial-tradition",
+  "relevance": "Low",
+  "score_reason": "Family-focused podcast about pipeline/farming lifestyle lacks the business strategy and marketing angle Andreas brings."
+}

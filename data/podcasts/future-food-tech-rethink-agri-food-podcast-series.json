@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "Future Food-Tech - Rethink Agri-Food Podcast Series",
+  "host": "Future Food-Tech",
+  "description": "Rethink Events host the world leading series of agri-food summits: World Agri-Tech and Future Food-Tech, with Asia-Pacific Agri-Food Innovation Week, Animal AgTech and Indoor AgTech Innovation Summits. Find out more at www.rethinkevents.com",
+  "rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:718631302/sounds.rss",
+  "website": "http://www.rethinkevents.com",
+  "language": "en",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "677254",
+  "last_episode_date": "",
+  "episode_count": 1,
+  "recent_episodes": [
+    {
+      "title": "Future Food-Tech: From The Top Down: Inspiring R&D Teams to Create Next-Gen Products",
+      "date": "2020-04-20",
+      "duration": 3614,
+      "audio_url": "https://feeds.soundcloud.com/stream/803003158-rethinkpodcast-from-the-top-down-inspiring-rd-teams-to-create-next-gen-products.mp3",
+      "description": "Future Food-Tech events: www.futurefoodtech.com\nWhat better conversation to kick-starting our Future Food-Tech podcast series than one that deep dives into the innovation techniques employed by several leading corporations? Originally a panel discussion set for our San Francisco event before Corona Virus disrupted our plans and our normal way of life, we felt this discussion needed to be heard. Listen to hear how these innovation leaders create safe spaces for blue sky thinking, and stay success"
+    },
+    {
+      "title": "New approaches sugar and functional foods for a healthier Asia",
+      "date": "2019-11-04",
+      "duration": 0,
+      "audio_url": "https://feeds.soundcloud.com/stream/708007174-rethinkpodcast-new-approaches-sugar-and-functional-foods-for-a-healthier-asia.mp3",
+      "description": "Register for Asia-Pacific Agri-Food Innovation Week here: http://www.agrifoodinnovation.com/\n\nResponding to the major shift in Asian diets as busy urban consumers adopt convenience foods and ready-prepared meals, a new wave of healthy ingredients and products are poised to combat the rise of diabetes and obesity in the region. From healthier alternatives to sugar and sugar replacements, fortification of staple foods, to specialty foods that tackle specific health challenges such as senior wellne"
+    },
+    {
+      "title": "Digital Solutions for Farming in Asia",
+      "date": "2019-10-30",
+      "duration": 1,
+      "audio_url": "https://feeds.soundcloud.com/stream/705181597-rethinkpodcast-digital-solutions-for-farming-in-asia.mp3",
+      "description": "Register for Asia-Pacific Agri-Food Innovation Week here: www.agrifoodinnovation.com/\n\nAsia\u2019s agri-food system is under stress from the impact of climate change, urbanisation, soil erosion, pests and a fragmented supply chain with high loss rate, yet also needs to produce increasing volumes to feed a rapidly growing population. As pressure mounts on farmers to increase the volume, quality and safety of outputs while using fewer resources, reducing waste and impact on the environment, new digital"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "future-food-tech-rethink-agri-food-podcast-series",
+  "relevance": "High",
+  "score_reason": "Leading agri-food summit series covering R&D, innovation, and next-gen products\u2014ideal for Andreas's food/ag marketing and AI expertise.",
+  "contact_email": "marketing@rethinkevents.com",
+  "contact_name": "Rethink Agri-Food Innovation Series Podcasts",
+  "contact_source": "rss"
+}

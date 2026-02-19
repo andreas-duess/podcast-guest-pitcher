@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Street Talk",
+  "host": "Nathan Stovall | S&P Global Market Intelligence",
+  "description": "Nathan Stovall, director of financial institutions research at S&P Global Market Intelligence, takes a deep dive into issues facing financial institutions and the investment community. Tune in for interviews with industry insiders as well as brief outlooks for the banking sector.",
+  "rss_url": "https://streettalksp.libsyn.com/rss",
+  "website": "https://streettalksp.libsyn.com/website",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "639321",
+  "last_episode_date": "",
+  "episode_count": 147,
+  "recent_episodes": [
+    {
+      "title": "Ep. 147 - KBW CEO sees M&A reboot, green lights for regional bank valuations",
+      "date": "2026-02-13",
+      "duration": 2075,
+      "audio_url": "https://traffic.libsyn.com/secure/streettalksp/Tom_Michaud_Jan_26.mp3?dest-id=1681001",
+      "description": "<p>After years of trading at the steepest discount in the broader market\u2014dead last among all major sectors\u2014the banking industry is finally positioned to narrow that gap, according to KBW CEO Tom Michaud.\u00a0<br /> In the episode, Michaud said that the best fundamental environment in years, historic levels of excess capital, a once in generational change in the regulatory environment and rebounding M&A activity should support stronger valuations for regional banks in 2026. The executive also shared "
+    },
+    {
+      "title": "Ep. 146 - Strong fundamentals, increasing M&A activity set the table for small cap bank stocks",
+      "date": "2026-01-21",
+      "duration": 1464,
+      "audio_url": "https://traffic.libsyn.com/secure/streettalksp/Jonah_Marcus_Jan_25_final_2.mp3_final_2.mp3?dest-id=1681001",
+      "description": "<p >While large bank stocks have significantly outperformed their smaller counterparts over the last few years, the tide could finally be turning, according to Jonah Marcus, partner and portfolio manager at Endeavour Capital Advisors, Inc.</p> <p >In the episode, Marcus said there are positive tailwinds for the banking sector, including increasing bank M&A activity, net interest margin expansion and deregulation, that will serve as a greater benefit for small and mid-cap banks. The veteran inves"
+    },
+    {
+      "title": "Ep. 145 - Bank stocks are divorced from fundamentals",
+      "date": "2025-11-28",
+      "duration": 2348,
+      "audio_url": "https://traffic.libsyn.com/secure/streettalksp/Anton__father_and_son_Nov_25.mp3_final_1.mp3?dest-id=1681001",
+      "description": "<p >Bank stocks are trading at their cheapest levels relative to the broader market in a decade, but a confluence of catalysts, including rebounding M&A activity, deregulation and rate cuts by the Federal Reserve could finally unlock value for the sector, according to Mendon Capital's Anton Schutz Sr. and Anton Schutz Jr. In the episode, the father-son investment team discuss the current state of bank stocks and what lies ahead for the sector. The Schutz team addresses the frustration many long-"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "patrick.moroney@spglobal.com",
+  "contact_name": "Street Talk",
+  "discovered_date": "2026-02-18",
+  "slug": "street-talk",
+  "relevance": "Low",
+  "score_reason": "Exclusively focused on financial institutions, banking sector, and M&A in finance with no connection to marketing, agriculture, or Andreas's core expertise."
+}

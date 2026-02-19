@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "The Ai Chicks",
+  "host": "A Wynn Wynn Production",
+  "description": "Welcome to THE AI CHICKS PODCAST - where Artificial Intelligence meets REAL TALK! Join us as Certified AI enthusiasts and dynamic hosts, Aisha Corpas Wynn (a notable executive producer) and Lana Hout (a top business broker) discuss the\u00a0complexities\u00a0AI and talk with expert guests in a way that's as relatable as your friends\u2019 group chat.Ever wondered how AI impacts your everyday life? Or perhaps you're eager to stay ahead of the curve in this new tech era? Look no further. Dive into Cool Conversat",
+  "rss_url": "https://feeds.megaphone.fm/WNCOP6972829245",
+  "website": "https://www.theaichicks.com",
+  "language": "en",
+  "categories": [
+    "Technology",
+    "Business",
+    "Society",
+    "Culture"
+  ],
+  "feed_id": "6766942",
+  "last_episode_date": "",
+  "episode_count": 52,
+  "recent_episodes": [
+    {
+      "title": "AI and Public Safety with Daniel Eborall",
+      "date": "2026-02-10",
+      "duration": 2283,
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E85A3G/traffic.megaphone.fm/WNCOP3889089672.mp3?updated=1770738310",
+      "description": "<p>In this episode, The AI Chicks dive deep into the transformative power of AI in safeguarding communities\u2014even covering finding missing children with advanced facial recognition. Through a riveting conversation with Daniel Eborall of the Global Director at IREX, a leader in ethical AI solutions for public safety, The AI Chicks discuss the tough challenges of bias, privacy, and transparency in surveillance technology. Daniel breaks down the delicate balance between enhancing security and protec"
+    },
+    {
+      "title": "Craziest AI Stories of 2025",
+      "date": "2025-12-10",
+      "duration": 1572,
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E85A3G/traffic.megaphone.fm/WNCOP1048668979.mp3?updated=1765411841",
+      "description": "<p>In this year-end roundup episode, The AI CHICKS -\u00a0Aisha\u00a0Corpas Wynn\u00a0and\u00a0Lana Hout\u00a0-\u00a0bring the energy as they dive into the craziest and most unexpected AI stories of the year\u2014no guest needed, just top-tier banter. From McDonald\u2019s infamous 64 million-person data breach, to the rise of AI-only sports like chess and battlebots, the world of AI gets taken for a spin. The conversation heats up with a deep dive into AI actors and the groundbreaking AI musician turning into chart-topping hits. The A"
+    },
+    {
+      "title": "Mental Health in the Age of AI with Dr. Ally Hicks",
+      "date": "2025-11-11",
+      "duration": 1896,
+      "audio_url": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/E85A3G/traffic.megaphone.fm/WNCOP8713809826.mp3?updated=1762852857",
+      "description": "<p>Dr. Allycin Powell-Hicks is a psycho futurist and clinical psychologist with a passion for exploring how technology shapes our mental wellbeing. In this episode, we dive into the nuanced relationship between AI and mental health, unpacking both its promise for expanding access to care and the challenges around empathy, bias, and privacy. Lana Hout and Aisha Corpas Wynn of THE AI CHICKS get real about the rise of AI-driven beauty standards, the impact of filters on self-image, and how social m"
+    }
+  ],
+  "known_target": true,
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-ai-chicks",
+  "contact_email": "theaichicks@gmail.com",
+  "contact_name": "The Ai Chicks",
+  "contact_source": "rss"
+}

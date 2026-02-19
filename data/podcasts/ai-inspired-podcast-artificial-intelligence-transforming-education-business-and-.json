@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "AI Inspired Podcast: Artificial Intelligence Transforming Education, Business, and Personal Growth",
+  "host": "AI Inspired: Exploring AI's Frontier \u2013 Personal Growth, Business, and Education",
+  "description": "Explore the future of AI and how it will transform learning with AI Inspired - a podcast discussing the possibilities of artificial intelligence.\nJoin hosts Kanj and Alex as they look inside the world of generative AI and its applications for education, business, and personal growth. You'll get exclusive insights and ideas with our hosts experience founding KAIA, the online Kids AI Academy, an AI Persona Consulting.\nWhat can you expect from this podcast?\n- The latest AI innovations and how they ",
+  "rss_url": "https://api.substack.com/feed/podcast/1640727.rss",
+  "website": "https://aiinspired.substack.com/podcast",
+  "language": "en",
+  "categories": [
+    "Education",
+    "Business"
+  ],
+  "feed_id": "6401854",
+  "last_episode_date": "",
+  "episode_count": 13,
+  "recent_episodes": [
+    {
+      "title": "teddy bears in construction zones",
+      "date": "2023-10-09",
+      "duration": 2179,
+      "audio_url": "https://api.substack.com/feed/podcast/137814477/8653a5dc73d853d890455d8e8e7233d1.mp3",
+      "description": "<p>Hi!</p><p>Let\u2019s talk about parents and all the hard things that define parenting. Just kidding. That would take too long time. Instead, let\u2019s engage in discourse on AI in educating our kids, both at school and in life. It\u2019s not simply a matter of incorporating shiny new tools into the workshop of education, capable of consistently cranking out well adjusted, well educated kids. Rather, it\u2019s about meticulously and intentionally weaving technology into the fabric of learning.</p><p>It's imperat"
+    },
+    {
+      "title": "AI Collaborative Platforms",
+      "date": "2023-09-13",
+      "duration": 1790,
+      "audio_url": "https://api.substack.com/feed/podcast/136989957/bf31308aa0de33586eaee56e79f30256.mp3",
+      "description": "<p></p><p>In a society burgeoning with technological advancements, the integration of AI collaborative platforms stands as a beacon of innovation, fostering education, growth, and collective learning. As we traverse this transformative path, we witness the blossoming of new communities of learners, educators, and professionals, united in their endeavor to grow and learn as a group. Let's delve into the avenues where collaborative AI platforms are reshaping the way we interact, learn, and grow. N"
+    },
+    {
+      "title": "AI Supporting Neurodivergent Learning",
+      "date": "2023-08-30",
+      "duration": 1785,
+      "audio_url": "https://api.substack.com/feed/podcast/136437600/f68421757697026d50ed302af4bca68d.mp3",
+      "description": "<p>In the evolving realm of education, the spotlight is on an exceptional alliance: artificial intelligence and its pivotal role in supporting neurodivergent students. This isn't just about innovation; it's about understanding, adaptation, and resonance.</p><p>Enter the AI-powered persona \u2014 a tool meticulously designed to navigate the unique complexities of diverse minds. More than just assistance, it serves as an empathetic bridge, discerning the needs and curiosities of each learner. Imagine C"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "ai-inspired-podcast-artificial-intelligence-transforming-education-business-and-",
+  "relevance": "Medium",
+  "score_reason": "Covers AI in business and education, relevant to Andreas's teaching role, but significant focus on personal growth and education may dilute fit.",
+  "contact_email": "aiinspired@substack.com",
+  "contact_name": "AI Inspired: Exploring AI's Frontier \u2013 Personal Growth, Business, and Education",
+  "contact_source": "rss"
+}

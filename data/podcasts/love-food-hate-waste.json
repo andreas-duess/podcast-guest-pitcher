@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Love Food Hate Waste",
+  "host": "Love Food Hate Waste Podcast series by Pur Production",
+  "description": "Follow us on our Love Food Hate Waste journey in this three part series that looks into the budding food hub that is the Farmers Market at the University of Melbourne.",
+  "rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:470171967/sounds.rss",
+  "website": "http://www.mfm.com.au",
+  "language": "en",
+  "categories": [
+    "Society",
+    "Culture"
+  ],
+  "feed_id": "523081",
+  "last_episode_date": "",
+  "episode_count": 3,
+  "recent_episodes": [
+    {
+      "title": "Uncovering the untold stories behind the Farmers Markets at University of Melbourne",
+      "date": "2018-09-04",
+      "duration": 487,
+      "audio_url": "https://feeds.soundcloud.com/stream/495330051-melbournefarmersmarkets-uncovering-the-untold-stories-behind-the-farmers-markets-at-university-of-melbourne.mp3",
+      "description": "Follow us on our Love Food Hate Waste journey in this three part series that looks into the budding food hub that is the Farmers Market at the University of Melbourne.\nIn this episode we meet the faces behind the marquees at the market, the farmers who are often the unsung heroes behind the food on our tables.\nLove Food Hate Waste is an initiative by Sustainability Victoria"
+    },
+    {
+      "title": "How regenerative urban farming might just save us",
+      "date": "2018-09-04",
+      "duration": 638,
+      "audio_url": "https://feeds.soundcloud.com/stream/495329031-melbournefarmersmarkets-how-regenerative-urban-farming-might-just-save-us.mp3",
+      "description": "Follow us on our Love Food Hate Waste journey in this three part series that looks into the budding food hub that is the Farmers Market at the University of Melbourne.\nIn this episode we meet Simeon of Spoke & Spade, Sophie of Fair Food Challenge, and some food waste solutions at the University of Melbourne. \nLove Food Hate Waste is an initiative by Sustainability Victoria"
+    },
+    {
+      "title": "How to cook a low-waste meal with Youth Food Movement and Left-over Lovers",
+      "date": "2018-09-04",
+      "duration": 583,
+      "audio_url": "https://feeds.soundcloud.com/stream/495326958-melbournefarmersmarkets-how-to-cook-a-low-waste-meal-with-youth-food-movement-and-left-over-lovers.mp3",
+      "description": "Follow us on our Love Food Hate Waste journey in this three part series that looks into the budding food hub that is the Farmers Market at the University of Melbourne.\nIn this episode we meet Eve & Jess of Youth Food Movement, Lynton of Lefotver Lovers, and some of the participants in the workshop series.\nLove Food Hate Waste is an initiative by Sustainability Victoria"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "love-food-hate-waste",
+  "relevance": "Low",
+  "score_reason": "Sustainability and food waste focus with only 3 episodes suggests limited reach and wrong topical fit.",
+  "contact_email": "marketing@mfm.com.au",
+  "contact_name": "Melbourne Farmers Markets",
+  "contact_source": "rss"
+}

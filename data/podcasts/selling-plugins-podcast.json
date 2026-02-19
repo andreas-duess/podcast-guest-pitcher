@@ -1,0 +1,46 @@
+{
+  "source": "podcast_index",
+  "name": "Selling Plugins Podcast",
+  "host": "Brian Hogg & Kyle Maurer discuss all aspects of running a WordPress plugin business",
+  "description": "Brian Hogg and Kyle Maurer host a podcast on marketing, supporting, building and running a premium WordPress plugin business",
+  "rss_url": "https://feeds.transistor.fm/selling-plugins-podcast",
+  "website": "https://sellingplugins.com/podcast",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing"
+  ],
+  "feed_id": "975079",
+  "last_episode_date": "",
+  "episode_count": 6,
+  "recent_episodes": [
+    {
+      "title": "Running Sales on WordPress Plugins",
+      "date": "2018-12-20",
+      "duration": 3626,
+      "audio_url": "https://media.transistor.fm/8582ab06/8582ab06.mp3",
+      "description": "<p>With Black Friday and Cyber Monday behind us and the holiday season upon us, we'll dive into what's worked and what hasn't worked when it comes to running a sale on your WordPress plugin.</p><p>We're excited to welcome special guest Scott Bolinger, co-founder of AppPresser and creator of Holler Box! Scott did some experimenting on sales recently and we'll be digging into that more.</p><p><br>Scott Bolinger - https://apppresser.com<br>Kyle Maurer - https://easydigitaldownloads.com<br>Brian Hog"
+    },
+    {
+      "title": "Reducing Churn",
+      "date": "2018-11-02",
+      "duration": 3762,
+      "audio_url": "https://media.transistor.fm/5c479510/5c479510.mp3",
+      "description": "<p>On this, the spookiest of days, we'll be reviewing the topic which haunts all of us: churn. The dreadful truth is that customers are vanishing every single month. And when studies suggest that acquiring a new customer costs on average five times as much as retaining an existing one, it's clearly something none of us can afford to ignore.</p><p>Article from James Laws on Recurring Payments<br>ChurnBuster</p><p>\u2605 Thanks to Transistor.fm for providing my podcast hosting. Learn how to start your "
+    },
+    {
+      "title": "Plugin Acquisitions",
+      "date": "2018-06-05",
+      "duration": 3790,
+      "audio_url": "https://media.transistor.fm/cfdbf284/cfdbf284.mp3",
+      "description": "<p>Maybe you don't have time to maintain it anymore, or maybe you want to move on to another plugin or business altogether. How do you go about selling your WordPress plugin to someone?</p><p>Brian Hogg and Kyle Maurer (support tech at Easy Digital Downloads) along with special guests Phil Derksen (WP Simple Pay) and Pippin Williamson (Easy Digital Downloads, AffiliateWP, and more) chat on lessons learned and helpful tips on the subject of plugin acquisitions.</p><p>SHOW NOTES:</p><p>https://sco"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "selling-plugins-podcast",
+  "relevance": "Low",
+  "score_reason": "Highly niche focus on WordPress plugin businesses, not relevant to guest's food/agriculture/AI expertise."
+}

@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "UBS On-Air: Market Moves",
+  "host": "Client Strategy Office",
+  "description": "UBS On-Air: Market Moves brings you beyond the highs and lows of the ticker, with conversations that can broaden your thinking about market behavior",
+  "rss_url": "https://www.ubs.com/us/en/wealth-management/insights/podcasts/_jcr_content/root/contentarea/mainpar/toplevelgrid_1112494256/col_1/tabteaser/tabteasersplit/innergrid/col_1/responsivepodcast_co.itunes.xml",
+  "website": "https://www.ubs.com/us/en/wealth-management/insights/podcasts.html",
+  "language": "en",
+  "categories": [
+    "News",
+    "Business"
+  ],
+  "feed_id": "2992243",
+  "last_episode_date": "",
+  "episode_count": 1000,
+  "recent_episodes": [
+    {
+      "title": "Viewpoints with Burkhard Varnholt - A global markets podcast (Ep. 59)",
+      "date": "2026-02-18",
+      "duration": 631,
+      "audio_url": "https://www.ubs.com/content/dam/podcasts/wma/260218-Viewpoints_podcast-2.mp3",
+      "description": "On this episode of Viewpoints, Burkhard weighs whether we are entering into a new Emerging Markets super-cycle, and if a rise of Emerging Markets equates to a decline of US-exceptionalism."
+    },
+    {
+      "title": "Top of the Morning: CIO Strategy Snapshot - Terminal values",
+      "date": "2026-02-17",
+      "duration": 1149,
+      "audio_url": "https://www.ubs.com/content/dam/podcasts/wma/260217%20-%20Top%20of%20the%20Morning.mp3",
+      "description": "It?s been an active few weeks in financial markets as investors grapple with the potential for AI to disrupt business models across industries, along with whether the U.S. economy really is ?running hot?.  We discuss this all, and review CIO?s current allocation recommendations.  Featured is Jason Draho, Head of Asset Allocation Americas, UBS Chief Investment Office.  Host: Daniel Cassidy"
+    },
+    {
+      "title": "Signal over Noise with Ulrike Hoffmann-Burchardi",
+      "date": "2026-02-16",
+      "duration": 368,
+      "audio_url": "https://www.ubs.com/content/dam/podcasts/wma/260216-signal-over-noise.mp3",
+      "description": "Tune in at the start of the trading week ahead of the New York opening bell as Ulrike Hoffmann-Burchardi, CIO Americas and Head of Global Equities for UBS Wealth Management, briefs you on what?s the signal, and what?s just noise in the markets.  Recorded on 16 February 2026."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "ubs-on-air-market-moves",
+  "relevance": "Low",
+  "score_reason": "Financial markets and investment podcast, not relevant to Andreas's marketing, AI, or traditional industry transformation expertise.",
+  "contact_email": "Podcast.email@ubs.com",
+  "contact_name": "Podcast owner",
+  "contact_source": "rss"
+}

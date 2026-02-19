@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Masters in Marketing Agency",
+  "host": "Josh Hoffman",
+  "description": "Are you running a digital marketing agency but feel like you need some advice? The Masters of Marketing Agency Podcast features veteran marketing agency owners who share their experiences, mistakes, and successes along their journey. Join host Josh Hoffman and make sure you have a notebook as he digs deep so you can learn more about what veteran agency owners know. \n\nThe Masters of Marketing Agency Podcast is brought to you by DevNoodle.\n\nhttps://devnoodle.com/",
+  "rss_url": "https://feeds.transistor.fm/masters-in-marketing-agency",
+  "website": "",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Entrepreneurship"
+  ],
+  "feed_id": "4920984",
+  "last_episode_date": "",
+  "episode_count": 109,
+  "recent_episodes": [
+    {
+      "title": "Fishing for Clients: Marketing Insights from the Pros",
+      "date": "2026-01-27",
+      "duration": 3075,
+      "audio_url": "https://media.transistor.fm/a9e8e150/d6cb8766.mp3",
+      "description": "<p>Dive into a riveting discussion where local network marketing whiz, Jim Stewart, unfolds the layers of a dealership model that outperforms traditional franchises. From leveraging indoor digital billboards to optimizing multichannel advertising, this episode packs a punch with tales of industry camaraderie and wisdom on building a business that resembles more a community than competition.</p><p><br></p><p>Here are a few of the topics we\u2019ll discuss on this episode of Masters in Marketing Agency"
+    },
+    {
+      "title": "Mastering SEO and Conversion Tactics",
+      "date": "2026-01-06",
+      "duration": 3050,
+      "audio_url": "https://media.transistor.fm/1b653955/ec62ba2a.mp3",
+      "description": "<p>Let\u2019s dig into the digital depths with Michael Fleischner, a seasoned SEO navigator, as he reveals how to keep agencies afloat amidst changing tides, from the surging waves of LLMs to the calm shores of client communication. Tune in for an episode brimming with actionable strategies, personal sea tales, and the undercurrents of agency life.</p><p><br></p><p>Here are a few of the topics we\u2019ll discuss on this episode of Masters in Marketing Agency Podcast.</p>Boosting online visibilityDomain au"
+    },
+    {
+      "title": "Navigating the Creator Economy: Tech, Tactics, and Triumphs",
+      "date": "2025-12-02",
+      "duration": 2439,
+      "audio_url": "https://media.transistor.fm/5b02562c/6917f97c.mp3",
+      "description": "<p>Dive into the bustling intersection of influencers and innovation with James Michalak, CEO of NeoReach. Discover how a blend of top creators, cutting-edge tech, and insightful market data can lead to transparent, scalable marketing success, no matter the budget. Join us for a spirited talk that unravels the essence of being a creator in today's complex digital landscape.</p><p><br></p><p>Here are a few of the topics we\u2019ll discuss on this episode of Masters in Marketing Agency Podcast.</p><p><"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "masters-in-marketing-agency",
+  "relevance": "High",
+  "score_reason": "Features agency owners sharing their journey building marketing agencies, ideal fit for Andreas's story of building and exiting Canada's largest independent food agency.",
+  "contact_email": "josh@devnoodle.com",
+  "contact_name": "Josh Hoffman",
+  "contact_source": "web_search"
+}

@@ -1,0 +1,45 @@
+{
+  "source": "podcast_index",
+  "name": "CA podcast",
+  "host": "Corvinus Agribusiness",
+  "description": "R\u00f6vid besz\u00e9lget\u00e9sek, interj\u00fak a Corvinus Agribusiness tolm\u00e1csol\u00e1s\u00e1ban a magyar agr\u00e1rium helyzet\u00e9r\u0151l a koronav\u00edrus s\u00fajtotta id\u0151szakban",
+  "rss_url": "https://anchor.fm/s/18ba873c/podcast/rss",
+  "website": "https://podcasters.spotify.com/pod/show/corvinus-agribusiness",
+  "language": "hu",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "2463453",
+  "last_episode_date": "",
+  "episode_count": 12,
+  "recent_episodes": [
+    {
+      "title": "Az imm\u00e1ron karant\u00e9n mentes CA podcast vend\u00e9ge: Szab\u00f3 Istv\u00e1n az OTP Agr\u00e1r igazgat\u00f3ja",
+      "date": "2020-06-24",
+      "duration": 1596,
+      "audio_url": "https://anchor.fm/s/18ba873c/podcast/play/15640220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-5-24%2F84902262-44100-2-79bae5014ec29.mp3",
+      "description": "<p>Szab\u00f3 Istv\u00e1n neve szinte egybeforrt az agr\u00e1rfinansz\u00edroz\u00e1ssal. \u00a0A besz\u00e9lget\u00e9s sor\u00e1n megtudhatjuk, hogyan v\u00e9szelte \u00e1t a v\u00edrushelyzetet az egyik legnagyobb hazai agr\u00e1rfinansz\u00edroz\u00e1si szerepl\u0151.\u00a0</p>"
+    },
+    {
+      "title": "XI. CArant\u00e9n podcastban Seiwerth M\u00e1rton, a Lajtamag Kft.-b\u0151l",
+      "date": "2020-05-09",
+      "duration": 743,
+      "audio_url": "https://anchor.fm/s/18ba873c/podcast/play/13524530/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-9%2F71674475-44100-2-7e99c49b843b.mp3",
+      "description": "<p>A k\u00f6vetkez\u0151 CArant\u00e9n podcastban Seiwerth M\u00e1rton mes\u00e9lt nek\u00fcnk v\u00e1llalkoz\u00e1sukr\u00f3l, a v\u00edrushelyzet okozta k\u00f6r\u00fclm\u00e9nyekr\u0151l a Lajtamag \u00e9let\u00e9ben. Ezen k\u00edv\u00fcl a tavaszi munk\u00e1kr\u00f3l \u00e9s z\u00f6ld\u00edt\u00e9sr\u0151l is hallhattok majd.</p>"
+    },
+    {
+      "title": "Dr. Mez\u0151szentgy\u00f6rgyi D\u00e1vid a #CArant\u00e9n podcast X. r\u00e9sz\u00e9ben",
+      "date": "2020-05-06",
+      "duration": 1311,
+      "audio_url": "https://anchor.fm/s/18ba873c/podcast/play/13383598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2020-4-6%2F70753054-44100-2-a8d51541ccbbe.mp3",
+      "description": "<p>A #CArant\u00e9n vend\u00e9ge: Dr. Mez\u0151szentgy\u00f6rgyi D\u00e1vid, agrobusiness szak\u00e9rt\u0151 \u00e9s a BCE egyetemi docense.</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "ca-podcast",
+  "relevance": "Low",
+  "score_reason": "Hungarian-language podcast about COVID-era agriculture doesn't match Andreas's English-speaking, AI-marketing focus."
+}

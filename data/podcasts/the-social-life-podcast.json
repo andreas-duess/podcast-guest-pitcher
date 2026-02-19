@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "The Social Life Podcast",
+  "host": "Stark Social Media Agency",
+  "description": "The Social Life is a fun, engaging and often thrilling look at the world of marketing! Marketing is easily one of the most important parts of running a lucrative business, and yet it remains one of the most undernourished and misunderstood. Join co-founders of Stark Social Media Agency, Deanna and Nathan as they chat about the perils, triumphs and pitfalls of everything from social media management to web design!",
+  "rss_url": "https://thesociallife.starksocial.com/",
+  "website": "http://starksocial.com/podcast",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Management",
+    "Marketing"
+  ],
+  "feed_id": "1101639",
+  "last_episode_date": "",
+  "episode_count": 37,
+  "recent_episodes": [
+    {
+      "title": "Boost Your Online Business Presence in Under 1-Hour a Week",
+      "date": "2017-05-10",
+      "duration": 2507,
+      "audio_url": "https://4gxb7k8mis-flywheel.netdna-ssl.com/podlove/file/1/s/feed/c/podcast/The-Social-Life-Episode-37-Boost-Your-Online-Business-Presence-In-Under-1-hour-a-Week.mp3",
+      "description": "<p>Did you know that your online presence is easy to manage and doesn\u2019t have to be overwhelming?</p>\n<p>Deanna has worked on crafting a strategy for her consulting clients that helps them manage their social media and digital strategy with ease while allowing them to manage their businesses with ease. Taking time to get your social marketing strategy and time schedule nailed down makes all the difference in your regular daily social marketing routine and makes it no sweat to manage. As always it"
+    },
+    {
+      "title": "The Facts About Influencer Marketing",
+      "date": "2017-05-03",
+      "duration": 2363,
+      "audio_url": "https://4gxb7k8mis-flywheel.netdna-ssl.com/podlove/file/3/s/feed/c/podcast/The-Social-Life-Episode-36-The-Facts-Influencer-Marketing.mp3",
+      "description": "<p>In recent crazy pants news, the Fyre Festival utilized influencer marketing to sell it\u2019s target audience of millennial on a luxury festival experience that did not deliver what it promised. The creators of the now infamous Fyre Festival used video marketing and visual marketing through Instagram to set the stage for their most epic failure with influencers whose names ran the gamut of who\u2019s who of models and millennials marketing. In this episode, Deanna and Nate straight up chatter about wha"
+    },
+    {
+      "title": "10 Actionable Goals for Better Content Marketing",
+      "date": "2017-04-12",
+      "duration": 2373,
+      "audio_url": "https://4gxb7k8mis-flywheel.netdna-ssl.com/podlove/file/5/s/feed/c/podcast/The-Social-Life-Episode-35-10-actionable-goals-better-content-marketing.mp3",
+      "description": "<p>Many businesses are using blog writing to keep their websites fresh and in the good graces of the Google Gods. In today\u2019s podcast, Deanna and Nate are going to chat about the action items you can use to create a checklist for creating valuable content marketing that will not only assist with building your sales funnel, but also keep Google noticing and ranking your site.</p>\n\nDepositPhotos\n Read More"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-social-life-podcast",
+  "relevance": "Medium",
+  "score_reason": "Covers marketing and social media strategy but appears to focus on small business owners and general marketing rather than traditional industries or AI."
+}

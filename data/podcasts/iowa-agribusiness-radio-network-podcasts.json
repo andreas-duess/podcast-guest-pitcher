@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Iowa Agribusiness Radio Network Podcasts",
+  "host": "Dustin Hoffmann",
+  "description": "The Iowa Agribusiness Radio Network is based out of Des Moines and reaches over 60 affiliates around the state. Our long-format weekend show called Weekend Ag Matters gives a deeper look into what has gone on on ag the past week, and it also lets you hear about Ag information close to home. We also supply interview content more often with our Special Podcasts that go out several times a week.",
+  "rss_url": "https://kenroot.podbean.com/feed.xml",
+  "website": "https://kenroot.podbean.com",
+  "language": "en",
+  "categories": [
+    "Business",
+    "News"
+  ],
+  "feed_id": "756732",
+  "last_episode_date": "",
+  "episode_count": 250,
+  "recent_episodes": [
+    {
+      "title": "IAM Podcast 2-18-26",
+      "date": "2026-02-18",
+      "duration": 2158,
+      "audio_url": "https://mcdn.podbean.com/mf/web/qyzeasxykbuki3yf/IAM_Podcast_2-18-26bd6qd.mp3",
+      "description": "<p>In today\u2019s show, Mark wraps up his conversation with NCBA Environmental Stewardship Award Program Regional Winner Jack Smith, Riley visits with Will Griffin of Valent, and Dustin talks with Robert Cossar of Croplan.</p>\n"
+    },
+    {
+      "title": "Closing Market Podcast- Bill Moore PRICE Futures Group- 2-17-26",
+      "date": "2026-02-17",
+      "duration": 307,
+      "audio_url": "https://mcdn.podbean.com/mf/web/njzmz5vniwuyuu6k/Closing_Market_Podcast-_Bill_Moore_PRICE_Futures_Group-_2-17-269r1zz.mp3",
+      "description": "<p>Today's trade was good for the cattle and choppy in the grains. Riley Smith visits with Bill Moore of PRICE Futures Group.\u00a0</p>\n"
+    },
+    {
+      "title": "IAM Podcast 2-17-26",
+      "date": "2026-02-17",
+      "duration": 2147,
+      "audio_url": "https://mcdn.podbean.com/mf/web/93d98n4q75ctu2j4/IAM_Podcast_2-17-268dd6f.mp3",
+      "description": "<p>In today\u2019s show, Mark talks with NCBA Environmental Stewardship Award Program Regional Winner Jack Smith, Riley discusses the U.S.-Taiwan reciprocal trade agreement with U.S. Meat Export Federation President and CEO Dan Halstrom, and special correspondent Russ Parker talks with Eric Halfman of John Deere.</p>\n"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "iowa-agribusiness-radio-network-podcasts",
+  "relevance": "Medium",
+  "score_reason": "Agricultural news format may interview guests but regional/commodity focus is less aligned with Andreas's marketing AI angle.",
+  "contact_email": "dustin@iowaagribusinessradionetwork.com",
+  "contact_name": "Dustin Hoffmann",
+  "contact_source": "web_search"
+}

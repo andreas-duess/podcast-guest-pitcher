@@ -1,0 +1,51 @@
+{
+  "source": "podcast_index",
+  "name": "One Planet Podcast \u00b7 Climate Change, Politics, Sustainability, Environmental Solutions, Renewable Energy, Activism, Biodiversity, Carbon Footprint, Wildlife, Regenerative Agriculture, Circular Economy, Extinction, Net-Zero",
+  "host": "Creative Process Original Series",
+  "description": "The story of our environment may well be the most important story this century. We focus on issues facing people and the planet. Leading environmentalists, organizations, activists, and conservationists discuss meaningful ways to create a better and more sustainable future.\nParticipants include United Nations Sustainable Development Solutions Network, European Environment Agency, UNESCO World Heritage Centre, European Commission, EARTHDAY\u00b7ORG, Greenpeace, IPCC Lead Authors, WWF, PETA, Climate An",
+  "rss_url": "https://thecreativeprocess.squarespace.com/oneplanet1?format=rss",
+  "website": "https://www.creativeprocess.info/oneplanet1/",
+  "language": "en",
+  "categories": [
+    "Science",
+    "Nature",
+    "Natural",
+    "Life"
+  ],
+  "feed_id": "4037291",
+  "last_episode_date": "",
+  "episode_count": 300,
+  "recent_episodes": [
+    {
+      "title": "Who Are We? What Makes Us Care? Jim Shepard, Neil Patrick Harris, John Patrick Shanley & Artists Share Their Stories",
+      "date": "2026-02-11",
+      "duration": 837,
+      "audio_url": "https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/698cf158439ffe0eaae680d3/1770844515091/ANTH-JAN+20-WHAT-MAKES-US-CARE-JIM+SHEPARD%2C+NEIL+PATRICK+HARRIS%2C+KATIE+KITAMURA%2C+LAURA+EASON%2C+SHARMEEN+OBAID-CHINOY%2C+BENOIT+DELHOMME%2C+ETGAR+KERET%2C+VIET+THANH+NGUYEN-.mp3",
+      "description": "<p >Can curiosity and empathy be taught? How can we expand our sense of solidarity through stories? In this episode, we explore the internal dialogues of artists, actors and writers to ask what it means to step into someone else's shoes.</p><p >(0:00) Novelist\u00a0 Jim Shepard discusses Literature as a Tool for Emotional Education and Exploring History</p><p >(2:05) Tony Award-winning Actor Neil Patrick Harris on Being Moved by Theater and its Ability to Bridge Worlds</p><p >(3:55) Novelist Katie Ki"
+    },
+    {
+      "title": "The Wisdom of Nature: Artists & Scientists on The Beauty & Fragility of Our Planet",
+      "date": "2026-01-09",
+      "duration": 1076,
+      "audio_url": "https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/69610315fd567942ca85d41c/1767965473176/wisdom-of-nature-anthology-jan9-2025.mp3",
+      "description": "<p >In this special edition, we hear from our guests from across the arts and sciences. From composers and poets to forest ecologists and climate envoys, they tell the story of our planet. Moving beyond the data of destruction, we explore the intelligence of nature, the ethics of what we eat, and the empathy required to save our future.</p><p >MAX RICHTER, Composer, Sleep, The Blue Notebooks</p><p >CARL SAFINA, Author, Becoming Wild</p><p >ADA LIM\u00d3N, 24th US Poet Laureate</p><p >CYNTHIA DANIELS,"
+    },
+    {
+      "title": "The Musician Who Sings to Animals - PLUMES on Trust & Cross-Species Communication - Highlights",
+      "date": "2025-12-31",
+      "duration": 0,
+      "audio_url": "https://static1.squarespace.com/static/5745d9f137013b9d0a627c60/t/69552ffd0e8d187336046519/1767190533550/PLUMES-one-planet-podcast-HIGHLIGHTS.mp3",
+      "description": "<p >On Music, Trust and Connection with the Animal World</p><p >\u201cMostly I\u2019ll play in a minor key, something sad, which I think can work for an animal because they can sense the sadness, and they try to reassure me and comfort me. I chose love songs because I'm convinced they are very intuitive and they can sense what I am trying to say to them, and profess my love in a way. I think there's always a way to connect, and if you're being cautious and don't threaten the animals, something beautiful c"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "one-planet-podcast-climate-change-politics-sustainability-environmental-solution",
+  "relevance": "Low",
+  "score_reason": "Duplicate of earlier podcast focused on environmental activism rather than agricultural business or marketing.",
+  "contact_email": "mia@creativeprocess.info",
+  "contact_name": "Mia Funk",
+  "contact_source": "rss"
+}

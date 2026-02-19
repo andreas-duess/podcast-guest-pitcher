@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Agribusiness Tamil - A Tamil Agriculture Podcast",
+  "host": "Agribusiness Tamil",
+  "description": "Agribusiness Tamil is a knowledge sharing & networking platform to connect fellow Agripreneur, Farmers, Farmer producer organizations, Agriculture and Environment enthusiasts, professionals and Students. Driven by the thirst to alleviate major issues in agriculture and allied activities by connecting the young and experienced energies\nOn the aim of building the strongest agricultural community by a set of Agri graduates.\nCheck out our works :\nhttps://linktr.ee/Agribusinesstamil",
+  "rss_url": "https://anchor.fm/s/75f7810c/podcast/rss",
+  "website": "https://linktr.ee/Agribusinesstamil",
+  "language": "ta",
+  "categories": [
+    "Business",
+    "Entrepreneurship"
+  ],
+  "feed_id": "5639554",
+  "last_episode_date": "",
+  "episode_count": 19,
+  "recent_episodes": [
+    {
+      "title": "Scope & Oppurtunities in Apiculture by Dr. Philip Sridhar | S01E15",
+      "date": "2023-11-29",
+      "duration": 2373,
+      "audio_url": "https://anchor.fm/s/75f7810c/podcast/play/79193849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-27%2F357339577-44100-2-b81c47ccec1c5.m4a",
+      "description": "<p>In this Episode Dr. Philip Sridhar had discussed about the Scope & Oppurtunities in Apiculture .\nAgribusiness Tamil is a knowledge sharing & networking platform to connect fellow Agripreneur, Farmers, Farmer producer organizations, Agriculture and Environment enthusiasts, professionals and Students. Driven by the thirst to alleviate major issues in agriculture and allied activities by connecting the young and experienced energies.</p>\n<p>\nOn the aim of building the strongest agricultural comm"
+    },
+    {
+      "title": "Introduction to Export Market by Mr. Bastin Raj | S01E14",
+      "date": "2023-11-22",
+      "duration": 1896,
+      "audio_url": "https://anchor.fm/s/75f7810c/podcast/play/78885027/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-20%2F356385718-44100-2-e3e1327f9c90b.m4a",
+      "description": "<p>In this Episode Mr. Bastin Raj, Founder of Thiraviam International Pvt. Ltd. has discussed about the Introduction to Export Market & shared his journey in the field of Agri Exports.\nAgribusiness Tamil is a knowledge sharing & networking platform to connect fellow Agripreneur, Farmers, Farmer producer organizations, Agriculture and Environment enthusiasts, professionals and Students. Driven by the thirst to alleviate major issues in agriculture and allied activities by connecting the young and"
+    },
+    {
+      "title": "Financial Success of a Micro Dairy Farm by Mr. Athher Ahmed | S01E13",
+      "date": "2023-11-14",
+      "duration": 3294,
+      "audio_url": "https://anchor.fm/s/75f7810c/podcast/play/78615093/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-14%2F355515695-44100-2-ed2056a61a0d1.m4a",
+      "description": "<p>In this Episode Mr. Athher Ahmed, Founder & Managing Director of Paalaar Urban Farms Pvt. Ltd. has discussed about the Financial Success of a Micro Dairy Farm.\nAgribusiness Tamil is a knowledge sharing & networking platform to connect fellow Agripreneur, Farmers, Farmer producer organizations, Agriculture and Environment enthusiasts, professionals and Students. Driven by the thirst to alleviate major issues in agriculture and allied activities by connecting the young and experienced energies."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "agribusiness-tamil-a-tamil-agriculture-podcast",
+  "relevance": "Low",
+  "score_reason": "Tamil-language podcast targeting Indian agripreneurs is wrong geographic and linguistic market for Andreas.",
+  "contact_email": "agribusiness.tamil@gmail.com",
+  "contact_name": "Agribusiness Talks",
+  "contact_source": "rss"
+}

@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "FINITE: B2B Marketing Podcast for Tech, Software & SaaS",
+  "host": "Jodi Norris",
+  "description": "The FINITE podcast is the leading B2B marketing podcast, sitting down with the world's most innovative B2B marketers in the tech, software & SaaS sectors to talk all things B2B marketing & B2B growth.FINITE is the community for B2B Technology & SaaS Marketers to connect, share, learn & grow as peers. Our B2B Marketing Podcast podcast explores the latest trends and challenges in B2B marketing by interviewing leading senior marketers from across B2B technology, software & SaaS companies.\u00a0In each e",
+  "rss_url": "https://rss.buzzsprout.com/255836.rss",
+  "website": "https://finite.community/",
+  "language": "en-gb",
+  "categories": [
+    "Business",
+    "Marketing",
+    "Technology",
+    "Management"
+  ],
+  "feed_id": "341512",
+  "last_episode_date": "",
+  "episode_count": 181,
+  "recent_episodes": [
+    {
+      "title": "Scaling Millions in Community-Led Pipeline with Kris Rudeegraap, Co-Founder and Co-CEO at Sendoso",
+      "date": "2026-02-09",
+      "duration": 1291,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18634990-scaling-millions-in-community-led-pipeline-with-kris-rudeegraap-co-founder-and-co-ceo-at-sendoso.mp3",
+      "description": "<p>How do you turn organic excitement for your product into a structured engine that drives millions in pipeline and 71% higher account spend?\u00a0</p><p>In this episode of the <b>FINITE Podcast</b>, Jodi sits down with <b>Kris Rudeegraap</b><b>, CEO and Founder of </b><b>Sendoso</b>, to peel back the curtain on their sophisticated community ecosystem. Kris breaks down how Sendoso manages four distinct community tiers - from power users to alumni - and the specific tech stack they use to automate \"j"
+    },
+    {
+      "title": "#180 - Synthetic Data with Kate O\u2019Keeffe, CEO and Co-Founder at Heatseeker",
+      "date": "2026-01-26",
+      "duration": 1529,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18558128-180-synthetic-data-with-kate-o-keeffe-ceo-and-co-founder-at-heatseeker.mp3",
+      "description": "<p>We\u2019re all starting to hear about it, but what is synthetic data? Simply put, synthetic data is \"fake\" data that is mathematically manufactured to mirror the patterns and behaviours of real-world datasets.\u00a0</p><p>For B2B marketers, this means using AI to create a digital \"twin\" of your customer base. Instead of waiting weeks for a survey to come back, you use a model trained on your existing customer calls, ads, and behavioural data to predict how an audience will react.</p><p>However, it isn'"
+    },
+    {
+      "title": "#179 - Designed Intelligence: Reimagining the B2B Marketing Workforce with Michelle Boockoff-Bajdek, CMO at Sitecore",
+      "date": "2026-01-05",
+      "duration": 1797,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18405227-179-designed-intelligence-reimagining-the-b2b-marketing-workforce-with-michelle-boockoff-bajdek-cmo-at-sitecore.mp3",
+      "description": "<p>How do you move from simply using AI to truly integrating it into your workforce? In this episode, <b>Michelle Boockoff-Bajdek</b>, CMO of <b>Sitecore</b>, introduces her philosophy of <b>Designed Intelligence</b> - the intentional choreography between human creativity and AI capability.</p><p>Michelle breaks down why the future of marketing isn't about chasing cost efficiencies, but about scaling empathy and connection. She shares how Sitecore is evolving its org charts into agile squads, th"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "finite-b2b-marketing-podcast-for-tech-software-saas",
+  "relevance": "Medium",
+  "score_reason": "Tech and SaaS B2B marketers audience aligns with Andreas's marketing background, though food/agriculture industry expertise may be less relevant here."
+}

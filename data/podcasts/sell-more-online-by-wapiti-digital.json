@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Sell More Online by Wapiti Digital",
+  "host": "Dan Ericson, Founder and CEO of Wapiti Digital a digital marketing agency in Waverly, IA.",
+  "description": "Dan Ericson, owner of Wapiti Digital in Waverly, Iowa, has seen a lot of small businesses painfully crawl to growth. While slow and steady can, indeed win the race, we want to help alleviate a lot of the pains we see businesses endure in their infancy. This podcast was started to help business owners create sustainable, lasting businesses that acquire new leads, convert those leads into customers, and do it all while having a good time! Learn more on our website: https://wapiti.digital.",
+  "rss_url": "https://feeds.transistor.fm/wapiti",
+  "website": "https://wapiti.digital",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Entrepreneurship",
+    "Management"
+  ],
+  "feed_id": "443251",
+  "last_episode_date": "",
+  "episode_count": 74,
+  "recent_episodes": [
+    {
+      "title": "The Brith of Wapiti: Dan's Backstory",
+      "date": "2025-12-10",
+      "duration": 2298,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/media.transistor.fm/427d085e/84234c7e.mp3",
+      "description": ""
+    },
+    {
+      "title": "Hiring the Right Web Team",
+      "date": "2025-11-12",
+      "duration": 1054,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/media.transistor.fm/462118cd/c617ee14.mp3",
+      "description": ""
+    },
+    {
+      "title": "SEO vs. AIO: Understanding the New Rules of Search Visibility",
+      "date": "2025-11-03",
+      "duration": 1438,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/media.transistor.fm/85a9e259/1519ef81.mp3",
+      "description": ""
+    }
+  ],
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "contact_email": "hello@wapiti.digital",
+  "contact_name": "Wapiti",
+  "discovered_date": "2026-02-18",
+  "slug": "sell-more-online-by-wapiti-digital",
+  "relevance": "Low",
+  "score_reason": "Small business digital marketing focus is too basic for Andreas's strategic AI and enterprise-level expertise."
+}

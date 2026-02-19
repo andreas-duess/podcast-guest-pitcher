@@ -1,0 +1,51 @@
+{
+  "source": "podcast_index",
+  "name": "Trade Wins by the World Trade Centers Association",
+  "host": "World Trade Centers Association",
+  "description": "Conversations that educate and inspire our constituents as they create vibrant ecosystems of economic activity through their access to real estate, trade services, hospitality, and networking.",
+  "rss_url": "https://feeds.simplecast.com/voFJrxAb",
+  "website": "https://podcast.wtca.org",
+  "language": "en",
+  "categories": [
+    "Business",
+    "Management",
+    "Careers",
+    "News"
+  ],
+  "feed_id": "5831088",
+  "last_episode_date": "",
+  "episode_count": 29,
+  "recent_episodes": [
+    {
+      "title": "26:Success Stories from the 2021-2022 WTCA Champions Award Winners",
+      "date": "2022-07-21",
+      "duration": 2743,
+      "audio_url": "https://cdn.simplecast.com/audio/eae72362-6399-4abd-bfbf-b74e3b1c3c4d/episodes/d858732e-21af-4499-a808-423b07f11d51/audio/0d6fe37d-cf4f-4e32-88fe-0fd2da6afd53/default_tc.mp3?aid=rss_feed&feed=voFJrxAb",
+      "description": "<p>Highlights from the conversation:</p>What it means to be a winner (1:30)What makes your WTC unique (20:46)Perspectives on global trade (29:19)Anecdotes to share (37:42)<p>Trade Wins is a podcast designed specifically to be thought-provoking and to provide insights from leading experts to help us navigate today\u2019s changing environment. We aim to contribute to the empowerment of our global membership and their business networks in the world of global trade and investment.</p>\n"
+    },
+    {
+      "title": "25: An American Story Towards Leadership of the Port of New York and New Jersey with Bethann Rooney",
+      "date": "2022-07-07",
+      "duration": 1937,
+      "audio_url": "https://cdn.simplecast.com/audio/eae72362-6399-4abd-bfbf-b74e3b1c3c4d/episodes/d028c904-ebd6-413e-b170-3b71799d3ae6/audio/794b410b-a8a3-4875-90c1-aa0f5d943ec4/default_tc.mp3?aid=rss_feed&feed=voFJrxAb",
+      "description": "<p>Highlights from the conversation:</p>Beth\u2019s background and career journey (1:01)Ports and the global supply chain (8:21)How to get a large team to work together (13:05)Managing growth with low staff (19:25)Recruiting supply chain operatives (24:45)Reflections on the industry (28:37)<p>Trade Wins is a podcast designed specifically to be thought-provoking and to provide insights from leading experts to help us navigate today\u2019s changing environment. We aim to contribute to the empowerment of our"
+    },
+    {
+      "title": "24: A Diplomat\u2019s Journey Promoting Trade with Ambassador Louise Blais",
+      "date": "2022-06-14",
+      "duration": 1281,
+      "audio_url": "https://cdn.simplecast.com/audio/eae72362-6399-4abd-bfbf-b74e3b1c3c4d/episodes/0e2dd6d5-e6ad-4976-b49a-df5af2bdc5a9/audio/c1568121-0325-4f6c-b423-e36153b3f97a/default_tc.mp3?aid=rss_feed&feed=voFJrxAb",
+      "description": "<p>Highlights from the conversation:</p>Life after diplomatic service (0:44)How promoting Canadian trade is different (2:23)What's happening in today\u2019s trade environment (9:13)Trade disconnect within the Americas (12:53)Create opportunities for businesses (17:04)What Ambassador Blais is doing today (20:02)<p>Trade Wins is a podcast designed specifically to be thought-provoking and to provide insights from leading experts to help us navigate today\u2019s changing environment. We aim to contribute to t"
+    }
+  ],
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "trade-wins-by-the-world-trade-centers-association",
+  "relevance": "Medium",
+  "score_reason": "This interviews business leaders about international trade and economic development, which could accommodate Andreas's agency-building story and insights on competing in traditional industries, though it's not a perfect fit for his AI/marketing expertise.",
+  "contact_email": "heard@heardpods.com",
+  "contact_name": "Heard Podcasts",
+  "contact_source": "rss"
+}

@@ -1,0 +1,50 @@
+{
+  "source": "podcast_index",
+  "name": "Comrades In Farms - A Regenerative Agriculture Podcast",
+  "host": "The Farmacy Seeds Network",
+  "description": "Comrades In Farms is dedicated to regenerative agriculture, nutrient density and human health. Comrades In Farms is broadcast live via my You-Tube channel and also on Truth Frequency Radio, Iheart, Tunedin, and Talkstreamlive. The show is live on Wednesday at 12 AM Eastern Time, Tuesdays 9 PM Pacific. Come join us in the live chats! \nOn You-Tube search \"The Farmacy Seeds Network\"\nOn Truth Frequency Radio look for \"Farmacy Seeds Network\"",
+  "rss_url": "https://anchor.fm/s/3d33d3ac/podcast/rss",
+  "website": "https://www.youtube.com/channel/UCe1-C5WND1UNUaGc8iCpDcw",
+  "language": "en",
+  "categories": [
+    "Health",
+    "Fitness",
+    "Nutrition"
+  ],
+  "feed_id": "1599764",
+  "last_episode_date": "",
+  "episode_count": 69,
+  "recent_episodes": [
+    {
+      "title": "2024 Regenerative Ag School Series Cover Cropping Part 5 #podcast #documentary",
+      "date": "2024-03-08",
+      "duration": 3679,
+      "audio_url": "https://anchor.fm/s/3d33d3ac/podcast/play/83714188/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-7%2F370093024-44100-2-116f93237b0a1.mp3",
+      "description": "<p>\nThis part of a long series on regenerative agriculture with a practical hands-on learning based approach where we start with concepts, principles and practices and provide examples and walk through season to season with soil and yield comparisons among many other pieces. This series moves on to cover cropping in the next 6 or 7 pieces and then moves on to deeper concepts. There is lots to learn here, please like subscribe and share!\nAlso available on Spotify: https://open.spotify.com/show/6c"
+    },
+    {
+      "title": "2024 Regenerative Ag School Series Cover Cropping Part 4 #podcast #documentary",
+      "date": "2024-02-29",
+      "duration": 2143,
+      "audio_url": "https://anchor.fm/s/3d33d3ac/podcast/play/83385499/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369259591-44100-2-c3285a046ce74.mp3",
+      "description": "<p>\nThis part of a long series on regenerative agriculture with a practical hands-on learning based approach where we start with concepts, principles and practices and provide examples and walk through season to season with soil and yield comparisons among many other pieces. This series moves on to cover cropping in th next 6 or 7 pieces and then moves on to deeper concepts. There is lots to learn here, please like subscribe and share!\nAlso available on Spotify: https://open.spotify.com/show/6cr"
+    },
+    {
+      "title": "My Personal Immunity Tools *Happy Leap YEAR*!",
+      "date": "2024-02-29",
+      "duration": 372,
+      "audio_url": "https://anchor.fm/s/3d33d3ac/podcast/play/83363330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369218058-44100-2-fc591e74b0701.mp3",
+      "description": "<p>This is by no means medical advice. I am only sharing what I do and how I manage my body. Your body and choices are just that, yours and I am not responsible for your decisions.\n</p>"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "comrades-in-farms-a-regenerative-agriculture-podcast",
+  "relevance": "Low",
+  "score_reason": "Focuses on regenerative farming techniques and health/nutrition rather than agricultural business, marketing, or technology strategy.",
+  "contact_email": "podcasts60+3d33d3ac@anchor.fm",
+  "contact_name": "The Farmacy Seeds Network",
+  "contact_source": "rss"
+}

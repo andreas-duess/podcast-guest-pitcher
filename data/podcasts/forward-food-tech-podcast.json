@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Forward Food Tech Podcast",
+  "host": "ForwardFood.Tech",
+  "description": "Forward Food Tech Podcast explores the future of food and agriculture, with the people who are taking us there. The podcast is the go-to place for discussions about cutting-edge agritech and foodtech innovations aiming to help the food and agriculture industries become more sustainable and protect our planet. This show is for entrepreneurs, investors, farmers, industry professionals and anyone seeking to understand how new technologies are changing food and agriculture. Host: @1robward Producer:",
+  "rss_url": "https://feeds.buzzsprout.com/1527133.rss",
+  "website": "https://www.forwardfood.tech/",
+  "language": "en-gb",
+  "categories": [
+    "Business",
+    "Entrepreneurship",
+    "Technology"
+  ],
+  "feed_id": "3459878",
+  "last_episode_date": "",
+  "episode_count": 0,
+  "recent_episodes": [
+    {
+      "title": "The Intensely Tasty, No Harm Sausage - New Age Meats",
+      "date": "2021-11-29",
+      "duration": 1837,
+      "audio_url": "https://www.buzzsprout.com/1527133/9613724-the-intensely-tasty-no-harm-sausage-new-age-meats.mp3",
+      "description": "<p>Today our guest is Brian Spears, the Founder and CEO of New Age Meats. What's fascinating about New Age Meats is that they are combining plant-based ingredients with cultured animal meat. This way, Brian says, you get the best of both worlds: the sensory experience and irreplaceable flavour of meat that\u2019s safer and more sustainable than conventionally-grown meat.\u00a0<br/><br/>Brian envisions a world in which everyone has access to delicious food that is also sustainable for the planet. He\u2019s a \u201cg"
+    },
+    {
+      "title": "Crypto Tokens to Reward Climate-Smart Farmers - Bx",
+      "date": "2021-09-30",
+      "duration": 2139,
+      "audio_url": "https://www.buzzsprout.com/1527133/9292070-crypto-tokens-to-reward-climate-smart-farmers-bx.mp3",
+      "description": "<p>Today our guests are Antony Yousefian and Sadia Ahmed from Bx. Bx is building a two-sided marketplace that connects growers who want to store more carbon in the soil with corporates who need to offset their carbon emissions. It is farm-inspired blockchain technology, incentivising growers to change behaviours to climate-smart practices and financially rewarding them using carbon credit tokens.</p><p>Antony co-founded Bx along with Ben Bardsley and is passionate about technology that can drive"
+    },
+    {
+      "title": "Algae as a Cost-Effective, Carbon Net-Zero Biofertiliser - TrueAlgae",
+      "date": "2021-07-29",
+      "duration": 1370,
+      "audio_url": "https://www.buzzsprout.com/1527133/8937377-algae-as-a-cost-effective-carbon-net-zero-biofertiliser-truealgae.mp3",
+      "description": "<p>Today our guests are Nathaniel Jackson and Angela Tsetsis from True Algae, a company that is at the forefront of innovation with algae bio fertilisers, aiming to increase farmer productivity in a cost-effective carbon net-zero way. <br/><br/>Nathaniel has been CEO of TrueAlgae since 2017. He worked at the Inter-American Development Bank for over 20 years and held several senior positions including Chief of Staff of private sector operations. He is a founding partner of NExT Impact Ventures, a"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "forward-food-tech-podcast",
+  "relevance": "High",
+  "score_reason": "Explores future of food and agriculture with agritech/foodtech innovations, perfect match for Andreas's 6 Seeds work and food industry expertise."
+}

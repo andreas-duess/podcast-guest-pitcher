@@ -1,0 +1,29 @@
+{
+  "source": "podcast_index",
+  "name": "The Role of News in Commodity and Equity Markets",
+  "host": "",
+  "description": "Borovkova, S (Vrije Universiteit Amsterdam)\nWednesday 15 October 2014, 15:00-16:00",
+  "rss_url": "https://rss.sms.cam.ac.uk/rss/media/1824787/",
+  "website": "http://sms.cam.ac.uk/media/1824787",
+  "language": "",
+  "categories": [],
+  "feed_id": "4095051",
+  "last_episode_date": "",
+  "episode_count": 1,
+  "recent_episodes": [
+    {
+      "title": "The Role of News in Commodity and Equity Markets",
+      "date": "2014-10-20",
+      "duration": 3900,
+      "audio_url": "http://downloads.sms.cam.ac.uk/1824787/1824790.mp4",
+      "description": "Borovkova, S (Vrije Universiteit Amsterdam)\nWednesday 15 October 2014, 15:00-16:00"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "the-role-of-news-in-commodity-and-equity-markets",
+  "relevance": "Low",
+  "score_reason": "This appears to be a single academic lecture recording from 2014, not an active podcast that interviews guests."
+}

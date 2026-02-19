@@ -1,0 +1,31 @@
+{
+  "source": "podcast_index",
+  "name": "Trialyx Health AI podcast - Trial Transformation: AI in Clinical Trials",
+  "host": "Trialyx Health",
+  "description": "Trialyx Health (trialyx.com) is dedicated to transforming clinical trial documentation through innovative Generative AI solutions, enhancing efficiency, accuracy, and accessibility in the research process. Join us as we discuss the latest innovations and how AI is reshaping the landscape of clinical research, making it more efficient and accessible. Tune in to discover insights from industry experts and learn how technology is paving the way for the future of healthcare.",
+  "rss_url": "https://media.rss.com/trialyx-health-ai-podcast-trial-transformation-ai-in-clinical-trials/feed.xml",
+  "website": "https://rss.com/podcasts/trialyx-health-ai-podcast-trial-transformation-ai-in-clinical-trials",
+  "language": "en",
+  "categories": [
+    "Technology"
+  ],
+  "feed_id": "7039516",
+  "last_episode_date": "",
+  "episode_count": 1,
+  "recent_episodes": [
+    {
+      "title": "Trialyx Health AI Podcast - Trial Transformation: AI in Clinical Trials",
+      "date": "2024-10-06",
+      "duration": 951,
+      "audio_url": "https://media.rss.com/trialyx-health-ai-podcast-trial-transformation-ai-in-clinical-trials/2024_10_06_23_12_41_1c2b7971-25c1-4578-b97e-24a403534dbf.mp3",
+      "description": "<p>Welcome to the Trialyx Health AI podcast, hosted by Trialyx Health (trialyx.com), where we explore the revolutionary impact of Generative AI on clinical trial documentation. Join us as we discuss the latest innovations and how AI is reshaping the landscape of clinical research, making it more efficient and accessible. Tune in to discover insights from industry experts and learn how technology is paving the way for the future of healthcare. </p>"
+    }
+  ],
+  "status": "skipped",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "trialyx-health-ai-podcast-trial-transformation-ai-in-clinical-trials",
+  "relevance": "Low",
+  "score_reason": "Highly specialized in clinical trials documentation, not relevant to Andreas's marketing/agriculture/business focus."
+}

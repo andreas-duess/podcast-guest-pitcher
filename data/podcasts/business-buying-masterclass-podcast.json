@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Business Buying Masterclass Podcast",
+  "host": "The nuts and bolts of buying and selling a small business!",
+  "description": "Huge Announcement!! \ud83d\udea8\nBack by popular demand!\nThe Free M&A Masterclass \nVersion 2.0 \ud83d\udd25\ud83d\udc40 \nVersion 1.0 drew over 8,000 subscribers\nNow, Kevin Henderson and I are taking our knowledge from our experience closing BILLIONS in M&A and giving it away\u2026\nCo masterclass.thesmbcenter.com",
+  "rss_url": "https://api.substack.com/feed/podcast/1319223.rss",
+  "website": "https://masterclass.thesmbcenter.com/podcast",
+  "language": "en",
+  "categories": [
+    "Education",
+    "Business"
+  ],
+  "feed_id": "6379953",
+  "last_episode_date": "",
+  "episode_count": 11,
+  "recent_episodes": [
+    {
+      "title": "Session #11: Financial Due Diligence",
+      "date": "2024-07-06",
+      "duration": 959,
+      "audio_url": "https://api.substack.com/feed/podcast/146312432/deb25762b6aed5dbd8bcc6339d0c330c.mp3",
+      "description": "<p>Welcome back to the Business Buying Masterclass! </p><p>In today\u2019s session, we dive into the critical topic of financial due diligence, a cornerstone in the acquisition process. </p><p>To enrich our discussion, we\u2019ll integrate insights from industry experts Chris Williamson of Cayne Crossing and Elliott Holland of Guardian Due Diligence.</p><p>Thank you for tuning in to the 11th session of this Business Buying Masterclass. </p><p>Let\u2019s get started!</p><p>The Business Buying Masterclass is now"
+    },
+    {
+      "title": "Session #10: You're under LOI, Now What?",
+      "date": "2024-06-22",
+      "duration": 640,
+      "audio_url": "https://api.substack.com/feed/podcast/145884522/68aca000536d717c9612db46cb555f94.mp3",
+      "description": "<p><p>Thanks for reading The Business Buying Masterclass! Subscribe for free to receive new posts and support my work.</p></p><p>Introduction</p><p>Congratulations on making it through the toughest part: getting the seller and broker on board and finalizing your Letter of Intent (LOI). </p><p>Now, where do you go from here?</p><p>In today's session, our goal is to help you navigate the post-LOI deal roadmap.</p><p>Before we dive in, remember that no two transactions are the same. </p><p>Sellers "
+    },
+    {
+      "title": "Session #9: The Masterclass is Back! A Recap",
+      "date": "2023-09-16",
+      "duration": 678,
+      "audio_url": "https://api.substack.com/feed/podcast/137089685/833b9638855db127abe2321aed20468e.mp3",
+      "description": "<p>After a short break for the Summer, the Business Buying Masterclass is back.</p><p>And, we couldn\u2019t be more excited to continue this journey with you!</p><p>In today\u2019s session, we\u2019ll recap the topics we\u2019ve covered in the class thus far and give an outline of what\u2019s to come! </p><p>Spoiler alert: We have poured time into building out the rest of the masterclass and we\u2019re super excited for what\u2019s to come. We\u2019re going to cover everything\u2014due diligence, business valuation, debt financing, attract"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "business-buying-masterclass-podcast",
+  "relevance": "Medium",
+  "score_reason": "Focuses on M&A but more on buying small businesses rather than building and selling, though guest's exit story could still be relevant.",
+  "contact_email": "kevin@thesmbcenter.com",
+  "contact_name": "The nuts and bolts of buying and selling a small business!",
+  "contact_source": "rss"
+}

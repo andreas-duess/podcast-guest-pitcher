@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "StartUp Burgh Pittsburgh Entrepreneurs, StartUps, Business and Resources",
+  "host": "Adam Simone. Listen to the StartUp Burgh podcast if you want to hear startup stories from the rapidly growing Pittsburgh entrepreneur scene. We'll talk to folks pioneering in tech, robotics, art, food+drink, education and more. Visit startupburgh.com",
+  "description": "Podcast by Adam Simone. Listen to the StartUp Burgh podcast if you want to hear startup stories from the rapidly growing Pittsburgh entrepreneur scene. We'll talk to folks pioneering in tech, robotics, art, food+drink, education and more. Visit startupburgh.com",
+  "rss_url": "https://feeds.soundcloud.com/users/soundcloud:users:207676727/sounds.rss",
+  "website": "http://www.startupburgh.com",
+  "language": "en",
+  "categories": [
+    "Business"
+  ],
+  "feed_id": "51027",
+  "last_episode_date": "",
+  "episode_count": 7,
+  "recent_episodes": [
+    {
+      "title": "EP_026 - Kevin Dowling of Kaarta",
+      "date": "2017-05-02",
+      "duration": 1179,
+      "audio_url": "http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/320505896-startup-burgh-podcast-ep_026-kevin-dowling-of-kaarta.mp3",
+      "description": "In Episode 26 of StartUp Burgh I talk with Kevin Dowling, CEO of Kaarta a real-time localization and mapping technology. Their incredible technology translates the real world into detailed 3D digital models with a wide variety of applications. Kevin has been a Pittsburgh technology and robotics advocate for decades as a staff member in the early days of computer science at Carnegie Mellon, and in forming the Field Robotics Center at CMU with colleagues."
+    },
+    {
+      "title": "EP_025 - Elijah Wiegmann of Spruce",
+      "date": "2017-04-24",
+      "duration": 1273,
+      "audio_url": "http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/319287176-startup-burgh-podcast-ep_025-elijah-wiegmann-of-spruce.mp3",
+      "description": "In Episode 25 of StartUp Burgh, I sit down with Elijah Wiegmann of Spruce, a pet products company. Elijah started Spruce in the past year and has taken a sketch of an idea and turned it into an amazing, innovative, pet product that is poised to turn heads (and tails!) as Spruce sets out to launch in 2017. Have a listen as we talk Pets, Beds and Product Design!"
+    },
+    {
+      "title": "EP_024 - Justin Forzano of CameroonFDP",
+      "date": "2017-04-11",
+      "duration": 1036,
+      "audio_url": "http://www.podtrac.com/pts/redirect.mp3/feeds.soundcloud.com/stream/317183068-startup-burgh-podcast-ep_024-justin-forzano-of-cameroonfdp.mp3",
+      "description": "Pittsburgh is home to many non-profits serving communities local, national and world-wide. Justin Forzano is here today talking about the organization he founded, Cameroon FDP, which is making an important local and national impact half-way across the globe in the country of Cameroon. And the best part? He's doing it through developing safe, secure and consistent programs for football (soccer) in a country with a rich football legacy. Have a listen to Justin's story, and if it touches you feel f"
+    }
+  ],
+  "status": "declined",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "startup-burgh-pittsburgh-entrepreneurs-startups-business-and-resources",
+  "relevance": "Medium",
+  "score_reason": "Covers startup stories including tech, food, and education with entrepreneurial audience, though very small show and regional focus.",
+  "contact_email": "adam@startupburgh.com",
+  "contact_name": "StartUp Burgh Podcast",
+  "contact_source": "rss"
+}

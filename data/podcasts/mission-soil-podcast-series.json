@@ -1,0 +1,49 @@
+{
+  "source": "podcast_index",
+  "name": "Mission Soil Podcast Series",
+  "host": "Directorate General for Agriculture and Rural Development",
+  "description": "A short podcast series to inform on EU Mission Soil.",
+  "rss_url": "https://webgate.ec.europa.eu/beluga2/application/api/podcasts/rss?ref=C-000025",
+  "website": "https://audiovisual.ec.europa.eu/en/podcasts#C-000025",
+  "language": "EN",
+  "categories": [
+    "Society",
+    "Culture"
+  ],
+  "feed_id": "7021764",
+  "last_episode_date": "",
+  "episode_count": 4,
+  "recent_episodes": [
+    {
+      "title": "Getting to know the Mission Soil Ambassadors",
+      "date": "2025-12-15",
+      "duration": 0,
+      "audio_url": "https://ec.europa.eu/avservices/avs/files/video6/repository/prod/photo/store/store2/podcast/S009277EN1.mp3",
+      "description": "In the fourth episode of the Mission Soil Podcast, we shine a spotlight on the Mission Soil Ambassadors programme \u2013 a network of dedicated individuals raising awareness and promoting the importance of soil health across Europe. Join host Dominic Smith as he speaks with Mission Soil Ambassadors Aleksandra Kapetanovi\u0107 (Montenegro), Demetris Taliotis (Cyprus), and Anna Danylczenko (Poland) about their personal motivations, how they use their unique voices to support the Mission, and the actionable "
+    },
+    {
+      "title": "Exploring the Living Labs of Mission Soil: Insights from ICOSHELLs, LILAS4SOILS, and LivingSoiLL",
+      "date": "2025-06-26",
+      "duration": 0,
+      "audio_url": "https://ec.europa.eu/avservices/avs/files/video6/repository/prod/photo/store/store2/podcast/S009219EN1.mp3",
+      "description": "A short podcast series to inform on EU Mission Soil"
+    },
+    {
+      "title": "Discover some of the EU Mission Soil funded projects: interview with BIOservicES, HuMUS and PREPSOIL",
+      "date": "2025-01-29",
+      "duration": 0,
+      "audio_url": "https://ec.europa.eu/avservices/avs/files/video6/repository/prod/photo/store/store2/podcast/S009170EN1.mp3",
+      "description": "In this second episode, we delve deeper into some of the projects funded by EU Mission Soil. Featuring Raul Zornoza, from the project BIOservicES; Paola Migliorini from the project HuMUS; and Linda Maring from the PREPSOIL project."
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "mission-soil-podcast-series",
+  "relevance": "Low",
+  "score_reason": "EU policy-focused soil health series lacks the business marketing angle Andreas brings to agriculture.",
+  "contact_email": "COMM-DEPOT-CENTRAL@ec.europa.eu",
+  "contact_name": "Directorate General for Agriculture and Rural Development",
+  "contact_source": "rss"
+}

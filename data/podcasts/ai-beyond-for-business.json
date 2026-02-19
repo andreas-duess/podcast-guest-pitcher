@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "AI & Beyond For Business",
+  "host": "Zazmic Podcasts",
+  "description": "Stay ahead of the curve with Zazmic\u2019s Podcast: AI & Beyond For Business! We delve into the latest in artificial intelligence, cybersecurity, cloud technology, and other trending technologies that will define the next decade in business. Discover how these innovations are transforming organizations, with practical takeaways, real-world case studies, and insights from top industry experts.",
+  "rss_url": "https://feed.podbean.com/zazmic/feed.xml",
+  "website": "https://zazmic.podbean.com",
+  "language": "en",
+  "categories": [
+    "Technology",
+    "Business",
+    "Entrepreneurship"
+  ],
+  "feed_id": "7115397",
+  "last_episode_date": "",
+  "episode_count": 7,
+  "recent_episodes": [
+    {
+      "title": "The #1 AI for Founders & Investors: Pixie Beats 95% Startup Failure Rate & Lifts Global Economies",
+      "date": "2025-10-16",
+      "duration": 2786,
+      "audio_url": "https://mcdn.podbean.com/mf/web/2w7cgvex2qkb7f9j/audio_1_99xym.mp3",
+      "description": "<p>Why do 95% of venture-backed startups fail \u2014 and what separates the ones that don't? In this episode, Richard McCandless, the founder of Pixie and Keith Johnston, AI leader from Zazmic, reveal the AI-driven insights and patterns that can turn startup chaos into predictable growth. <br>\n<br>\nFrom uncovering why most incubators only reach a fraction of founders to Pixie\u2019s \u201cscale-up DNA\u201d approach, this conversation is packed with actionable strategies for founders, investors, and anyone curious "
+    },
+    {
+      "title": "Disrupting Advertising: How Forage Makes Brands More Human With AI that Digs TikTok, Instagram, YouTube For Real-Time Consumer Insights",
+      "date": "2025-10-02",
+      "duration": 2327,
+      "audio_url": "https://mcdn.podbean.com/mf/web/frkgvpzcfw7bcx6c/forage_podcasta3chq.mp3",
+      "description": "<p>Short-term metrics don't define brand success anymore. What does? Join 20-year advertising expert and Founder of Forage Charles Swann and Zazmic CTO Yann Kronberg to find out. Backed by Zazmic's engineering team, Charles built the industry's most advanced Vision AI platform\u2014a tool that decodes millions of social media images and videos for unique, relevant, real-time consumer insights. <br>\n<br>\nHear how Forage helps brands make sense of the changing culture and act on it fast, giving their a"
+    },
+    {
+      "title": "The AI Takeover: Insights from a Chief AI Officer",
+      "date": "2025-04-09",
+      "duration": 1355,
+      "audio_url": "https://mcdn.podbean.com/mf/web/zf2f9n6inaxe3ajc/audio-.mp3",
+      "description": "<p>Chief AI Officers are still basically unicorns in the tech world, but we caught one! In this new episode, meet Zazmic\u2019s co-founder Yuri Yakovlev, the engineering and AI powerhouse behind the company's success. <br>\n<br>\nHear about the 200% mindset that fuels Zazmic\u2019s growth, why you should trust your expertise more than just client feedback, the 'six-legged horse\u2019 problem, who's coming for your job (not AI), and how AI will soon blend into everything we know. And many more exclusive insights."
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "ai-beyond-for-business",
+  "relevance": "High",
+  "score_reason": "Explores AI and technology transformation for organizations with entrepreneurial guests, ideal for Andreas's agency-building and AI implementation experience."
+}

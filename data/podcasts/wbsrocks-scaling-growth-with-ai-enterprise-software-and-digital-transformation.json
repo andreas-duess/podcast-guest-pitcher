@@ -1,0 +1,48 @@
+{
+  "source": "podcast_index",
+  "name": "WBSRocks: Scaling Growth with AI, Enterprise Software, and Digital Transformation",
+  "host": "Sam Gupta",
+  "description": "WBSRocks podcast features in-depth conversations on AI-enabled business models, customer experience, digital transformation, supply chain, eCommerce, industry 4.0, and enterprise software categories such as CRM, ERP, or analytics suites. The purpose of the show is to help CFOs, COOs, CEOs, and business owners with their daily commercial, operational, or financial challenges by taking a deep dive into business cases and processes, technology strategy and architecture, transformation initiatives, ",
+  "rss_url": "https://rss.buzzsprout.com/1456882.rss",
+  "website": "https://podcast.wbs.rocks",
+  "language": "en-us",
+  "categories": [
+    "Business",
+    "Management"
+  ],
+  "feed_id": "1335515",
+  "last_episode_date": "",
+  "episode_count": 817,
+  "recent_episodes": [
+    {
+      "title": "WBSP818: Scale Growth by Learning from Enterprise Software Stories - Oct 2025, Ep 38, an Objective Panel Discussion",
+      "date": "2026-02-17",
+      "duration": 3602,
+      "audio_url": "https://www.buzzsprout.com/1456882/episodes/18567512-wbsp818-scale-growth-by-learning-from-enterprise-software-stories-oct-2025-ep-38-an-objective-panel-discussion.mp3",
+      "description": "<p>Send a text</p><p>This week\u2019s enterprise software developments underscore a widening gap between rapid AI-driven platform innovation and the unresolved execution risks embedded in large-scale ERP programs. On one side of the ledger, Mendix and OutSystems both advanced their agentic AI roadmaps with new releases aimed at operationalizing autonomous workflows, while ServiceNow\u2019s unveiling of its AI Experience, Sprinklr\u2019s new AI capabilities, and Braze\u2019s product enhancements at Forge 2025 reinfo"
+    },
+    {
+      "title": "WBSP817: Scale Growth by Learning the Top HCM Software In 2026 w/ Sam Gupta",
+      "date": "2026-02-16",
+      "duration": 1026,
+      "audio_url": "https://www.buzzsprout.com/1456882/episodes/18567497-wbsp817-scale-growth-by-learning-the-top-hcm-software-in-2026-w-sam-gupta.mp3",
+      "description": "<p>Send a text</p><p>HCM operates under a different operational gravity, shaped by higher data sensitivity, greater regulatory exposure, and people-centric workflows that do not map cleanly to financial or supply chain logic. HR data carries a uniquely elevated risk profile, and processes such as payroll, benefits, compliance, recruiting, onboarding, training, and performance management introduce specialized data models and integration needs that demand purpose-built platforms. Adoption also fol"
+    },
+    {
+      "title": "WBSP816: Scale Growth by Learning from Enterprise Software Stories - Oct 2025, Ep 37, an Objective Panel Discussion",
+      "date": "2026-02-10",
+      "duration": 3664,
+      "audio_url": "https://www.buzzsprout.com/1456882/episodes/18567479-wbsp816-scale-growth-by-learning-from-enterprise-software-stories-oct-2025-ep-37-an-objective-panel-discussion.mp3",
+      "description": "<p>Send a text</p><p>This week\u2019s enterprise software headlines highlight a market simultaneously accelerating into agentic AI while still wrestling with the structural and legal fallout of past transformation failures. On the innovation front, Genstore\u2019s $10M seed round, Tray.ai\u2019s launch of the Tray Agent Hub, and new agentic releases from Mendix and OutSystems underscore how aggressively vendors are repositioning around autonomous workflows and AI-first orchestration layers. ServiceNow\u2019s unveil"
+    }
+  ],
+  "status": "pursuing",
+  "pursue": true,
+  "notes": "",
+  "contact_email": "sam.gupta@elevatiq.com",
+  "contact_name": "Sam Gupta",
+  "discovered_date": "2026-02-18",
+  "slug": "wbsrocks-scaling-growth-with-ai-enterprise-software-and-digital-transformation",
+  "relevance": "High",
+  "score_reason": "Strong alignment with AI-enabled business models and target audience of CFOs, COOs, CEOs in traditional industries."
+}
