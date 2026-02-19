@@ -25,17 +25,77 @@ from transcripts import fetch_transcripts, transcribe_all_pursued
 from analyzer import generate_pitch, generate_all_pitches
 from contacts import find_all_contacts
 from outreach import send_approved_pitches
+from notion_sync import (
+    score_podcasts,
+    sync_discoveries_to_notion,
+    get_existing_podcast_urls,
+    push_pitch_to_notion,
+    NOTION_TOKEN,
+    PODCAST_DB_ID,
+    PITCH_DB_ID,
+)
 
 
 def cmd_discover(args):
-    """Run podcast discovery."""
+    """Run podcast discovery, score with Claude, push to Notion."""
     profile = _get_profile(args)
     use_exa = "--exa" in args
-    discover(profile, use_exa=use_exa)
+
+    # Discover
+    results = discover(profile, use_exa=use_exa)
+
+    if not results:
+        return
+
+    # Score with Claude
+    print("\nScoring podcasts for relevance...")
+    scores = score_podcasts(results, profile)
+
+    high = sum(1 for s in scores.values() if s.get("relevance") == "High")
+    med = sum(1 for s in scores.values() if s.get("relevance") == "Medium")
+    low = sum(1 for s in scores.values() if s.get("relevance") == "Low")
+    skipped = sum(1 for s in scores.values() if s.get("skip"))
+    print(f"  Scores: {high} High, {med} Medium, {low} Low, {skipped} not-a-podcast")
+
+    # Sync to Notion
+    if NOTION_TOKEN and PODCAST_DB_ID:
+        print("\nSyncing to Notion...")
+        existing = get_existing_podcast_urls()
+        created, dup, dropped = sync_discoveries_to_notion(results, scores, existing)
+        print(f"  Created {created} Notion pages ({dup} duplicates skipped, {dropped} low-relevance dropped)")
+    else:
+        print("\nNotion not configured — results saved to local JSON only.")
+
+    # Also update local JSON with scores
+    for record in results:
+        name = record.get("name", "")
+        if name in scores:
+            score = scores[name]
+            record["relevance"] = score.get("relevance", "")
+            record["score_reason"] = score.get("reason", "")
+            if score.get("skip"):
+                record["status"] = "skipped"
+
+            slug = record.get("slug", "unknown")
+            filepath = os.path.join(PODCASTS_DIR, f"{slug}.json")
+            if os.path.exists(filepath):
+                with open(filepath, "r") as f:
+                    existing_record = json.load(f)
+                existing_record["relevance"] = record["relevance"]
+                existing_record["score_reason"] = record["score_reason"]
+                if score.get("skip"):
+                    existing_record["status"] = "skipped"
+                with open(filepath, "w") as f:
+                    json.dump(existing_record, f, indent=2)
 
 
 def cmd_review(args):
-    """Interactive review of discovered podcasts."""
+    """Interactive review of discovered podcasts (or review in Notion)."""
+    if NOTION_TOKEN and PODCAST_DB_ID:
+        print("Podcasts are in Notion — review and set status there.")
+        print("Mark podcasts as 'Pursuing' in the Status column to include them in the pipeline.")
+        print("\nTo use CLI review instead, unset NOTION_TOKEN in .env\n")
+
     podcasts = load_all_podcasts()
     unreviewed = [p for p in podcasts if p.get("status") == "discovered"]
 
@@ -56,6 +116,9 @@ def cmd_review(args):
         print(f"--- [{i}/{len(unreviewed)}] ---")
         print(f"  Name: {podcast.get('name', 'Unknown')}")
         print(f"  Host: {podcast.get('host', 'Unknown')}")
+        print(f"  Relevance: {podcast.get('relevance', '?')}")
+        if podcast.get("score_reason"):
+            print(f"  Why: {podcast['score_reason']}")
         print(f"  Source: {podcast.get('source', '')}")
         print(f"  Website: {podcast.get('website', '')}")
         print(f"  Episodes: {podcast.get('episode_count', '?')}")
@@ -124,6 +187,21 @@ def cmd_pitch(args):
     paths = generate_all_pitches(pursued, profile)
     print(f"\nGenerated {len(paths)} pitches. Review in data/pitches/")
 
+    # Sync pitches to Notion
+    if NOTION_TOKEN and PITCH_DB_ID and paths:
+        print("\nSyncing pitches to Notion...")
+        from analyzer import load_profile as load_analyzer_profile
+        import yaml
+
+        synced = 0
+        for path in paths:
+            from outreach import load_pitch
+            pitch_data = load_pitch(path)
+            page_id = push_pitch_to_notion(pitch_data)
+            if page_id:
+                synced += 1
+        print(f"  Created {synced} pitch pages in Notion")
+
 
 def cmd_contacts(args):
     """Find contact info for pursued podcasts."""
@@ -159,14 +237,18 @@ def cmd_run(args):
     print("PODCAST GUEST PITCHER — Full Pipeline")
     print("=" * 60)
 
-    # Step 1: Discover
+    # Step 1: Discover + Score + Notion sync
     print("\n--- STEP 1: DISCOVERY ---\n")
-    use_exa = "--exa" in args
-    discover(profile, use_exa=use_exa)
+    cmd_discover(args)
 
-    # Step 2: Review (interactive)
+    # Step 2: Review
     print("\n--- STEP 2: REVIEW ---\n")
-    cmd_review(args)
+    if NOTION_TOKEN and PODCAST_DB_ID:
+        print("Review podcasts in Notion, then re-run with 'transcribe' and 'pitch' commands.")
+        print("Pipeline paused for Notion review.")
+        return
+    else:
+        cmd_review(args)
 
     pursued = load_pursued_podcasts()
     if not pursued:
@@ -186,8 +268,8 @@ def cmd_run(args):
     generate_all_pitches(pursued, profile)
 
     print("\n" + "=" * 60)
-    print("Pipeline complete. Review pitches in data/pitches/")
-    print("To approve a pitch: set 'status: approved' in the pitch frontmatter")
+    print("Pipeline complete. Review pitches in data/pitches/ or Notion.")
+    print("To approve: set status to 'Approved' in Notion or frontmatter")
     print("To send: python pitcher.py send")
     print("=" * 60)
 
@@ -203,6 +285,12 @@ def cmd_status(args):
     for p in podcasts:
         s = p.get("status", "discovered")
         status_counts[s] = status_counts.get(s, 0) + 1
+
+    # Count by relevance
+    relevance_counts = {}
+    for p in podcasts:
+        r = p.get("relevance", "unscored")
+        relevance_counts[r] = relevance_counts.get(r, 0) + 1
 
     # Count transcripts
     transcript_count = 0
@@ -230,11 +318,20 @@ def cmd_status(args):
     for status, count in sorted(status_counts.items()):
         print(f"  {status}: {count}")
 
+    print(f"\nRelevance:")
+    for rel, count in sorted(relevance_counts.items()):
+        print(f"  {rel}: {count}")
+
     contacts = sum(1 for p in podcasts if p.get("contact_email"))
     print(f"\nContacts found: {contacts}")
     print(f"Transcripts cached: {transcript_count}")
     print(f"Pitches generated: {pitch_count}")
     print(f"Pitches approved: {approved_count}")
+
+    if NOTION_TOKEN and PODCAST_DB_ID:
+        print(f"\nNotion: connected")
+    else:
+        print(f"\nNotion: not configured")
 
 
 def _get_profile(args):
