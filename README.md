@@ -35,7 +35,7 @@ python pitcher.py run --profile profiles/andreas-duess.md
 
 ## Cost
 
-About $0.50-1.50 per pitch (Claude API + optional Whisper transcription). Discovery and YouTube transcripts are free.
+About $0.05-0.10 per pitch using RSS descriptions or YouTube transcripts. If using Whisper audio transcription (fallback), add ~$0.14/episode (~$0.42 per podcast for 3 episodes). Discovery is free.
 
 ## Stack
 
