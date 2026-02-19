@@ -113,14 +113,47 @@ def get_episodes_podcast_index(feed_id, max_results=5):
         return []
 
 
+def _expand_topics_to_keywords(topics):
+    """Break long topic phrases into shorter keyword queries for Podcast Index.
+
+    Podcast Index does keyword matching, not semantic — so 'agricultural marketing
+    and commodity boards' returns nothing, but 'agricultural marketing' works.
+    """
+    stopwords = {"and", "in", "for", "with", "to", "a", "the", "of", "on", "is", "an"}
+    keywords = set()
+    for topic in topics:
+        # Add the full topic
+        keywords.add(topic)
+        # Split on common conjunctions and prepositions
+        for separator in [" and ", " in ", " for ", " with ", " to "]:
+            if separator in topic:
+                parts = topic.split(separator)
+                for part in parts:
+                    part = part.strip()
+                    if len(part) > 8:
+                        keywords.add(part)
+        # Also try 2-word combinations, skipping stopword-only pairs
+        words = topic.split()
+        if len(words) >= 2:
+            for i in range(len(words) - 1):
+                w1, w2 = words[i].lower(), words[i+1].lower()
+                if w1 in stopwords or w2 in stopwords:
+                    continue
+                bigram = f"{words[i]} {words[i+1]}"
+                keywords.add(bigram)
+    return sorted(keywords)
+
+
 def discover_via_podcast_index(topics, max_per_topic=10):
     """Search Podcast Index for each topic keyword."""
     results = []
     seen_ids = set()
 
-    for topic in topics:
-        print(f"  Podcast Index: searching '{topic}'...")
-        feeds = search_podcast_index(topic, max_results=max_per_topic)
+    keywords = _expand_topics_to_keywords(topics)
+
+    for keyword in keywords:
+        print(f"  Podcast Index: searching '{keyword}'...")
+        feeds = search_podcast_index(keyword, max_results=max_per_topic)
 
         for feed in feeds:
             feed_id = str(feed.get("id", ""))
