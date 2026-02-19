@@ -1,0 +1,18 @@
+{
+  "source": "exa",
+  "name": "Exiting a Successful Marketing Agency with Beau Haralson - Flippa",
+  "host": "",
+  "description": "Exiting a Successful Marketing Agency with Beau Haralson - Flippa (function($){ $(document).ready(function(){ $('.my-autoplay-video').each(function(){ var $module = $(this); // 1) If there's a native HTML5 element inside this module, configure & play it var $html5 = $module.find('video').first(); if($html5.length){ // set attributes $html5.prop('muted', true); $html5.prop('loop', true); $html5.prop('controls', false); $html5.attr('playsinline', true); // for iOS // try to play (some browsers req",
+  "rss_url": "",
+  "website": "https://flippa.com/the-exit-podcast/beau-haralson-ep144/",
+  "language": "en",
+  "categories": [],
+  "last_episode_date": "",
+  "episode_count": 0,
+  "recent_episodes": [],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-02-18",
+  "slug": "exiting-a-successful-marketing-agency-with-beau-haralson-flippa"
+}

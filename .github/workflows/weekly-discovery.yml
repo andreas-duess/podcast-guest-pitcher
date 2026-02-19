@@ -1,0 +1,39 @@
+name: Weekly Podcast Discovery
+
+on:
+  schedule:
+    - cron: '0 12 * * 1'  # Every Monday at 12pm UTC (7am ET)
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run discovery
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          EXA_API_KEY: ${{ secrets.EXA_API_KEY }}
+          PODCAST_INDEX_KEY: ${{ secrets.PODCAST_INDEX_KEY }}
+          PODCAST_INDEX_SECRET: ${{ secrets.PODCAST_INDEX_SECRET }}
+        run: python pitcher.py discover --profile profiles/andreas-duess.md
+
+      - name: Commit new discoveries
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/podcasts/
+          git diff --staged --quiet || git commit -m "Weekly podcast discovery run
+
+          Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>"
+          git push
