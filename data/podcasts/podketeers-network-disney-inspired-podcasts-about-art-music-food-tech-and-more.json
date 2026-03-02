@@ -32,17 +32,17 @@
     },
     {
       "title": "Ep607: D'Amaro-land!",
-      "date": "2026-02-08",
+      "date": "2026-02-09",
       "duration": 5973,
       "audio_url": "https://mcdn.podbean.com/mf/web/bca4fh45in27jfsz/podketeers_ep607.mp3",
       "description": "<p >This week, La Reina tells a different origin story, Topps releases trading cards to celebrate Disneyland's 70th Anniversary, Kermit takes a lie detector test, and we give our thoughts on the Muppets Show special, plus Disney has a new CEO!</p>\n<p>Listen now at:</p>\n<p>https://www.podketeers.com/607</p>\n<p>or watch this episode at:</p>\n<p>YouTube.com/Podketeers</p>\n<p>\u00a0</p>\n<p>Our most frequently requested links can be found at:<br>\nhttps://www.podketeers.com/links/</p>\n<p>\u00a0</p>\n<p>Help us ma"
     }
   ],
-  "status": "discovered",
+  "status": "skipped",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "podketeers-network-disney-inspired-podcasts-about-art-music-food-tech-and-more",
   "relevance": "Low",
-  "score_reason": "Disney entertainment podcast with no business or marketing focus relevant to Andreas's expertise."
+  "score_reason": "This is a Disney entertainment podcast about theme parks and pop culture, not business or marketing."
 }

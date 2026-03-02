@@ -39,11 +39,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "ai-inspired-podcast-artificial-intelligence-transforming-education-business-and-",
-  "relevance": "Medium",
-  "score_reason": "Covers AI in business and education, relevant to Andreas's teaching role, but significant focus on personal growth and education may dilute fit.",
   "contact_email": "aiinspired@substack.com",
   "contact_name": "AI Inspired: Exploring AI's Frontier \u2013 Personal Growth, Business, and Education",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "ai-inspired-podcast-artificial-intelligence-transforming-education-business-and-",
+  "relevance": "Low",
+  "score_reason": "Focus on education and personal growth doesn't match Andreas's B2B traditional industry and business scaling expertise."
 }

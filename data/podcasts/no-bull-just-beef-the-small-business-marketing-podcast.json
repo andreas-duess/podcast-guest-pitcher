@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "No Bull, Just Beef - The Small Business Marketing Podcast",
-  "host": "Jo and Todd",
+  "host": "Spaghetti Agency",
   "description": "Tune into the Spaghetti Agency Podcast for the best in small business marketing. We\u2019re here to tackle social media, content, AI, and ads with a straightforward approach. Join us for episodes filled with practical tips, humour, honest insights, and no fluff. Spaghetti Agency: No Bull, Just Beef. Let\u2019s make marketing exciting and effective, together.",
   "rss_url": "https://feed.podbean.com/spaghettiagency/feed.xml",
   "website": "https://spaghettiagency.podbean.com",
@@ -38,11 +38,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "no-bull-just-beef-the-small-business-marketing-podcast",
-  "relevance": "Medium",
-  "score_reason": "Covers AI, content, and marketing for small businesses with practical approach, potentially relevant but audience may be smaller-scale than Andreas's typical clients.",
   "contact_email": "howdy@spaghettiagency.co.uk",
   "contact_name": "Jo and Todd",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "no-bull-just-beef-the-small-business-marketing-podcast",
+  "relevance": "Medium",
+  "score_reason": "Covers marketing and AI for small businesses with practical focus, though may be too small-business focused versus Andreas's enterprise/commodity board experience."
 }

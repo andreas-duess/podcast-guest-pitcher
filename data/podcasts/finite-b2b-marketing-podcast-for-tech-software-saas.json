@@ -14,35 +14,35 @@
   ],
   "feed_id": "341512",
   "last_episode_date": "",
-  "episode_count": 181,
+  "episode_count": 182,
   "recent_episodes": [
     {
-      "title": "Scaling Millions in Community-Led Pipeline with Kris Rudeegraap, Co-Founder and Co-CEO at Sendoso",
+      "title": "#182 - Hyper-Personalisation, AI Ethics, and the Future of B2B Marketing with Dario Debarbieri, CMO at HCL Software",
+      "date": "2026-03-02",
+      "duration": 2487,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18761147-182-hyper-personalisation-ai-ethics-and-the-future-of-b2b-marketing-with-dario-debarbieri-cmo-at-hcl-software.mp3",
+      "description": "<p>In this episode of the FINITE Podcast, Jodi sits down with the brilliant Dario Debarbieri, CMO at HCL Software. With a career at the intersection of marketing and AI, Dario offers a candid look at the Intelligence Economy and what it means for the modern B2B marketer.<br/><br/>We explore a world where artificial intelligence interacts with audiences in real-time, reading the sentiment of minute digital movements to deliver personalized content in exactly the right context. Dario explains why "
+    },
+    {
+      "title": "#181 - Scaling Millions in Community-Led Pipeline with Kris Rudeegraap, Co-Founder and Co-CEO at Sendoso",
       "date": "2026-02-09",
       "duration": 1291,
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18634990-scaling-millions-in-community-led-pipeline-with-kris-rudeegraap-co-founder-and-co-ceo-at-sendoso.mp3",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18634990-181-scaling-millions-in-community-led-pipeline-with-kris-rudeegraap-co-founder-and-co-ceo-at-sendoso.mp3",
       "description": "<p>How do you turn organic excitement for your product into a structured engine that drives millions in pipeline and 71% higher account spend?\u00a0</p><p>In this episode of the <b>FINITE Podcast</b>, Jodi sits down with <b>Kris Rudeegraap</b><b>, CEO and Founder of </b><b>Sendoso</b>, to peel back the curtain on their sophisticated community ecosystem. Kris breaks down how Sendoso manages four distinct community tiers - from power users to alumni - and the specific tech stack they use to automate \"j"
     },
     {
-      "title": "#180 - Synthetic Data with Kate O\u2019Keeffe, CEO and Co-Founder at Heatseeker",
+      "title": "#180 - Exploring Synthetic Data with Kate O\u2019Keeffe, CEO and Co-Founder at Heatseeker",
       "date": "2026-01-26",
       "duration": 1529,
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18558128-180-synthetic-data-with-kate-o-keeffe-ceo-and-co-founder-at-heatseeker.mp3",
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18558128-180-exploring-synthetic-data-with-kate-o-keeffe-ceo-and-co-founder-at-heatseeker.mp3",
       "description": "<p>We\u2019re all starting to hear about it, but what is synthetic data? Simply put, synthetic data is \"fake\" data that is mathematically manufactured to mirror the patterns and behaviours of real-world datasets.\u00a0</p><p>For B2B marketers, this means using AI to create a digital \"twin\" of your customer base. Instead of waiting weeks for a survey to come back, you use a model trained on your existing customer calls, ads, and behavioural data to predict how an audience will react.</p><p>However, it isn'"
-    },
-    {
-      "title": "#179 - Designed Intelligence: Reimagining the B2B Marketing Workforce with Michelle Boockoff-Bajdek, CMO at Sitecore",
-      "date": "2026-01-05",
-      "duration": 1797,
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/www.buzzsprout.com/255836/episodes/18405227-179-designed-intelligence-reimagining-the-b2b-marketing-workforce-with-michelle-boockoff-bajdek-cmo-at-sitecore.mp3",
-      "description": "<p>How do you move from simply using AI to truly integrating it into your workforce? In this episode, <b>Michelle Boockoff-Bajdek</b>, CMO of <b>Sitecore</b>, introduces her philosophy of <b>Designed Intelligence</b> - the intentional choreography between human creativity and AI capability.</p><p>Michelle breaks down why the future of marketing isn't about chasing cost efficiencies, but about scaling empathy and connection. She shares how Sitecore is evolving its org charts into agile squads, th"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "finite-b2b-marketing-podcast-for-tech-software-saas",
-  "relevance": "Medium",
-  "score_reason": "Tech and SaaS B2B marketers audience aligns with Andreas's marketing background, though food/agriculture industry expertise may be less relevant here."
+  "relevance": "High",
+  "score_reason": "Leading B2B marketing podcast interviewing innovative marketers about AI, personalization, and growth\u2014strong match for Andreas's marketing and AI expertise."
 }

@@ -39,11 +39,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "better-seed-better-life-podcast",
-  "relevance": "High",
-  "score_reason": "This American Seed Trade Association podcast covers agricultural innovation and interviews industry professionals, making it an excellent fit for Andreas's 6 Seeds agricultural marketing work and AI applications in traditional agriculture.",
   "contact_email": "info@betterseed.org",
   "contact_name": "American Seed Trade Association",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "better-seed-better-life-podcast",
+  "relevance": "High",
+  "score_reason": "Agricultural industry podcast from a trade association that would align perfectly with his 6 Seeds work and AI in agriculture expertise."
 }

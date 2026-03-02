@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "agribusiness-tamil-a-tamil-agriculture-podcast",
-  "relevance": "Low",
-  "score_reason": "Tamil-language podcast targeting Indian agripreneurs is wrong geographic and linguistic market for Andreas.",
   "contact_email": "agribusiness.tamil@gmail.com",
   "contact_name": "Agribusiness Talks",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "agribusiness-tamil-a-tamil-agriculture-podcast",
+  "relevance": "Low",
+  "score_reason": "Tamil language barrier and focus on Indian agriculture makes this a poor geographic and cultural fit."
 }

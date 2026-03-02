@@ -11,8 +11,15 @@
   ],
   "feed_id": "1035291",
   "last_episode_date": "",
-  "episode_count": 210,
+  "episode_count": 211,
   "recent_episodes": [
+    {
+      "title": "February 24 Weekly Key Market Drivers",
+      "date": "2026-02-24",
+      "duration": 1976,
+      "audio_url": "https://anchor.fm/s/6f99d94/podcast/play/115976177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-24%2F418731222-44100-2-813423142e286.mp3",
+      "description": "<p>SCOTUS rejects POTUS Trump\u2019s tariffs! Today we\u2019ll discuss the other options Trump is exploring to implement new tariffs. We\u2019ll also talk about the crop estimates from last week\u2019s USDA Outlook Forum, as well as our usual dairy and weather updates. </p>"
+    },
     {
       "title": "February 17 Weekly Key Market Drivers",
       "date": "2026-02-17",
@@ -26,23 +33,15 @@
       "duration": 1759,
       "audio_url": "https://anchor.fm/s/6f99d94/podcast/play/115299825/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-10%2F417828092-44100-2-c95fd9673e35f.mp3",
       "description": "<p>More trade deals! It looks like the main market movers for commodity markets this week have been the two new trade deals with Argentina and, more specifically, India. We\u2019ll talk about the reaction from the soy complex, as well as give a preview of today\u2019s February WASDE report.</p>"
-    },
-    {
-      "title": "February 3 Weekly Key Market Drivers",
-      "date": "2026-02-03",
-      "duration": 1674,
-      "audio_url": "https://anchor.fm/s/6f99d94/podcast/play/114969066/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-3%2F417386642-44100-2-f5d34fd621bbf.mp3",
-      "description": "<p>Ag futures have had a lot to react to this past week with the volatility in energy markets, India\u2019s trade deal with the U.S., and the potential for 45Z final rules this week. We\u2019ll also discuss USDA oil stocks numbers, the partial government shutdown, and what\u2019s new in the dairy markets.</p>"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "No real email found - Anchor placeholder",
-  "discovered_date": "2026-02-18",
-  "slug": "moving-parts-weekly-commodity-market-update",
-  "relevance": "Medium",
-  "score_reason": "Covers agricultural commodities including grains and dairy, relevant to Andreas's agriculture work but focused on trading rather than marketing/innovation.",
   "contact_email": "podcasts8+6f99d94@anchor.fm",
   "contact_name": "Nate Smithson",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "moving-parts-weekly-commodity-market-update",
+  "relevance": "Medium",
+  "score_reason": "Covers agricultural and food commodity markets including corn, soybeans, dairy, and protein, aligning with Andreas's agriculture marketing background."
 }

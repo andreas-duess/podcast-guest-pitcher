@@ -39,11 +39,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "business-buying-masterclass-podcast",
-  "relevance": "Medium",
-  "score_reason": "Focuses on M&A but more on buying small businesses rather than building and selling, though guest's exit story could still be relevant.",
   "contact_email": "kevin@thesmbcenter.com",
   "contact_name": "The nuts and bolts of buying and selling a small business!",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "business-buying-masterclass-podcast",
+  "relevance": "Medium",
+  "score_reason": "M&A focused podcast that could feature the agency sale story, though appears more educational/course-based with only 11 episodes."
 }

@@ -13,8 +13,15 @@
   ],
   "feed_id": "4891901",
   "last_episode_date": "",
-  "episode_count": 93,
+  "episode_count": 94,
   "recent_episodes": [
+    {
+      "title": "Ep73 \u201cThe Dangers of Group Think on Decision Making\u201d with Adi Sunderam",
+      "date": "2026-02-19",
+      "duration": 2019,
+      "audio_url": "https://dts.podtrac.com/redirect.mp3/afp-233242-injected.calisto.simplecastaudio.com/0e8250d0-fe19-4ea5-bf18-91d288e188af/episodes/7f8d32de-774a-4be6-baad-af1fd9cd72fb/audio/128/default.mp3?aid=rss_feed&awCollectionId=0e8250d0-fe19-4ea5-bf18-91d288e188af&awEpisodeId=7f8d32de-774a-4be6-baad-af1fd9cd72fb&feed=dFXndvsL",
+      "description": "<p>Whether it be in politics, public health, or corporate finance, why are people more likely to interpret facts or data in a way that fits their preconceived notions about the world as opposed to searching for the fundamental truth?\u00a0\u00a0</p><p>A new paper from the Harvard Business School called, Sharing Models to Interpret Data (by Joshua Schwartzstein and Adi Sunderam)</p><p>studies the propensity for people to adopt interpretations to data based on their community\u2019s beliefs, and why this can lea"
+    },
     {
       "title": "Ep72 Alternatives vs. Mutual Funds: Where Should You Put Your Money",
       "date": "2026-02-04",
@@ -28,13 +35,6 @@
       "duration": 1696,
       "audio_url": "https://dts.podtrac.com/redirect.mp3/afp-233242-injected.calisto.simplecastaudio.com/0e8250d0-fe19-4ea5-bf18-91d288e188af/episodes/a004cdf3-1fc3-466c-92e9-9b051156f0e8/audio/128/default.mp3?aid=rss_feed&awCollectionId=0e8250d0-fe19-4ea5-bf18-91d288e188af&awEpisodeId=a004cdf3-1fc3-466c-92e9-9b051156f0e8&feed=dFXndvsL",
       "description": "<p>When the pandemic hit in 2020, working from home skyrocketed. Six years later, many companies have returned to in-person work, but hybrid models are still the dominant structure. So with WFH here to stay in some form, what\u2019s the proper balance? And what are we at risk of losing in the long term with less in-office interaction?</p><p>Nick Bloom is an economics professor at Stanford University and one of the first researchers to take a serious look at the work from home phenomenon. He joins hos"
-    },
-    {
-      "title": "Ep70 \"The Science Behind Why We Don\u2019t Just Say What We Mean\" with Psychologist Steven Pinker - Part 2",
-      "date": "2026-01-07",
-      "duration": 1426,
-      "audio_url": "https://dts.podtrac.com/redirect.mp3/afp-233242-injected.calisto.simplecastaudio.com/0e8250d0-fe19-4ea5-bf18-91d288e188af/episodes/0647da0d-6fcc-4598-8656-5895634137b6/audio/128/default.mp3?aid=rss_feed&awCollectionId=0e8250d0-fe19-4ea5-bf18-91d288e188af&awEpisodeId=0647da0d-6fcc-4598-8656-5895634137b6&feed=dFXndvsL",
-      "description": "<p>In the final part of this two-part interview, Steven Pinker, an experimental psychologist and Harvard professor, again joins hosts and finance professors Jonathan Berk and Jules van Binsbergen to discuss his new book When Everyone Knows That Everyone Knows: Common Knowledge and the Mysteries of Money, Power, and Everyday Life.</p><p>In this episode, Jonathan and Jules break down more revelatory examples from Steven\u2019s book that demonstrate how common knowledge is a first order explanatory vari"
     }
   ],
   "status": "declined",
@@ -42,8 +42,8 @@
   "notes": "",
   "contact_email": "team@ventures.fm",
   "contact_name": "University.fm",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "all-else-equal-making-better-decisions",
   "relevance": "Medium",
-  "score_reason": "Academic business decision-making podcast from top business schools could work for Andreas's intelligence economy and data-driven decision topics, though may skew theoretical."
+  "score_reason": "Finance professors interviewing business leaders about decision-making flaws could work for Andreas's data-driven insights and building/exiting an agency, though finance-heavy focus may not be ideal fit."
 }

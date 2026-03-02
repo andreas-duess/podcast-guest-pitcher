@@ -21,14 +21,13 @@
       "description": "<p>\"CHATGPT de holy grail voor developers, of toch niet?\"<br/><br/>Samen met twee collega's verkennen we de wondere wereld van CHATGPT.\u00a0</p>"
     }
   ],
-  "status": "discovered",
+  "status": "skipped",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "pancompany-podcast-food-for-tech",
-  "relevance": "Low",
-  "score_reason": "Appears to be about developer tools (ChatGPT) rather than food industry topics despite the name.",
   "contact_email": "acaptijn@pancompany.com",
   "contact_name": "Pancompany",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "pancompany-podcast-food-for-tech",
+  "relevance": "Low",
+  "score_reason": "Appears to be a tech development podcast with minimal episode history and unclear guest interview format."
 }

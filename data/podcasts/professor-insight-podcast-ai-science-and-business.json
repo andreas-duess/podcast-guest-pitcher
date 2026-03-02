@@ -17,7 +17,7 @@
   "recent_episodes": [
     {
       "title": "EP30 - How Just 250 Files Can Poison a Large Language Model (LLM)",
-      "date": "2025-10-23",
+      "date": "2025-10-24",
       "duration": 1467,
       "audio_url": "https://mcdn.podbean.com/mf/web/2z96g8v9g5hzusaq/EP30.mp3",
       "description": "<p>In this episode of the Professor Insight Podcast, we examine one of the most striking new studies in AI security, titled Poisoning Attacks on LLMs Require a Near-Constant Number of Poison Samples. Conducted by researchers from the UK AI Security Institute, Anthropic, the Alan Turing Institute, and the University of Oxford, this study challenges a long-standing assumption about how large language models can be compromised. The finding is as unsettling as it is important: a handful of poisoned "
@@ -40,8 +40,8 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "professor-insight-podcast-ai-science-and-business",
-  "relevance": "Low",
-  "score_reason": "AI-curated news summary show without traditional guest interviews."
+  "relevance": "Medium",
+  "score_reason": "Covers AI and business but appears to be AI-generated news summaries rather than guest interviews with practitioners."
 }

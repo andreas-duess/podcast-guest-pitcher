@@ -40,9 +40,10 @@
   "status": "declined",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "epicurean-unicorn",
   "contact_email": "infous@puratos.com",
   "contact_name": "Braden and The Unicorn Collective",
-  "contact_source": "website"
+  "discovered_date": "2026-03-02",
+  "slug": "epicurean-unicorn",
+  "relevance": "High",
+  "score_reason": "Known target from guest profile"
 }

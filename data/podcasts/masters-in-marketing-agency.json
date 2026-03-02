@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "Masters in Marketing Agency",
-  "host": "Josh Hoffman",
+  "host": "DevNoodle",
   "description": "Are you running a digital marketing agency but feel like you need some advice? The Masters of Marketing Agency Podcast features veteran marketing agency owners who share their experiences, mistakes, and successes along their journey. Join host Josh Hoffman and make sure you have a notebook as he digs deep so you can learn more about what veteran agency owners know. \n\nThe Masters of Marketing Agency Podcast is brought to you by DevNoodle.\n\nhttps://devnoodle.com/",
   "rss_url": "https://feeds.transistor.fm/masters-in-marketing-agency",
   "website": "",
@@ -40,11 +40,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "masters-in-marketing-agency",
-  "relevance": "High",
-  "score_reason": "Features agency owners sharing their journey building marketing agencies, ideal fit for Andreas's story of building and exiting Canada's largest independent food agency.",
   "contact_email": "josh@devnoodle.com",
   "contact_name": "Josh Hoffman",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "masters-in-marketing-agency",
+  "relevance": "High",
+  "score_reason": "Features agency owners sharing their journey of building and scaling agencies, perfectly aligned with Andreas's agency exit story and marketing expertise."
 }

@@ -12,8 +12,15 @@
   ],
   "feed_id": "6436956",
   "last_episode_date": "",
-  "episode_count": 50,
+  "episode_count": 51,
   "recent_episodes": [
+    {
+      "title": "Your Wealth Is Hiding in Waste (Lean Transformation Reality)",
+      "date": "2026-03-02",
+      "duration": 2618,
+      "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/116147780/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-27%2F418961527-44100-2-c8e47cf382853.mp3",
+      "description": "<p>Ryan Tierney (Lean Made Simple) sits down with producer Alastair Luke (Attention X) shares the brutally honest truth about what\u2019s really happening six months into the Lean transformation at Sperrin Metal.Customers haven\u2019t seen the benefits yet.Lead times have got worse.The factory is still operationally chaotic.And it\u2019s been the most difficult thing he\u2019s ever done.In this open and unfiltered conversation, Ryan explains what it actually looks like when you try to transform a 63-year-old manufa"
+    },
     {
       "title": "Transforming Sperrin Metal | Live from Gemba Summit 2025",
       "date": "2025-11-24",
@@ -27,13 +34,6 @@
       "duration": 1266,
       "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/107243767/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-7-23%2F406149926-44100-2-f901e166cbf7.mp3",
       "description": "<p>Ryan Tierney (Lean Made Simple) delves deep into Ireland's BIGGEST ever Lean summit, Gemba Summit at Titanic Belfast, Northern Ireland on 20th-21st October 2025.Find out more about Gemba Summit and:- Whit can be your next lean TURNING POINT- Why people are travelling from all over the world to EXPERIENCE lean- HOW you can join some of the world top lean leaders\u27a1\ufe0f Book your GEMBA SUMMIT tickets today: https://gembasummit.com\u27a1\ufe0f Order the book, LEAN MADE SIMPLE: 12 PROVEN STEPS FOR CREATING A VI"
-    },
-    {
-      "title": "My HIGH STAKES Lean challenge",
-      "date": "2025-07-21",
-      "duration": 1735,
-      "audio_url": "https://anchor.fm/s/e48cd3c4/podcast/play/105685334/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-6-18%2F404150775-44100-2-0cf013ff69946.mp3",
-      "description": "<p>Ryan Tierney (Lean Made Simple) sits down with podcast host Matthew Thompson to get deep into why he has made the boldest move of his life and made a high stake move that will be the ultimate test of lean.\ud83d\udfe2 Ryan Tierney leaves his successful business to take on his biggest Lean challenge yet.\ud83d\udfe2 Why Sperrin Metal needs more than just tools \u2014 it needed a complete culture reset.\ud83d\udfe2 Discover the real-world pressures behind buying a struggling factory and leading from the front.\ud83d\udfe2 This episode explore"
     }
   ],
   "status": "discovered",
@@ -41,8 +41,8 @@
   "notes": "",
   "contact_email": "matthew@skool.com",
   "contact_name": "Lean Made Simple",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "lean-made-simple-transform-your-business-life-one-step-at-a-time",
-  "relevance": "Low",
-  "score_reason": "Focused specifically on lean manufacturing methodology rather than AI, marketing, or the intelligence economy topics Andreas specializes in."
+  "relevance": "Medium",
+  "score_reason": "Manufacturing business transformation podcast that interviews leaders and could value Andreas's traditional industry + technology expertise, though lean manufacturing is adjacent to his core topics."
 }

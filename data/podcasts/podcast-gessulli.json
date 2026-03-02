@@ -24,11 +24,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "podcast-gessulli",
-  "relevance": "Low",
-  "score_reason": "Portuguese-language Brazilian poultry news podcast doesn't match Andreas's English-speaking marketing expertise.",
   "contact_email": "redacao@gessulli.com.br",
   "contact_name": "Gessulli Agribusiness",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "podcast-gessulli",
+  "relevance": "Low",
+  "score_reason": "Portuguese language podcast on Brazilian poultry/swine; language barrier and narrow technical focus."
 }

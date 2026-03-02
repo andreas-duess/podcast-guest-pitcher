@@ -38,11 +38,10 @@
   "status": "declined",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "startup-burgh-pittsburgh-entrepreneurs-startups-business-and-resources",
-  "relevance": "Medium",
-  "score_reason": "Covers startup stories including tech, food, and education with entrepreneurial audience, though very small show and regional focus.",
   "contact_email": "adam@startupburgh.com",
   "contact_name": "StartUp Burgh Podcast",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "startup-burgh-pittsburgh-entrepreneurs-startups-business-and-resources",
+  "relevance": "Medium",
+  "score_reason": "Features Pittsburgh entrepreneurs including food and tech startups, aligning with Andreas's food marketing and agency-building experience."
 }

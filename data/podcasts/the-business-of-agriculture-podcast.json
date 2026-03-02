@@ -11,8 +11,15 @@
   ],
   "feed_id": "1125510",
   "last_episode_date": "",
-  "episode_count": 437,
+  "episode_count": 438,
   "recent_episodes": [
+    {
+      "title": "What Are The Real Threats to Agricultural Production and Food Security? | Damian Mason Podcast",
+      "date": "2026-02-23",
+      "duration": 2539,
+      "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/ThreatsToAgProductivity.mp3?dest-id=4358633",
+      "description": "<p>Agricultural production continues to reach record levels, yet serious threats to food security remain. In this episode, Damian Mason challenges the dominant narrative that climate change is the primary risk to global food production. Instead, he examines structural and policy-driven risks that could truly reduce agricultural output. From regulatory overreach and political confrontation to the weaponization of trade and the collectivization of farming systems, Damian outlines the forces that c"
+    },
     {
       "title": "437 - Are Large Consolidated Farms the Cure for Low Commodity Prices? | Damian Mason Podcast",
       "date": "2026-02-16",
@@ -26,23 +33,15 @@
       "duration": 3908,
       "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/AgEconomyOutlook.mp3?dest-id=4358633",
       "description": "<p >In this essential episode, Damian Mason speaks with Shelby Bass and Curt Covington of AgAmerica to analyze the 2026 Agricultural Economy Outlook. Although U.S. net farm income rose $40 billion in 2025, only 52% of farms were profitable\u2014and nearly a quarter of farm income came from government payments. Looking ahead to 2026, rising input costs, elevated interest rates, and policy uncertainty will continue to challenge profitability.</p> <p >The conversation covers:</p>   <p >Projections for f"
-    },
-    {
-      "title": "Will the Next Generation of Farmers Be Saved from a Collapse? | Damian Mason Podcast",
-      "date": "2026-02-02",
-      "duration": 4501,
-      "audio_url": "https://traffic.libsyn.com/secure/f2a7f5f9-0de4-478a-be41-151ce3dba91c/FarmPolicy.mp3?dest-id=4358633",
-      "description": "<p >A generational collapse in Agriculture is no longer hypothetical\u2014it is a growing reality. With land values surging, profit margins tightening, and federal policy favoring legacy operations, new and aspiring farmers face enormous barriers to entry. In this hard-hitting episode, Damian Mason is joined by Iowa farmer Elliott Henderson and Minnesota farmer Lance Petersen to discuss the policy shifts needed to revitalize rural America and secure the future of farming.</p> <p >In this episode:</p>"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "the-business-of-agriculture-podcast",
-  "relevance": "High",
-  "score_reason": "Perfect fit - focuses on business of agriculture with a host who interviews guests about trends, consolidation, and business strategy in farming.",
   "contact_email": "damian@damianmason.com",
   "contact_name": "The Business of Agriculture Podcast",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "the-business-of-agriculture-podcast",
+  "relevance": "High",
+  "score_reason": "Business-focused agriculture podcast with 438 episodes covering industry trends, exactly aligned with Andreas's agricultural marketing and AI expertise."
 }

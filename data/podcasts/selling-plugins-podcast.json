@@ -36,11 +36,11 @@
       "description": "<p>Maybe you don't have time to maintain it anymore, or maybe you want to move on to another plugin or business altogether. How do you go about selling your WordPress plugin to someone?</p><p>Brian Hogg and Kyle Maurer (support tech at Easy Digital Downloads) along with special guests Phil Derksen (WP Simple Pay) and Pippin Williamson (Easy Digital Downloads, AffiliateWP, and more) chat on lessons learned and helpful tips on the subject of plugin acquisitions.</p><p>SHOW NOTES:</p><p>https://sco"
     }
   ],
-  "status": "discovered",
+  "status": "skipped",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "selling-plugins-podcast",
   "relevance": "Low",
-  "score_reason": "Highly niche focus on WordPress plugin businesses, not relevant to guest's food/agriculture/AI expertise."
+  "score_reason": "WordPress plugin business niche, completely different industry from guest's expertise."
 }

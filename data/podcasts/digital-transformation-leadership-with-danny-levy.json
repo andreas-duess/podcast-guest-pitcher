@@ -16,14 +16,14 @@
   "recent_episodes": [
     {
       "title": "AI in Action: Building Transparent, Scalable Impact w/ Meta\u2019s Rafael Frankel",
-      "date": "2025-11-09",
+      "date": "2025-11-10",
       "duration": 3784,
       "audio_url": "https://anchor.fm/s/1c04ad78/podcast/play/110939196/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-10-10%2F6fe16212-f836-0451-fb35-b1b17ccd31ce.mp3",
       "description": "<p>What does it take to make AI truly work for people \u2014 not just profits?</p><p>In this episode, Rafael Frankel, Director of Public Policy for Asia-Pacific at Meta, joins Danny Levy to share how one of the world\u2019s most influential technology companies is driving responsible, transparent, and scalable AI adoption across the region.</p><p>A former journalist turned policy leader, Rafael brings a rare blend of storytelling, diplomacy, and innovation insight from over a decade shaping tech policy an"
     },
     {
       "title": "Noise vs. Leadership, Quantum-Safe Cryptography, and Why the Right Conversation Changes Everything w/ Camilla Bullock",
-      "date": "2025-09-25",
+      "date": "2025-09-26",
       "duration": 2818,
       "audio_url": "https://anchor.fm/s/1c04ad78/podcast/play/108829441/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2025-8-26%2F096f83e4-f491-1b7e-2c2a-5b4c5d9c20fd.mp3",
       "description": "<p>This week, Camilla Bullock, CEO of the Emerging Payments Association Asia (EPAA), joins Danny for a wide-ranging, no-BS conversation that cuts through the noise.</p><p>The Emerging Payments Association Asia (EPAA) is the peak industry body representing and supporting the APAC payments ecosystem.</p><p>Danny and Camilla get into:</p>Why true leadership isn\u2019t about being a \u201cthought leader\u201d (and why Camilla refuses the label).The hidden superpower that drives change: spotting the right people an"
@@ -39,11 +39,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "LinkedIn only: linkedin.com/in/danny-levy",
-  "discovered_date": "2026-02-18",
-  "slug": "digital-transformation-leadership-with-danny-levy",
-  "relevance": "High",
-  "score_reason": "Interviews business leaders about digital transformation, technology adoption, and leadership\u2014perfect for Andreas's traditional-industries-meet-AI narrative.",
   "contact_email": "podcasts33+1c04ad78@anchor.fm",
   "contact_name": "Danny Levy",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "digital-transformation-leadership-with-danny-levy",
+  "relevance": "High",
+  "score_reason": "Interviews business leaders on digital transformation, AI, and leadership\u2014perfect alignment with Andreas's teaching and traditional industry AI adoption work."
 }

@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "AI Business Podcast",
-  "host": "Daniel Faggella",
+  "host": "AI Business",
   "description": "The AI Business Podcast features interviews and insights with some of the AI industry's biggest names. Presented by seasoned technology journalists, the podcast includes conversations regarding some of the most cutting-edge applications of artificial intelligence.",
   "rss_url": "https://anchor.fm/s/226b6724/podcast/rss",
   "website": "https://aibusiness.com",
@@ -38,11 +38,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "ai-business-podcast",
-  "relevance": "High",
-  "score_reason": "Features interviews with enterprise AI leaders about practical AI applications, perfect match for Andreas's AI-in-traditional-industries expertise.",
   "contact_email": "daniel@emerj.com",
   "contact_name": "Daniel Faggella",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "ai-business-podcast",
+  "relevance": "High",
+  "score_reason": "Features enterprise AI applications with seasoned journalists interviewing industry leaders\u2014perfect fit for Andreas's practical AI-in-traditional-industries expertise."
 }

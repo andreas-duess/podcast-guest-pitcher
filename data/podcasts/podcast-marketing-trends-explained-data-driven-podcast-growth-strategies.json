@@ -40,11 +40,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "podcast-marketing-trends-explained-data-driven-podcast-growth-strategies",
-  "relevance": "Low",
-  "score_reason": "Specifically about podcast growth tactics, not about AI, marketing strategy, or traditional industries.",
   "contact_email": "jeremy@podcastmarketingacademy.com",
   "contact_name": "Jeremy Enns",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "podcast-marketing-trends-explained-data-driven-podcast-growth-strategies",
+  "relevance": "Low",
+  "score_reason": "This podcast is specifically about podcast marketing and growth, not general marketing or AI strategy in traditional industries."
 }

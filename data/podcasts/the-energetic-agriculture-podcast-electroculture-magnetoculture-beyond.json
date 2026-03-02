@@ -42,11 +42,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "the-energetic-agriculture-podcast-electroculture-magnetoculture-beyond",
-  "relevance": "Low",
-  "score_reason": "Focuses on pseudoscientific alternative agriculture methods (electroculture, magnetism) rather than business, marketing, or practical AI applications in agriculture.",
   "contact_email": "support@energeticgrowers.com",
   "contact_name": "Electroculture Growers - David Wechsler & Ray-Lee Bacon",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "the-energetic-agriculture-podcast-electroculture-magnetoculture-beyond",
+  "relevance": "Low",
+  "score_reason": "Focused on pseudoscientific growing techniques with electricity and magnetism, not business strategy or AI applications."
 }

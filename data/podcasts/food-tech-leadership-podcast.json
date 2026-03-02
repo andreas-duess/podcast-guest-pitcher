@@ -1,0 +1,47 @@
+{
+  "source": "podcast_index",
+  "name": "Food | Tech | Leadership Podcast",
+  "host": "Ricardo Massao Ito",
+  "description": "Lideran\u00e7a com vis\u00e3o estrat\u00e9gica, tecnologia para impulsionar resultados e comida como conex\u00e3o genu\u00edna. Reflex\u00f5es que unem excel\u00eancia, inova\u00e7\u00e3o e sabor em cada experi\u00eancia. rito70.substack.com",
+  "rss_url": "https://api.substack.com/feed/podcast/5897430.rss",
+  "website": "https://rito70.substack.com/podcast",
+  "language": "pt",
+  "categories": [
+    "Technology",
+    "Arts",
+    "Food"
+  ],
+  "feed_id": "7710844",
+  "last_episode_date": "",
+  "episode_count": 3,
+  "recent_episodes": [
+    {
+      "title": "A sua empresa est\u00e1 tratando a Intelig\u00eancia Artificial apenas como uma atualiza\u00e7\u00e3o de TI?",
+      "date": "2026-02-24",
+      "duration": 908,
+      "audio_url": "https://api.substack.com/feed/podcast/189002619/79a005bda12f335985d316eb7a50a950.mp3",
+      "description": "<p>Neste novo resumo em \u00e1udio, cruzamos os insights de dois materiais essenciais da McKinsey para revelar a equa\u00e7\u00e3o definitiva dos CEOs de maior sucesso: a verdadeira revolu\u00e7\u00e3o da IA exige 80% de transforma\u00e7\u00e3o de neg\u00f3cios e apenas 20% de tecnologia.</p><p>Enquanto muitos l\u00edderes focam apenas em ganhos de produtividade e no ROI imediato, os mais ambiciosos n\u00e3o buscam resultados apenas 20% melhores; eles desenham cen\u00e1rios para ser 10 vezes melhores. Isso se traduz em metas agressivas, como triplic"
+    },
+    {
+      "title": "Quer ser instantaneamente mais carism\u00e1tico? Pare de tentar impressionar.",
+      "date": "2026-02-16",
+      "duration": 240,
+      "audio_url": "https://api.substack.com/feed/podcast/188135919/a454af23701a0d79b9ff3edb1c029f14.mp3",
+      "description": "<p>A maioria de n\u00f3s, quando quer conquistar algu\u00e9m ou fazer networking, segue o mesmo roteiro: tentamos parecer inteligentes, listamos nossas conquistas ou contamos hist\u00f3rias engra\u00e7adas. Mas a ci\u00eancia mostra que estamos fazendo tudo errado.</p><p>Gerei um \u00e1udio incr\u00edvel (em anexo) baseada em artigos recentes sobre comunica\u00e7\u00e3o e psicologia, e o veredito \u00e9 claro: o segredo do carisma n\u00e3o \u00e9 o que voc\u00ea fala, mas o que voc\u00ea pergunta.</p><p>Alguns insights poderosos que discuto neste \u00e1udio:</p><p>1. A"
+    },
+    {
+      "title": "O Fim do SaaS como conhecemos? A Era do \"Service-as-Software\" e o impacto no Brasil",
+      "date": "2026-02-15",
+      "duration": 272,
+      "audio_url": "https://api.substack.com/feed/podcast/188049135/0db386ec272487934a243960926347e9.mp3",
+      "description": "<p>Estamos vivendo uma mudan\u00e7a tect\u00f4nica no mercado de tecnologia. Um novo relat\u00f3rio da McKinsey aponta que a era do SaaS tradicional (cobran\u00e7a por usu\u00e1rio/assento) est\u00e1 evoluindo para algo muito mais complexo e valioso: o modelo AI-Centric.</p><p>N\u00e3o se trata apenas de adicionar um chatbot ao seu produto. \u00c9 uma redefini\u00e7\u00e3o de como o software \u00e9 constru\u00eddo, vendido e precificado.</p><p>Aqui est\u00e3o os 3 insights cruciais do relat\u00f3rio e como eles aterrissam no mercado brasileiro:</p><p>1. De Ferrame"
+    }
+  ],
+  "status": "discovered",
+  "pursue": false,
+  "notes": "",
+  "discovered_date": "2026-03-02",
+  "slug": "food-tech-leadership-podcast",
+  "relevance": "High",
+  "score_reason": "Combines strategic leadership, technology, and food industry focus, perfectly matching Andreas's profile bridging traditional food industry with AI and technology."
+}

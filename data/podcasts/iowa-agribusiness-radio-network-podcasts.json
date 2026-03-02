@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "Iowa Agribusiness Radio Network Podcasts",
-  "host": "Dustin Hoffmann",
+  "host": "Iowa Agribusiness Radio Network",
   "description": "The Iowa Agribusiness Radio Network is based out of Des Moines and reaches over 60 affiliates around the state. Our long-format weekend show called Weekend Ag Matters gives a deeper look into what has gone on on ag the past week, and it also lets you hear about Ag information close to home. We also supply interview content more often with our Special Podcasts that go out several times a week.",
   "rss_url": "https://kenroot.podbean.com/feed.xml",
   "website": "https://kenroot.podbean.com",
@@ -15,35 +15,34 @@
   "episode_count": 250,
   "recent_episodes": [
     {
-      "title": "IAM Podcast 2-18-26",
-      "date": "2026-02-18",
-      "duration": 2158,
-      "audio_url": "https://mcdn.podbean.com/mf/web/qyzeasxykbuki3yf/IAM_Podcast_2-18-26bd6qd.mp3",
-      "description": "<p>In today\u2019s show, Mark wraps up his conversation with NCBA Environmental Stewardship Award Program Regional Winner Jack Smith, Riley visits with Will Griffin of Valent, and Dustin talks with Robert Cossar of Croplan.</p>\n"
+      "title": "Weekend Ag Matters- February 28th, 2026",
+      "date": "2026-02-27",
+      "duration": 1581,
+      "audio_url": "https://mcdn.podbean.com/mf/web/84q22f92dvtxt4rr/Weekend_Ag_Matters-_February_28th_202668uee.mp3",
+      "description": "<p>In this week's episode of Weekend Ag Matters Mark Magnuson runs down the news headlines, Riley Smith speaks with Iowa Congressman Randy Feenstra, Dustin Hoffmann is joined by Heidi Bradley of Integrated Telehealth Partners, and Russ provides his faith-based segment.</p>\n"
     },
     {
-      "title": "Closing Market Podcast- Bill Moore PRICE Futures Group- 2-17-26",
-      "date": "2026-02-17",
-      "duration": 307,
-      "audio_url": "https://mcdn.podbean.com/mf/web/njzmz5vniwuyuu6k/Closing_Market_Podcast-_Bill_Moore_PRICE_Futures_Group-_2-17-269r1zz.mp3",
-      "description": "<p>Today's trade was good for the cattle and choppy in the grains. Riley Smith visits with Bill Moore of PRICE Futures Group.\u00a0</p>\n"
+      "title": "Closing Market Podcast- Bill Moore PRICE Futures Group- 2-24-26",
+      "date": "2026-02-24",
+      "duration": 501,
+      "audio_url": "https://mcdn.podbean.com/mf/web/7azp4qqgc2ga8xjs/Closing_Market_Podcast-_Bill_Moore_PRICE_Futures_Group-_2-24-2678xyv.mp3",
+      "description": "<p>There's a lot of uncertainty in the ag marketplace due to the constantly changing tariff situation. Riley Smith visits with Bill Moore of PRICE Futures Group.</p>\n"
     },
     {
-      "title": "IAM Podcast 2-17-26",
-      "date": "2026-02-17",
-      "duration": 2147,
-      "audio_url": "https://mcdn.podbean.com/mf/web/93d98n4q75ctu2j4/IAM_Podcast_2-17-268dd6f.mp3",
-      "description": "<p>In today\u2019s show, Mark talks with NCBA Environmental Stewardship Award Program Regional Winner Jack Smith, Riley discusses the U.S.-Taiwan reciprocal trade agreement with U.S. Meat Export Federation President and CEO Dan Halstrom, and special correspondent Russ Parker talks with Eric Halfman of John Deere.</p>\n"
+      "title": "IAM Podcast 2-24-26",
+      "date": "2026-02-24",
+      "duration": 2178,
+      "audio_url": "https://mcdn.podbean.com/mf/web/fqm9gy7imz4rzb6p/IAM_Podcast_2-24-268e6qa.mp3",
+      "description": "<p>In today\u2019s show, Mark continues his conversation with National Cattlemen\u2019s Beef Association President-Elect Kim Brackett, Riley catches up with Iowa Congressman Randy Feenstra, and Dustin talks E15 with Iowa Ag Secretary Mike Naig.</p>\n"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "iowa-agribusiness-radio-network-podcasts",
-  "relevance": "Medium",
-  "score_reason": "Agricultural news format may interview guests but regional/commodity focus is less aligned with Andreas's marketing AI angle.",
   "contact_email": "dustin@iowaagribusinessradionetwork.com",
   "contact_name": "Dustin Hoffmann",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "iowa-agribusiness-radio-network-podcasts",
+  "relevance": "Low",
+  "score_reason": "Regional farming news and commodity prices; too tactical and local for Andreas's strategic AI/marketing positioning."
 }

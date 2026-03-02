@@ -12,8 +12,15 @@
   ],
   "feed_id": "6093909",
   "last_episode_date": "",
-  "episode_count": 25,
+  "episode_count": 26,
   "recent_episodes": [
+    {
+      "title": "Beyond Volatility: Inside the Hidden Risks and Rewards of Crypto Markets",
+      "date": "2026-02-25",
+      "duration": 1679,
+      "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/MI-RV-4786400_-_Masters_of_Risk_w._Ali_Hassan_audio_only.mp3?dest-id=3889365",
+      "description": "<p >In this episode of Masters of Risk, host Stewart Webster sits down with Ali Hassan, investor, entrepreneur, and founder of Perceptive Capital, to dissect the accelerating institutional movement into digital assets. Ali reflects on the early misconceptions surrounding Bitcoin and crypto and shares how risk frameworks have evolved as the market matures, infrastructure hardens, and regulatory uncertainty fades.</p> <p >Their discussion spans the full risk universe: exchange fragility, leverage,"
+    },
     {
       "title": "System Shock: AI, Misinformation, and the New Age of Fragility",
       "date": "2026-01-28",
@@ -27,13 +34,6 @@
       "duration": 1391,
       "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/Masters_of_Risk_S3._Ep7_mixdown.mp3?dest-id=3889365",
       "description": "<p>In this episode of Masters of Risk, host Stewart Webster engages with Michael Brawer, the CEO of Transparency Analytics. With a wealth of experience in executive positions within the financial services industry, Michael has leveraged his insights to establish his own firm. Stewart explores the motivations behind Michael's entrepreneurial journey, the risks he has faced, and the challenges of raising funds to realize his vision. Don't miss this insightful conversation.</p> <p>More S&P Global C"
-    },
-    {
-      "title": "AI Data Centers: How Energy Keeps Them Running Part 2",
-      "date": "2025-10-20",
-      "duration": 2500,
-      "audio_url": "https://traffic.libsyn.com/secure/f29883b9-b39f-4569-ab08-fede30d9fe85/Masters_of_Risk_S3_E6_Wish_Bakhari_part_2_final_mixdown.mp3?dest-id=3889365",
-      "description": "<p>In this episode of \"Masters of Risk\" host Stewart Webster engages in the second part of a compelling conversation with Wish Bakshi, Founder & AI Systems Engineer of AQ Energy. In this two-part episode they have an in-depth conversation about AI data centers, digital infrastructure, the complex energy systems behind them in a world where the demand is high and the risks are increasing. Wish gives us two episodes to unpack all the intricacies from grid stress and financial risk to supply chain "
     }
   ],
   "status": "discovered",
@@ -41,8 +41,8 @@
   "notes": "",
   "contact_email": "patrick.moroney@spglobal.com",
   "contact_name": "S&P Global Market Intelligence",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "masters-of-risk",
   "relevance": "Low",
-  "score_reason": "Focuses on enterprise risk management and business continuity rather than marketing, AI strategy, or industry transformation relevant to Andreas."
+  "score_reason": "Focuses on risk management and financial markets with no clear connection to AI, marketing, or traditional industry transformation."
 }

@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "Data-Driven Decisions",
-  "host": "Zontee Hou",
+  "host": "Convince & Convert",
   "description": "Welcome to \"Data-Driven Decisions\", a marketing podcast hosted by Zontee Hou that looks at the lessons that leaders can take from data to inform the best marketing practices and internal culture. As author of Data-Driven Personalization, Zontee discusses some of the key insights from the book and sits down with marketing experts from a variety of industries.",
   "rss_url": "https://feeds.libsyn.com/528417/rss",
   "website": "https://sites.libsyn.com/528417",
@@ -38,11 +38,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "data-driven-decisions",
-  "relevance": "High",
-  "score_reason": "Data-driven marketing and personalization aligns directly with Andreas's expertise in the say-do gap, consumer insights, and using data over gut instinct.",
   "contact_email": "zontee@convinceandconvert.com",
   "contact_name": "Zontee Hou",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "data-driven-decisions",
+  "relevance": "High",
+  "score_reason": "Perfect match for Andreas's 'intelligence economy' thesis and expertise in helping leaders use data to inform marketing decisions and build data-driven cultures."
 }

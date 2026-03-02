@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "mission-soil-podcast-series",
-  "relevance": "Low",
-  "score_reason": "EU policy-focused soil health series lacks the business marketing angle Andreas brings to agriculture.",
   "contact_email": "COMM-DEPOT-CENTRAL@ec.europa.eu",
   "contact_name": "Directorate General for Agriculture and Rural Development",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "mission-soil-podcast-series",
+  "relevance": "Low",
+  "score_reason": "EU policy-focused podcast with only 4 episodes about soil science initiatives, not aligned with AI, marketing, or business topics."
 }

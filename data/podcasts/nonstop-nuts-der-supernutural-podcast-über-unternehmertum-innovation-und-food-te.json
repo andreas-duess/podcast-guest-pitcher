@@ -15,8 +15,15 @@
   ],
   "feed_id": "6961241",
   "last_episode_date": "",
-  "episode_count": 8,
+  "episode_count": 9,
   "recent_episodes": [
+    {
+      "title": "Nr. 9: Der Nutbooster erobert die Welt",
+      "date": "2026-02-25",
+      "duration": 701,
+      "audio_url": "https://audio.podigee-cdn.net/2373415-m-eeebc94a532f19fdce5ed0d7c475b4d1.mp3?source=feed",
+      "description": "Back on Track - Ein Jahr voller Highlights\n<p>Wir sind zur\u00fcck! Nach einer kleinen Podcast-Pause nehmen euch Timo & Amelie wieder mit hinter die Kulissen von supernutural - zwischen Werkbank, Weltb\u00fchne und 50-Kilometer-Marsch um den Ammersee.</p>\n<p>Hier geht\u2019s zu unserer Website:</p>\n<p>www.supernutural.com</p>\n<p>Einleitung und \u00dcberblick:</p>\n\n<p>R\u00fcckblick auf unsere Podcast-Pause und warum der Nutbooster aktuell international unterwegs ist.</p>\n<p>Von Texas bis Davos \u2013 unsere spannendsten Stat"
+    },
     {
       "title": "Nr. 8 - Kohle und Kloster",
       "date": "2024-09-18",
@@ -30,23 +37,15 @@
       "duration": 1271,
       "audio_url": "https://audio.podigee-cdn.net/1556226-m-602b4512f12a2e0302638be3f55dde06.mp3?source=feed",
       "description": "Launch Party des Jahres: Die exklusive Produktvorstellung des Nutboosters\n<p>Erlebt hautnah, wie wir das Event des Jahres auf die Beine gestellt haben, inklusive einer ausf\u00fchrlichen Produktvorstellung. Erfahrt, welche Herausforderungen wir gemeistert haben und welche Highlights unsere G\u00e4ste erwartet haben.</p>\n<p>Hier gehts zu unserer neuen Maschine, dem Nutbooster: https://www.nutbooster.com</p>\n<p>Themen dieser Episode:</p>\n<p>Einf\u00fchrung und Hintergrund:</p>\n\nR\u00fcckblick auf unsere gro\u00dfartige La"
-    },
-    {
-      "title": "Nr. 6 - Internationalisierung und Expansion von supernutural",
-      "date": "2024-07-31",
-      "duration": 640,
-      "audio_url": "https://audio.podigee-cdn.net/1549556-m-ebc4f89b4073871f22d2685d338f0f2d.mp3?source=feed",
-      "description": "Internationalisierung und Expansion: Von Deutschland in die Welt\n<p>Erfahre, wie wir den Schritt vom deutschen Markt auf die globale B\u00fchne geschafft haben, welche Herausforderungen wir dabei bew\u00e4ltigen mussten und welche L\u00e4nder wir inzwischen mit unseren Maschinen beliefern. Erlebe hautnah, wie unsere Abenteuer von Gran Canaria bis nach Neu Kaledonien reichen und welche Rolle Social Media dabei spielt.</p>\n<p>Hier gehts zu unserer neuen Maschine, dem Nutbooster: https://www.nutbooster.com</p>\n<p"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "nonstop-nuts-der-supernutural-podcast-\u00fcber-unternehmertum-innovation-und-food-te",
-  "relevance": "Medium",
-  "score_reason": "German-language food tech and entrepreneurship podcast aligns with Andreas's food industry expertise, but language barrier may be an issue.",
   "contact_email": "hey@supernutural.com",
   "contact_name": "Amelie Sperber & Timo Sperber",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "nonstop-nuts-der-supernutural-podcast-\u00fcber-unternehmertum-innovation-und-food-te",
+  "relevance": "Medium",
+  "score_reason": "German-language podcast about entrepreneurship and food tech that could fit Andreas's food marketing and entrepreneurship story, but language barrier may be an issue."
 }

@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "a-green-food-marketing-podcast",
-  "relevance": "Low",
-  "score_reason": "Italian-language podcast about sustainability doesn't match Andreas's English-speaking, AI-focused positioning.",
   "contact_email": "antonio.nenna94@gmail.com",
   "contact_name": "Antonio Nenna",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "a-green-food-marketing-podcast",
+  "relevance": "Low",
+  "score_reason": "Italian language podcast about sustainability; language barrier and unclear fit with Andreas's core expertise."
 }

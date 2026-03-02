@@ -12,8 +12,15 @@
   ],
   "feed_id": "6294727",
   "last_episode_date": "",
-  "episode_count": 3,
+  "episode_count": 4,
   "recent_episodes": [
+    {
+      "title": "Weekly Report 2/23",
+      "date": "2026-02-23",
+      "duration": 158,
+      "audio_url": "https://www.buzzsprout.com/2143460/episodes/18734092-weekly-report-2-23.mp3",
+      "description": ""
+    },
     {
       "title": "Weekly Report 2/9",
       "date": "2026-02-10",
@@ -27,20 +34,13 @@
       "duration": 159,
       "audio_url": "https://www.buzzsprout.com/2143460/episodes/18624300-weekly-report-2-1.mp3",
       "description": "<p>Weekly Illinois Department of Agriculture report</p>"
-    },
-    {
-      "title": "Weekly Report 1/26",
-      "date": "2026-01-28",
-      "duration": 163,
-      "audio_url": "https://www.buzzsprout.com/2143460/episodes/18584213-weekly-report-1-26.mp3",
-      "description": "<p>Weekly Agricultural Market Reports</p>"
     }
   ],
   "status": "skipped",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "illinois-agriculture-market-reports",
   "relevance": "Low",
-  "score_reason": "Weekly market price reports, not an interview-based podcast."
+  "score_reason": "Weekly commodity price reports, not an interview-based podcast with guests."
 }

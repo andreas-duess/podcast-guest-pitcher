@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "the-goal-digger-podcast-top-business-and-marketing-podcast-for-creatives-entrepr",
-  "relevance": "Low",
-  "score_reason": "Focused on solopreneurs and creatives rather than traditional industry decision-makers, and Andreas's B2B/corporate expertise doesn't align with the audience.",
   "contact_email": "podcast@jennakutcher.com",
   "contact_name": "Jenna Kutcher | Entrepreneurship, Business Strategy & Marketing",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "the-goal-digger-podcast-top-business-and-marketing-podcast-for-creatives-entrepr",
+  "relevance": "Low",
+  "score_reason": "While it covers marketing and business, the focus is on creatives and solopreneurs rather than traditional industries or B2B marketing at scale."
 }

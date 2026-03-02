@@ -1,38 +1,38 @@
 {
   "source": "podcast_index",
-  "name": "AI: post transformers",
+  "name": "AI Post Transformers",
   "host": "mcgrof",
-  "description": "The transformer architecture revolutionized the world of Neural Networks. It was a springboard for what we know today as modern artificial intelligence. This podcast focuses on modern state of the art research paper reviews starting from the transformer and on.",
-  "rss_url": "https://anchor.fm/s/1080af308/podcast/rss",
-  "website": "https://podcasters.spotify.com/pod/show/12146088098",
+  "description": "AI-generated podcast where hosts Hal Turing and Dr. Ada Shannon discuss the latest research papers and reports in machine learning, AI systems, and optimization. Featuring honest critical analysis, proper citations, and nerdy humor.",
+  "rss_url": "https://podcast.do-not-panic.com/feed.xml",
+  "website": "https://podcast.do-not-panic.com",
   "language": "en",
   "categories": [
     "Technology"
   ],
   "feed_id": "7489998",
   "last_episode_date": "",
-  "episode_count": 402,
+  "episode_count": 450,
   "recent_episodes": [
     {
-      "title": "Intelligent AI Delegation",
-      "date": "2026-02-17",
-      "duration": 1008,
-      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115642687/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418285902-44100-2-cb7e6caa83f68.m4a",
-      "description": "<p>We review the research paper from Google DeepMind published on February 12, 2026, which proposes an \"Intelligent AI Delegation\" framework designed to manage how autonomous agents distribute tasks among themselves and humans. This framework integrates accountability, trust calibration, and safety protocols to ensure that multi-agent networks remain reliable in high-stakes environments. Together, these sources highlight a transition toward a global digital economy that relies on programmable as"
+      "title": "Cognizant - New Work, New World 2026",
+      "date": "2026-03-01",
+      "duration": 923,
+      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/116223953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-1%2Fa3539630-57a0-0255-ebdc-e69b10ad5a23.mp3",
+      "description": "<p>In this dramatic new episode, the old AI hosts have been fired and replaced with new AI hosts, Hal Turing and Dr. Ada Shannon, with the announcement that the software used to generate the podcast will eventually be released as open source software. And in a timely fashion, the newly released report by Cognizant titled \"New Work New World 2026\" is covered. The hosts delve into the report's findings, which reveal that 93% of jobs are affected by AI sooner than expected, with exposure scores 30%"
     },
     {
-      "title": "Agentic Plan Caching: Fast and Cost-Efficient LLM Memory",
-      "date": "2026-02-17",
-      "duration": 736,
-      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115639745/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418281870-44100-2-fc97ab85eb6a7.m4a",
-      "description": "<p>Agentic Plan Caching (APC), described in the paper published by Stanford researchers on January 26, 2026, lets AI agents reuse structured plan templates from prior executions instead of re-invoking expensive LLMs for every new task. It achieved 76% cost reduction on benchmarks.</p><p><br /></p><p>Using different sources we create projections for growth using a simple growth model:</p><p><br /></p><p>Plans/year = ActiveAgents x PlansPerDay x 365, and Storage = Plans x BytesPerPlan</p><p><br />"
+      "title": "Episode: Regular Fourier Features for Nonstationary Gaussian Processes",
+      "date": "2026-03-01",
+      "duration": 0,
+      "audio_url": "https://podcast.do-not-panic.com/episodes/2026-03-01_2602.23006.mp3",
+      "description": "In this episode, hosts Hal Turing and Dr. Ada Shannon explore the paper \"Regular Fourier Features for Nonstationary Gaussian Processes\" by Arsalan Jawaid, Abdullah Karatas, and J\u00f6rg Seewig. The discussion focuses on the innovative use of regular Fourier features to model nonstationary data in Gaussian processes without relying on traditional probability assumptions. This method offers a computationally efficient way to handle nonstationarity, making it particularly relevant for fields like finan"
     },
     {
-      "title": "Jet-RL: Stable On-Policy Reinforcement Learning with Unified FP8 Flow",
-      "date": "2026-02-17",
-      "duration": 955,
-      "audio_url": "https://anchor.fm/s/1080af308/podcast/play/115635101/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-17%2F418275644-44100-2-2ade46f9dc271.m4a",
-      "description": "<p>NVIDIA researchers have introduced Jet-RL, a novel framework designed to accelerate the training of large language models through **FP8 reinforcement learning**. Standard methods often use lower precision only for the **rollout phase**, which creates a numerical mismatch that causes **training instability** and accuracy loss during complex tasks. **Jet-RL** solves this by enforcing a **unified precision flow**, ensuring that both the training and generation stages utilize consistent **FP8 qua"
+      "title": "Cognizant - New Work, New World 2026",
+      "date": "2026-03-01",
+      "duration": 0,
+      "audio_url": "https://podcast.do-not-panic.com/episodes/2026-03-01_urls_1.mp3",
+      "description": "In this dramatic new episode, the old AI hosts have been fired and replaced with new AI hosts, Hal Turing and Dr. Ada Shannon, with the announcement that the software used to generate the podcast will eventually be released as open source software. And in a timely fashion, the newly released report by Cognizant titled \"New Work New World 2026\" is covered. The hosts delve into the report's findings, which reveal that 93% of jobs are affected by AI sooner than expected, with exposure scores 30% hi"
     }
   ],
   "status": "discovered",
@@ -40,8 +40,8 @@
   "notes": "",
   "contact_email": "mcgrof@do-not-panic.com",
   "contact_name": "mcgrof",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "ai-post-transformers",
   "relevance": "Low",
-  "score_reason": "Deep technical research paper reviews about neural networks architecture, not business/strategy focused."
+  "score_reason": "AI-generated podcast focused on technical research papers, not practitioner business stories."
 }

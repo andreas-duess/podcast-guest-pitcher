@@ -41,11 +41,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "one-planet-podcast-climate-change-politics-sustainability-environmental-solution",
-  "relevance": "Low",
-  "score_reason": "Duplicate of earlier podcast focused on environmental activism rather than agricultural business or marketing.",
   "contact_email": "mia@creativeprocess.info",
   "contact_name": "Mia Funk",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "one-planet-podcast-climate-change-politics-sustainability-environmental-solution",
+  "relevance": "Low",
+  "score_reason": "Duplicate of earlier podcast focused on environmental activism rather than business applications."
 }

@@ -15,25 +15,25 @@
   "episode_count": 100,
   "recent_episodes": [
     {
+      "title": "CEO Series: AI and Supply Chains with Francisco Martin-Rayo",
+      "date": "2026-02-24",
+      "duration": 1418,
+      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.256.mp3?dest-id=2589314",
+      "description": "<p>The next in our series of discussions with CEO's of companies that are putting AI to work has Fransico Martin-Rayo of Helios discussing the agricultural supply chain with host Eric Hanselman. Helios is leveraging AI to generate insights in the complex dynamics of food production and sourcing at a dramatically finer level of granularity. AI not only enables more complex analysis but also allows customized delivery of the results. Shifting interfaces from legacy dashboards and static reports to"
+    },
+    {
+      "title": "CEO Series Kick Off: AI and Energy Markets with Sean Kelly",
+      "date": "2026-02-17",
+      "duration": 1477,
+      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.255.mp3?dest-id=2589314",
+      "description": "<p>We're kicking off a new series of discussions with CEO's of companies that are putting AI to work to tackle complex problems. Sean Kelly of Amperon joins host Eric Hanselman to dig into how they're using AI for energy grid forecasting. The combination of weather, changes in generation capacity with renewables, and now increased data center demand is making forecasting a critical requirement for grid stability, as well as energy trading. While this might have been a problem that could be tackl"
+    },
+    {
       "title": "AI Data",
       "date": "2026-02-10",
       "duration": 1329,
       "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.254.mp3?dest-id=2589314",
       "description": "<p>There are such significant changes going on in how data is managed and in how AI manages data, that it's not always clear which requirements are driving which trends. Jim Curtis returns to look data highlights from AWS re:Invent and to identify important changes that are taking place. FinOps and broader cloud cost management efforts are leading providers to offer tools and programs to corral spending. AWS has introduced database savings plans to provide discounts in much the same way they've "
-    },
-    {
-      "title": "The NRF Conference",
-      "date": "2026-02-03",
-      "duration": 1464,
-      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.253.mp3?dest-id=2589314",
-      "description": "<p>The National Retail Federation's annual NRF conference has become a showplace for the latest technology, as well its core retail foundations. Sheryl Kingstone returns to discuss what was on display and how it will impact retail and the larger tech landscape with host Eric Hanselman. While we may be a ways off from having robot dogs retrieving shoes at your local mall store, automation and agentic applications are delivering significant value in customer interactions - $22 billion in the recen"
-    },
-    {
-      "title": "Agentic AI Use Cases",
-      "date": "2026-01-28",
-      "duration": 1638,
-      "audio_url": "https://traffic.libsyn.com/secure/nextintech451/NIT_Ep.252.mp3?dest-id=2589314",
-      "description": "<p>The choice of use cases in AI has a significant impact on achieving on project outcomes. The latest results of the 451 Research Voice of the Enterprise AI use cases study are out and Alex Johnston joins host Eric Hanselman to explore the data and its implications. The study highlights a widespread, yet often unstructured and fragmented, adoption of AI within organizations, indicating a stall in overall maturity despite significant growth in usage. Key challenges include a clogged project pipe"
     }
   ],
   "status": "pursuing",
@@ -41,8 +41,8 @@
   "notes": "",
   "contact_email": "patrick.moroney@spglobal.com",
   "contact_name": "S&P Global Market Intelligence",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "next-in-tech",
   "relevance": "Medium",
-  "score_reason": "Covers AI and digital infrastructure with specialist interviews, relevant to Andreas's AI expertise but potentially too broad/enterprise-focused rather than marketing-specific."
+  "score_reason": "Covers AI and technology for industries but appears more focused on enterprise tech infrastructure than marketing applications."
 }

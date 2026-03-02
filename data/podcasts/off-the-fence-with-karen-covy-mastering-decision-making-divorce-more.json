@@ -17,8 +17,15 @@
   ],
   "feed_id": "6213834",
   "last_episode_date": "",
-  "episode_count": 171,
+  "episode_count": 172,
   "recent_episodes": [
+    {
+      "title": "The 5 Stages of Divorce Grief You Need to Understand",
+      "date": "2026-02-25",
+      "duration": 2438,
+      "audio_url": "https://www.buzzsprout.com/2144220/episodes/18614091-the-5-stages-of-divorce-grief-you-need-to-understand.mp3",
+      "description": "<p>Divorce can feel like an emotional freefall, especially because you don\u2019t know what to expect or when the pain will stop. That\u2019s precisely the problem that Oona Metz has set out to end in her book on divorce grief, entitled Unhitched: The Essential Divorce Guide for Women.</p><p>As a licensed clinical social worker with decades of experience, Oona shares how her own divorce led her to create structured, therapist-led divorce support groups for women who desperately needed reassurance, guidanc"
+    },
     {
       "title": "How to Have Productive Money Conversations With Your Spouse",
       "date": "2026-02-18",
@@ -32,20 +39,13 @@
       "duration": 2746,
       "audio_url": "https://www.buzzsprout.com/2144220/episodes/18214750-how-to-clear-old-trauma-and-create-extraordinary-love.mp3",
       "description": "<p>What if the real block between you and the extraordinary love you want isn\u2019t dating apps or \u201cbad luck,\u201d but the stories your nervous system is still carrying? In this podcast episode, relationship mentor Riana Malia shares how her own history of divorce, betrayal, a DEA raid, and multiple abusive relationships pushed her to develop a way of clearing decades of stored trauma without rehashing every detail in therapy.\u00a0</p><p>Riana explains how tapping into the unconscious mind, releasing old em"
-    },
-    {
-      "title": "How to Know if Your Divorce Attorney IS the Problem",
-      "date": "2026-02-04",
-      "duration": 2587,
-      "audio_url": "https://www.buzzsprout.com/2144220/episodes/18582316-how-to-know-if-your-divorce-attorney-is-the-problem.mp3",
-      "description": "<p><b>What if the biggest obstacle in your divorce isn't your spouse, but the system itself?</b> Jonathan Merel, a progressive Chicago family law and divorce attorney with over 20 years of experience, reveals the hidden dynamics that can turn even amicable divorces into drawn-out nightmares. From lawyers who overpromise to judges who won't decide, he explains why some divorces cost fortunes while others resolve efficiently.</p><p>In this podcast episode, we dive deeply into high-conflict divorce"
     }
   ],
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
+  "discovered_date": "2026-03-02",
   "slug": "off-the-fence-with-karen-covy-mastering-decision-making-divorce-more",
   "relevance": "Low",
-  "score_reason": "Focused on divorce and personal relationship decisions, completely outside Andreas's professional expertise in business, AI, and marketing."
+  "score_reason": "Podcast centers on divorce and personal relationships with no connection to business, marketing, or AI topics."
 }

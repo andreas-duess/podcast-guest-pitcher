@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "rebel-traders-podcast-stock-market-trading-strategies-insights-analysis-with-sea",
-  "relevance": "Low",
-  "score_reason": "Focused on stock trading tactics, not marketing, AI, or business strategy in traditional industries.",
   "contact_email": "podcast@tradecanyon.com",
   "contact_name": "Trade Canyon, Inc.",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "rebel-traders-podcast-stock-market-trading-strategies-insights-analysis-with-sea",
+  "relevance": "Low",
+  "score_reason": "Focuses on individual stock trading and technical analysis, not marketing, AI strategy, or traditional industry transformation."
 }

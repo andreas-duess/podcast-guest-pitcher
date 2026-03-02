@@ -12,8 +12,15 @@
   ],
   "feed_id": "6745074",
   "last_episode_date": "",
-  "episode_count": 80,
+  "episode_count": 81,
   "recent_episodes": [
+    {
+      "title": "1. Talking Cybersecurity with Tech Support Farm's Chris Sherman",
+      "date": "2026-02-20",
+      "duration": 1372,
+      "audio_url": "https://www.buzzsprout.com/2297340/episodes/18572147-1-talking-cybersecurity-with-tech-support-farm-s-chris-sherman.mp3",
+      "description": "<p>We sit down with Chris Sherman of Tech Support Farm to explore how cybercrime targets modern agriculture and what practical steps protect farms and agribusinesses from losses. From avoiding spoofed invoices to equipment lockouts, we share simple defenses any grower, consultant, or retailer can start today.</p><p>In this epsiode, we discuss with Chris</p><p>\u2022 why agriculture is a prime target for cybercrime<br/>\u2022 social engineering that targets busy planting and harvest seasons<br/>\u2022 real case"
+    },
     {
       "title": "0.5 Tiny Bytes - Value of NAIP Imagery In Ag Mapping",
       "date": "2026-01-14",
@@ -27,23 +34,15 @@
       "duration": 3326,
       "audio_url": "https://www.buzzsprout.com/2297340/episodes/18364299-20-using-autonomous-tractors-on-the-farm-with-matt-krueger.mp3",
       "description": "<p>We talk with Matt Krueger about his field-level view of autonomous tillage with a 9R series John Deere tractor, from kit installation to dust-driven safety stops, and how better boundaries and AutoPath boost both uptime and data quality. Matt's story centers on labor flexibility, real costs, and where autonomy should expand next.</p><p>In this special hour-long episode we talk:<br/>\u2022 autonomy kit details, JDLink Boost connectivity, dual receivers<br/>\u2022 autonomy-grade boundaries and safe offse"
-    },
-    {
-      "title": "19.5 Map The Acidity, Save The Harvest",
-      "date": "2025-12-10",
-      "duration": 676,
-      "audio_url": "https://www.buzzsprout.com/2297340/episodes/18293740-19-5-map-the-acidity-save-the-harvest.mp3",
-      "description": "<p>We dig into why low (acidic) soil pH unlocks aluminum toxicity, how that halts root growth, and which crops suffer first. Then we lay out a practical plan to find acidic patches with smarter sampling, NDVI, and grid-the-zone strategies, and point to lime and buffer pH for the fix.</p><p>In this episode, we discuss...<br/>\u2022 soil pH as chemical control and pH level of 7 is neutral<br/>\u2022 aluminum toxicity risk to crops increases below 6.5 pH\u00a0<br/>\u2022 wheat relatively tolerant, legumes struggle wit"
     }
   ],
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "ag-geek-speak",
-  "relevance": "Medium",
-  "score_reason": "Covers precision agriculture and ag technology but appears more technical/operational rather than strategic business and AI applications.",
   "contact_email": "sarah@gktechinc.com",
   "contact_name": "A Podcast for Precision Agriculture Geeks",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "ag-geek-speak",
+  "relevance": "Medium",
+  "score_reason": "Precision agriculture and technology podcast that could align with AI applications in agriculture, though more technical than strategic."
 }

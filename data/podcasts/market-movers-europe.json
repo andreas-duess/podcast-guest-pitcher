@@ -39,11 +39,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "market-movers-europe",
-  "relevance": "Low",
-  "score_reason": "Energy and commodities market news focused on trading and prices, not relevant to Andreas's expertise areas.",
   "contact_email": "patrick.moroney@spglobal.com",
   "contact_name": "S&P Global Commodity Insights",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "market-movers-europe",
+  "relevance": "Low",
+  "score_reason": "Covers energy and commodity market news for traders and investors, not marketing or business transformation topics."
 }

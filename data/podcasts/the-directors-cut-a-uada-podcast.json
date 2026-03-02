@@ -38,11 +38,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "the-directors-cut-a-uada-podcast",
-  "relevance": "Low",
-  "score_reason": "Internal updates podcast from University of Arkansas Division of Agriculture, not a guest interview format.",
   "contact_email": "krodtnick@uada.edu",
   "contact_name": "Division-of-Agriculture",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "the-directors-cut-a-uada-podcast",
+  "relevance": "Low",
+  "score_reason": "Internal updates from Arkansas Extension Director with only 11 episodes, not a guest interview format."
 }

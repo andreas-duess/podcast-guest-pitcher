@@ -40,11 +40,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "buzzworthy-marketing-podcast-b2b-marketing-for-professional-services-advisors-an",
-  "relevance": "Medium",
-  "score_reason": "Targets professional services and consultants with B2B marketing focus, relevant to Andreas's agency background but narrower audience than ideal.",
   "contact_email": "buzz@buzzworthy.biz",
   "contact_name": "Michael Buzinski",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "buzzworthy-marketing-podcast-b2b-marketing-for-professional-services-advisors-an",
+  "relevance": "Medium",
+  "score_reason": "Targets professional services with B2B marketing systems but focuses more on foundational marketing than AI strategy or agency scaling."
 }

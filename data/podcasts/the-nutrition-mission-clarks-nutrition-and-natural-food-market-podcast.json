@@ -40,11 +40,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "the-nutrition-mission-clarks-nutrition-and-natural-food-market-podcast",
-  "relevance": "Low",
-  "score_reason": "Consumer health and product-focused content doesn't match Andreas's B2B marketing and business strategy expertise.",
   "contact_email": "Chris@ThisIsFunner.com",
   "contact_name": "Jessica Q.",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "the-nutrition-mission-clarks-nutrition-and-natural-food-market-podcast",
+  "relevance": "Low",
+  "score_reason": "Consumer health/retail focus with no business strategy or marketing angle; wrong audience entirely."
 }

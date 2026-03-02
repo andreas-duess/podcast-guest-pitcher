@@ -38,11 +38,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "esportsnext-podcast",
-  "relevance": "Low",
-  "score_reason": "This podcast focuses exclusively on esports industry professionals and has no overlap with Andreas's expertise in food/agriculture marketing, AI strategy, or traditional industries.",
   "contact_email": "info@esportsta.org",
   "contact_name": "Esports Trade Association",
-  "contact_source": "website"
+  "discovered_date": "2026-03-02",
+  "slug": "esportsnext-podcast",
+  "relevance": "Low",
+  "score_reason": "Focused entirely on esports industry with no overlap to food, agriculture, or Andreas's expertise areas."
 }

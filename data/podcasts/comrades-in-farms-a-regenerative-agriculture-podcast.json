@@ -40,11 +40,10 @@
   "status": "discovered",
   "pursue": false,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "comrades-in-farms-a-regenerative-agriculture-podcast",
-  "relevance": "Low",
-  "score_reason": "Focuses on regenerative farming techniques and health/nutrition rather than agricultural business, marketing, or technology strategy.",
   "contact_email": "podcasts60+3d33d3ac@anchor.fm",
   "contact_name": "The Farmacy Seeds Network",
-  "contact_source": "rss"
+  "discovered_date": "2026-03-02",
+  "slug": "comrades-in-farms-a-regenerative-agriculture-podcast",
+  "relevance": "Low",
+  "score_reason": "Health and nutrition-focused regenerative agriculture content, not business or marketing strategy."
 }

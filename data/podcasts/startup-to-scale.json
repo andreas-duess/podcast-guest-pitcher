@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "Startup To Scale",
-  "host": "Jordan Buckner",
+  "host": "Foodbevy",
   "description": "Startup To Scale is your resource for growing your food, beverage, and CPG company from a young company to a successful business.",
   "rss_url": "https://rss.buzzsprout.com/1832151.rss",
   "website": "https://podcast.foodbevy.com",
@@ -12,37 +12,38 @@
   ],
   "feed_id": "4210815",
   "last_episode_date": "",
-  "episode_count": 251,
+  "episode_count": 253,
   "recent_episodes": [
+    {
+      "title": "254. Is Your CPG Brand Converting Gen Z?",
+      "date": "2026-02-25",
+      "duration": 1259,
+      "audio_url": "https://www.buzzsprout.com/1832151/episodes/18739085-254-is-your-cpg-brand-converting-gen-z.mp3",
+      "description": "<p>Gen Z is not shopping the way Millennials did and they are definitely not responding to the same packaging playbook.</p><p>In this episode, I sits down with <b>Sanders,</b> founder of <b>Nuex Creative,</b> to unpack how Gen Z discovers new food and beverage brands, what signals authenticity and what feels forced, and why traditional front of pack claims have stopped doing the heavy lifting.</p><p>They explore the visual languages Gen Z actually responds to, where bold design helps or hurts tr"
+    },
+    {
+      "title": "253. How to Grow a CPG Brand Using VAs and Global Talent with Morning Made",
+      "date": "2026-02-23",
+      "duration": 1229,
+      "audio_url": "https://www.buzzsprout.com/1832151/episodes/18738885-253-how-to-grow-a-cpg-brand-using-vas-and-global-talent-with-morning-made.mp3",
+      "description": "<p>Scaling a CPG brand doesn\u2019t always mean hiring fast or hiring locally. In this episode, I sits down with <b>Luke Anthony,</b> founder of <b>Morning Made,</b> to break down how he used global, VA-style talent to grow the brand without overextending cash or complexity.</p><p>Luke shares how international support helped him move faster across marketing, operations, and day-to-day execution, the lessons he learned managing remote talent as a founder, and the systems that made it all work. That ha"
+    },
     {
       "title": "252. Building an Operating System for Your CPG Business",
       "date": "2026-02-16",
       "duration": 1511,
       "audio_url": "https://www.buzzsprout.com/1832151/episodes/18699576-252-building-an-operating-system-for-your-cpg-business.mp3",
       "description": "<p>Growing a CPG brand gets messy fast. More SKUs, more people, more tools, more decisions. In this episode, I sit down with <b>Brian</b>, co-founder of <b>Peasy</b>, to talk about why most founders feel overwhelmed not because they\u2019re doing too much, but because they don\u2019t have a clear operating system for their business.</p><p>Brian shares lessons learned from growing Mustard & Co and how building simple, repeatable systems helped his team stay focused, move faster, and make better decisions a"
-    },
-    {
-      "title": "251. How Insurgent CPG Brands Stand Out in Crowded Categories",
-      "date": "2026-02-09",
-      "duration": 1410,
-      "audio_url": "https://www.buzzsprout.com/1832151/episodes/18656174-251-how-insurgent-cpg-brands-stand-out-in-crowded-categories.mp3",
-      "description": "<p>In this episode, I talk with <b>John Ferrante</b> from <b>EO Space</b> about how high-growth CPG brands find white space, build emotional differentiation, and use packaging as a true growth lever. We break down why functional claims are no longer enough, how standout brands earn attention and convert on shelf and on social, and what founders should focus on when positioning their product to win in competitive categories.</p><p>Perfect for CPG founders rethinking branding, packaging, and long-"
-    },
-    {
-      "title": "250. How Vacation Rental Sampling Helps CPG Brands Reach High-Intent Consumers",
-      "date": "2026-01-30",
-      "duration": 1256,
-      "audio_url": "https://www.buzzsprout.com/1832151/episodes/18597366-250-how-vacation-rental-sampling-helps-cpg-brands-reach-high-intent-consumers.mp3",
-      "description": "<p>I sit down with <b>Rachel Vigil</b>, Founder of <b>UpClose Marketing</b>, to break down one of the most overlooked sampling channels for emerging CPG brands: vacation rentals and short-term stays.</p><p>We talk about how placing products inside Airbnbs, mid-term rentals, and campgrounds allows brands to reach high-intent consumers in distraction-free environments without the high costs and chaos of festivals or in-store demos. Rachel shares which product categories perform best, how brands ca"
     }
   ],
   "known_target": true,
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "startup-to-scale",
   "contact_email": "intro@foodbevy.com",
   "contact_name": "Jordan Buckner",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "startup-to-scale",
+  "relevance": "High",
+  "score_reason": "Known target from guest profile"
 }

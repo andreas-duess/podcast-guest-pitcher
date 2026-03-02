@@ -1,7 +1,7 @@
 {
   "source": "podcast_index",
   "name": "Artificially Intelligent Marketing",
-  "host": "Paul Avery & Martin Broadhurst",
+  "host": "Paul Avery and Martin Broadhurst",
   "description": "Welcome to Artificially Intelligent Marketing, the weekly podcast that explores the intersection of artificial intelligence and marketing. Join your hosts, Paul Avery and Martin Broadhurst, as they dive deep into the latest stories, tools, and applications in AI for marketing and chat with thought leaders in the field to uncover insights about the future of AI in marketing.In each episode, Paul and Martin will bring you fascinating stories about how AI is transforming marketing, from chatbots an",
   "rss_url": "https://media.rss.com/artificiallyintelligentmarketing/feed.xml",
   "website": "https://artificiallyintelligentmarketing.com",
@@ -40,11 +40,10 @@
   "status": "pursuing",
   "pursue": true,
   "notes": "",
-  "discovered_date": "2026-02-18",
-  "slug": "artificially-intelligent-marketing",
-  "relevance": "High",
-  "score_reason": "Perfect fit covering AI applications in marketing with thought leader interviews, directly aligned with Andreas's expertise in AI-powered marketing and traditional industry transformation.",
   "contact_email": "hello@artificiallyintelligentmarketing.com",
   "contact_name": "Paul Avery & Martin Broadhurst",
-  "contact_source": "web_search"
+  "discovered_date": "2026-03-02",
+  "slug": "artificially-intelligent-marketing",
+  "relevance": "High",
+  "score_reason": "Perfect alignment with Andreas's expertise in AI and marketing, targets marketing professionals, and regularly interviews thought leaders."
 }
