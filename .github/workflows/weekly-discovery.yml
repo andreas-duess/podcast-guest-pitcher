@@ -5,6 +5,9 @@ on:
     - cron: '0 12 * * 1'  # Every Monday at 12pm UTC (7am ET)
   workflow_dispatch:  # Manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   discover:
     runs-on: ubuntu-latest
