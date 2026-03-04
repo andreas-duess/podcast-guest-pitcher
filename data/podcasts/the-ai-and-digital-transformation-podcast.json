@@ -43,5 +43,33 @@
   "discovered_date": "2026-03-02",
   "slug": "the-ai-and-digital-transformation-podcast",
   "relevance": "Medium",
-  "score_reason": "AI transformation focus aligns well, but technical MLOps topics suggest more tech-heavy audience than Andreas's traditional industry practitioner angle."
+  "score_reason": "AI transformation focus aligns well, but technical MLOps topics suggest more tech-heavy audience than Andreas's traditional industry practitioner angle.",
+  "enrichment": {
+    "key_themes": [
+      "Practical AI implementation in traditional/non-tech industries",
+      "Cost optimization and ROI through AI automation",
+      "Data-driven decision making replacing gut instinct",
+      "Risk mitigation and reliability in high-stakes AI projects"
+    ],
+    "notable_guests": [
+      "Marek Tatara",
+      "Alexander Berkovich",
+      "Duarte Carmo",
+      "Aleksander Molak",
+      "Frederico Com\u00e9rio",
+      "Casper Wilstrup",
+      "Tim Leers",
+      "Oz Brown",
+      "Hugues Foltz",
+      "Tom Pennington",
+      "Swati Sharma",
+      "Virginie Marelli",
+      "Ivan Tankoyeu",
+      "Adebayo Awofuye"
+    ],
+    "relevant_episode": "Stop wasting marketing money using AI with Aleksander Molak \u2014 directly addresses the say-do gap problem through uplift modeling and causal learning, showing how AI reveals what customers actually do vs. what they claim.",
+    "coverage_gap": "AI-driven business scaling and M&A strategy: while the podcast covers technical AI implementation across sectors, it hasn't explored how to use AI to grow and successfully exit a business, or how traditional industry leaders can leverage data to make acquisition-ready companies.",
+    "suggested_hook": "From selling Canada's largest food agency to teaching AI strategy: how traditional industries can use intelligence to outcompete, not just optimize."
+  },
+  "enriched": true
 }

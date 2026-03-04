@@ -45,5 +45,26 @@
   "discovered_date": "2026-03-02",
   "slug": "masters-in-marketing-agency",
   "relevance": "High",
-  "score_reason": "Features agency owners sharing their journey of building and scaling agencies, perfectly aligned with Andreas's agency exit story and marketing expertise."
+  "score_reason": "Features agency owners sharing their journey of building and scaling agencies, perfectly aligned with Andreas's agency exit story and marketing expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Agency scaling and business exits",
+      "AI and emerging technology adoption in marketing",
+      "Niche specialization and differentiation strategies",
+      "Sales systems and business development tactics",
+      "Balancing strategy with operational excellence"
+    ],
+    "notable_guests": [
+      "Michael Fleischner",
+      "Mark Belen",
+      "Mike Falkow",
+      "Pat Alacqua",
+      "Saul Marquez",
+      "Dr. Wilson Zehr"
+    ],
+    "relevant_episode": "AI in Marketing: Harness or Fall Behind \u2014 Directly addresses leveraging AI without losing the human touch and the balance between strategy and operations, which aligns with Andreas's practical approach to AI adoption in traditional industries.",
+    "coverage_gap": "How to build and scale agencies in traditional, non-digital industries (food, agriculture, commodities) \u2014 the podcast focuses heavily on digital marketing, SEO, and SaaS, but hasn't covered the unique challenges and opportunities of marketing in legacy industries like food and agriculture.",
+    "suggested_hook": "From Ogilvy to agricultural commodity boards: How a food marketing agency founder is teaching traditional industries to compete using AI\u2014without the hype."
+  },
+  "enriched": true
 }

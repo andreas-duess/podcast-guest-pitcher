@@ -43,5 +43,30 @@
   "discovered_date": "2026-03-02",
   "slug": "the-digital-agency-show-helping-agency-owners-transform-their-business-mindset-t",
   "relevance": "High",
-  "score_reason": "Perfect fit for Andreas's agency building and exit story, targeting digital agency owners who would value his 16-year journey from startup to Canada's largest independent food agency."
+  "score_reason": "Perfect fit for Andreas's agency building and exit story, targeting digital agency owners who would value his 16-year journey from startup to Canada's largest independent food agency.",
+  "enrichment": {
+    "key_themes": [
+      "Scaling agencies from solo/small teams to multi-million dollar businesses",
+      "Profitability, pricing strategy, and working less while earning more",
+      "Building systems, operations, and remote/distributed teams",
+      "AI and technology adoption for agency efficiency and client results"
+    ],
+    "notable_guests": [
+      "Brent Weaver",
+      "Jennifer Buzza",
+      "Michael Knorr",
+      "John Horn",
+      "Chris Lema",
+      "Rai Cornell",
+      "Fletcher Wimbush",
+      "James P. Friel",
+      "Marcel Petitpas",
+      "Zach Boyette",
+      "Pia Silva"
+    ],
+    "relevant_episode": "E362: Agency Growth Made Simple: Trust, Teamwork, and Execution with Tim Kelsey \u2014 Both discuss scaling operations and building high-performing teams across distributed regions, though Andreas brings the unique angle of traditional industry transformation and AI-driven decision-making.",
+    "coverage_gap": "How AI can help agencies *sell better* and *understand clients deeper* (the say-do gap) \u2014 most recent AI episodes focus on hiring/recruitment and operations, not client psychology and data-driven insight generation for agency pitch and strategy work.",
+    "suggested_hook": "The agency owners trying to scale are using the same outdated gut instincts their clients use \u2014 here's how one founder went from Ogilvy to building Canada's largest food agency by teaching clients (and agencies) to let AI show them what customers *actually* do, not what they say."
+  },
+  "enriched": true
 }

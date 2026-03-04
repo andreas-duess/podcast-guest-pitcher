@@ -43,5 +43,21 @@
   "discovered_date": "2026-03-02",
   "slug": "runpoint-ai-business-transformation-podcast",
   "relevance": "High",
-  "score_reason": "Strips AI hype for concrete business results with PE/growth focus\u2014ideal match for Andreas's practical approach to AI in traditional industries."
+  "score_reason": "Strips AI hype for concrete business results with PE/growth focus\u2014ideal match for Andreas's practical approach to AI in traditional industries.",
+  "enrichment": {
+    "key_themes": [
+      "Practical AI implementation for non-tech businesses and operators",
+      "ROI measurement and avoiding the 95% AI project failure trap",
+      "AI tools, workflows, and automation that actually ship results",
+      "The intelligence economy and competitive advantage through data"
+    ],
+    "notable_guests": [
+      "Ari Salafia (TaxTaker)",
+      "Shane Stearns"
+    ],
+    "relevant_episode": "Episode 7 | AI Fluency for Private Equity: From Zapier's Framework to Real-World Tools \u2014 Perfect match because Andreas bridges the PE operator mindset (Matthew's world) with traditional industry transformation, showing how to build AI fluency across functions beyond tech.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, commodity boards) are actually adopting AI and winning\u2014the 'say-do gap' between what enterprises claim they're doing with AI and what's actually moving the needle on their P&L.",
+    "suggested_hook": "Most AI guests are technologists. Andreas built and sold Canada's largest food marketing agency by making agricultural commodity boards trust data over gut instinct\u2014here's how non-tech operators actually win with AI."
+  },
+  "enriched": true
 }

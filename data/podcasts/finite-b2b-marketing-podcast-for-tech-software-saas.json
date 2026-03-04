@@ -44,5 +44,25 @@
   "discovered_date": "2026-03-02",
   "slug": "finite-b2b-marketing-podcast-for-tech-software-saas",
   "relevance": "High",
-  "score_reason": "Leading B2B marketing podcast interviewing innovative marketers about AI, personalization, and growth\u2014strong match for Andreas's marketing and AI expertise."
+  "score_reason": "Leading B2B marketing podcast interviewing innovative marketers about AI, personalization, and growth\u2014strong match for Andreas's marketing and AI expertise.",
+  "enrichment": {
+    "key_themes": [
+      "AI integration and strategy in B2B marketing",
+      "Organizational alignment and team restructuring",
+      "Data-driven decision making and attribution",
+      "Humanization and authenticity in an AI-saturated market",
+      "Practical growth strategies from experienced practitioners"
+    ],
+    "notable_guests": [
+      "Dario Debarbieri",
+      "Michelle Boockoff-Bajdek",
+      "Guy Marion",
+      "Rebecca Stone",
+      "Steffen Hedebrandt"
+    ],
+    "relevant_episode": "#180 - Exploring Synthetic Data with Kate O'Keeffe, CEO and Co-Founder at Heatseeker \u2014 Andreas's Ditto platform directly applies synthetic data to solve the exact problem this episode explores: using AI to predict customer behavior without waiting weeks for traditional research.",
+    "coverage_gap": "How to convince traditional, risk-averse industries (boards, commodity organizations, non-tech verticals) to adopt AI and data-driven decision-making\u2014the practical friction between legacy thinking and AI adoption in non-SaaS sectors.",
+    "suggested_hook": "The only AI speaker who's actually convinced a commodity board that data beats gut instinct\u2014and scaled a company on it."
+  },
+  "enriched": true
 }

@@ -44,5 +44,19 @@
   "discovered_date": "2026-03-02",
   "slug": "ma-talk-1-podcast-on-selling-a-business",
   "relevance": "High",
-  "score_reason": "Focused on business exits and M&A for small to mid-sized companies, perfectly aligned with Andreas's agency sale experience."
+  "score_reason": "Focused on business exits and M&A for small to mid-sized companies, perfectly aligned with Andreas's agency sale experience.",
+  "enrichment": {
+    "key_themes": [
+      "Building sellable, scalable businesses that attract premium buyers",
+      "Financial preparation and due diligence (clean books, EBITDA, quality of earnings)",
+      "Owner transition: removing yourself from daily operations to increase business value",
+      "Buyer psychology and negotiation tactics",
+      "Exit strategy and valuation maximization"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "Build a Business That Sells Without You \u2014 Andreas built Nourish into Canada's largest independent food agency over 16 years before a successful exit, embodying the exact transition from owner-operator to scalable asset that this episode champions.",
+    "coverage_gap": "How traditional/commodity industries specifically can modernize operations and competitive positioning to attract buyers and command premium multiples\u2014the show focuses on financial/operational generics but hasn't deep-dived into industry-specific transformation (food, agriculture, manufacturing).",
+    "suggested_hook": "The founder who sold Canada's largest food marketing agency shares how traditional industries stop competing on gut instinct and start competing on data\u2014and why buyers pay more for it."
+  },
+  "enriched": true
 }

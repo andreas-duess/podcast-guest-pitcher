@@ -43,5 +43,31 @@
   "discovered_date": "2026-02-18",
   "slug": "lets-talk-transformation-the-business-leaders-podcast",
   "relevance": "High",
-  "score_reason": "Broad business transformation focus with topics on digital, culture, innovation, and leadership aligns perfectly with Andreas's AI adoption and traditional industry transformation expertise."
+  "score_reason": "Broad business transformation focus with topics on digital, culture, innovation, and leadership aligns perfectly with Andreas's AI adoption and traditional industry transformation expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Human-centered leadership and organizational change",
+      "AI adoption, literacy, and human-AI collaboration",
+      "Breaking down silos and building collective intelligence",
+      "Bridging the gap between strategy and execution",
+      "Unlearning old patterns and building adaptive organizations"
+    ],
+    "notable_guests": [
+      "Carlee Wolfe",
+      "Wes Towers",
+      "Jodi Vandenberg-Daves",
+      "Simon Copsey",
+      "Melissa Robinson-Winemiller",
+      "Tim Beattie",
+      "Rod Collins",
+      "Nikki Barua",
+      "Kate Bravery",
+      "Rasmus Hougaard",
+      "Lindsay Phillips"
+    ],
+    "relevant_episode": "#151 Agentic-Human Reinvention with Nikki Barua \u2014 Andreas's practical approach to AI adoption in traditional industries directly addresses how organizations can move past chaotic AI implementation to focused learning cycles.",
+    "coverage_gap": "How traditional industries (agriculture, food, manufacturing, commodities) actually compete using AI and data without the hype \u2014 the podcast has covered AI literacy for leaders but hasn't featured a guest who's built and scaled a business in genuinely traditional, commodity-driven sectors.",
+    "suggested_hook": "From Ogilvy to agriculture: How a marketing exec convinced the most traditional industries on earth that data beats gut instinct\u2014and why your industry is next."
+  },
+  "enriched": true
 }

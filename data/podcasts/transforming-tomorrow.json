@@ -46,5 +46,26 @@
   "discovered_date": "2026-03-02",
   "slug": "transforming-tomorrow",
   "relevance": "Medium",
-  "score_reason": "Sustainability-focused business podcast from Lancaster University that covers food systems and business transformation, though sustainability isn't Andreas's primary angle."
+  "score_reason": "Sustainability-focused business podcast from Lancaster University that covers food systems and business transformation, though sustainability isn't Andreas's primary angle.",
+  "enrichment": {
+    "key_themes": [
+      "Translating sustainability into business strategy and competitive advantage",
+      "How traditional/established industries adopt new approaches (tech, policy, practices)",
+      "Data, measurement, and evidence-based decision-making",
+      "Leadership accountability and organizational change",
+      "Systemic thinking across environmental, social, and economic dimensions"
+    ],
+    "notable_guests": [
+      "Barbara Salopek",
+      "Sanjay Rishi",
+      "Alfredo De Massis",
+      "Nik Nazmi bin Nik Ahmad",
+      "Christina Hicks",
+      "Nick Barter"
+    ],
+    "relevant_episode": "AI, Data Centres, and The Great Energy Problem \u2014 Andreas bridges the invisible costs of AI adoption with the practical challenge of how traditional industries actually implement new technology responsibly, moving beyond hype to measurable impact.",
+    "coverage_gap": "How commoditized, low-margin traditional industries (agriculture, food production, manufacturing) can use data and AI to compete and improve sustainability outcomes without requiring massive capital expenditure or technological overhaul.",
+    "suggested_hook": "The food and agriculture industries are among the world's largest, most traditional, and most resource-intensive\u2014yet almost no one is talking about how they actually *use* AI to compete. Andreas built and sold Canada's largest food marketing agency; now he's showing commodity boards how data beats gut instinct."
+  },
+  "enriched": true
 }

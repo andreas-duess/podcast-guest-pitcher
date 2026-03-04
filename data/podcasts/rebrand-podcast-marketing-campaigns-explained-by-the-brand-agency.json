@@ -43,5 +43,30 @@
   "discovered_date": "2026-03-02",
   "slug": "rebrand-podcast-marketing-campaigns-explained-by-the-brand-agency",
   "relevance": "Medium",
-  "score_reason": "Agency-building story and brand campaign expertise could fit, but lacks focus on AI, food, or traditional industries that make Andreas unique."
+  "score_reason": "Agency-building story and brand campaign expertise could fit, but lacks focus on AI, food, or traditional industries that make Andreas unique.",
+  "enrichment": {
+    "key_themes": [
+      "Brand strategy and creative innovation",
+      "Making complex concepts accessible to audiences",
+      "Marketing technology and data-driven decision-making",
+      "Agency leadership and scaling businesses",
+      "Challenging conventional marketing wisdom"
+    ],
+    "notable_guests": [
+      "Chris Schmicker",
+      "April Augustine",
+      "Dan Levi",
+      "Nigel Thomas",
+      "Jon Davids",
+      "Kristin Jaskolka",
+      "Amy Colbourn",
+      "Taylor Roy",
+      "Ondar Tarlow",
+      "Skip Wilson"
+    ],
+    "relevant_episode": "Why Legacy Brands Are Falling Behind \u2014 Andreas's expertise in helping traditional industries (food, agriculture, manufacturing) adopt AI mirrors the podcast's interest in legacy brands' competitive challenges in modern marketing.",
+    "coverage_gap": "How traditional/commodity industries can leverage data and AI to compete without abandoning their core values \u2014 the podcast covers tech-forward brands and agencies but hasn't featured someone who's actually convinced conservative boards to embrace data-driven decision-making.",
+    "suggested_hook": "From Ogilvy to agricultural boards: How one marketer convinced the most traditional industries on earth that AI isn't the enemy\u2014it's their competitive advantage."
+  },
+  "enriched": true
 }

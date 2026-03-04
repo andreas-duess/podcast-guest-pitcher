@@ -47,5 +47,34 @@
   "discovered_date": "2026-03-02",
   "slug": "the-ai-chicks",
   "relevance": "High",
-  "score_reason": "Known target from guest profile"
+  "score_reason": "Known target from guest profile",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption in traditional/non-tech industries",
+      "Real-world AI applications and practical use cases",
+      "Demystifying AI hype vs. reality for everyday people",
+      "AI's impact on jobs, careers, and workforce transformation",
+      "Data-driven decision making and consumer behavior insights"
+    ],
+    "notable_guests": [
+      "T. Renee Smith",
+      "Daniel Eborall",
+      "Dr. Ally Hicks",
+      "Daniel Yoo",
+      "Justin Vencel",
+      "Kimberley Nixon",
+      "Ben Tasker",
+      "Esosa Osa",
+      "Andy Hilliard",
+      "Mike Todasco",
+      "Caitlin Sarian",
+      "Mohan Rao",
+      "Luke Arrigoni",
+      "Dr. Joan Palmiter Bajorek"
+    ],
+    "relevant_episode": "EP 207: AI is Shaking Up the Food Industry with Andreas Duess \u2014 Andreas was already a guest on this exact episode, making it the perfect reference point for hosts familiar with his expertise on bridging the say-do gap and using AI to solve the 82% failure rate in food products.",
+    "coverage_gap": "Building and scaling a business in a traditional industry through AI-driven data insights, plus the founder's journey from agency to exit\u2014The AI Chicks have covered AI adoption broadly but haven't deeply explored the entrepreneur/founder angle of building, scaling, and successfully exiting a business that weaponized AI to compete against bigger players.",
+    "suggested_hook": "He built Canada's largest independent food agency by getting commodity boards to trust data over gut instinct\u2014here's how traditional industries actually win with AI (and why your favorite brand's new product probably failed without it)."
+  },
+  "enriched": true
 }

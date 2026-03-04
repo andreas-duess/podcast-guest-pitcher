@@ -43,5 +43,38 @@
   "discovered_date": "2026-03-02",
   "slug": "the-business-of-agriculture-podcast",
   "relevance": "High",
-  "score_reason": "Business-focused agriculture podcast with 438 episodes covering industry trends, exactly aligned with Andreas's agricultural marketing and AI expertise."
+  "score_reason": "Business-focused agriculture podcast with 438 episodes covering industry trends, exactly aligned with Andreas's agricultural marketing and AI expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Profitability and economic pressure in agriculture",
+      "Market consolidation and structural inefficiencies in food/ag systems",
+      "Direct-to-consumer and alternative business models in farming",
+      "Policy, trade, and geopolitical impacts on farm economics",
+      "Innovation and technology adoption in traditional ag"
+    ],
+    "notable_guests": [
+      "Zack Smith",
+      "Marc Severson",
+      "Shelby Bass",
+      "Curt Covington",
+      "Elliott Henderson",
+      "Lance Petersen",
+      "Steve Strasheim",
+      "Brittney Miller",
+      "Dylan McDonnell",
+      "Joe Maxwell",
+      "Hyrum Egbert",
+      "Kellie Blair",
+      "Adam York",
+      "Joe Vaclavik",
+      "Brian Frankel",
+      "Norm Davy",
+      "Andy Junkin",
+      "Steve Nicholson"
+    ],
+    "relevant_episode": "423 - Marketing Farm Products Direct-To-Consumer: Strategy, Value & Growth \u2014 Andreas's experience scaling a marketing agency and teaching data-driven decision-making directly addresses the gap between farmer production excellence and consumer-facing brand strategy.",
+    "coverage_gap": "How AI and data analytics can help traditional agricultural businesses (commodity boards, farming operations, input suppliers) make better decisions faster\u2014beyond the hype and into real competitive advantage.",
+    "suggested_hook": "From Ogilvy to agriculture: How one marketer taught commodity boards to stop trusting gut instinct and start using AI to compete\u2014without the Silicon Valley nonsense."
+  },
+  "enriched": true
 }

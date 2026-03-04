@@ -45,5 +45,32 @@
   "discovered_date": "2026-03-02",
   "slug": "jerrel-arkes-podcast-b2b-marketing",
   "relevance": "Medium",
-  "score_reason": "Dutch-language podcast on B2B marketing and AI that interviews experts, but language barrier limits fit unless Andreas speaks Dutch."
+  "score_reason": "Dutch-language podcast on B2B marketing and AI that interviews experts, but language barrier limits fit unless Andreas speaks Dutch.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and practical implementation for non-tech professionals",
+      "B2B marketing strategy, messaging, and customer insights",
+      "Demystifying AI hype with nuanced, real-world perspectives",
+      "Tools, automation, and the martech stack evolution",
+      "Human-centered approaches to technology (ethics, culture, collaboration)"
+    ],
+    "notable_guests": [
+      "Joop Snijder",
+      "Calvin Bleekman",
+      "Jan Willem Bobbink",
+      "David Brinks",
+      "Daan Schmidt",
+      "Carla Geenen",
+      "Nicol Tadema",
+      "Kim Pot",
+      "Mark Westra",
+      "Bart Ensink",
+      "Frans Riemersma",
+      "Roy Huiskes"
+    ],
+    "relevant_episode": "#173 NIMA AI 4-daagse - AI Geletterdheid met Charlotte Meindersma \u2014 Andreas bridges the gap between legal/ethical AI frameworks and practical business application in traditional industries, similar to how Charlotte connects AI regulation to organizational practice.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, manufacturing, commodities) are actually winning with AI\u2014the guest episodes focus heavily on tech-native B2B companies, marketing ops, and martech, but rarely address how legacy sectors compete using data and intelligence.",
+    "suggested_hook": "The food industry board executive who taught himself AI strategy: how Andreas went from convincing commodity traders that data beats gut instinct to building a $50M+ agency\u2014and why your traditional industry's competitive advantage is data, not technology."
+  },
+  "enriched": true
 }

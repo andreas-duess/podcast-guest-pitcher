@@ -43,5 +43,18 @@
   "discovered_date": "2026-03-02",
   "slug": "food-tech-leadership-podcast",
   "relevance": "High",
-  "score_reason": "Combines strategic leadership, technology, and food industry focus, perfectly matching Andreas's profile bridging traditional food industry with AI and technology."
+  "score_reason": "Combines strategic leadership, technology, and food industry focus, perfectly matching Andreas's profile bridging traditional food industry with AI and technology.",
+  "enrichment": {
+    "key_themes": [
+      "AI as business transformation (not just technology)",
+      "Practical applications of AI for competitive advantage",
+      "Leadership mindset shifts required for the AI era",
+      "Disruption happening now, not in the future"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "A sua empresa est\u00e1 tratando a Intelig\u00eancia Artificial apenas como uma atualiza\u00e7\u00e3o de TI? \u2014 This episode directly aligns with Andreas's core message that AI requires 80% business transformation and 20% technology, and his expertise in helping traditional industries actually implement this shift.",
+    "coverage_gap": "How traditional, non-tech industries (agriculture, food, manufacturing, commodities) are successfully using AI to compete\u2014with real case studies and practical playbooks, not just theory or tech-centric examples.",
+    "suggested_hook": "The guy who built Canada's largest food agency and sold it now teaches CEOs how to use AI to actually outcompete, not just optimize\u2014here's what commodity boards taught him about business transformation that Ricardo's audience needs to know."
+  },
+  "enriched": true
 }

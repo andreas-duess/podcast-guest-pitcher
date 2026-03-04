@@ -45,5 +45,22 @@
   "discovered_date": "2026-03-02",
   "slug": "artificially-intelligent-marketing",
   "relevance": "High",
-  "score_reason": "Perfect alignment with Andreas's expertise in AI and marketing, targets marketing professionals, and regularly interviews thought leaders."
+  "score_reason": "Perfect alignment with Andreas's expertise in AI and marketing, targets marketing professionals, and regularly interviews thought leaders.",
+  "enrichment": {
+    "key_themes": [
+      "AI model releases and competitive landscape (OpenAI vs Google vs Anthropic)",
+      "Practical AI applications for marketing and business",
+      "AI's impact on jobs, workflows, and organizational change",
+      "Emerging AI tools and their real-world limitations"
+    ],
+    "notable_guests": [
+      "Harrison Wade (Succession)",
+      "Ankur Pandey (Longshot.ai)",
+      "Eric Xiao (Laxis)"
+    ],
+    "relevant_episode": "AI Agents, $100 Billion Quarters, and Five Futures for Marketing \u2014 This episode maps scenario planning for marketing's future and discusses how organizations should prepare for AI adoption, which directly aligns with Andreas's work helping traditional industries understand and implement AI strategy.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, manufacturing, commodity boards) are actually using AI in practice\u2014the show focuses heavily on tech-driven AI news and marketing tools, but lacks perspective on how legacy industries adopt and compete with AI.",
+    "suggested_hook": "The guy who built Canada's largest food agency and sold it now teaches MBA students why they're wrong about AI\u2014and shows traditional industries how to actually compete with it."
+  },
+  "enriched": true
 }

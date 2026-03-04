@@ -45,5 +45,39 @@
   "discovered_date": "2026-03-02",
   "slug": "super-powered-leadership-strategy-decision-making-peak-performance-stories-strat",
   "relevance": "Medium",
-  "score_reason": "Executive-focused podcast about high-stakes decision-making could work for Andreas's agency exit story and strategic insights, though it's broader than his specific expertise areas."
+  "score_reason": "Executive-focused podcast about high-stakes decision-making could work for Andreas's agency exit story and strategic insights, though it's broader than his specific expertise areas.",
+  "enrichment": {
+    "key_themes": [
+      "Decision-making frameworks under uncertainty and complexity",
+      "Authentic communication and connecting with audiences",
+      "Systems thinking and spotting patterns others miss",
+      "Practical application of expertise (bridging knowledge-to-skills gap)",
+      "Unconventional career paths and outsider perspectives"
+    ],
+    "notable_guests": [
+      "Donna Dupont",
+      "Tom Davies",
+      "Ian Rowland",
+      "Alex Brueckmann",
+      "Andy Storch",
+      "Matt Gjertsen",
+      "Mafalda Johannsen",
+      "Salima Saxton",
+      "Josh Wheeler",
+      "Georgie Peake",
+      "Robert Heath Sr.",
+      "Lindsey Frances",
+      "Sean Stewart",
+      "Yoela Palkin",
+      "Dan Manning",
+      "Alex M H Smith",
+      "Irit Levi",
+      "Luca Buchholz",
+      "Boris Hristov"
+    ],
+    "relevant_episode": "How to Navigate Uncertainty with Systems Thinking \u2014 Donna Dupont \u2014 Both focus on helping leaders spot patterns and leverage points in complex situations to make better decisions, directly paralleling Andreas's work on using AI and data to cut through traditional industry complexity.",
+    "coverage_gap": "How traditional/legacy industries actually adopt and operationalize new technology without being disrupted\u2014the practical, psychology-of-change angle that bridges innovation hype with boardroom reality.",
+    "suggested_hook": "From Ogilvy to agricultural commodity boards: How this marketing veteran taught the most traditional industries on earth to stop being afraid of AI and start using it to outcompete."
+  },
+  "enriched": true
 }

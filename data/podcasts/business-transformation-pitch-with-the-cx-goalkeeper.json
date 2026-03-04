@@ -44,5 +44,40 @@
   "discovered_date": "2026-02-18",
   "slug": "business-transformation-pitch-with-the-cx-goalkeeper",
   "relevance": "High",
-  "score_reason": "Focus on digital transformation, AI, and measurable business results for practitioners matches Andreas's intelligence economy and AI implementation expertise exactly."
+  "score_reason": "Focus on digital transformation, AI, and measurable business results for practitioners matches Andreas's intelligence economy and AI implementation expertise exactly.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and implementation in business transformation",
+      "Leadership and cultural change at the intersection of technology and human experience",
+      "Customer experience (CX) strategy and measurable business results",
+      "Bridging the gap between strategy and execution in digital transformation",
+      "Building trust and psychological safety in organizations undergoing change"
+    ],
+    "notable_guests": [
+      "Katie Stabler",
+      "Nick James",
+      "Andreas Giesa",
+      "Rick DeLisi",
+      "Marilyn Suttle",
+      "Marbue Brown",
+      "Greg Kihlstr\u00f6m",
+      "Sebastian Graf",
+      "Fabian Ringwald",
+      "Stephan Siegrist",
+      "David Brier",
+      "Markus Brunold",
+      "Alex Wunschel",
+      "Leonard Sommer",
+      "Rajat Chawla",
+      "Hussein M. Dajani",
+      "Nick Glimsdahl",
+      "Patty Soltis",
+      "Ben Phillips",
+      "Aaron Ahuvia"
+    ],
+    "relevant_episode": "AI in the Contact Center: What's Real, What's Hype, What's Next? with Rick DeLisi \u2014 Both explore how to cut through AI hype and focus on practical implementation that drives measurable customer and business results in traditionally skeptical industries.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, manufacturing, commodities) can practically implement AI without starting from scratch\u2014and how to convince skeptical boards that data-driven decisions beat gut instinct.",
+    "suggested_hook": "Most AI speakers are technologists. Andreas built and sold Canada's largest independent food agency by getting commodity boards to use AI instead of intuition\u2014here's how traditional industries actually compete with it."
+  },
+  "enriched": true
 }

@@ -46,5 +46,29 @@
   "discovered_date": "2026-03-02",
   "slug": "pipe-dream-a-b2b-marketing-podcast",
   "relevance": "Medium",
-  "score_reason": "Focuses on audience-driven marketing and content channels for B2B, but less emphasis on AI strategy or traditional industry transformation."
+  "score_reason": "Focuses on audience-driven marketing and content channels for B2B, but less emphasis on AI strategy or traditional industry transformation.",
+  "enrichment": {
+    "key_themes": [
+      "Owned media as pipeline driver (podcasts, newsletters, content channels that convert)",
+      "Moving away from traditional demand gen and rented channels toward audience-first strategy",
+      "Proving marketing ROI and connecting content to revenue, not just vanity metrics",
+      "B2B positioning, differentiation, and thought leadership through consistent point of view",
+      "Building systems and frameworks that scale content creation without burning out teams"
+    ],
+    "notable_guests": [
+      "Joel Harrison",
+      "Mark Masters",
+      "Richard Dedor",
+      "Ross Breckenridge",
+      "Adam Holmgren",
+      "George Terry",
+      "Dev Basu",
+      "David Rowlands",
+      "Sean Blanda"
+    ],
+    "relevant_episode": "Why Your Podcast Has Downloads But No Pipeline \u2014 Andreas built a business in one of the most traditional industries on earth and can speak to why most owned media fails commercially and how to fix it, moving from downloads to actual revenue",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, manufacturing) are using AI and data to reshape their competitive positioning and audience strategy \u2014 the podcast has covered B2B tech, SaaS, and services, but not commodity/traditional industries awakening to owned media",
+    "suggested_hook": "The guy who sold Canada's largest food agency now teaches AI strategy at Ivey \u2014 here's why traditional industries are about to out-compete tech companies at the one thing tech got right: turning data into decisions"
+  },
+  "enriched": true
 }

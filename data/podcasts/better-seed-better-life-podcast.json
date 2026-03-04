@@ -44,5 +44,24 @@
   "discovered_date": "2026-03-02",
   "slug": "better-seed-better-life-podcast",
   "relevance": "High",
-  "score_reason": "Agricultural industry podcast from a trade association that would align perfectly with his 6 Seeds work and AI in agriculture expertise."
+  "score_reason": "Agricultural industry podcast from a trade association that would align perfectly with his 6 Seeds work and AI in agriculture expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Plant breeding and crop innovation",
+      "Agricultural technology and gene editing",
+      "Food system advancement and nutrition",
+      "Industry events and community engagement"
+    ],
+    "notable_guests": [
+      "Amit Dhingra",
+      "Natalie Kaiser",
+      "Wayne Parrott",
+      "Chelsey Lenczyk",
+      "Erica Strittmatter"
+    ],
+    "relevant_episode": "Episode 21 \u2013 Dr. Wayne Parrott Talks Gene Editing \u2014 Andreas's expertise in helping traditional agricultural organizations adopt new technology directly parallels the conversation about overcoming roadblocks to innovation in the seed industry.",
+    "coverage_gap": "How seed companies and agricultural businesses can use data, AI, and market intelligence to make breeding and commercialization decisions\u2014and why gut instinct is costing the industry money.",
+    "suggested_hook": "The seed industry has mastered breeding better plants. Andreas helped commodity boards master using data to sell them. He's built the bridge between agricultural innovation and the intelligence economy."
+  },
+  "enriched": true
 }

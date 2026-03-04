@@ -46,5 +46,22 @@
   "discovered_date": "2026-03-02",
   "slug": "what-the-farm-podcast-real-life-conversations-about-agriculture-and-how-it-affec",
   "relevance": "Medium",
-  "score_reason": "Agriculture and food marketing focus with 100 episodes shows established platform, though consumer education angle may not fit B2B expertise."
+  "score_reason": "Agriculture and food marketing focus with 100 episodes shows established platform, though consumer education angle may not fit B2B expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Agricultural industry perception and public communication",
+      "Marketing strategies for commodity/agricultural products",
+      "Farm-to-consumer storytelling and education",
+      "Industry advocacy and defending agricultural practices"
+    ],
+    "notable_guests": [
+      "Amie Peck",
+      "Matt Holland",
+      "Markie Hageman"
+    ],
+    "relevant_episode": "Episode 213 Matt Holland marketer \u2014 Both Andreas and Matt work in agricultural marketing, making this the closest existing episode to Andreas's wheelhouse of combining marketing expertise with agricultural industry challenges.",
+    "coverage_gap": "How AI and data analytics can help farmers and agricultural brands understand what consumers actually buy (versus what they say they care about) \u2014 the podcast focuses heavily on consumer perception and marketing strategy but hasn't explored how technology can bridge the say-do gap in food purchasing decisions.",
+    "suggested_hook": "From Ogilvy to commodity boards: How Andreas used AI to prove what farmers actually need to know about consumer behavior \u2014 and why gut instinct is costing the industry millions."
+  },
+  "enriched": true
 }

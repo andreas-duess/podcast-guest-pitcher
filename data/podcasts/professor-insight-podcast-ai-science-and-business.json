@@ -43,5 +43,18 @@
   "discovered_date": "2026-03-02",
   "slug": "professor-insight-podcast-ai-science-and-business",
   "relevance": "Medium",
-  "score_reason": "Covers AI and business but appears to be AI-generated news summaries rather than guest interviews with practitioners."
+  "score_reason": "Covers AI and business but appears to be AI-generated news summaries rather than guest interviews with practitioners.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and practical application in real-world business contexts",
+      "The gap between AI theory/hype and actual human behavior and outcomes",
+      "Infrastructure, safety, and scalability challenges of deploying AI at scale",
+      "How AI changes human decision-making, cognition, and trust"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "EP24 - Inside 200,000 AI Conversations: What Microsoft Tells Us About Work \u2014 Andreas's expertise in seeing what people actually do (say-do gap) versus what they claim aligns perfectly with analyzing real-world AI usage patterns at scale.",
+    "coverage_gap": "How traditional, non-tech industries (agriculture, food, manufacturing, commodities) are actually adopting and competing with AI\u2014the podcast focuses heavily on tech companies and research, but hasn't featured a practitioner who built and scaled a business in a legacy industry using AI as competitive advantage.",
+    "suggested_hook": "While everyone's talking about AI hype, this entrepreneur went from Ogilvy to building Canada's largest food agency using data over gut instinct\u2014here's how traditional industries actually win with AI instead of being disrupted by it."
+  },
+  "enriched": true
 }

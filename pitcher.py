@@ -2,14 +2,13 @@
 """
 Podcast Guest Pitcher — CLI Orchestrator
 
+Discovers podcasts, scores them, enriches with deep RSS analysis,
+and syncs to Notion for OpenClaw to handle outreach.
+
 Usage:
   python pitcher.py discover --profile profiles/andreas-duess.md [--exa]
-  python pitcher.py review
-  python pitcher.py transcribe
-  python pitcher.py pitch --profile profiles/andreas-duess.md
-  python pitcher.py contacts [--apollo]
-  python pitcher.py send [--dry-run]
-  python pitcher.py run --profile profiles/andreas-duess.md
+  python pitcher.py enrich --profile profiles/andreas-duess.md [--force]
+  python pitcher.py run --profile profiles/andreas-duess.md [--exa]
   python pitcher.py status
 """
 
@@ -20,19 +19,14 @@ import json
 # Ensure we're working from the script's directory
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-from discovery import discover, load_all_podcasts, load_pursued_podcasts, PODCASTS_DIR
-from transcripts import fetch_transcripts, transcribe_all_pursued
-from analyzer import generate_pitch, generate_all_pitches
-from contacts import find_all_contacts
-from outreach import send_approved_pitches
+from discovery import discover, load_all_podcasts, PODCASTS_DIR
+from enrich import enrich_all, sync_enrichment_to_notion
 from notion_sync import (
     score_podcasts,
     sync_discoveries_to_notion,
     get_existing_podcast_urls,
-    push_pitch_to_notion,
     NOTION_TOKEN,
     PODCAST_DB_ID,
-    PITCH_DB_ID,
 )
 
 
@@ -41,7 +35,6 @@ def cmd_discover(args):
     profile = _get_profile(args)
     use_exa = "--exa" in args
 
-    # Discover
     results = discover(profile, use_exa=use_exa)
 
     if not results:
@@ -72,7 +65,7 @@ def cmd_discover(args):
     else:
         print("\nNotion not configured — results saved to local JSON only.")
 
-    # Also update local JSON with scores
+    # Update local JSON with scores
     for record in results:
         name = record.get("name", "")
         if name in scores:
@@ -95,228 +88,51 @@ def cmd_discover(args):
                     json.dump(existing_record, f, indent=2)
 
 
-def cmd_review(args):
-    """Interactive review of discovered podcasts (or review in Notion)."""
-    if NOTION_TOKEN and PODCAST_DB_ID:
-        print("Podcasts are in Notion — review and set status there.")
-        print("Mark podcasts as 'Pursuing' in the Status column to include them in the pipeline.")
-        print("\nTo use CLI review instead, unset NOTION_TOKEN in .env\n")
-
-    podcasts = load_all_podcasts()
-    unreviewed = [p for p in podcasts if p.get("status") == "discovered"]
-
-    if not unreviewed:
-        print("No unreviewed podcasts. Run 'discover' first.")
-        return
-
-    print(f"\n{len(unreviewed)} podcasts to review ({len(podcasts)} total)\n")
-    print("For each podcast, enter:")
-    print("  y = pursue (will fetch transcripts + generate pitch)")
-    print("  n = skip")
-    print("  q = quit review\n")
-
-    reviewed = 0
-    pursued = 0
-
-    for i, podcast in enumerate(unreviewed, 1):
-        print(f"--- [{i}/{len(unreviewed)}] ---")
-        print(f"  Name: {podcast.get('name', 'Unknown')}")
-        print(f"  Host: {podcast.get('host', 'Unknown')}")
-        print(f"  Relevance: {podcast.get('relevance', '?')}")
-        if podcast.get("score_reason"):
-            print(f"  Why: {podcast['score_reason']}")
-        print(f"  Source: {podcast.get('source', '')}")
-        print(f"  Website: {podcast.get('website', '')}")
-        print(f"  Episodes: {podcast.get('episode_count', '?')}")
-        print(f"  Last episode: {podcast.get('last_episode_date', '?')}")
-
-        desc = podcast.get("description", "")
-        if desc:
-            print(f"  Description: {desc[:200]}...")
-
-        episodes = podcast.get("recent_episodes", [])
-        if episodes:
-            print(f"  Recent episodes:")
-            for ep in episodes[:3]:
-                print(f"    - {ep.get('title', '')[:60]} ({ep.get('date', '')})")
-
-        print()
-        try:
-            choice = input("  Pursue? [y/n/q]: ").strip().lower()
-        except (EOFError, KeyboardInterrupt):
-            print("\n\nReview ended.")
-            break
-
-        if choice == "q":
-            break
-
-        slug = podcast.get("slug", "unknown")
-        filepath = os.path.join(PODCASTS_DIR, f"{slug}.json")
-
-        if choice == "y":
-            podcast["pursue"] = True
-            podcast["status"] = "pursuing"
-            pursued += 1
-        else:
-            podcast["pursue"] = False
-            podcast["status"] = "skipped"
-
-        with open(filepath, "w") as f:
-            json.dump(podcast, f, indent=2)
-
-        reviewed += 1
-
-    print(f"\nReviewed {reviewed} podcasts. {pursued} marked for pursuit.")
-
-
-def cmd_transcribe(args):
-    """Fetch transcripts for all pursued podcasts."""
-    pursued = load_pursued_podcasts()
-    if not pursued:
-        print("No pursued podcasts. Run 'review' first.")
-        return
-
-    print(f"Transcribing {len(pursued)} pursued podcasts...\n")
-    paths = transcribe_all_pursued(pursued)
-    print(f"\nFetched {len(paths)} transcripts total.")
-
-
-def cmd_pitch(args):
-    """Generate pitches for all pursued podcasts."""
+def cmd_enrich(args):
+    """Enrich High/Medium podcasts with full RSS analysis via Claude."""
     profile = _get_profile(args)
-    pursued = load_pursued_podcasts()
-    if not pursued:
-        print("No pursued podcasts. Run 'review' first.")
-        return
+    force = "--force" in args
 
-    print(f"Generating pitches for {len(pursued)} pursued podcasts...\n")
-    paths = generate_all_pitches(pursued, profile)
-    print(f"\nGenerated {len(paths)} pitches. Review in data/pitches/")
+    enriched = enrich_all(profile, force=force)
 
-    # Sync pitches to Notion
-    if NOTION_TOKEN and PITCH_DB_ID and paths:
-        print("\nSyncing pitches to Notion...")
-        from analyzer import load_profile as load_analyzer_profile
-        import yaml
-
-        synced = 0
-        for path in paths:
-            from outreach import load_pitch
-            pitch_data = load_pitch(path)
-            page_id = push_pitch_to_notion(pitch_data)
-            if page_id:
-                synced += 1
-        print(f"  Created {synced} pitch pages in Notion")
-
-
-def cmd_contacts(args):
-    """Find contact info for pursued podcasts."""
-    use_apollo = "--apollo" in args
-    pursued = load_pursued_podcasts()
-    if not pursued:
-        print("No pursued podcasts. Run 'review' first.")
-        return
-
-    print(f"Finding contacts for {len(pursued)} pursued podcasts...")
-    if use_apollo:
-        print("(Apollo enrichment enabled — will use credits)\n")
-    else:
-        print("(Apollo disabled — use --apollo to enable)\n")
-
-    found = find_all_contacts(pursued, use_apollo=use_apollo)
-    print(f"\nFound contacts for {found}/{len(pursued)} podcasts.")
-
-
-def cmd_send(args):
-    """Send approved pitches via Lemlist."""
-    dry_run = "--dry-run" in args
-    if dry_run:
-        print("DRY RUN — will not create Lemlist campaign\n")
-    send_approved_pitches(dry_run=dry_run)
+    if enriched and NOTION_TOKEN and PODCAST_DB_ID:
+        print("\nSyncing enrichment to Notion...")
+        sync_enrichment_to_notion()
 
 
 def cmd_run(args):
-    """Run full pipeline: discover → review → transcribe → pitch."""
-    profile = _get_profile(args)
-
+    """Run full pipeline: discover → enrich → Notion (OpenClaw takes over)."""
     print("=" * 60)
     print("PODCAST GUEST PITCHER — Full Pipeline")
     print("=" * 60)
 
-    # Step 1: Discover + Score + Notion sync
     print("\n--- STEP 1: DISCOVERY ---\n")
     cmd_discover(args)
 
-    # Step 2: Review
-    print("\n--- STEP 2: REVIEW ---\n")
-    if NOTION_TOKEN and PODCAST_DB_ID:
-        print("Review podcasts in Notion, then re-run with 'transcribe' and 'pitch' commands.")
-        print("Pipeline paused for Notion review.")
-        return
-    else:
-        cmd_review(args)
-
-    pursued = load_pursued_podcasts()
-    if not pursued:
-        print("\nNo podcasts pursued. Pipeline complete.")
-        return
-
-    # Step 3: Transcribe
-    print("\n--- STEP 3: TRANSCRIPTS ---\n")
-    transcribe_all_pursued(pursued)
-
-    # Step 4: Find contacts
-    print("\n--- STEP 4: CONTACTS ---\n")
-    find_all_contacts(pursued)
-
-    # Step 5: Generate pitches
-    print("\n--- STEP 5: PITCH GENERATION ---\n")
-    generate_all_pitches(pursued, profile)
+    print("\n--- STEP 2: ENRICHMENT ---\n")
+    cmd_enrich(args)
 
     print("\n" + "=" * 60)
-    print("Pipeline complete. Review pitches in data/pitches/ or Notion.")
-    print("To approve: set status to 'Approved' in Notion or frontmatter")
-    print("To send: python pitcher.py send")
+    print("Pipeline complete. Podcasts enriched and synced to Notion.")
+    print("OpenClaw handles outreach from here.")
     print("=" * 60)
 
 
 def cmd_status(args):
     """Show current pipeline status."""
     podcasts = load_all_podcasts()
-    pitches_dir = os.path.join(os.path.dirname(__file__), "data", "pitches")
-    transcripts_dir = os.path.join(os.path.dirname(__file__), "data", "transcripts")
 
-    # Count by status
     status_counts = {}
     for p in podcasts:
         s = p.get("status", "discovered")
         status_counts[s] = status_counts.get(s, 0) + 1
 
-    # Count by relevance
     relevance_counts = {}
     for p in podcasts:
         r = p.get("relevance", "unscored")
         relevance_counts[r] = relevance_counts.get(r, 0) + 1
 
-    # Count transcripts
-    transcript_count = 0
-    if os.path.isdir(transcripts_dir):
-        for d in os.listdir(transcripts_dir):
-            subdir = os.path.join(transcripts_dir, d)
-            if os.path.isdir(subdir):
-                transcript_count += len([f for f in os.listdir(subdir) if f.endswith(".md")])
-
-    # Count pitches
-    pitch_count = 0
-    approved_count = 0
-    if os.path.isdir(pitches_dir):
-        for f in os.listdir(pitches_dir):
-            if f.endswith(".md"):
-                pitch_count += 1
-                path = os.path.join(pitches_dir, f)
-                with open(path, "r") as fh:
-                    if "status: approved" in fh.read():
-                        approved_count += 1
+    enriched = sum(1 for p in podcasts if p.get("enriched"))
 
     print("Podcast Guest Pitcher — Status")
     print("=" * 40)
@@ -328,11 +144,7 @@ def cmd_status(args):
     for rel, count in sorted(relevance_counts.items()):
         print(f"  {rel}: {count}")
 
-    contacts = sum(1 for p in podcasts if p.get("contact_email"))
-    print(f"\nContacts found: {contacts}")
-    print(f"Transcripts cached: {transcript_count}")
-    print(f"Pitches generated: {pitch_count}")
-    print(f"Pitches approved: {approved_count}")
+    print(f"\nEnriched: {enriched}")
 
     if NOTION_TOKEN and PODCAST_DB_ID:
         print(f"\nNotion: connected")
@@ -348,17 +160,9 @@ def _get_profile(args):
     return "profiles/andreas-duess.md"
 
 
-# ---------------------------------------------------------------------------
-# Main
-# ---------------------------------------------------------------------------
-
 COMMANDS = {
     "discover": cmd_discover,
-    "review": cmd_review,
-    "transcribe": cmd_transcribe,
-    "pitch": cmd_pitch,
-    "contacts": cmd_contacts,
-    "send": cmd_send,
+    "enrich": cmd_enrich,
     "run": cmd_run,
     "status": cmd_status,
 }

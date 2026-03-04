@@ -43,5 +43,19 @@
   "discovered_date": "2026-03-02",
   "slug": "moving-parts-weekly-commodity-market-update",
   "relevance": "Medium",
-  "score_reason": "Covers agricultural and food commodity markets including corn, soybeans, dairy, and protein, aligning with Andreas's agriculture marketing background."
+  "score_reason": "Covers agricultural and food commodity markets including corn, soybeans, dairy, and protein, aligning with Andreas's agriculture marketing background.",
+  "enrichment": {
+    "key_themes": [
+      "USDA reports and supply/demand dynamics",
+      "Trade policy and geopolitical impacts on commodities",
+      "Biofuel policy and energy market correlation",
+      "China trade relations and export demand",
+      "Weather and harvest updates"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "February 10 Weekly Key Market Drivers \u2014 Trade deals are moving markets, but the podcast focuses on price reactions rather than the decision-making intelligence behind them, which is Andreas's domain.",
+    "coverage_gap": "How commodity traders and producers should use data and AI to predict policy outcomes and trade dynamics rather than just react to them after the fact.",
+    "suggested_hook": "Most commodity traders react to trade deals after they move the market. Andreas teaches the agriculture industry how to use AI to anticipate policy shifts before they happen\u2014turning data into competitive advantage."
+  },
+  "enriched": true
 }

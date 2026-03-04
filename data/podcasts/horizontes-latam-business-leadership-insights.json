@@ -44,5 +44,33 @@
   "discovered_date": "2026-03-02",
   "slug": "horizontes-latam-business-leadership-insights",
   "relevance": "Medium",
-  "score_reason": "Features business leadership discussions with expert guests, though focus on LatAm may limit fit unless Andreas has regional expertise or insights."
+  "score_reason": "Features business leadership discussions with expert guests, though focus on LatAm may limit fit unless Andreas has regional expertise or insights.",
+  "enrichment": {
+    "key_themes": [
+      "Disruption and transformation in traditional industries",
+      "Leadership decision-making under uncertainty and change",
+      "Technology adoption and competitive advantage in Latin America",
+      "Market trends and 10-year strategic planning",
+      "Family businesses and generational transitions"
+    ],
+    "notable_guests": [
+      "Juan Gallardo",
+      "Robert-Evan Ellis",
+      "Eduardo Gamarra",
+      "Guillaume Corpart",
+      "Julio Portales",
+      "Roberto Salinas",
+      "Arturo Barreira",
+      "David Price",
+      "Alejandro McCormack",
+      "Diego Rodr\u00edguez",
+      "Sam Logan",
+      "Aurelio Oliveira",
+      "Philip Wilson"
+    ],
+    "relevant_episode": "Latin America 10 Years into the Future \u2014 This episode directly addresses how disruptive technology is changing competitive landscapes and forcing companies to rethink product portfolios, which aligns perfectly with Andreas's expertise in helping traditional industries use AI to compete.",
+    "coverage_gap": "How artificial intelligence and data-driven decision-making specifically apply to Latin American agri-food and commodity businesses\u2014the podcast has covered energy transition, logistics, and healthcare but hasn't addressed AI-powered transformation in agriculture or food systems, which are core to the region's economy.",
+    "suggested_hook": "The executive who built and sold Canada's largest food agency now teaches AI strategy to MBAs\u2014here's what Latin American agricultural and food leaders need to know to stop being afraid of AI and start using it to outcompete."
+  },
+  "enriched": true
 }

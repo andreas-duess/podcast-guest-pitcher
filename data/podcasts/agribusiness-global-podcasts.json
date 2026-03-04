@@ -41,5 +41,31 @@
   "discovered_date": "2026-03-02",
   "slug": "agribusiness-global-podcasts",
   "relevance": "High",
-  "score_reason": "Duplicate listing; same evaluation as previous entry on ag tech and innovation."
+  "score_reason": "Duplicate listing; same evaluation as previous entry on ag tech and innovation.",
+  "enrichment": {
+    "key_themes": [
+      "AI and technology adoption in traditional agriculture",
+      "Market trends, regulatory changes, and competitive positioning",
+      "M&A, business strategy, and industry consolidation",
+      "Product development and commercialization in crop inputs",
+      "Data-driven decision making and supply chain innovation"
+    ],
+    "notable_guests": [
+      "Jennifer Lewis",
+      "Alan Lockwood",
+      "Gregory Rogers",
+      "Jim Zimmer",
+      "Jennifer Goldston",
+      "Michael Strano",
+      "Bob Trogele",
+      "Maria McWhorter",
+      "Ofer Judovits",
+      "J\u00e9r\u00f4me Cassayre",
+      "Joshua Colmer"
+    ],
+    "relevant_episode": "How AI and Geospatial Tech Are Transforming Carbon Measurement and Supply Chains \u2014 Andreas bridges the gap between AI hype and practical implementation for commodity producers, directly addressing how traditional ag companies can leverage data intelligence.",
+    "coverage_gap": "The human side of AI adoption in traditional industries: overcoming organizational resistance, changing mindsets on commodity boards, and the say-do gap between what growers claim they want and what they actually buy \u2014 no guest has tackled the behavioral economics and change management of AI in crop protection.",
+    "suggested_hook": "The guy who built Canada's largest food agency and sold it now teaches AI strategy to commodity boards\u2014here's why your crop protection customers say they want data-driven decisions but aren't making them."
+  },
+  "enriched": true
 }

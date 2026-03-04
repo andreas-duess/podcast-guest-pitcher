@@ -43,5 +43,27 @@
   "discovered_date": "2026-03-02",
   "slug": "startup-burgh-pittsburgh-entrepreneurs-startups-business-and-resources",
   "relevance": "Medium",
-  "score_reason": "Features Pittsburgh entrepreneurs including food and tech startups, aligning with Andreas's food marketing and agency-building experience."
+  "score_reason": "Features Pittsburgh entrepreneurs including food and tech startups, aligning with Andreas's food marketing and agency-building experience.",
+  "enrichment": {
+    "key_themes": [
+      "Early-stage product-driven startups and founders",
+      "Consumer goods and retail innovation",
+      "Building brands from scratch in traditional/underserved categories",
+      "Social impact and mission-driven business",
+      "Local Pittsburgh entrepreneurship and community"
+    ],
+    "notable_guests": [
+      "Kevin Dowling",
+      "Elijah Wiegmann",
+      "Justin Forzano",
+      "Courtney Powell",
+      "Jordan Robarge",
+      "Pallavi Golla",
+      "Sophia Berman"
+    ],
+    "relevant_episode": "EP_022 - Jordan Robarge of Revival Chili \u2014 Andreas has deep food industry expertise and understands how to scale consumer food brands, making him an ideal strategic match for discussing growth beyond the startup phase.",
+    "coverage_gap": "How traditional industries (like food, agriculture, and consumer goods) use data and AI to scale\u2014the podcast covers product innovation but hasn't explored the operational/strategic intelligence that helps founders compete at scale.",
+    "suggested_hook": "From launching a food startup to competing at scale: How AI and data intelligence are reshaping traditional industries\u2014and why Pittsburgh's next generation of founders need to think like Andreas did."
+  },
+  "enriched": true
 }

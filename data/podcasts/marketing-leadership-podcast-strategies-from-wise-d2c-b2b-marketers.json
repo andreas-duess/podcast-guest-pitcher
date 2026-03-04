@@ -44,5 +44,29 @@
   "discovered_date": "2026-03-02",
   "slug": "marketing-leadership-podcast-strategies-from-wise-d2c-b2b-marketers",
   "relevance": "High",
-  "score_reason": "Interviews CMOs and marketing leaders on brand and performance strategies\u2014excellent fit for Andreas's agency-building and marketing intelligence expertise."
+  "score_reason": "Interviews CMOs and marketing leaders on brand and performance strategies\u2014excellent fit for Andreas's agency-building and marketing intelligence expertise.",
+  "enrichment": {
+    "key_themes": [
+      "B2B and D2C go-to-market strategy and demand generation",
+      "Data-driven decision making and marketing attribution",
+      "Building and scaling marketing teams, agencies, and operations",
+      "Practical application of emerging tools (AI, automation, LinkedIn)",
+      "Brand positioning and customer retention over vanity metrics"
+    ],
+    "notable_guests": [
+      "Bryan Kramer",
+      "Howard Tiersky",
+      "Neal Schaffer",
+      "Robert Rose",
+      "Drew Neisser",
+      "Rand Fishkin",
+      "Dana DiTomaso",
+      "Erik Huberman",
+      "Justin Rowe"
+    ],
+    "relevant_episode": "Mark Evans \u2014 Skills To Becoming a Business-Building Marketing Leader \u2014 Andreas's agency-building story, exit experience, and focus on fundamentals over tactics directly parallels Mark's emphasis on brand positioning and strategic differentiation.",
+    "coverage_gap": "How traditional, non-tech industries (commodity agriculture, manufacturing, food) are leveraging AI and data to compete\u2014the podcast has covered AI broadly but not specifically through the lens of legacy industries and their unique skepticism.",
+    "suggested_hook": "The guy who convinced Canadian commodity boards to trust data over gut instinct now teaches AI strategy to MBAs\u2014here's what he learned about why traditional industries are winning with AI."
+  },
+  "enriched": true
 }

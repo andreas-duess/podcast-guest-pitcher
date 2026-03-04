@@ -44,5 +44,22 @@
   "discovered_date": "2026-03-02",
   "slug": "business-buying-masterclass-podcast",
   "relevance": "Medium",
-  "score_reason": "M&A focused podcast that could feature the agency sale story, though appears more educational/course-based with only 11 episodes."
+  "score_reason": "M&A focused podcast that could feature the agency sale story, though appears more educational/course-based with only 11 episodes.",
+  "enrichment": {
+    "key_themes": [
+      "Deal structure and mechanics (LOI, offers, terms)",
+      "Due diligence processes (financial, operational)",
+      "Sourcing and finding businesses to buy",
+      "Navigating intermediaries (brokers, advisors)",
+      "Post-LOI execution and closing"
+    ],
+    "notable_guests": [
+      "Chris Williamson (Cayne Crossing)",
+      "Elliott Holland (Guardian Due Diligence)"
+    ],
+    "relevant_episode": "Session #6: Structuring the Deal \u2014 Andreas's 16-year journey scaling Nourish and eventual exit provides real-world context on how to think about what you're actually buying and why, which is the core question of deal structure.",
+    "coverage_gap": "Post-acquisition integration and leveraging AI/data to unlock value in the business you just bought\u2014the podcast covers buying and closing, but not what winners do with their acquisition in the first 12-24 months.",
+    "suggested_hook": "\"How to use AI to see what the business you just bought is actually worth\u2014and where the real profit opportunities are hiding.\""
+  },
+  "enriched": true
 }

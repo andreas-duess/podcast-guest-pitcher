@@ -43,5 +43,29 @@
   "discovered_date": "2026-03-02",
   "slug": "dentons-agribusiness-podcast-series",
   "relevance": "Medium",
-  "score_reason": "Canadian agribusiness focus fits geography and sector, but legal/investment angle may not align with marketing/AI expertise."
+  "score_reason": "Canadian agribusiness focus fits geography and sector, but legal/investment angle may not align with marketing/AI expertise.",
+  "enrichment": {
+    "key_themes": [
+      "AgTech innovation and technological advancement in agriculture",
+      "Business strategy, growth, and entrepreneurship in agribusiness",
+      "Data-driven decision making and operational efficiency",
+      "Succession planning and financial management for farm/food businesses",
+      "Connecting traditional agriculture with modern business practices"
+    ],
+    "notable_guests": [
+      "Angela Santiago",
+      "Marc Elrick",
+      "Dony Zaidi",
+      "Kamala Patel",
+      "Sasha Musij",
+      "Sheamus MacDonald",
+      "Kiren Singh",
+      "Katy Chang",
+      "Corlena Patterson"
+    ],
+    "relevant_episode": "AgSmart \u2013 EY talks agriculture and the industry's technological advancement \u2014 directly addresses how traditional agriculture can leverage technology and data, which mirrors Andreas's core message about AI adoption in commodity industries.",
+    "coverage_gap": "The psychology and behavior-change side of tech adoption: how to actually convince risk-averse commodity boards and traditional operators to trust data over gut instinct, and the gap between what farmers/producers say they'll do vs. what they actually do with new tools.",
+    "suggested_hook": "From Ogilvy to agriculture: How the guy who sold Canada's largest food agency is now teaching commodity boards to compete with AI\u2014and why traditional industries have the biggest advantage if they stop being afraid of data."
+  },
+  "enriched": true
 }

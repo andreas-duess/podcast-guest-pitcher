@@ -46,5 +46,25 @@
   "discovered_date": "2026-03-02",
   "slug": "trade-wins-by-the-world-trade-centers-association",
   "relevance": "Medium",
-  "score_reason": "Interviews business leaders about international trade and economic ecosystems, could fit his agency-building and traditional industry transformation story."
+  "score_reason": "Interviews business leaders about international trade and economic ecosystems, could fit his agency-building and traditional industry transformation story.",
+  "enrichment": {
+    "key_themes": [
+      "Global trade and international business strategy",
+      "Future-focused disruption and innovation",
+      "Sustainability and economic development",
+      "Technology's role in business transformation",
+      "Leadership and organizational change"
+    ],
+    "notable_guests": [
+      "Robin van Puyenbroeck",
+      "Parag Khanna",
+      "Ambassador Louise Blais",
+      "Bethann Rooney",
+      "Congressman August Pfluger"
+    ],
+    "relevant_episode": "15: Cities of the Future and Civilization 3.0, with Parag Khanna \u2014 Both guests focus on how traditional sectors must evolve using emerging technologies (AI for Andreas, digital futures for Parag) to compete in a rapidly changing global economy.",
+    "coverage_gap": "How traditional industries (agriculture, commodity boards, manufacturing) are actually using AI and data-driven decision-making to compete globally \u2014 the podcast has touched on digital transformation broadly but not on AI adoption in legacy sectors.",
+    "suggested_hook": "From Ogilvy to agricultural AI: How traditional industries stop guessing and start competing using data and AI."
+  },
+  "enriched": true
 }

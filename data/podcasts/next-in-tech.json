@@ -44,5 +44,29 @@
   "discovered_date": "2026-03-02",
   "slug": "next-in-tech",
   "relevance": "Medium",
-  "score_reason": "Covers AI and technology for industries but appears more focused on enterprise tech infrastructure than marketing applications."
+  "score_reason": "Covers AI and technology for industries but appears more focused on enterprise tech infrastructure than marketing applications.",
+  "enrichment": {
+    "key_themes": [
+      "AI implementation in enterprise and industry-specific contexts",
+      "Data management, context, and infrastructure as critical AI enablers",
+      "Agentic AI capabilities and their real-world deployment challenges",
+      "Sector-specific AI use cases (supply chains, energy, retail, finance)",
+      "The gap between AI hype and practical business outcomes"
+    ],
+    "notable_guests": [
+      "Douwe Kiela",
+      "Francisco Martin-Rayo",
+      "Sean Kelly",
+      "Jim Curtis",
+      "Sheryl Kingstone",
+      "Alex Johnston",
+      "Melissa Otto",
+      "Melissa Incera",
+      "Scott Crawford"
+    ],
+    "relevant_episode": "CEO Series: AI and Supply Chains with Francisco Martin-Rayo \u2014 Both focus on how AI is being leveraged to generate real insights in agricultural supply chains with practical, granular-level applications rather than theoretical frameworks.",
+    "coverage_gap": "How traditional industries (beyond supply chain) are actually making the cultural and organizational shift from gut-instinct decision-making to data-driven decision-making, and what resistance looks like from the inside.",
+    "suggested_hook": "The guy who convinced agricultural commodity boards to trust data over gut instinct\u2014and built a business on it\u2014reveals what every mid-market company gets wrong about AI adoption."
+  },
+  "enriched": true
 }

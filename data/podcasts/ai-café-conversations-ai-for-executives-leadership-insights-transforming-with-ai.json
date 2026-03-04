@@ -46,5 +46,19 @@
   "discovered_date": "2026-03-02",
   "slug": "ai-caf\u00e9-conversations-ai-for-executives-leadership-insights-transforming-with-ai",
   "relevance": "High",
-  "score_reason": "Executive-focused AI leadership and decision-making aligns perfectly with Andreas's teaching and traditional industry transformation message."
+  "score_reason": "Executive-focused AI leadership and decision-making aligns perfectly with Andreas's teaching and traditional industry transformation message.",
+  "enrichment": {
+    "key_themes": [
+      "Nervous system regulation and decision-making under AI disruption",
+      "Why AI transformations fail (people, culture, psychology over technology)",
+      "The gap between what executives say they're doing with AI and actual outcomes",
+      "Building human-centered AI leadership and psychological safety",
+      "Executive fear, imposter syndrome, and dysregulation in the face of AI"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "Why Aren't You Seeing AI Productivity Gains? (What Regulated Leaders Know About the Productivity Paradox) \u2014 Andreas's expertise in how traditional industries actually *use* AI (not just implement it) directly addresses why 90% of CEOs report zero productivity impact despite 70% actively using AI.",
+    "coverage_gap": "How regulated leaders in *traditional industries* (food, agriculture, manufacturing) are successfully competing with AI while dysregulated tech-first companies fail\u2014the practitioner's view of which industries are getting it right and why.",
+    "suggested_hook": "The executives freezing under AI disruption aren't the problem\u2014they're dysregulated. But Andreas built and sold a company in one of the most traditional industries on earth by making data beat gut instinct. Here's what he learned about regulated decision-making in commodity boards that applies to every executive in this room."
+  },
+  "enriched": true
 }

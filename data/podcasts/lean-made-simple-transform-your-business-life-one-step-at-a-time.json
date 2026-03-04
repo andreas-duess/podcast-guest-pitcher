@@ -44,5 +44,27 @@
   "discovered_date": "2026-03-02",
   "slug": "lean-made-simple-transform-your-business-life-one-step-at-a-time",
   "relevance": "Medium",
-  "score_reason": "Manufacturing business transformation podcast that interviews leaders and could value Andreas's traditional industry + technology expertise, though lean manufacturing is adjacent to his core topics."
+  "score_reason": "Manufacturing business transformation podcast that interviews leaders and could value Andreas's traditional industry + technology expertise, though lean manufacturing is adjacent to his core topics.",
+  "enrichment": {
+    "key_themes": [
+      "Culture-led transformation over tool-driven fixes",
+      "Real-world manufacturing challenges and honest progress tracking",
+      "People development and leadership in lean environments",
+      "Standard work and continuous improvement systems",
+      "Making lean accessible to traditional industries"
+    ],
+    "notable_guests": [
+      "Aiden Rogers (Rolls-Royce)",
+      "Liam Holmes (Toyota HR General Manager)",
+      "Simon Rowley (Toyota senior manager)",
+      "Paul Blahyj (Toyota Lean Management Centre)",
+      "Matt Sims (Ever-So-Lean podcast founder)",
+      "Oliver Conger (British Rototherm)",
+      "Thomas Robson Kanu (Premier League footballer turned SME owner)"
+    ],
+    "relevant_episode": "How ROLLS ROYCE does LEAN \u2014 Aiden Rogers discusses shifting from tool-driven fixes to culture-led continuous improvement, which directly parallels Andreas's messaging about moving traditional industries from fear-based resistance to data-driven decision-making.",
+    "coverage_gap": "How AI and data analytics can accelerate lean decision-making and uncover hidden waste \u2014 the podcast covers lean methodology deeply but hasn't explored how modern intelligence tools help manufacturing leaders actually see and act on what's really happening on the floor.",
+    "suggested_hook": "The guy who built Canada's largest food agency then took those lean principles to agriculture using AI \u2014 here's how traditional boards finally stop trusting gut instinct and start competing like tech companies."
+  },
+  "enriched": true
 }

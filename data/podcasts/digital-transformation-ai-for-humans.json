@@ -45,5 +45,28 @@
   "discovered_date": "2026-03-02",
   "slug": "digital-transformation-ai-for-humans",
   "relevance": "High",
-  "score_reason": "Features visionary leaders on tech/leadership intersection with strong business focus, ideal for Andreas's practitioner AI story."
+  "score_reason": "Features visionary leaders on tech/leadership intersection with strong business focus, ideal for Andreas's practitioner AI story.",
+  "enrichment": {
+    "key_themes": [
+      "Leadership and mindset transformation in the AI era",
+      "AI implementation and practical adoption in business",
+      "The human element of technology (emotional intelligence, storytelling, culture)",
+      "Growth, scaling, and business strategy with AI",
+      "Governance, ethics, and responsible AI"
+    ],
+    "notable_guests": [
+      "Steve Brown",
+      "Steven Hyde",
+      "Michael Herkommer",
+      "Jeffrey Fidelman",
+      "Steven Puri",
+      "Geoffrey Klein",
+      "Erica Shoemate",
+      "Rob Provenzano"
+    ],
+    "relevant_episode": "S1|Ep93 AI-Powered Growth: Reinventing Digital Marketing in the Era of Intelligent Business \u2014 Steven Hyde's focus on AI-driven marketing and measurable growth mirrors Andreas's expertise in using data to transform traditional industries, but Andreas brings the agency-building and exit narrative that complements the growth story.",
+    "coverage_gap": "The podcast hasn't deeply explored how traditional commodity and agricultural industries specifically leverage AI to compete, nor has it featured a founder who built and successfully exited a traditional-industry business\u2014Andreas fills both gaps with real scars and proof.",
+    "suggested_hook": "From selling gut instinct to selling data: How a food industry founder convinced commodity boards that AI beats tradition\u2014and built Canada's largest independent food agency doing it."
+  },
+  "enriched": true
 }

@@ -45,5 +45,27 @@
   "discovered_date": "2026-03-02",
   "slug": "regenerative-agriculture-podcast",
   "relevance": "Medium",
-  "score_reason": "Professional growers/agronomists audience aligns with his 6 Seeds work, but science-heavy focus may not suit his marketing/AI expertise angle."
+  "score_reason": "Professional growers/agronomists audience aligns with his 6 Seeds work, but science-heavy focus may not suit his marketing/AI expertise angle.",
+  "enrichment": {
+    "key_themes": [
+      "Soil biology and microbial health as foundation for regenerative farming",
+      "Nutrient management and plant physiology optimization",
+      "Economic viability and profitability through regenerative practices",
+      "Technology and data-driven decision-making in agriculture",
+      "Market differentiation and premium positioning through quality/health focus"
+    ],
+    "notable_guests": [
+      "John Kempf",
+      "Matthew Fitzgerald",
+      "Jake Neustadt",
+      "Morgan Twain-Peterson",
+      "Anthony Myint",
+      "Troy Swift",
+      "Martin Crompton"
+    ],
+    "relevant_episode": "Episode 166: Redefining Farming Through Health, Taste, and Technology with Martin Crompton \u2014 Martin's use of AI, ag tech, and marketing strategy to optimize farming practices and create demand directly parallels Andreas's expertise in helping traditional industries use data and technology to compete.",
+    "coverage_gap": "The business and marketing side of scaling regenerative agriculture: how to communicate regenerative practices to buyers, aggregate farmer data into market intelligence, and use AI-powered insights to command premium prices\u2014the say-do gap between what consumers claim they want and what they actually pay for.",
+    "suggested_hook": "You've convinced commodity boards to embrace data over gut instinct\u2014what would you tell regenerative farmers about proving their value to skeptical buyers using the same intelligence economy principles?"
+  },
+  "enriched": true
 }

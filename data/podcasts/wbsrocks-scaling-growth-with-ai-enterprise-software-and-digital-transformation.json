@@ -44,5 +44,21 @@
   "discovered_date": "2026-03-02",
   "slug": "wbsrocks-scaling-growth-with-ai-enterprise-software-and-digital-transformation",
   "relevance": "High",
-  "score_reason": "High episode count, targets CFOs/CEOs, and covers AI-enabled business models perfectly matching Andreas's intelligence economy message."
+  "score_reason": "High episode count, targets CFOs/CEOs, and covers AI-enabled business models perfectly matching Andreas's intelligence economy message.",
+  "enrichment": {
+    "key_themes": [
+      "AI-native platforms and agentic automation reshaping enterprise software",
+      "Digital transformation and operational modernization across industries",
+      "Enterprise software category deep-dives (ERP, CRM, WMS, HCM, TMS, etc.)",
+      "Vendor consolidation and capability-led M&A in software markets",
+      "Execution risk and the gap between innovation narratives and operational reality"
+    ],
+    "notable_guests": [
+      "Sam Gupta"
+    ],
+    "relevant_episode": "WBSP804: Grow Your Business by Learning the Top 15 Digital Transformation Trends In 2026 \u2014 Andreas's practical experience translating AI into business outcomes across traditional industries directly addresses the disciplined, systems-oriented approach to technology that this episode emphasizes.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, commodities) are actually adopting AI and what their decision-making process looks like\u2014the podcast focuses heavily on software vendors and enterprise platforms but rarely interviews practitioners from commodity-adjacent or agriculture-first sectors.",
+    "suggested_hook": "Most AI speakers are software vendors talking to other software vendors. Andreas built and sold a business in one of the most traditional industries on earth\u2014here's what commodity boards and agricultural enterprises are actually doing with AI while everyone else is still talking about it."
+  },
+  "enriched": true
 }

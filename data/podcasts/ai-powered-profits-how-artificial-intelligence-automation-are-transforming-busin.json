@@ -43,5 +43,19 @@
   "discovered_date": "2026-03-02",
   "slug": "ai-powered-profits-how-artificial-intelligence-automation-are-transforming-busin",
   "relevance": "Medium",
-  "score_reason": "AI business transformation focus fits, but entrepreneurship/investing angle and low episode count suggest less established platform."
+  "score_reason": "AI business transformation focus fits, but entrepreneurship/investing angle and low episode count suggest less established platform.",
+  "enrichment": {
+    "key_themes": [
+      "AI tools and automation for business growth",
+      "Practical implementation of AI (ChatGPT, Midjourney, workflows)",
+      "Entrepreneurship and startup ideas",
+      "Productivity and efficiency gains",
+      "Wealth building through technology"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "From Manual Chaos to Automated Growth: How Businesses Are Saving Thousands Per Month with AI Workflows \u2014 Andreas brings real-world case studies of how traditional industries (food, agriculture) implemented AI to drive competitive advantage and measurable business outcomes.",
+    "coverage_gap": "How established, non-tech industries (commodities, manufacturing, agriculture) are actually adopting AI at scale \u2014 moving beyond startup ideas to enterprise transformation with proven ROI.",
+    "suggested_hook": "Most AI podcasts interview tech founders. Andreas built and sold Canada's largest food marketing agency by using data and AI to beat gut instinct\u2014here's how traditional industries can do the same without the hype."
+  },
+  "enriched": true
 }

@@ -45,5 +45,24 @@
   "discovered_date": "2026-03-02",
   "slug": "epicurean-unicorn",
   "relevance": "High",
-  "score_reason": "Known target from guest profile"
+  "score_reason": "Known target from guest profile",
+  "enrichment": {
+    "key_themes": [
+      "Food industry innovation and technology",
+      "Career journeys and personal stories in food/baking",
+      "Food science and product development",
+      "Industry education and workforce development"
+    ],
+    "notable_guests": [
+      "Andreas Duess",
+      "Matthew Kaplowitz",
+      "Karl de Smedt",
+      "Maria Cho",
+      "Casey Chumrau"
+    ],
+    "relevant_episode": "Andreas Duess of 6 Seeds Consulting (Feb 21, 2025) \u2014 Andreas was already a guest on the show, making this a natural follow-up conversation to go deeper on AI strategy and data-driven decision-making for food industry professionals.",
+    "coverage_gap": "Data strategy and AI adoption roadmaps for mid-size food companies and suppliers \u2014 while the podcast touched on AI once, there's no sustained exploration of how traditional food businesses actually implement these tools to compete.",
+    "suggested_hook": "From building Canada's largest food agency to teaching AI strategy: how food industry leaders can stop fearing data and start using it to outcompete bigger competitors."
+  },
+  "enriched": true
 }

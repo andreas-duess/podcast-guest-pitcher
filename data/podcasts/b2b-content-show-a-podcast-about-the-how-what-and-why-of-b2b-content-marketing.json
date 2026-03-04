@@ -45,5 +45,32 @@
   "score_reason": "B2B content marketing focus aligns with Andreas's marketing expertise, but tactical content focus may not highlight his AI strategy or business-building story.",
   "contact_email": "info+65390fa5238f610012a4115e@mg-eu.acast.com",
   "contact_name": "Jeremy Shere",
-  "contact_source": "rss"
+  "contact_source": "rss",
+  "enrichment": {
+    "key_themes": [
+      "Content strategy and production at scale",
+      "Bridging marketing and sales alignment",
+      "Data-informed decision making in content",
+      "Authenticity and voice in B2B messaging",
+      "Practical tactics for B2B marketers"
+    ],
+    "notable_guests": [
+      "Todd Gregory",
+      "Malte Lange",
+      "Nick Bennett",
+      "Lacey Budd",
+      "Sally Lechin",
+      "Haley Fraser",
+      "Nicholas Loise",
+      "Juli Lassow",
+      "Matthew Lewsadder",
+      "Ashley Litzenberger",
+      "Bryan Huhn",
+      "Emily Amos"
+    ],
+    "relevant_episode": "Using content with product user and lifecycle data w/ Ashley Litzenberger \u2014 Andreas's work on the say-do gap and using AI to surface truth in data directly aligns with using product and customer data to inform smarter content decisions.",
+    "coverage_gap": "How AI and synthetic research can help B2B marketers overcome the say-do gap and make better data-informed content decisions without needing massive research budgets\u2014a gap that sits between data-driven content strategy and practical execution for mid-market companies.",
+    "suggested_hook": "The say-do gap is killing your B2B content strategy\u2014here's how AI finally lets you see what prospects actually care about (not what they tell you they care about)."
+  },
+  "enriched": true
 }

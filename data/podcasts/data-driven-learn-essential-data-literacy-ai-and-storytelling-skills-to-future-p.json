@@ -43,5 +43,23 @@
   "discovered_date": "2026-03-02",
   "slug": "data-driven-learn-essential-data-literacy-ai-and-storytelling-skills-to-future-p",
   "relevance": "High",
-  "score_reason": "Ideal fit for Andreas's AI teaching at Ivey Business School and expertise in helping professionals understand practical AI applications and data storytelling."
+  "score_reason": "Ideal fit for Andreas's AI teaching at Ivey Business School and expertise in helping professionals understand practical AI applications and data storytelling.",
+  "enrichment": {
+    "key_themes": [
+      "Measuring ROI and impact of organizational initiatives through data",
+      "AI adoption and demystification for non-technical audiences",
+      "Evolving legacy organizations through technology and data",
+      "Data-informed decision making across functions (L&D, product, analytics)"
+    ],
+    "notable_guests": [
+      "Aaron Gorham (J.R. Simplot)",
+      "Cameron Turner (Kin + Carta)",
+      "Mark Esposito (Nexus)",
+      "Dr. Joseph Cazier (Arizona State University)"
+    ],
+    "relevant_episode": "Evolving a legacy organization through tech \u2014 Aaron Gorham's episode on transforming J.R. Simplot mirrors Andreas's work helping traditional industries (agriculture, food) adopt data and AI practices.",
+    "coverage_gap": "How to bridge the say-do gap between what data shows and what stakeholders believe \u2014 the podcast focuses on measuring and communicating data insights, but hasn't covered the behavioral psychology of data adoption in traditional, commodity-based industries.",
+    "suggested_hook": "The guy who convinced agricultural commodity boards to trust AI over gut instinct shares how traditional industries actually win with data (and why most AI adoption fails for them)."
+  },
+  "enriched": true
 }

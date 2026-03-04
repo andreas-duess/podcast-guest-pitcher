@@ -43,5 +43,27 @@
   "discovered_date": "2026-03-02",
   "slug": "the-data-driven-marketer-podcast",
   "relevance": "High",
-  "score_reason": "Directly aligned with Andreas's expertise in data-driven marketing, the say-do gap, and helping marketers use data for ROI optimization in their campaigns."
+  "score_reason": "Directly aligned with Andreas's expertise in data-driven marketing, the say-do gap, and helping marketers use data for ROI optimization in their campaigns.",
+  "enrichment": {
+    "key_themes": [
+      "Attribution and measurement methodology (MTA, MMM, full-funnel)",
+      "Bridging the gap between marketing strategy and execution data",
+      "Making data-driven decisions across channels and budget allocation",
+      "Industry-specific applications of marketing measurement (CPG, retail, travel, agriculture)"
+    ],
+    "notable_guests": [
+      "Devyn McHugh",
+      "Ashleigh Shapiro",
+      "Rachel Tipograph",
+      "Sean Thompson",
+      "Justin Jefferson",
+      "Ryan Koonce",
+      "Shaun Brown",
+      "Steve Price"
+    ],
+    "relevant_episode": "Beyond the Black Box: How Cabot Creamery Proves Brand Value with Marketing Mix Modeling \u2014 Andreas's agricultural and food industry expertise directly parallels Cabot's farmer-owned commodity positioning, and his focus on proving marketing value to traditionally skeptical boards mirrors the exact challenge highlighted.",
+    "coverage_gap": "How traditional industries (particularly agriculture and commodity boards) overcome organizational resistance to data-driven decision-making and actually adopt AI/advanced analytics when gut instinct has always driven the business.",
+    "suggested_hook": "Most of your guests work with brands already sold on data. Andreas convinced agricultural commodity boards to bet against their instincts \u2014 here's how traditional industries actually change."
+  },
+  "enriched": true
 }

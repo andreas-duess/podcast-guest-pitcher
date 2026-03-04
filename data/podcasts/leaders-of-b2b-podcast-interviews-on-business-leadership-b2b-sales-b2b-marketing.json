@@ -45,5 +45,29 @@
   "discovered_date": "2026-03-02",
   "slug": "leaders-of-b2b-podcast-interviews-on-business-leadership-b2b-sales-b2b-marketing",
   "relevance": "High",
-  "score_reason": "Interviews B2B leaders and experts on marketing, leadership, and growth\u2014excellent fit for Andreas's agency exit story and AI strategy expertise."
+  "score_reason": "Interviews B2B leaders and experts on marketing, leadership, and growth\u2014excellent fit for Andreas's agency exit story and AI strategy expertise.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and practical implementation in business",
+      "Leadership, culture, and organizational alignment",
+      "Data-driven decision making and ROI measurement",
+      "Go-to-market strategy and business scaling",
+      "Sales and marketing collaboration"
+    ],
+    "notable_guests": [
+      "Oz Rashid",
+      "Neelima Grover",
+      "Tamsen Webster",
+      "Brian Doyle",
+      "Mark Gartner",
+      "Amy Higgins",
+      "Jake Jorgovan",
+      "Steve Mordue",
+      "Emin Can Turan"
+    ],
+    "relevant_episode": "Breaking Through the Noise in Marketing with Matt Krebsbach of Acquia \u2014 Andreas's expertise in data-driven storytelling and translating consumer behavior insights directly parallels Acquia's focus on authentic brand voices powered by data.",
+    "coverage_gap": "How traditional, non-tech industries (agriculture, food, manufacturing, commodities) can leverage AI without the startup hype \u2014 the podcast has covered AI adoption broadly but hasn't featured a practitioner who's actually convinced commodity boards and legacy industries to embrace data and intelligence.",
+    "suggested_hook": "The CMO from Ogilvy who built Canada's largest food agency proves that the intelligence economy isn't just for SaaS\u2014it's how traditional industries will out-compete their tech-savvy rivals."
+  },
+  "enriched": true
 }

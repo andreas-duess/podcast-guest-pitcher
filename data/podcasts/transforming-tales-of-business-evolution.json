@@ -45,5 +45,43 @@
   "discovered_date": "2026-03-02",
   "slug": "transforming-tales-of-business-evolution",
   "relevance": "High",
-  "score_reason": "AICPA podcast for professional firms exploring innovative operating methods and business transformation aligns perfectly with Andreas's agency exit story, AI adoption, and helping traditional industries evolve."
+  "score_reason": "AICPA podcast for professional firms exploring innovative operating methods and business transformation aligns perfectly with Andreas's agency exit story, AI adoption, and helping traditional industries evolve.",
+  "enrichment": {
+    "key_themes": [
+      "Business model transformation and evolution",
+      "Sustainable growth and work-life balance",
+      "Leadership culture and governance structures",
+      "Intentional client selection and relationship building",
+      "Operational innovation and modern practices"
+    ],
+    "notable_guests": [
+      "Lauren Baptiste",
+      "Shayna Chapman",
+      "Brent Forbush",
+      "Suzanne Forbes",
+      "Kelly Rohrs",
+      "Argel Sabillo",
+      "Brenda Cannon",
+      "Rebecca Driscoll",
+      "Sarah Dobek",
+      "Gary Thomson",
+      "Chip Chaon",
+      "Mark Kovaleski",
+      "Eric Majchrzak",
+      "Chris Sullivan",
+      "Amber Goering",
+      "Randy Crabtree",
+      "Josh Axelrod",
+      "Tim Brackney",
+      "Josh Beck",
+      "Yuri Kapilovich",
+      "Dan O'Hare",
+      "Mike Bannon",
+      "Erin Hartman"
+    ],
+    "relevant_episode": "TfP 016. Beyond the Numbers: Real-World Insights from the MAP Survey \u2014 Andreas's expertise in turning data into competitive advantage and using analytics to reshape decision-making directly parallels how firm leaders leverage benchmarking data to drive smarter business strategies.",
+    "coverage_gap": "How traditional industries (particularly agriculture and food) are using AI and data intelligence to compete and transform their business models \u2014 the podcast focuses heavily on accounting firm transformation but hasn't explored how non-professional-services industries are reshaping themselves.",
+    "suggested_hook": "From Ogilvy to agriculture: How Andreas convinced commodity boards to trust data over gut instinct\u2014and what that teaches CPA firms about leading transformation in industries resistant to change."
+  },
+  "enriched": true
 }

@@ -44,5 +44,26 @@
   "discovered_date": "2026-03-02",
   "slug": "content-marketing-school-social-media-video-ai-podcast-and-linkedin-tips-for-b2b",
   "relevance": "Medium",
-  "score_reason": "Covers content creation tactics for B2B professionals but focuses more on video/social execution than strategic AI or agency building."
+  "score_reason": "Covers content creation tactics for B2B professionals but focuses more on video/social execution than strategic AI or agency building.",
+  "enrichment": {
+    "key_themes": [
+      "Video content creation and overcoming camera anxiety",
+      "Consistent content strategy without burnout",
+      "AI and emerging technology tools for marketers",
+      "Building visibility and personal brand online",
+      "Practical, accessible tactics for entrepreneurs and B2B professionals"
+    ],
+    "notable_guests": [
+      "Susie Ashfield",
+      "Christopher Johnson",
+      "Sara Clay",
+      "Kendra Corman",
+      "Renee Lindo",
+      "Brenda Meller"
+    ],
+    "relevant_episode": "115 - How to Create Content (Including Video) Consistently Without Getting Burnedout \u2014 Andreas's experience building and scaling a marketing agency directly parallels the panel's focus on creating strategically while avoiding burnout, and his AI expertise adds a fresh angle the episode didn't cover.",
+    "coverage_gap": "How AI can actually help B2B professionals and entrepreneurs create better content faster and make smarter marketing decisions\u2014the podcast has mentioned AI occasionally (Kendra Corman) but hasn't deeply explored practical AI applications for traditional businesses and content creators.",
+    "suggested_hook": "From agency founder to AI strategist: how traditional marketers can stop fearing AI and start using it to outsmart bigger competitors."
+  },
+  "enriched": true
 }

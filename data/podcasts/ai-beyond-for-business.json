@@ -43,5 +43,29 @@
   "discovered_date": "2026-03-02",
   "slug": "ai-beyond-for-business",
   "relevance": "High",
-  "score_reason": "Focuses on AI transformation in business with founder/entrepreneur guests, aligning well with Andreas's dual expertise in AI strategy and building/exiting agencies."
+  "score_reason": "Focuses on AI transformation in business with founder/entrepreneur guests, aligning well with Andreas's dual expertise in AI strategy and building/exiting agencies.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and practical implementation in business",
+      "Real-world case studies of AI-driven growth and transformation",
+      "Bridging the gap between AI hype and business reality",
+      "AI's impact on specific industries and workflows",
+      "Data-driven decision making and consumer insights"
+    ],
+    "notable_guests": [
+      "Yurii Yakovlev",
+      "Richard McCandless",
+      "Keith Johnston",
+      "Charles Swann",
+      "Yann Kronberg",
+      "JD",
+      "Courtney",
+      "Rushelle",
+      "T.D."
+    ],
+    "relevant_episode": "Disrupting Advertising: How Forage Makes Brands More Human With AI that Digs TikTok, Instagram, YouTube For Real-Time Consumer Insights \u2014 It directly addresses using AI to decode consumer behavior and close the say-do gap that Andreas specializes in explaining",
+    "coverage_gap": "How traditional, non-tech industries (agriculture, food, manufacturing, commodities) are actually implementing AI at scale \u2014 the podcast has covered AI adoption broadly but not specifically in legacy/commodity sectors where resistance to change is highest",
+    "suggested_hook": "Most AI speakers are technologists. Andreas built Canada's largest food agency, sold it, and now teaches MBA students how commodity boards compete with AI \u2014 he's the practitioner who actually convinced the skeptics."
+  },
+  "enriched": true
 }

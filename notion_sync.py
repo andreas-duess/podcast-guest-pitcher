@@ -1,12 +1,8 @@
 """
 Notion Sync Module
 
-Syncs podcast discoveries and pitches to Notion databases.
+Syncs podcast discoveries to Notion database.
 Includes Claude pre-scoring to filter noise before human review.
-
-Databases:
-  - Podcast Targets: discovered podcasts with relevance scores
-  - Pitches: generated pitch emails for review/approval
 """
 
 import os
@@ -14,7 +10,6 @@ import json
 from datetime import datetime
 
 import requests
-import yaml
 from anthropic import Anthropic
 from dotenv import load_dotenv
 
@@ -23,7 +18,6 @@ load_dotenv()
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 NOTION_TOKEN = os.environ.get("NOTION_TOKEN", "")
 PODCAST_DB_ID = os.environ.get("NOTION_PODCAST_DB_ID", "")
-PITCH_DB_ID = os.environ.get("NOTION_PITCH_DB_ID", "")
 
 NOTION_HEADERS = {
     "Authorization": f"Bearer {NOTION_TOKEN}",
@@ -155,9 +149,6 @@ def get_existing_podcast_urls():
             url = page.get("properties", {}).get("Website", {}).get("url")
             if url:
                 existing.add(url)
-            rss = page.get("properties", {}).get("RSS Feed", {}).get("url")
-            if rss:
-                existing.add(rss)
 
         has_more = data.get("has_more", False)
         start_cursor = data.get("next_cursor")
@@ -165,24 +156,79 @@ def get_existing_podcast_urls():
     return existing
 
 
+def get_podcast_page_ids():
+    """Query Notion DB and return URL → page_id mapping."""
+    if not NOTION_TOKEN or not PODCAST_DB_ID:
+        return {}
+
+    page_map = {}
+    has_more = True
+    start_cursor = None
+
+    while has_more:
+        body = {"page_size": 100}
+        if start_cursor:
+            body["start_cursor"] = start_cursor
+
+        resp = requests.post(
+            f"https://api.notion.com/v1/databases/{PODCAST_DB_ID}/query",
+            headers=NOTION_HEADERS,
+            json=body,
+        )
+
+        if resp.status_code != 200:
+            print(f"  Warning: Notion query failed: {resp.status_code}")
+            return page_map
+
+        data = resp.json()
+        for page in data.get("results", []):
+            page_id = page["id"]
+            url = page.get("properties", {}).get("Website", {}).get("url")
+            if url:
+                page_map[url] = page_id
+
+        has_more = data.get("has_more", False)
+        start_cursor = data.get("next_cursor")
+
+    return page_map
+
+
+def update_podcast_enrichment(page_id, enrichment):
+    """PATCH a Notion page with enrichment fields."""
+    if not NOTION_TOKEN:
+        return False
+
+    key_themes = ", ".join(enrichment.get("key_themes", []))
+
+    properties = {
+        "Key Themes": {
+            "rich_text": [{"text": {"content": key_themes[:2000]}}]
+        },
+        "Coverage Gap": {
+            "rich_text": [{"text": {"content": (enrichment.get("coverage_gap", "") or "")[:2000]}}]
+        },
+        "Suggested Hook": {
+            "rich_text": [{"text": {"content": (enrichment.get("suggested_hook", "") or "")[:2000]}}]
+        },
+    }
+
+    resp = requests.patch(
+        f"https://api.notion.com/v1/pages/{page_id}",
+        headers=NOTION_HEADERS,
+        json={"properties": properties},
+    )
+
+    if resp.status_code == 200:
+        return True
+    else:
+        print(f"  Warning: Failed to update enrichment for {page_id}: {resp.status_code} {resp.text[:200]}")
+        return False
+
+
 def push_podcast_to_notion(podcast, score_info=None):
     """Create a page in the Podcast Targets database."""
     if not NOTION_TOKEN or not PODCAST_DB_ID:
         return None
-
-    relevance = "Medium"
-    score_summary = ""
-    if score_info:
-        relevance = score_info.get("relevance", "Medium")
-        score_summary = score_info.get("reason", "")
-
-    # Build date property
-    last_ep = podcast.get("last_episode_date", "")
-    date_found = datetime.now().strftime("%Y-%m-%d")
-
-    # Build categories/topics string
-    categories = podcast.get("categories", [])
-    topics_str = ", ".join(categories[:5]) if categories else ""
 
     properties = {
         "Podcast": {
@@ -194,30 +240,21 @@ def push_podcast_to_notion(podcast, score_info=None):
         "Status": {
             "select": {"name": "Discovered"}
         },
-        "Relevance": {
-            "select": {"name": relevance}
-        },
-        "Source": {
-            "select": {"name": "Podcast Index" if podcast.get("source") == "podcast_index" else "Exa"}
-        },
-        "Date Found": {
-            "date": {"start": date_found}
-        },
     }
 
-    # Optional fields
-    if podcast.get("episode_count"):
-        properties["Episode Count"] = {"number": podcast["episode_count"]}
     if podcast.get("website"):
         properties["Website"] = {"url": podcast["website"]}
-    if podcast.get("rss_url"):
-        properties["RSS Feed"] = {"url": podcast["rss_url"]}
-    if last_ep and len(last_ep) == 10:
-        properties["Last Episode"] = {"date": {"start": last_ep}}
-    if topics_str:
-        properties["Topics"] = {"rich_text": [{"text": {"content": topics_str[:200]}}]}
-    if score_summary:
-        properties["Score Summary"] = {"rich_text": [{"text": {"content": score_summary[:2000]}}]}
+
+    # Include enrichment data if already enriched
+    enrichment = podcast.get("enrichment")
+    if enrichment and podcast.get("enriched"):
+        key_themes = ", ".join(enrichment.get("key_themes", []))
+        if key_themes:
+            properties["Key Themes"] = {"rich_text": [{"text": {"content": key_themes[:2000]}}]}
+        if enrichment.get("coverage_gap"):
+            properties["Coverage Gap"] = {"rich_text": [{"text": {"content": enrichment["coverage_gap"][:2000]}}]}
+        if enrichment.get("suggested_hook"):
+            properties["Suggested Hook"] = {"rich_text": [{"text": {"content": enrichment["suggested_hook"][:2000]}}]}
 
     # Page body: description + recent episodes
     children = []
@@ -284,8 +321,7 @@ def sync_discoveries_to_notion(podcasts, scores, existing_urls=None):
 
         # Skip if already in Notion
         website = podcast.get("website", "")
-        rss = podcast.get("rss_url", "")
-        if website in existing_urls or (rss and rss in existing_urls):
+        if website in existing_urls:
             skipped_dup += 1
             continue
 
@@ -307,109 +343,8 @@ def sync_discoveries_to_notion(podcasts, scores, existing_urls=None):
             created += 1
             if website:
                 existing_urls.add(website)
-            if rss:
-                existing_urls.add(rss)
 
     return created, skipped_dup, skipped_low
-
-
-# ---------------------------------------------------------------------------
-# Notion: Pitches Database
-# ---------------------------------------------------------------------------
-
-def push_pitch_to_notion(pitch_data):
-    """Create a page in the Pitches database."""
-    if not NOTION_TOKEN or not PITCH_DB_ID:
-        return None
-
-    fm = pitch_data.get("frontmatter", {})
-
-    properties = {
-        "Podcast": {
-            "title": [{"text": {"content": fm.get("podcast", "")[:100]}}]
-        },
-        "Host": {
-            "rich_text": [{"text": {"content": fm.get("host", "")[:200]}}]
-        },
-        "Status": {
-            "select": {"name": "Draft"}
-        },
-        "Date Created": {
-            "date": {"start": datetime.now().strftime("%Y-%m-%d")}
-        },
-    }
-
-    if fm.get("contact_email"):
-        properties["Contact Email"] = {"email": fm["contact_email"]}
-
-    subject_lines = pitch_data.get("subject_lines", [])
-    if subject_lines:
-        properties["Subject Line"] = {
-            "rich_text": [{"text": {"content": subject_lines[0][:200]}}]
-        }
-
-    # Pitch body as page content
-    children = []
-    pitch_email = pitch_data.get("pitch_email", "")
-    if pitch_email:
-        children.append({
-            "object": "block",
-            "type": "heading_2",
-            "heading_2": {
-                "rich_text": [{"type": "text", "text": {"content": "Pitch Email"}}]
-            }
-        })
-        # Split into paragraphs
-        for para in pitch_email.split("\n\n"):
-            if para.strip():
-                children.append({
-                    "object": "block",
-                    "type": "paragraph",
-                    "paragraph": {
-                        "rich_text": [{"type": "text", "text": {"content": para.strip()[:2000]}}]
-                    }
-                })
-
-    if subject_lines:
-        children.append({
-            "object": "block",
-            "type": "heading_2",
-            "heading_2": {
-                "rich_text": [{"type": "text", "text": {"content": "Subject Line Options"}}]
-            }
-        })
-        for sl in subject_lines:
-            children.append({
-                "object": "block",
-                "type": "bulleted_list_item",
-                "bulleted_list_item": {
-                    "rich_text": [{"type": "text", "text": {"content": sl[:200]}}]
-                }
-            })
-
-    # Hook / analysis summary
-    hook = pitch_data.get("hook", "")
-    if hook:
-        properties["Hook"] = {"rich_text": [{"text": {"content": hook[:2000]}}]}
-
-    body = {
-        "parent": {"database_id": PITCH_DB_ID},
-        "properties": properties,
-    }
-    if children:
-        body["children"] = children
-
-    resp = requests.post(
-        "https://api.notion.com/v1/pages",
-        headers=NOTION_HEADERS,
-        json=body,
-    )
-
-    if resp.status_code == 200:
-        return resp.json().get("id")
-    else:
-        print(f"  Warning: Failed to create pitch for '{fm.get('podcast', '')}': {resp.status_code} {resp.text[:200]}")
-        return None
 
 
 if __name__ == "__main__":

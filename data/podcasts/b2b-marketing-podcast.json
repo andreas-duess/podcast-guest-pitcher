@@ -43,5 +43,32 @@
   "discovered_date": "2026-03-02",
   "slug": "b2b-marketing-podcast",
   "relevance": "Medium",
-  "score_reason": "Covers B2B marketing campaigns and teams but recent episodes focus more on UK marketing awards than agency building or AI strategy."
+  "score_reason": "Covers B2B marketing campaigns and teams but recent episodes focus more on UK marketing awards than agency building or AI strategy.",
+  "enrichment": {
+    "key_themes": [
+      "AI integration and strategy in B2B marketing",
+      "Building competitive advantage through data and insights",
+      "Brand strategy, rebranding, and standing out in crowded markets",
+      "Campaign strategy and creative approaches to B2B marketing",
+      "Leadership journeys and CMO/marketing director perspectives"
+    ],
+    "notable_guests": [
+      "Dan Roche",
+      "John Cheney",
+      "Paul Collier",
+      "Chris Omotosho",
+      "Nick Watmough",
+      "Vanessa Schotes",
+      "Tom Setter",
+      "Sally Jacobs",
+      "Jake Bird",
+      "Ben Lee",
+      "Khalid Aziz",
+      "Sarah Roberts"
+    ],
+    "relevant_episode": "Episode 197: Want to integrate AI into your business strategy? We spoke to Jake Bird to find out how \u2014 directly addresses AI readiness and strategy integration, which aligns with Andreas' core teaching and speaking focus on practical AI adoption in traditional industries.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, commodity-based businesses) can actually compete using AI and data\u2014the podcast covers AI strategy in tech-forward companies but hasn't featured a guest who's built and scaled a business in highly traditional sectors while leveraging AI.",
+    "suggested_hook": "The guy who sold Canada's largest food marketing agency teaches B2B marketers how commodity boards beat tech companies at their own game: turning data into decisions faster."
+  },
+  "enriched": true
 }

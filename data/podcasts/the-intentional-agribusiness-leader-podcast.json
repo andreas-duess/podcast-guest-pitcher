@@ -47,5 +47,33 @@
   "discovered_date": "2026-03-02",
   "slug": "the-intentional-agribusiness-leader-podcast",
   "relevance": "High",
-  "score_reason": "Targets agribusiness leaders, aligns perfectly with Andreas's 6 Seeds work, AI in agriculture angle, and leadership expertise."
+  "score_reason": "Targets agribusiness leaders, aligns perfectly with Andreas's 6 Seeds work, AI in agriculture angle, and leadership expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Intentional leadership and organizational clarity",
+      "Innovation and technology adoption in traditional agriculture",
+      "Building and scaling agribusiness companies",
+      "Data-driven decision making vs. gut instinct",
+      "Leadership culture and team dynamics"
+    ],
+    "notable_guests": [
+      "Rich Reynertson",
+      "Corey Rosenbusch",
+      "Ed Howie",
+      "Landon Bunderson",
+      "Dean Harder",
+      "Jay Doan",
+      "Duane Simpson",
+      "Amanda De Jong",
+      "Julie Anna Potts",
+      "Michael Hill",
+      "Chris Abbott",
+      "Greg Mills",
+      "Sarah Tjoa"
+    ],
+    "relevant_episode": "Chris Abbott: Be Intentional or Be Left Behind \u2014 Abbott's focus on intentional leadership and customer-first innovation directly parallels Andreas's message about how traditional industries must actively choose to compete with AI, not resist it.",
+    "coverage_gap": "How AI and data infrastructure actually change decision-making culture inside traditional commodity boards and farm operations\u2014moving from gut instinct to evidence-based leadership (a gap this podcast hasn't explicitly covered).",
+    "suggested_hook": "You've had leaders building the future of agriculture\u2014now talk to someone who's actually convinced commodity boards to stop trusting their gut and start trusting their data, and how AI is the weapon that finally makes that shift stick."
+  },
+  "enriched": true
 }

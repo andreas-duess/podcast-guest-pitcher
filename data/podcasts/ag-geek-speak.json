@@ -44,5 +44,24 @@
   "discovered_date": "2026-03-02",
   "slug": "ag-geek-speak",
   "relevance": "Medium",
-  "score_reason": "Precision agriculture and technology podcast that could align with AI applications in agriculture, though more technical than strategic."
+  "score_reason": "Precision agriculture and technology podcast that could align with AI applications in agriculture, though more technical than strategic.",
+  "enrichment": {
+    "key_themes": [
+      "Precision agriculture technology and data interpretation",
+      "Soil science and variable-rate field management",
+      "Practical troubleshooting and real-world farm implementation",
+      "Agronomy-first decision making over tech-first approaches"
+    ],
+    "notable_guests": [
+      "Chris Sherman (Tech Support Farm)",
+      "Matt Krueger (autonomous tractors, corn maze)",
+      "Preston Sundeen (precision ag education)",
+      "Kyle Okke (Agile Agronomy)",
+      "Kelly Sharpe (surface shaping)"
+    ],
+    "relevant_episode": "18. Yes, He Mapped The Lawns Too Preston Sundeen Pt. 1 \u2014 Both Andreas and Preston bridge the gap between technical precision ag tools and practical, critical thinking; both emphasize how to teach farmers to ask better questions rather than just push buttons.",
+    "coverage_gap": "How AI and data analytics can help traditional commodity boards and growers make smarter field-level decisions (beyond soil sampling and NDVI); the business case for data-driven agriculture in conservative farming operations.",
+    "suggested_hook": "From commodity boards to AI: how traditional agriculture can stop guessing and start winning with data\u2014without the hype."
+  },
+  "enriched": true
 }

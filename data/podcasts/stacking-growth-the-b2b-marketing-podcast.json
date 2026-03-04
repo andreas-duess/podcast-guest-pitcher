@@ -44,5 +44,27 @@
   "discovered_date": "2026-03-02",
   "slug": "stacking-growth-the-b2b-marketing-podcast",
   "relevance": "High",
-  "score_reason": "Interviews marketers on strategies and tactics including AI adoption\u2014strong fit for Andreas's agency experience and AI marketing insights."
+  "score_reason": "Interviews marketers on strategies and tactics including AI adoption\u2014strong fit for Andreas's agency experience and AI marketing insights.",
+  "enrichment": {
+    "key_themes": [
+      "AI integration into marketing workflows and creative processes",
+      "Modern B2B go-to-market strategy and demand generation",
+      "Measurement, attribution, and proving marketing ROI",
+      "Agency evolution and positioning in the AI era",
+      "Brand strategy balanced with performance and data-driven decision making"
+    ],
+    "notable_guests": [
+      "Megan Bowen",
+      "Chris Ford",
+      "Erik Sena",
+      "Matt Sciannella",
+      "Sidney Waterfall",
+      "Liam Moroney",
+      "Dale Harrison"
+    ],
+    "relevant_episode": "Integrating AI into your workflow - without the hype!! \u2014 Andreas bridges the gap between hype-driven AI talk and practical B2B application, which directly mirrors this episode's focus on real, actionable AI use cases across tools and workflows.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, commodities) are actually competing using AI and data\u2014the episode library focuses heavily on B2B SaaS and marketing-specific AI, but lacks insight into how traditional commodity boards and agricultural businesses are being forced to think differently about intelligence and decision-making.",
+    "suggested_hook": "The guy who convinced agricultural commodity boards to trust data over gut instinct now teaches AI strategy at Ivey\u2014here's what B2B marketers are missing about how traditional industries are actually winning with AI."
+  },
+  "enriched": true
 }

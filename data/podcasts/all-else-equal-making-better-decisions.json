@@ -45,5 +45,26 @@
   "discovered_date": "2026-03-02",
   "slug": "all-else-equal-making-better-decisions",
   "relevance": "Medium",
-  "score_reason": "Finance professors interviewing business leaders about decision-making flaws could work for Andreas's data-driven insights and building/exiting an agency, though finance-heavy focus may not be ideal fit."
+  "score_reason": "Finance professors interviewing business leaders about decision-making flaws could work for Andreas's data-driven insights and building/exiting an agency, though finance-heavy focus may not be ideal fit.",
+  "enrichment": {
+    "key_themes": [
+      "How people's stated beliefs diverge from their actual behavior and decisions",
+      "Understanding systemic flaws in decision-making across industries and institutions",
+      "Data, evidence, and intelligence as competitive advantages in an increasingly complex economy",
+      "How traditional institutions and industries adapt to technological and economic change"
+    ],
+    "notable_guests": [
+      "Steven Pinker",
+      "Jeff Hawkins",
+      "Bryan Caplan",
+      "H.R. McMaster",
+      "Timur Kuran",
+      "Adi Sunderam",
+      "Nick Bloom"
+    ],
+    "relevant_episode": "Ep73 'The Dangers of Group Think on Decision Making' with Adi Sunderam \u2014 directly parallels Andreas's 'say-do gap' thesis and explores why organizations adopt beliefs over evidence, a core problem in traditional industries that fear AI.",
+    "coverage_gap": "How practitioners in non-tech industries can use AI and data to make better decisions without falling into the same groupthink and preference falsification traps the podcast regularly examines.",
+    "suggested_hook": "The companies that turn raw data into actual decisions will outcompete everyone else\u2014and that's happening fastest in the industries that were slowest to trust data in the first place."
+  },
+  "enriched": true
 }

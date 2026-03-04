@@ -43,5 +43,26 @@
   "discovered_date": "2026-03-02",
   "slug": "the-food-tech-podcast",
   "relevance": "Medium",
-  "score_reason": "Covers food and beverage processing automation and technology trends, somewhat aligned with Andreas's food industry and tech background but more operations-focused."
+  "score_reason": "Covers food and beverage processing automation and technology trends, somewhat aligned with Andreas's food industry and tech background but more operations-focused.",
+  "enrichment": {
+    "key_themes": [
+      "Digital transformation and automation in food/beverage production",
+      "Data quality and AI/analytics for operational optimization",
+      "Operational resilience, efficiency, and ROI measurement",
+      "Moving from theory to real-world production floor outcomes"
+    ],
+    "notable_guests": [
+      "Erik S\u00f8ndergaard",
+      "Lars Linnet",
+      "Gregors Geilager",
+      "Anna Olsson",
+      "Erik Vedfald",
+      "Michael Sievers",
+      "Jesper Kjeldal"
+    ],
+    "relevant_episode": "Episode 4: From gut feeling to guided zero-waste dairy production \u2014 Anna Olsson's episode on turning AI into real operational outcomes directly parallels Andreas's expertise in helping traditional industries move from intuition to data-driven decisions.",
+    "coverage_gap": "The human and organizational side of digital transformation\u2014how to convince skeptical commodity boards and production teams to actually adopt new technologies, and how to measure ROI beyond the spreadsheet.",
+    "suggested_hook": "Most AI in food processing fails not because the technology is bad, but because nobody convinced the people running the line to trust it\u2014here's how Andreas actually did it in agriculture and dairy."
+  },
+  "enriched": true
 }

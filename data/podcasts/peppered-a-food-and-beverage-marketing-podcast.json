@@ -43,5 +43,37 @@
   "discovered_date": "2026-03-02",
   "slug": "peppered-a-food-and-beverage-marketing-podcast",
   "relevance": "High",
-  "score_reason": "Direct food and beverage marketing focus with brand growth topics perfectly matches Andreas's agency background and expertise."
+  "score_reason": "Direct food and beverage marketing focus with brand growth topics perfectly matches Andreas's agency background and expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Brand building and scaling in food/beverage",
+      "Consumer insights and market research",
+      "Innovation and product launches",
+      "Marketing strategy and creative execution",
+      "Emerging trends and category growth"
+    ],
+    "notable_guests": [
+      "Jamie Allebach",
+      "Tara-Ann Dugan",
+      "Krishna Kaliannan",
+      "Loren Brill",
+      "Dan Follese",
+      "Nate Bachynski",
+      "Jeff Metzger",
+      "Jim Low",
+      "Patrick Wells",
+      "Chris Kirby",
+      "Joe Sideranko",
+      "David Walsh",
+      "Shelley Balanko",
+      "Mark Chudnoff",
+      "Nick Fuglestad",
+      "Bob Burke",
+      "Jeff Martin"
+    ],
+    "relevant_episode": "#2 How To Overcome The Biggest Challenges Facing CPG Food Brands Today with Jeff Martin \u2014 Andreas built a 16-year CPG success story and can speak directly to the scale, distribution, and competitive challenges this show's audience faces daily.",
+    "coverage_gap": "How AI and data actually transform decision-making in traditional food/agriculture industries\u2014the show covers research, trends, and insights but hasn't addressed how emerging technology reshapes strategy at the board and operational level.",
+    "suggested_hook": "From commodity boards to AI: how the food industry's most traditional players are using data to compete like tech companies (and why the ones ignoring it will lose)."
+  },
+  "enriched": true
 }

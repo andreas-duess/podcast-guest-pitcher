@@ -45,5 +45,29 @@
   "discovered_date": "2026-03-02",
   "slug": "the-intelligent-marketer",
   "relevance": "High",
-  "score_reason": "Directly addresses AI's intersection with marketing and commerce, targets marketers, and features expert guests discussing practical applications."
+  "score_reason": "Directly addresses AI's intersection with marketing and commerce, targets marketers, and features expert guests discussing practical applications.",
+  "enrichment": {
+    "key_themes": [
+      "AI agents and agentic commerce transforming customer experience",
+      "The intersection of AI tools and practical business execution",
+      "How traditional performance marketing is evolving in the AI era",
+      "Building trust and measurement frameworks around AI-driven decisions"
+    ],
+    "notable_guests": [
+      "Sean Frank (Ridge)",
+      "Eli Schwartz (Product-Led SEO)",
+      "Rubail Birwadker (Visa)",
+      "Pranav Piyush (Paramark)",
+      "Tim Doyle (Eucalyptus)",
+      "Julie Bornstein (Daydream)",
+      "Adam Turner (Postscript)",
+      "Bryan Cano (True Classic)",
+      "Dmitry Shevelenko (Perplexity)",
+      "Eric Seufert (Mobile Dev Memo)"
+    ],
+    "relevant_episode": "Product-Led SEO Still Works For AI Search, with Eli Schwartz \u2014 Both Andreas and Eli challenge hype-driven narratives (AEO vs. SEO parallels AI skepticism) and emphasize that fundamentals (product, reputation, data) outcompete shortcuts in traditional industries.",
+    "coverage_gap": "How traditional, non-tech industries (agriculture, food, manufacturing, commodity boards) are actually adopting AI at scale\u2014not in theory, but in practice with real ROI and resistance.",
+    "suggested_hook": "While most AI marketing experts talk to other technologists, Andreas built and sold Canada's largest food agency by convincing commodity boards that data beats gut instinct\u2014here's how traditional industries are winning with AI when they stop being afraid of it."
+  },
+  "enriched": true
 }

@@ -43,5 +43,18 @@
   "discovered_date": "2026-03-02",
   "slug": "future-food-tech-rethink-agri-food-podcast-series",
   "relevance": "High",
-  "score_reason": "Leading agri-food innovation summit podcast covering R&D and next-gen products, ideal audience of industry decision-makers for Andreas's expertise."
+  "score_reason": "Leading agri-food innovation summit podcast covering R&D and next-gen products, ideal audience of industry decision-makers for Andreas's expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Innovation and R&D in agri-food",
+      "Product development and commercialization",
+      "Organizational culture and team enablement",
+      "Technology adoption in traditional agriculture"
+    ],
+    "notable_guests": [],
+    "relevant_episode": "From The Top Down: Inspiring R&D Teams to Create Next-Gen Products \u2014 Andreas's experience building and scaling a food agency while teaching innovation strategy directly addresses how to create cultures where teams embrace new thinking and technology.",
+    "coverage_gap": "The practical use of AI and data-driven decision-making in agriculture and food production \u2014 the podcast covers innovation broadly but hasn't explored how AI specifically transforms commodity boards and traditional agri-food companies from decision-making to R&D.",
+    "suggested_hook": "How the food and agriculture industry's biggest innovation blocker isn't technology\u2014it's the say-do gap between what farmers and commodity boards say they want and what actually drives their decisions, and how AI finally closes it."
+  },
+  "enriched": true
 }

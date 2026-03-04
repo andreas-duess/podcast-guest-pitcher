@@ -43,5 +43,31 @@
   "discovered_date": "2026-03-02",
   "slug": "healthy-competition-product-marketing-competitive-intelligence-strategy",
   "relevance": "Medium",
-  "score_reason": "Covers product marketing and strategy for B2B tech with guest interviews, though focus on competitive intelligence may not perfectly align with Andreas's AI/traditional industry angle."
+  "score_reason": "Covers product marketing and strategy for B2B tech with guest interviews, though focus on competitive intelligence may not perfectly align with Andreas's AI/traditional industry angle.",
+  "enrichment": {
+    "key_themes": [
+      "Competitive positioning and differentiation in B2B tech",
+      "AI as a tool for competitive advantage and GTM strategy",
+      "Building and scaling companies (startups to exits)",
+      "Customer intelligence and evidence-based decision making",
+      "Career development and leadership in product marketing"
+    ],
+    "notable_guests": [
+      "April Dunford",
+      "Emir Atli",
+      "Jess Petrella",
+      "Jason Oakley",
+      "Tamara Grominsky",
+      "Brooklin Nash",
+      "Evan Huck",
+      "Jessica Davis",
+      "Mayur Palta",
+      "Anand Sanwal",
+      "Bobby Pinero"
+    ],
+    "relevant_episode": "Getting Ahead as a Product Marketer With AI w/ Jess Petrella \u2014 Andreas's practical AI applications for traditional industries directly complement the show's focus on using AI as a competitive advantage, but from a non-tech founder's perspective.",
+    "coverage_gap": "How traditional, non-tech industries (food, agriculture, manufacturing) can use competitive intelligence and AI to outcompete tech-native competitors \u2014 the show focuses exclusively on B2B SaaS and tech companies.",
+    "suggested_hook": "The guy who built Canada's largest food marketing agency just taught agricultural commodity boards to out-compete Silicon Valley with AI\u2014here's what traditional industries know about winning that B2B tech companies are missing."
+  },
+  "enriched": true
 }

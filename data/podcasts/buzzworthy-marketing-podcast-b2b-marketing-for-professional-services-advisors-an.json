@@ -45,5 +45,21 @@
   "discovered_date": "2026-03-02",
   "slug": "buzzworthy-marketing-podcast-b2b-marketing-for-professional-services-advisors-an",
   "relevance": "Medium",
-  "score_reason": "Targets professional services with B2B marketing systems but focuses more on foundational marketing than AI strategy or agency scaling."
+  "score_reason": "Targets professional services with B2B marketing systems but focuses more on foundational marketing than AI strategy or agency scaling.",
+  "enrichment": {
+    "key_themes": [
+      "Building scalable systems and operations for B2B service businesses",
+      "Converting strategy into measurable revenue and predictable outcomes",
+      "Breaking free from founder dependency and customization traps",
+      "AI and future-proofing marketing strategy",
+      "Identity, messaging, and market positioning clarity"
+    ],
+    "notable_guests": [
+      "Mike Michalowicz"
+    ],
+    "relevant_episode": "How to Stay Visible in an AI-Driven Search World \u2014 Andreas teaches traditional industries how to actually use AI to compete, directly addressing Buzz's AEO framework for visibility in an AI-transformed landscape.",
+    "coverage_gap": "How traditional industries and commodity-based businesses (food, agriculture, manufacturing) can apply modern marketing and AI strategies\u2014the podcast focuses heavily on service-based B2B but hasn't covered hard goods, commodities, or agricultural sectors.",
+    "suggested_hook": "From Ogilvy to agricultural boards: How to convince traditional industries that data beats gut instinct\u2014and why the companies that shape data into decisions will outcompete everyone else."
+  },
+  "enriched": true
 }

@@ -47,5 +47,21 @@
   "discovered_date": "2026-03-02",
   "slug": "nonstop-nuts-der-supernutural-podcast-\u00fcber-unternehmertum-innovation-und-food-te",
   "relevance": "Medium",
-  "score_reason": "German-language podcast about entrepreneurship and food tech that could fit Andreas's food marketing and entrepreneurship story, but language barrier may be an issue."
+  "score_reason": "German-language podcast about entrepreneurship and food tech that could fit Andreas's food marketing and entrepreneurship story, but language barrier may be an issue.",
+  "enrichment": {
+    "key_themes": [
+      "Product innovation and development in food tech",
+      "Scaling and internationalization of startups",
+      "Financing, funding, and business sustainability",
+      "Building brands and reaching new customer segments",
+      "Behind-the-scenes founder journey and entrepreneurial challenges"
+    ],
+    "notable_guests": [
+      "Bj\u00f6rn Dunkerbeck (Windsurf Champion)"
+    ],
+    "relevant_episode": "Nr. 6 - Internationalisierung und Expansion von supernutural \u2014 Andreas's 30-year track record scaling agencies and agricultural companies across markets directly mirrors supernutural's global expansion challenges and strategy.",
+    "coverage_gap": "Data-driven decision making and AI/intelligence in food and agriculture marketing \u2014 the podcast focuses on product, financing, and scaling, but hasn't explored how founders can use data and AI to understand consumer behavior and compete smarter.",
+    "suggested_hook": "From building Canada's largest food agency to teaching AI strategy: How traditional food companies stop guessing and start using data to outcompete the giants."
+  },
+  "enriched": true
 }

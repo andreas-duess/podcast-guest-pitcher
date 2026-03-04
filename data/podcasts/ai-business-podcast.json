@@ -43,5 +43,24 @@
   "discovered_date": "2026-03-02",
   "slug": "ai-business-podcast",
   "relevance": "High",
-  "score_reason": "Features enterprise AI applications with seasoned journalists interviewing industry leaders\u2014perfect fit for Andreas's practical AI-in-traditional-industries expertise."
+  "score_reason": "Features enterprise AI applications with seasoned journalists interviewing industry leaders\u2014perfect fit for Andreas's practical AI-in-traditional-industries expertise.",
+  "enrichment": {
+    "key_themes": [
+      "Enterprise AI deployment and implementation strategy",
+      "Generative AI applications across industries and functions",
+      "Organizational readiness, governance, and cultural transformation for AI",
+      "AI's role in specific domains (CX, healthcare, networking, sustainability)"
+    ],
+    "notable_guests": [
+      "Beena Ammanath (Deloitte AI Institute)",
+      "Seth Dobrin (Qantm AI, former IBM Chief AI Officer)",
+      "Rahul Auradkar (Salesforce)",
+      "Peter Weckesser (Schneider Electric CDO)",
+      "Philippe Rambach (Schneider Electric CAIO)"
+    ],
+    "relevant_episode": "Deloitte AI Institute Head: 5 Steps to Prepare Enterprises for an AI Future \u2014 This episode focuses on organizational readiness and leadership preparation for AI, which aligns with Andreas's emphasis on helping traditional industries overcome fear and build AI strategy.",
+    "coverage_gap": "How traditional/commodity industries (agriculture, food, manufacturing) are actually adopting and competing with AI in practice \u2014 the podcast has featured enterprise tech companies and CTOs, but no voices from truly traditional, non-tech sectors learning to use AI.",
+    "suggested_hook": "While tech giants talk about AI strategy, here's how commodity boards and 100-year-old food companies are actually winning with it \u2014 a practitioner's view from someone who built and sold in the world's most traditional industries."
+  },
+  "enriched": true
 }

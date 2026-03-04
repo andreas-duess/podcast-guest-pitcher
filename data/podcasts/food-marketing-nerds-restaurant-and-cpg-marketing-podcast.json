@@ -45,5 +45,35 @@
   "discovered_date": "2026-03-02",
   "slug": "food-marketing-nerds-restaurant-and-cpg-marketing-podcast",
   "relevance": "High",
-  "score_reason": "Perfect alignment with Andreas's food marketing agency background, CPG expertise, and audience of food/beverage marketers."
+  "score_reason": "Perfect alignment with Andreas's food marketing agency background, CPG expertise, and audience of food/beverage marketers.",
+  "enrichment": {
+    "key_themes": [
+      "Building and scaling CPG brands from startup to market leader",
+      "Data-driven decision making and consumer insights over gut instinct",
+      "Performance marketing, branding strategy, and go-to-market execution",
+      "Direct-to-consumer and retail expansion strategies",
+      "Leadership, culture, and organizational transformation"
+    ],
+    "notable_guests": [
+      "David Czinn",
+      "Chas Littlefield",
+      "Michael Keplinger",
+      "Fred Hart",
+      "Hayley Raymond",
+      "Michael Sloan",
+      "Luke Lahman",
+      "Margaret Fortner",
+      "David Klavsons",
+      "Yoon-Ji Nam",
+      "Jeremy Gregory",
+      "Rifle Hughes",
+      "Jim Lamancusa",
+      "Michael Silverman",
+      "Kristen Majdanics"
+    ],
+    "relevant_episode": "Why You Need to Rethink Your Growth Strategy with Michael Silverman of SBG \u2014 Both Andreas and Silverman help traditional/scaling brands navigate growth strategy and operational maturity, bridging the gap between scrappy startup thinking and professional scaling.",
+    "coverage_gap": "How artificial intelligence and data analytics can actually be implemented by mid-market food and beverage brands to compete with larger players\u2014most episodes focus on brand strategy and marketing tactics, but none dive into AI-powered decision-making for the CPG space.",
+    "suggested_hook": "From Ogilvy to selling Canada's largest food agency: How traditional food brands are using AI to finally beat gut instinct\u2014and why most CPG companies are still leaving competitive advantages on the table."
+  },
+  "enriched": true
 }

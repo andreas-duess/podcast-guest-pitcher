@@ -44,5 +44,35 @@
   "discovered_date": "2026-03-02",
   "slug": "91-day-ai-transformation-podcast",
   "relevance": "High",
-  "score_reason": "Business AI transformation with actionable strategies perfectly matches Andreas's practitioner approach to AI in traditional industries."
+  "score_reason": "Business AI transformation with actionable strategies perfectly matches Andreas's practitioner approach to AI in traditional industries.",
+  "enrichment": {
+    "key_themes": [
+      "AI implementation in business without hype or theory",
+      "Leadership and organizational change management around AI adoption",
+      "Building, scaling, and selling businesses in the modern economy",
+      "Practical AI tools and strategies for immediate business results",
+      "Authenticity, human connection, and trust in business"
+    ],
+    "notable_guests": [
+      "Shannon Cascio",
+      "Jason (GHL Plugins)",
+      "Jay Vics",
+      "Aleric Heck",
+      "Corey Quinn",
+      "Mariana Henninger",
+      "Colin Scotland",
+      "Sherry Bronson",
+      "Kanji Low",
+      "Travis Mong",
+      "Josh Nelson",
+      "Dominic Rubino",
+      "Allan Dubon",
+      "Tim Roper",
+      "Bryan Driscoll"
+    ],
+    "relevant_episode": "Can You Fire Your Marketing Agency? \u2014 This episode explores how AI is disrupting traditional marketing and agency models, directly aligning with Andreas's expertise in building and scaling an agency before an exit and his current work in AI-powered marketing solutions.",
+    "coverage_gap": "How traditional, non-tech industries (particularly commodity-based sectors like agriculture and food) can leverage AI without being early adopters or tech pioneers\u2014the pragmatic playbook for converting skeptical, data-resistant boards and executives.",
+    "suggested_hook": "The guy who built Canada's largest food agency and sold it now teaches boards to stop trusting their gut and start using AI\u2014here's what actually works when you're selling data to people who've never needed it before."
+  },
+  "enriched": true
 }

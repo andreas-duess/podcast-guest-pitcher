@@ -45,5 +45,25 @@
   "discovered_date": "2026-03-02",
   "slug": "startup-to-scale",
   "relevance": "High",
-  "score_reason": "Known target from guest profile"
+  "score_reason": "Known target from guest profile",
+  "enrichment": {
+    "key_themes": [
+      "Scaling CPG brands from startup to retail success",
+      "Data-driven decision making and consumer insights over gut instinct",
+      "Packaging, branding, and positioning in crowded categories",
+      "Founder mindset, operational systems, and business fundamentals",
+      "Supply chain, logistics, and the hidden costs of growth"
+    ],
+    "notable_guests": [
+      "Michael Keplinger (SmashBrand)",
+      "Tia Ellis (Wildflower Insight)",
+      "Helen Murphy (Opply)",
+      "Brad Ebenhoeh (BELAY)",
+      "Christy Lebor (SmashBrand)"
+    ],
+    "relevant_episode": "245. How to Use Consumer Testing to Build High-Performing Packaging with Michael Keplinger of SmashBrand \u2014 Both Andreas and Michael focus on replacing gut instinct with data-driven consumer insights, and Andreas's \"say-do gap\" concept directly applies to why packaging testing works.",
+    "coverage_gap": "How AI and synthetic research are changing the way CPG founders understand consumer behavior and make faster, smarter decisions without the cost of traditional market research.",
+    "suggested_hook": "From Ogilvy to Canada's largest food agency to AI research: How traditional food brands can use AI to finally see what consumers actually do\u2014not what they say."
+  },
+  "enriched": true
 }

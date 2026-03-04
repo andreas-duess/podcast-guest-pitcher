@@ -46,5 +46,28 @@
   "discovered_date": "2026-03-02",
   "slug": "breaking-b2b-saas-marketing-and-b2b-marketing-podcast",
   "relevance": "Medium",
-  "score_reason": "Tactical B2B/SaaS marketing strategies but skews toward growth hacks and cold email rather than strategic AI adoption or agency leadership."
+  "score_reason": "Tactical B2B/SaaS marketing strategies but skews toward growth hacks and cold email rather than strategic AI adoption or agency leadership.",
+  "enrichment": {
+    "key_themes": [
+      "SEO and organic growth as a sustainable B2B/SaaS acquisition channel",
+      "Data-driven decision making and customer research informing strategy",
+      "Go-to-market strategy and pipeline generation",
+      "AI search (AEO) and how to rank in AI-powered platforms",
+      "Tactical, no-fluff marketing strategies with measurable ROI"
+    ],
+    "notable_guests": [
+      "Adam Robinson (RB2B)",
+      "Kyle Racki (Proposify)",
+      "George Terry (winbox)",
+      "Luke Davies (MarqVision)",
+      "Michael Kilcullen",
+      "Olena Bomko",
+      "Frank Sondors",
+      "Samu Kovacs"
+    ],
+    "relevant_episode": "#469 I Interviewed 466 B2B Marketers, Here's What Works in 2026 \u2014 Sam discusses separating fact from fiction in driving pipeline and conducting high-value customer research, which directly mirrors Andreas's expertise in the say-do gap and data-driven insights.",
+    "coverage_gap": "How traditional/non-tech industries (food, agriculture, manufacturing) use AI and data to compete with tech-native companies\u2014the podcast focuses almost entirely on SaaS and tech B2B.",
+    "suggested_hook": "He built Canada's largest food agency by treating commodity boards like data scientists\u2014here's how traditional industries can stop losing to tech companies and actually use AI to compete."
+  },
+  "enriched": true
 }

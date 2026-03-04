@@ -44,5 +44,27 @@
   "discovered_date": "2026-03-02",
   "slug": "digital-transformation-leadership-with-danny-levy",
   "relevance": "High",
-  "score_reason": "Interviews business leaders on digital transformation, AI, and leadership\u2014perfect alignment with Andreas's teaching and traditional industry AI adoption work."
+  "score_reason": "Interviews business leaders on digital transformation, AI, and leadership\u2014perfect alignment with Andreas's teaching and traditional industry AI adoption work.",
+  "enrichment": {
+    "key_themes": [
+      "AI adoption and strategy in traditional/enterprise industries",
+      "Digital transformation and technology implementation",
+      "Leadership and organizational change management",
+      "Data-driven decision making and analytics",
+      "Fintech, payments, and financial services innovation"
+    ],
+    "notable_guests": [
+      "Jen Taylor (Mixpanel CEO)",
+      "Rafael Frankel (Meta)",
+      "Philip Davies (Siegel+Gale)",
+      "Nuno Sebastiao (Feedzai CEO)",
+      "Rohan Dhanuka (Google)",
+      "Tessa Wijaya (Xendit COO)",
+      "Garik Tate (AI Futurist)"
+    ],
+    "relevant_episode": "THE SHIFT \u2014 Why Analytics Will Define the Next Decade: Jen Taylor on Leading Mixpanel \u2014 Andreas's focus on data-driven insights and the say-do gap directly aligns with this episode's theme of analytics shaping the future of business decisions.",
+    "coverage_gap": "How traditional industries outside fintech (agriculture, food, manufacturing, commodity boards) are actually adopting AI and competing\u2014most episodes focus on fintech/payments or tech-first companies.",
+    "suggested_hook": "Why agricultural commodity boards are beating tech startups at AI adoption\u2014and what your industry is missing by not thinking like a farmer."
+  },
+  "enriched": true
 }

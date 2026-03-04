@@ -45,5 +45,36 @@
   "discovered_date": "2026-03-02",
   "slug": "the-ai-in-business-podcast",
   "relevance": "High",
-  "score_reason": "AI strategy for business leaders at Fortune 2000 firms with 1000 episodes, perfectly aligned with Andreas's AI expertise for traditional industries."
+  "score_reason": "AI strategy for business leaders at Fortune 2000 firms with 1000 episodes, perfectly aligned with Andreas's AI expertise for traditional industries.",
+  "enrichment": {
+    "key_themes": [
+      "Moving AI from pilots to real-world enterprise adoption and scaling",
+      "Bridging the gap between business strategy and technical execution in traditional/regulated industries",
+      "Data foundations, governance, and risk management as prerequisites for AI ROI",
+      "Human-centered AI design and overcoming organizational skepticism"
+    ],
+    "notable_guests": [
+      "Philip Poulidis",
+      "Raghu Ahobilam",
+      "Dean Alms",
+      "Joe Atamian",
+      "Hemant Banavar",
+      "Umesh Rustogi",
+      "Nishtha Jain",
+      "Stephen Wolfram",
+      "Naveen Kumar",
+      "Gillian Hinkle",
+      "David Carmona",
+      "Ylan Kazi",
+      "Daniel Lidar",
+      "Nina Edwards",
+      "Thomas Holmes",
+      "Emma Vitalini",
+      "Vasili Triant"
+    ],
+    "relevant_episode": "Enterprise AI Adoption at a Moment of Maximum Skepticism \u2014 with Nishtha Jain \u2014 because Andreas shares Nishtha's focus on why enterprise AI pilots fail to scale and the need for realistic use cases and human-centered design, but brings the rare perspective of someone who actually built and sold a business in a traditional industry.",
+    "coverage_gap": "How traditional commodity and agricultural industries specifically use AI to compete \u2014 the podcast has covered pharma, banking, insurance, and manufacturing, but hasn't explored food systems, agriculture, or commodity boards adopting AI despite being among the most data-resistant sectors.",
+    "suggested_hook": "The guy who convinced agricultural commodity boards that data beats gut instinct now teaches AI strategy to MBAs\u2014here's what he learned building and selling Canada's largest food agency in the age of AI."
+  },
+  "enriched": true
 }

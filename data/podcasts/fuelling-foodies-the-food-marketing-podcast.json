@@ -48,5 +48,27 @@
   "discovered_date": "2026-03-02",
   "slug": "fuelling-foodies-the-food-marketing-podcast",
   "relevance": "High",
-  "score_reason": "Targets food brand founders and marketers, aligns directly with Andreas's Nourish Food Marketing experience and strategic insights."
+  "score_reason": "Targets food brand founders and marketers, aligns directly with Andreas's Nourish Food Marketing experience and strategic insights.",
+  "enrichment": {
+    "key_themes": [
+      "Scaling food & drink brands with limited budgets and resources",
+      "Owned audience channels (email, community) vs. paid/rented channels",
+      "Real founder stories: wins, failures, and honest lessons learned",
+      "Data-driven marketing strategies that actually convert (not vanity metrics)",
+      "Category innovation and repositioning in competitive food markets"
+    ],
+    "notable_guests": [
+      "Paul Brown (BOL Foods)",
+      "Will Little (Little's Coffee)",
+      "Cathy Moseley (Boundless Activated Snacks)",
+      "Hannah Wilding (Bold Bean Co)",
+      "Ben Stansfield (The Cornish Cheese Co)",
+      "Fiona & Alex (Vino Zero)",
+      "Louise (Popcorn Kitchen)"
+    ],
+    "relevant_episode": "Why Most Food Brands Get Marketing Wrong (And How to Fix It)! \u2014 Andreas's practitioner approach to cutting through marketing myths and exposing what actually drives growth aligns perfectly with this debut episode's mission to flip the script on food marketing conventional wisdom.",
+    "coverage_gap": "How AI and data analytics are reshaping food brand decision-making and competitive advantage\u2014the podcast has focused heavily on marketing tactics and channel strategy but hasn't explored how founders can use AI and synthetic research to understand consumer behavior beyond what they say they do (the 'say-do gap').",
+    "suggested_hook": "From food agency founder to AI strategist: How traditional food brands can stop guessing and start using AI to actually understand what their customers will buy (not what they claim they will)."
+  },
+  "enriched": true
 }
